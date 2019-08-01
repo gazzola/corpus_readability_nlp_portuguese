@@ -1,0 +1,17 @@
+Análise real/Conjunto
+Definição de Conjunto
+O Conjunto formula_11
+O Conjunto formula_12
+O Conjunto formula_13
+formula_14
+O Conjunto dos reais formula_15 são todos os números racionais e os irracionais.
+O Conjunto formula_19
+formula_20
+Um conjunto que não têm elementos é chamado de conjunto nulo e representado pelo símbolo formula_23. Mas é mais conhecido como conjunto vazio. Podemos dizer que é um conjunto que não possui elemento. Na prática é um conjunto definidos por propriedades, mas que elemento nenhum satisfaz as propriedades desse conjunto.
+Um Conjunto ordenado é um grupo de objetos com um sentido definido de quem é maior. Para dar uma definição abstrata de ordem, iremos dar alguns exemplos de conjuntos ordenados e explorar algumas relações básicas. Nosso primeiro e mais importante conjunto é o conjunto dos números naturais.
+O conjunto dos "números naturais" formula_33 (Alguns autores tomam formula_34 — quando nós desejarmos nos referir a esse conjunto, usaremos formula_35). O conjunto dos números naturais são todos os números que usamos para contar. Este conjunto é definido por propriedades. A primeira propriedade do conjunto dos números naturais formula_36 é que têm uma relação de equivalência formula_37 satisfazendo as relações de equivalência seguintes:
+Estes termos afirmativos matemáticos podem ser escritos de uma maneira menos rigorosa.
+Associados com essas relações de equivalência está uma ordem significando que os axiomas adicionais são satisfeitos:
+Tricotomia significa que qualquer dois números naturais tomados, ou eles são iguais ou um deles é maior que o outro. Transitividade diz que, se existe um terceiro número que é maior que o maior de dois primeiros, então ele é maior que o menor deles. Com isto nós temos uma definição concisa de que temos uma ordem para nossos números. Finalmente os números naturais formula_36 têm uma operação de associatividade chamada adição. O conjunto formula_36 e as operações de adição formula_64 satisfazem o seguinte axioma:
+Significa que se adicionarmos dois naturais o resultado é um natural. A ordem na qual adicionamos não é importante e se eu adicionar dois naturais a soma é tão grande se somar de outro modo.
+

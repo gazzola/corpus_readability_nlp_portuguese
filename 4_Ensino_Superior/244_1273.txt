@@ -1,0 +1,60 @@
+Logística/Gestão de desperdícios e rejeitados
+
+
+Logística/Localização/Localização em redes/Localização em redes cíclicas/Localização central
+Quando o nó mais distante do nó formula_1 está tão perto quanto possível é chamado de centro.
+Um nó formula_1 central é uma localização com o menor valor possível de formula_3, onde (Francis, 1992, p. 431-440):
+formula_4
+sendo que
+formula_5
+A matriz das distâncias mais curtas entre todos os pares de nós da Figura 9.12.2.3.1 é:
+Figura 9.12.2.3.1 Exemplo de rede cíclica
+formula_6
+Então,
+formula_7
+formula_8
+formula_9
+formula_10
+onde
+formula_11, então o nó 1 e o nó 4 são nós centrais da rede representada na Figura 9.12.2.3.1.
+Qualquer nó formula_1 com o menor valor possível de formula_13 é um centro geral tal que:
+formula_14
+onde
+formula_15
+Para determinar o centro geral da Figura 9.12.2.2.1 utiliza-se a matriz formula_16
+formula_17
+Portamto,
+formula_18
+formula_19
+formula_20
+formula_21
+Então,
+formula_22
+Sendo assim, pode-se dizer que o nó 1 é um centro geral da rede.
+O caminho mais curto do ponto formula_23 do arco formula_24 ao nó formula_25 é representado por formula_26.
+Quando o arco formula_24 não tem direcção formula_26 é dado por:
+formula_29
+Se formula_24 é um arco direccionado então:
+formula_31
+Um ponto qualquer cujo nó mais distante está o mais próximo possível é um centro absoluto, ou seja, o centro absoluto é o ponto formula_32 tal que:
+formula_33, com formula_34
+onde
+formula_35
+Qualquer ponto formula_1 onde o ponto mais afastado está o mais próximo possível é um centro absoluto geral.
+Um centro absoluto geral é um ponto formula_37 onde:
+formula_38 com formula_39
+onde
+formula_40
+Existe a possibilidade de haver mais de um centro absoluto geral, sendo que estes centros absolutos gerias devem ser nós ou pontos interiores de arcos sem direcção ou com dois sentidos, assim sendo, não é necessário considerar pontos interiores de arcos com direcção ou sentido único quando se pretende encontrar o centro absoluto geral.
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Armazenagem de unidades de carga/Equipamento para armazenagem de unidades de carga
+Os equipamentos para armazenagem ou descarregamento de unidades carga distinguem-se uns dos outros pelo seu preço, grau de automatização, alcance vertical e pela largura de corredor necessária. Os equipamentos com preços mais elevados são lógicamente aqueles que dispõem de maior alcance vertical, que operam em corredores mais estreitos e que oferecem um grau superior de automatização. Esta diferença de preços justifica-se devido à poupança feita em termos de espaço e de mão de obra. Na tabela 2 iremos analisar os vários equipamentos e comparar as suas características (Tompkins et al., 2003, p. 256).
+
+
+Logística/Gestão de armazéns/Distâncias percorridas/Profundidade da armazenagem
+Com base na análise das figuras da referência em que se baseou este texto podemos constatar que a popularidade de artigos, pode influenciar a sua armazenagem nas respectivas áreas. As distâncias que um operador para trabalhar tem que percorrer são determinadas desde o centro de armazenagem até a um ponto de referência, geralmente colocado à entrada do corredor. Através de simulações com diferentes níveis de profundidade (1,2,3 e 4 unidades) pôde-se concluir que a distância mais pequena a percorrer seria a do corredor com três unidades de profundidade, seguida do de quatro unidades, duas unidades e uma unidade 
+Tomando como exemplo uma fila com doze unidades e o ponto de referência à entrada do corredor, configurou-se a seguinte tabela ilustrativa para distâncias de quatro de profundidade por três de comprimento:
+Considerando o ponto de referência imediatamente à direita de A6 pode-se estimar os seguintes valores. Valores que são apresentados na seguinte tabela de profundidade de armazenagem:
+Analisando as distâncias para A1, A6, B1 e B6 constatou-se que:
+

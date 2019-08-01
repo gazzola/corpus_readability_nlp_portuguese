@@ -1,0 +1,12 @@
+ Uma vez que tomamos este número, façamos a sequência formula_1 evoluir a números maiores e observamos que estes se aproximam de um valor formula_39, quanto mais alto seja formula_37 mais proximo de formula_39 a sequência formula_1 se estabelece:
+formula_43 sempre que formula_44
+Desta forma, os valores tomados para a sequência são inteiros e o número formula_39 tem a única obrigação de estar definido para um valor formula_37. Portanto, podemos arbitrar valores cada vez maiores para formula_39 dentro do limite estabelecido. Neste intervalo, qualquer valor de formula_37 inteiro leva a valores que se aproximam de formula_39 por parte de formula_1. O fato de ser possível encontrar este limite nos reporta a informação de convergência, ou seja dizemos que uma sequência converge quando é possível encontar um limite no infinito, caso contrário dizemos que a sequência diverge. Portanto, podemos classificar as sequências como convergentes ou divergentes de acordo com a existência do limite no infinito ou sua inexistência. Definição: Dada uma seqüência formula_51, dizemos que o número formula_52 é o limite de formula_51 para formula_54 se, formula_55 > 0, formula_56 tal que formula_57 < formula_58. Definição: Se a seqüência formula_51 tem limite L, dizemos que ela é convergente e que converge a L. Caso contrário, dizemos que ela diverge. Encontremos o limite quanto formula_24 tende a infinito, para a sequênca do exemplo acima:
+formula_61:
+formula_62
+formula_63
+Desta forma o resultado acima nos fornece a certeza de que podemos arbitrar valores para a variável de forma a conseguir a precisão que queiramos para a sequência e que sempre teremos valores mais próximos deste limite a medida que o valor da variável aumenta. Sejam formula_64 duas seqüências convergentes, isto é, formula_65 e formula_66. Então:
+Definição: Dada uma seqüência formula_17, as restrições de formula_72 a subconjuntos de formula_73 serão denominadas subseqüências de formula_72. Teorema: Se formula_75, então toda subseqüência de formula_76 converge para o mesmo limite L.
+Teorema: Dada a seqüência formula_76, se as subseqüências de ordem par e as subseqüências de ordem ímpar convergem para o mesmo valor L, então formula_76 converge também para L.
+Definição: Dada uma seqüência formula_79, temos que:
+Observações:
+Teorema: Toda seqüência monótona e limitada é convergente. Definição: Seja formula_76 uma seqüência monótona:

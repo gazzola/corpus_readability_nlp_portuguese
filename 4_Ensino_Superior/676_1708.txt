@@ -1,0 +1,22 @@
+ Mecânica dos fluidos/Cálculo da perda de carga em tubulações
+As perdas em tubulações podem ser divididas em dois grupos: as perdas que ocorrem nos trechos lineares, ou perdas distribuídas, e as perdas localizadas em elementos individuais, também chamadas perdas singulares. As perdas do primeiro grupo constituem a maior parte do total, pois normalmente as tubulações de interesse possuem grande extensão, e por isso são também chamadas perdas principais (ing. "major losses"); as demais são, por sua vez, chamadas perdas secundárias (ing. "minor losses"). Nesses trechos, a seção do duto é constante. Se queremos saber a perda devido ao duto, é preciso desconsiderar o fator correspondente à mudança de altura. Assim, a perda deve ser calculada como
+formula_1
+No caso de fluxo laminar (ver exercício), temos
+formula_2
+Assim
+formula_3
+O valor negativo reflete que a energia total diminuiu (a pressão caiu). Como H é uma perda de carga, é comum desprezar-se o sinal e falar da ocorrência de uma perda de carga positiva nas tubulações. Agrupando termos,
+formula_4
+No caso de fluxo turbulento, não é possível determinar analiticamente a expressão para a variação de pressão; é preciso recorrer à experiência. Em um exercício, determinaram-se os grupos adimensionais relevantes nesse caso
+formula_5
+Podemos, então, escrever
+formula_6
+Mas 
+formula_7
+Além disso, experimentalmente se verifica que a perda de carga ΔH é proporcional ao comprimento do tubo, se D for mantido constante. Assim, podemos escrever
+formula_8
+Essa equação é conhecida como equação de Darcy-Weisbach. N é chamado fator de atrito (neste caso, fator de atrito de Darcy); em geral, ele é uma função do diâmetro, da rugosidade e do Número de Reynolds do escoamento:
+formula_9
+As fórmulas para escoamento laminar e turbulento, escritas na forma indicada, permitem dizer que o fator de atrito para escoamento laminar é igual a 
+formula_10
+O valor do fator de atrito para escoamento turbulento foram levantados por Lewis Ferry Moody e tabulados no que se chama Diagrama de Moody. O Diagrama de Moody mostra que o fator de atrito diminui com o Número de Reynolds.

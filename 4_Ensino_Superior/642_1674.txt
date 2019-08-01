@@ -1,0 +1,33 @@
+ formula_14
+Essas mesmas arestas, no entanto, também sofrem um efeito similar e cumulativo (ou seja, tende a desviar ainda mais o losango da forma quadrada original) devido aos diferentes valores de v em x = x e x + δt; essa diferença de velocidades será denotada, evidentemente, por δv. formula_15
+Assim, a fórmula completa a ser usada é a seguinte:
+formula_16
+formula_17
+Similarmente
+formula_18
+formula_19
+Tratemos agora da deformação linear. Consideremos o corpo C como um cubo infinitesimal; suas arestas terão comprimentos Sx, Sy e Sz. Já vimos o que acontece quando a componente v, por exemplo, varia de acordo com as coordenadas Y e Z; o corpo sofrerá uma deformação angular. A deformação linear aparece quando v varia de acordo com a coordenada X; o corpo sofrerá um alongamento ou um encurtamento nessa direção, devido ao fato de as faces paralelas ao eixo X moverem-se com velocidades diferentes. Após um intervalo Δt, a face que estava originalmente em x = x estará na posição x = x + v(x) · Δt, e a face que estava originalmente em x = x + δx estará na posição x = x + δx + v(x) · Δt. A distância entre as faces, portanto, passará de δx a δx + (v(x + δx) - v(x)) · Δt, ou seja 
+formula_20
+formula_21
+Similarmente
+formula_22
+formula_23
+Logo
+formula_24
+formula_25
+A taxa de dilatação volumétrica pode ser definida por
+formula_26
+formula_27
+Tratemos agora da rotação. Consideremos o corpo C novamente como um cubo infinitesimal; suas arestas terão comprimentos δx, δy e δz. Já vimos que, quando a componente v, por exemplo, varia de acordo com as coordenadas Y e Z, o corpo sofrerá uma deformação angular, devido ao deslocamento dos vértices. Esse deslocamento será o mesmo nos vértices opostos (P e P, P e P, e assim por diante). Se esses vértices se deslocarem de forma diferente, podemos dizer que, além de deformação angular, o corpo estará sofrendo também uma rotação. Consideremos a face que se situa no plano Z negativo. Se chamarmos α o ângulo formado no vértice P e α o ângulo formado no vértice P, podemos definir a deformação angular como resultado da variação da média de α e α e a rotação como o resultado da variação da diferença entre esses ângulos. formula_28
+Com essa definição, a rotação é positiva no sentido anti-horário, o que está de acordo com a regra da mão direita. Além disso, a soma da rotação e da deformação angular resultam no movimento original em cada vértice. Podemos escrever que, após um intervalo de tempo Δt, o vértice move-se na direção do eixo Y por uma distância igual a Δy, enquanto o vértice adjacente P move-se na direção do eixo Y por uma distância igual a Δy, e que o ângulo α é dado por
+formula_29
+O mesmo vale para o ângulo α, que está no vértice P; como esses ângulos são muito pequenos, podemos aproximar sen α = α e sen α = α. Assim:
+formula_30
+formula_31
+o subscrito z indicando que a rotação ocorre em torno do eixo Z. A rotação total é, portanto
+formula_32
+onde u, u e u são os vetores unitários na direção de cada eixo coordenado. Assim:
+formula_33
+Um fluxo onde não ocorre rotação é chamado de irrotacional. De acordo com o Teorema de Stokes em duas dimensões:
+formula_34
+esse valor é chamado circulação e denotado pelo símbolo S. Fisicamente, o teorema estabelece que a integral de linha do produto da velocidade pelo elemento de arco ao longo de qualquer curva fechada em torno de uma área A é igual ao dobro da integral da rotação nessa área.

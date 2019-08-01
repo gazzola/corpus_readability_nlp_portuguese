@@ -1,0 +1,14 @@
+ Mecânica dos fluidos/Viscosímetros por escoamento
+No viscosímetro de Stokes, também chamado viscosímetro de esfera, uma esfera é imersa em um tubo vertical contendo o fluido e deixada cair livremente sob ação da gravidade. Inicialmente acelerada, ela atingirá depois de algum tempo, devido à resistência do fluido, uma velocidade constante ("velocidade terminal"). Marcações de nível no tubo, que é transparente, permitem a medição dessa velocidade. A velocidade terminal é atingida quando F = F. F é o peso e F é igual à soma do empuxo e da resistência devida à viscosidade: F + F. Como o objeto é esférico,
+formula_1
+formula_2
+onde d é o diâmetro da esfera, ρ é a densidade da esfera, ρ é a densidade do fluido, V é o volume da esfera, e g é a aceleração da gravidade. Para viscosidades altas o suficiente para que o número de Reynolds seja muito pequeno (N_) « 1, as forças de inércia são desprezíveis (fluxo de Stokes), e podemos considerar a massa do fluido como nula nas equações de Navier-Stokes, que assim simplificam-se para 
+formula_3
+onde p é a pressão, v é a velocidade e μ é a viscosidade do fluido. A solução para essa equação nos dá a Lei de Stokes:
+formula_4
+o que resulta numa velocidade terminal
+formula_5
+É importante lembrar que a condição para o fluxo de Stokes é:
+formula_6
+Esse instrumento é simples e barato, mas apresenta as seguintes desvantagens:
+No viscosímetro de Ostwald, o fluido, armazenado em um reservatório, escoa por um tubo em forma de U, devido ao seu peso, e entra em um bulbo na outra extremidade. A saída do reservatório possui um tubo de pequena espessura (capilar), de forma a garantir que o escoamento seja laminar, para que possa ser aplicada a equação de Hagen–Poiseuille. O tubo capilar é graduado de forma a poder-se medir o tempo de escoamento, que depende da viscosidade cinemática do líquido. A função do bulbo é manter a pressão hidrostática constante.

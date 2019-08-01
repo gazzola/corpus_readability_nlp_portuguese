@@ -1,0 +1,16 @@
+ Cálculo (Volume 2)/Cônicas
+= As cônicas =
+Conjuntos de pontos definidos em um gráfico podem ser analisados de acordo com suas características simétricas, como por exemplo, aquelas que definem uma equivalência de valores, ou uma correspondência dos mesmos em relação a pontos específicos no gráfico. Certos pontos que podem ser considerados como referência de valores simétricos em relação aos pontos de uma curva são, geralmente, referenciados como os focos. De forma geral os focos de um sistema podem ser conseguidos quando o conjunto de pontos analisado assume contornos de estruturas cônicas cortadas por planos inclinados. O efeito do secionamento de cones por planos geram estas estruturas que são chamadas de cônicas, ou seções cônicas, como muitas vezes são referenciadas em alguns textos de geometria. Muitas vezes devemos adicionar um eixo de referência para que as características de simetria sejam observadas. Esta reta chamamos de diretriz. A parábola é a cônica mais simples, ela representa o conjunto de pontos em torno de um único foco, o qual estabelece uma relação de simetria com uma diretriz. A parábola é resultante de uma equação puramente quadrática. Resta-nos saber quais as relações desta equação com a definição de "foco e diretriz". Observemos o gráfico a seguir:
+Logo abaixo do foco, o ponto formula_1 é conhecido como vértice, que se estabelece como o ponto mínimo absoluto no gráfico da parábola. A distância entre o foco e o vértice é a mesma do vértice para a diretriz, os pontos na parábola mantém a mesma distância do foco e da diretriz. A simetria nos sugere que podemos encontrar uma relação simples para uma parábola cujo vértice está no ponto formula_2 e que possui foco no ponto formula_3. Fazendo a relação de simetria temos:
+formula_4;
+formula_5;
+formula_6. O que nos permite fazer:
+formula_7
+formula_8
+formula_9
+formula_10
+formula_11
+formula_12
+E eis nossa equação quadrática para esta parábola primária estabelecida nos eixos. Esta relação é meramente funcional para o foco no eixo das ordenadas, se quisermos fazer uma equivalência de variáveis e estabelece-la para as abscissas teremos:
+Generalizando para o plano cartesiano formula_15, temos a equação acima como um conjunto particular da equação mais geral, onde podemos observar formula_16 e formula_17 como a distância entre foco e vértice, considerando-o como parâmetro independente da posição, neste caso podemos escrever:
+Para cada um dos casos acima, identificando formula_20 como distância foco-vértice.

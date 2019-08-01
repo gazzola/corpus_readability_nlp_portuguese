@@ -1,0 +1,40 @@
+ Seja formula_25, uma função contínua em formula_26, visto que formula_27, o que nos obriga a excluí-lo do intervalo, podemos verificar que:
+formula_28
+logo, pela derivada da razão:
+formula_29
+formula_30
+formula_31
+Portanto:
+Seja formula_33, uma função contínua em formula_26, visto que formula_35, o que nos obriga a excluí-lo do intervalo, podemos verificar que:
+formula_36
+logo, pela derivada da razão:
+formula_37
+formula_38
+formula_39
+O que nos revela:
+Seja a função formula_41, definida contínua no intervalo onde seus valores estão sendo considerados, podemos deduzir que:
+formula_42
+formula_43
+Por outro lado, se:
+formula_44
+formula_45
+O que nos possibilita afirmar que:
+formula_46
+formula_47
+formula_48
+Portanto:
+Seja a função formula_33, dizemos que sua integral é a função formula_51 e podemos deduzí-la através de substituições algébricas como segue:
+formula_52
+multiplicando e dividindo formula_53:
+formula_54
+Por outro lado, se:
+formula_55,
+formula_56
+logo, por substituição, temos:
+formula_57, sendo formula_55, o que nos permite fazer:
+formula_59
+Portanto:
+Considerando a semelhança entre as definições das funções trigonométricas até aqui abordadas, observamos que para cada função, curiosamente há uma "co-função", assim como temos um seno e um "co-seno" temos uma tangente e uma "co-tangente". A função 
+cotangente é definida tal qual a analogia adotada antes para seno e cosseno; podemos dizer que as funções estão relacionadas ao eixo "y" e as "co-funções" estão relacionadas ao eixo "x", a imagem de um ponto no ciclo trigonométrico a partir do eixo "x" é o cosseno do ângulo e o seno é a imagem do mesmo ponto vista pelo eixo "y". Para verificar essa relação observe o gráfico:
+Figura 8
+Se nós fizermos a mesma observação entre tangente e cotangente concluiremos que a tangente é a imagem deste ponto do ciclo trigonométrico no eixo paralelo ao eixo "y" traçado a partir da coordenada (1,0) e a cotangente é a sua "co-função" que espelha o ponto no eixo paralelo ao eixo "x" na coordenada (0,1). Segundo o mesmo critério de analogia podemos dizer que a função cossecante é o valor da hipotenusa do triângulo formado entre o raio unitário do ciclo e a cotangente relacionada a um ponto do ciclo, da mesma forma que a secante é o valor da hipotenusa do triângulo formado entre o raio unitário do ciclo e a tangente do mesmo ponto.

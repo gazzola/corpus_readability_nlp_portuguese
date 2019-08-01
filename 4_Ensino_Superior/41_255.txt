@@ -1,0 +1,20 @@
+Teoria dos conjuntos/Conjuntos
+Quando a Teoria dos conjuntos foi apresentada no nível elementar (até o ), foi necessário fazer a distinção entre conjunto e elemento.
+Lembrando (ver livro Matemática elementar/Conjuntos):
+Assim, temos que "a ", "o livro ", ', ', etc são elementos, mas "todos os s do mundo", "todos os ou da ", "os maiores que 4 e menores que 6" são conjuntos.
+Isto até apresentarem o conjunto das partes, que é um conjunto cujos elementos são outros conjuntos.
+Então, partindo-se do conjunto vazio, podemos construir seu conjunto das partes formula_1, cujo único elemento é formula_2, o conjunto das partes deste conjunto, formula_3 de dois elementos, o conjunto das partes deste conjunto, formula_4 de quatro elementos, etc.
+Pode-se até vislumbrar uma cadeia de infinitos conjuntos, cada um deles sendo o conjunto das partes do conjunto anterior. Que tal agora formar um conjunto cujos elementos são precisamente os elementos dos conjuntos desta cadeia? Este seria um conjunto imenso, com infinitos elementos - mas pode-se continuar criando conjuntos maiores, tomando-se o conjunto das partes deste monstro, e assim por diante.
+Na Teoria dos conjuntos axiomática, não existe distinção entre elementos e conjuntos: um conjunto é uma coleção de "outros" conjuntos. Todos os conjuntos são, essencialmente, formados pelo processo acima, ou seja, na sua fundação está o conjunto vazio.
+A Teoria dos conjuntos axiomática, portanto, é fundamentada em apenas dois conceitos:
+Diz-se que "x é um elemento de y" quando esta última expressão for verdadeira, e "x não é um elemento de y" quando esta expressão for falsa (neste caso escreve-se formula_6).
+Usaremos também a notação formula_7 (e outras expressões parecidas) para representar formula_8 - note-se que formula_9 não implica, necessariamente, que formula_10 (veremos que, em geral, isto não é válido). Tente imaginar uma situação que exemplifique este fato.
+Pela experiência anterior, sabe-se que existe um conjunto formula_11 com as seguintes propriedades notáveis:
+em palavras: o conjunto vazio não tem elemento
+em palavras: se um conjunto qualquer não tem elementos, então este é igual ao conjunto vazio.
+Na Teoria axiomática dos conjuntos, estes dois resultados (resumidos em "o conjunto vazio existe e é único") são teoremas.
+Um problema estético que se tem ao apresentar os axiomas da Teoria dos conjuntos é que os axiomas mais simples (aqueles que são apresentados no início) não garantem a existência de algum conjunto.
+Na linguagem da , o campo da lógica que estuda estruturas matemáticas que "consubstanciam" sistemas de axiomas, esta ideia é expressa por:
+Isto porque todos os outros axiomas tem a expressão "Para todo conjunto "X", bla bla bla". Então, se não existe nenhum conjunto na teoria, todos os axiomas são verdadeiros (ver artigo na Wikipédia em inglês, ).
+Assim, para podermos entender e exemplificar os primeiros axiomas, será incluído um axioma adicional. Simplesmente, este axioma diz que existe pelo menos um conjunto:
+

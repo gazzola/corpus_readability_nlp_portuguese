@@ -1,0 +1,21 @@
+Logística/Serviço ao cliente/Estratégia e melhoria do serviço ao cliente.
+O que espera o cliente quando visita uma empresa,uma loja ou um serviço público?
+Que um profissional o atenda de forma eficaz satisfazendo todas as suas expectativas e necessidades. Assim, qualquer profissional deve desempenhar as suas funções dentro de uma orientação de serviço ao cliente que reforce a imagem e notoriedade da sua empresa ou da sua instituição.
+
+Logística/Sistemas de informação/Rastreabilidade/Rastreabilidade e tecnologias da informação.
+Rastreabilidade e tecnologias da informação (TI) são "conceitos inseparáveis" que permitem o acesso a toda a informação relacionada com o tratamento e com o lançamento de produtos. Existem "softwares" de apoio à gestão que são adaptáveis a qualquer sector de actividade e ao mesmo tempo possíveis de configuração para diversos periféricos, tais como PDA ("Personal Digital Assistant") ou terminais de leitura óptica.
+Existe uma possibilidade de gerir eficientemente as cadeias de valor multi-sectorial através do acesso à informação relativa ao percurso físico dos produtos, isto através da implementação de sistemas de identificação, tais como: unidades de expedição; bens tangíveis ou localizações e serviços. Com a implementação de várias soluções de armazenagem e logística, em comunicação em linha com o módulo de lotes e datas de validade, é possível, de uma forma rigorosa e ao pormenor, o controlo total de qualquer informação sobre a rastreabilidade dos produtos, sem deixar de parte os processos de recepção, armazenamento ou produção e expedição.
+Acredita-se que o tratamento do processo de rastreabilidade terá um efeito de causalidade que irá ser visível nos intervenientes da cadeia de valor, ou seja, na produção e distribuição. Tal facto vai permitir um aumento exponencial da eficiência e produtividade da empresa (ARTSOFT, [2008]).
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de movimentação de materiais/Transportadores.
+Existem vários tipos de transportadores (também conhecido como Conveyors) para as mais diversas indústrias. Com o passar do tempo existiu e existe uma constante evolução a nível de transportadores, sendo estes melhorados consoante a necessidade e o tipo de matérias a transportar, adaptando os mesmos a diferentes e várias redes de transporte, respeitando sempre as leis, códigos e regulamentos impostos pelas respectivas autoridades legais.
+Os transportadores são usualmente utilizados:
+Os tipos de transportadores são:
+
+Logística/Sistemas de informação/Rastreabilidade/Sistema de rastreabilidade no sector alimentar.
+Um bom sistema de rastreabilidade no sector alimentar deve englobar os seguintes objectivos primários: cumprimento da legislação de segurança alimentar; melhoria da imagem e da qualidade, ou seja, certificação de processos de produção; e melhoria do processo produtivo com uma gestão eficiente e uma produção óptima.
+Para que o sistema de rastreabilidade seja um investimento rentável ao nível de todas as empresas do mercado, inclusive para as pequenas e médias empresas, estes objectivos têm que ser congregados de forma a que coloque a empresa numa posição proveitosa e lucrativa face à concorrência.
+Para efeitos de rastreabilidade, o sistema considera os seguintes elementos: pedidos de compra; provedores; identificadores; salas/câmaras; produtos; operários; fórmulas/procedimentos; desmanchas/divisões; operações gerais; pedidos de venda/expedição e ainda clientes.
+Em suma, a informação que o sistema dispõe é a da fábrica na totalidade, tal facto permitirá optimizar a produção dispondo de forma imediata a informação de todos os pedidos de compra, venda, o estado dos pedidos e os "stocks" existentes dos diferentes produtos, entre outros.
+De forma a existir uma comunicação eficiente com outros sistemas existentes, o sistema de rastreabilidade deve ser integrado e ajustado à empresa (RQ LABELS, [200]).
+

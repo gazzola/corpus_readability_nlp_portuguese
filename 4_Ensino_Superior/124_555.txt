@@ -1,0 +1,18 @@
+Logística/Manutenção de instalações/Manutenção de equipamentos e sistemas eléctricos/Sistemas de protecção eléctrica
+Todas as máquinas e elementos dos circuitos eléctricos estão sujeitos a avarias ou danos, mas a maioria destes pode ser prevista, de modo a serem evitados, o que é conseguido com a utilização de aparelhos de protecção (Matias et al., 2000, p. 6-8). 
+A função dos aparelhos de protecção passa por retirar automaticamente de serviço, sem intervenção de qualquer operador, as máquinas, aparelhos ou circuitos eléctricos que, por qualquer motivo, são solicitados a trabalhar em regimes que lhes podem provocar avarias ou mesmo inutilização. Os aparelhos de protecção também protegem o operador/utilizador.
+Os sistemas de protecção devem actuar tanto mais rápido quanto maior forem as alterações das grandezas eléctricas, como a corrente, tensão e potência, entre outros. Estes sistemas deverão colocar fora de serviço apenas a parte estritamente necessária da instalação, de modo a poder continuar em serviço a parte que se encontra isenta de problemas.
+Existem inúmeros tipos de avarias ou situações anormais, dentro das quais se podem destacar:
+"Sobrecargas" - Correspondem a uma solicitação mais ou menos prolongada, de uma potência eléctrica superior à potência nominal, ou seja, a uma corrente superior à nominal;
+"Curto-Circuitos" - É uma ocorrência de defeito que acontece sempre que há uma ligação directa entre dois ou mais condutores, correspondendo, assim, a um aumento elevado e brusco do valor da corrente, visto que a corrente tem sempre tendência a seguir o caminho de menor resistência;
+"Sobretensões" - Quando a tensão se encontra com níveis superiores aos normais. Todas as aparelhagens e instalações estão preparadas para suportar pequenos excessos de tensão, mas quando se trata de níveis muito elevados de tensão, assim como pequenos excessos, mas por longos períodos de tempo, ocorrem sobretensões que podem reduzir o tempo de vida da instalação. As sobretensões são também responsáveis por perfurações dos isolamentos;
+"Falsas manobras" - As falsas manobras têm as mais diversas consequências, dependendo do tipo da instalação e da manobra em si. Como o nome indica, podem ocorrer falsas manobras quando, por exemplo, um trabalhador tem de pressionar um certo botão e carrega no errado. Das falsas manobras poderão advir consequências como:
+Os sistemas de protecção, frequentemente são concebidos de modo a accionar um alarme (aviso sonoro ou luminoso) de forma a alertar para algo anormal que está a ocorrer.
+Um sistema de protecção tem de ter um certo número de características, tais como: segurança, selectividade, coordenação, rapidez de actuação, insensibilidade a perturbações de pequena duração e consumo reduzido.
+"Segurança" - Garantia que o sistema de protecção entra em funcionamento quando se verificam as condições determinantes da sua actuação;
+"Selectividade" - O sistema de protecção desliga somente a parte restrita da instalação em torno do defeito, possibilitando o funcionamento da restante instalação;
+"Coordenação" - Existe coordenação entre dois órgãos de protecção em série num circuito se, no caso de não disparar/actuar, por deficiência, o órgão mais próximo do defeito, dispara o seguinte, na direcção da fonte;
+"Rapidez de actuação" - Quanto maior o tempo de duração do defeito, maior serão as consequências para a instalação;
+"Insensibilidade a perturbações de curta duração" - Evita interrupções desnecessárias de serviço, pois estas perturbações não são prejudiciais;
+"Consumo reduzido" - Interesse meramente económico.
+

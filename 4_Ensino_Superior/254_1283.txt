@@ -1,0 +1,26 @@
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Armazenagem de unidades de carga/Estante para armazenagem de unidades de carga/Estante drive-thru
+Uma estante "drive-thru" é praticamente igual à estante "drive-in", mas com a particularidade de que o acesso à fila de armazenagem pode ser feito através dos dois lados da estante. Esta estante é utilizada quando é necessário carregar as unidades de carga numa extremidade da estante e descarregar pela outra. Quanto à constituição, ela é idêntica à estante "drive-in" (Tompkins et al., 2003, p. 253).
+
+
+Logística/Gestão de armazéns/Recepção e expedição/Princípios da recepção e da expedição
+Os seguintes princípios servem como guia da actividade da recepção por forma a dar-lhe uma maior dinâmica. Estes pretendem simplificar o fluxo de material através da actividade de recepção e garantir que os requisitos são cumpridos através do mínimo de trabalho. Os princípios da recepção são (Tompkins et al., 2003, p. 410-412):
+Diversos princípios que são aplicados na actividade de recepção poderão ser utilizados na actividade de expedição embora estes sejam sempre no sentido inverso, entre os quais temos: carregamentos directos (inverso do descarregamento directo), preparação prévia da recepção de produtos (pré-recepção) e ordenação de produtos nos locais apropriados. Existem ainda alguns princípios que são tidos como de boa prática, que são: agrupamento e fixação segura de cargas, carregamento automatizado e a gestão de cais. Deste modo os princípios mencionados actuam como um guia da operação de expedição que lhe proporcionará uma maior dinâmica, pois pretende-se simplificar o fluxo de material para a expedição e assim assegurar de que satisfazendo as condições impostas se realiza o mínimo de trabalho. Os princípios da expedição são (Tompkins et al., 2003, p. 412-413):
+
+
+Logística/Sistemas de distribuição/Escala de veículos/Heurística construtiva
+O algoritmo da poupança segundo Dorronsoro (2007d) foi desenvolvido por Clarke e Wright em 1964, aplica-se a problemas onde o número de veículos não é fixo (trata-se de uma variável de decisão). Funcionando igualmente em problemas directos ou indirectos. Quando duas rotas formula_1 e formula_2 puderem ser misturadas em uma rota apenas formula_3, a distância poupada formula_4 é gerada. O algoritmo segue os seguintes passos (o primeiro passo é idêntico para a versão paralela e sequencial).
+Passo 1. Cálculo da poupança.
+Versão paralela:
+Apartir do todo da lista de poupanças, executar:
+Versão sequencial:
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Equipamento de armazenagem de pequenas cargas/Equipamento de armazenagem operator-to-stock/Estante para caixas
+A estante para caixas é utilizada para armazenar pequenos produtos e representa um elevado volume de vendas pois está incorporada em vários sistemas. Os custos iniciais, facilmente configurados, instalados e de pequenos custos de manutenção, são a base deste equipamento.
+Os baixos custos inicias podem não ser os custos efectivos. É também importante recordar que apesar do investimento ser baixo, é possível não estar perante a melhor solução, com as prateleiras, poupança no investimento e manutenção pode significar subaproveitamento de espaço e maior exigência no trabalho.
+Na estante para caixa não é habitual o aproveitamento total das dimensões das caixas.
+A altura das prateleiras é semelhante à altura dos operadores quando estes estão a fazer o "picking".
+Duas consequências da pouca utilização do espaço são:
+Algumas das desvantagens das estantes para caixas dizem respeito ao controlo de problemas e à segurança dos produtos.
+Tal como em todos os tipos de equipamento, estas desvantagens têm de ser avaliadas e comparadas com as vantagens para escolher o equipamento apropriado (Tompkins et al., 2003, p. 264-265).
+

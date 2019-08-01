@@ -1,0 +1,47 @@
+Curso de termodinâmica/Exercícios de termodinâmica/A20
+Dez litros de hidrogênio sob uma pressão de 1 atm são contidos num cilindro que possui um pistão móvel. O pistão é acionado ate o mesmo gás ocupar 2 litros à mesma temperatura. Achar a pressão no cilindro.
+formula_1
+
+
+Curso de termodinâmica/Exercícios de termodinâmica/A1
+Calcular a diferença de pressão entre o topo e a base de um recipiente de altura de 76 cm quando enchido com água a 25º. A massa específica da água é de 0,997 g/cm.
+Vamos, primeiro, expressar os dados num sistema coerente.
+A altura do recipiente é de 0,76 m e a massa específica da água é de 997 kg/m.
+A massa de água sobre cada m de área é de 
+formula_1
+A força aplicada sobre essa superfície é igual à massa de água multiplicada pela aceleração da gravidade:
+formula_2
+e a pressão é
+formula_3
+
+
+Curso de termodinâmica/Exercícios de termodinâmica/A23
+Se a massa específica de um certo gás, a 30º C e a 768 mmHg, for 1,253 g/l, achar a sua massa especifica nas condições padrão.
+Dados do problema:
+formula_1
+formula_2
+
+
+Curso de termodinâmica/Entalpia
+No intuito de estudar o mais simplesmente possível as variações de energia de um sistema , mantemos um maximo de parâmetros constantes. Por exemplo, executa-se medições com volume ou com temperatura constantes. Como todos os sistemas em contato com a atmosfera são evidentemente mantidos a pressão constante, os estudos isóbaros são de interesse prático importante.
+Transformações executadas a volume constante :
+formula_1
+</br></br>
+formula_2</br></br>
+formula_3
+o que liga um parâmetro mensurável, formula_4, a mudança de energia do sistema E.
+Ao contrário de Q, Q é uma função de estado.
+Transformações executadas a pressão constante : 
+formula_5<br><br>
+formula_6<br><br>
+formula_7<br><br>
+formula_8<br><br>
+formula_9
+Define-se uma nova função , H , chamada entalpia por:
+formula_10
+H é uma função de estado, visto que é uma combinação linear de funções de estado. A sua diferencial total é então exata.
+Então para qualquer transformação a pressão constante :<br><br> 
+formula_11
+ondeformula_12 é um parâmetro mensurável.formula_12 é uma função de estado .
+Uma transformação qualquer acompanhada de uma mudança de pressão provoca geralmente uma mudança da entalpia do sistema mas, neste caso, H não é igual à energia trocada entre o sistema e seu meio ambiente .
+

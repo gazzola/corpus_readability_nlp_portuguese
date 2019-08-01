@@ -1,0 +1,35 @@
+Curso de termodinâmica/Exercícios de termodinâmica/A5
+Uma massa de oxigênio ocupa 40 m a 760 mmHg. Calcular seu volume a 635 mmHg e a temperatura constante.
+Segundo a Lei de Boyle-Mariotte, numa temperatura constante, o produto da pressão pelo volume é constante:
+formula_1
+
+
+Curso de termodinâmica/Equação de estado dos gases
+Este capítulo é dedicado ao estudo das relações entre os parâmetros que determinam o estado de um gás . Estes parâmetros são a pressão P, o volume V e a temperatura T. A relação que combina estes parâmetros chama-se equação de estado. Ela é estabelecida a partir de um modelo do estado gasoso - a teoria cinética dos gases - ou ainda, a partir de observações empíricas como as leis de Avogadro, a lei de Boyle e a lei de Charles, cujas combinações levam à equação de estado dos gases perfeitos.
+
+
+Curso de termodinâmica/Exercícios de termodinâmica/A3
+Uma massa de oxigênio ocupa 5,00 litros sob pressão de 740 mm de Hg. 
+Determinar o volume da mesma massa de gás à pressão padrão, a temperatura permanecendo constante.
+
+
+Curso de termodinâmica/Variação isoterma da energia com o volume.Pressão interna
+
+A variação da energia durante uma variação isoterma de volume:
+formula_1
+é a pressão interna do sistema. É um parâmetro muitas vezes necessário (com exceção dos processos ligados aos gases perfeitos, onde a pressão interna é nula). Esse parâmetro não é mensurável experimentalmente. As leis da termodinâmica fornecem para um processo reversível:
+formula_2
+que é a diferencial total exata da função E das duas variáveis S e V. Podemos expressar a entropia S em relação a V e T. Essa função de estado S(V,T) tem uma diferencial total exata:
+formula_3
+Substituindo dS obtido da segunda equação na primeira:
+formula_4
+ou ainda:
+formula_5
+Esse resultado deve ser comparado com a diferencial total de E expressa em relação a V e T:
+formula_6
+Como V e T são, neste caso, as duas variáveis independentes, dV e dT podem assumir qualquer valores, portanto requer-se que:
+formula_7
+que fica, por meio das relações de Maxwell:
+formula_8
+Esta expressão liga a pressão interna de um sistema a parâmetros mensuráveis durante um processo reversível .
+

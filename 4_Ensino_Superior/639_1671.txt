@@ -1,0 +1,37 @@
+ Assim, a expressão é válida para qualquer sistema de referência inercial. Se o sistema de referência estiver acelerado, será preciso corrigir a fórmula da forma seguinte:
+formula_22
+onde a é a aceleração do sistema de referência com relação a um sistema de referência inercial. A força F deve ser entendida como a soma de todas forças atuantes sobre o volume de controle: F = F + F.
+Considerando-se um volume de controle estacionário e procedendo-se como nos itens anteriores, chega-se à expressão
+formula_23
+O torque, por sua vez, pode ser expresso da seguinte forma:
+formula_24
+onde formula_25 é o torque externo (aplicado por um eixo que atravesse a superfície S, por exemplo). Normalmente, a única força não superficial que deve ser levada em conta é o peso do fluido; assim,
+formula_26
+Como mencionado acima, a expressão é válida para um volume de controle estacionário. Se C estiver em movimento ou girando, será preciso aplicar uma correção. Como no caso da equação de conservação do momento linear, a velocidade deve ser medida em relação ao volume de controle. Procedendo como nos itens anteriores, pode-se chegar a 
+formula_27
+Mas podemos exprimir a energia através das relações
+formula_28
+formula_29
+O que resulta na expressão alternativa
+formula_30
+Também pode-se notar que o calor necessariamente fluirá através da superfície e escrever
+formula_31
+onde q é o fluxo de calor por unidade de área através da superfície. Em problemas onde W se relaciona basicamente a um eixo que realiza trabalho sobre o volume de controle, é mais útil escrever a equação em termos desse trabalho, que denotaremos por W. Para tanto, subdividimos o trabalho total em componentes W = W + W + W + W, onde W é o trabalho realizado na direção tangencial ao corpo, W é o trabalho realizado na direção tangencial ao corpo e W é a somatória das demais formas de trabalho possíveis. W é realizado pela força normal à superfície em um deslocamento linear:
+formula_32
+formula_33
+formula_34
+Similarmente
+formula_35
+Normalmente, para simplificar a solução, escolhe-se o volume de controle de forma a tornar W nulo. Isso se consegue fazendo a superfície de controle ser sempre perpendicular ao fluxo. Assim:
+formula_30
+formula_37
+formula_38
+formula_39
+formula_40
+É útil lembrar que, em fluidos de baixa viscosidade, a tensão σ pode ser aproximada pela pressão termodinâmica p. Além disso, a energia potencial interna u deve levar em conta tanto a temperatura quanto a energia potencial gravitacional. Procedendo como nos itens anteriores, pode-se chegar a 
+formula_41
+Considerando
+formula_42
+formula_43
+onde formula_44 é a razão fluxo de calor/temperatura por elemento de superfície, teremos
+formula_45

@@ -1,0 +1,25 @@
+Introdução à Química/Cadeias carbônicas
+Devido à sua tetravalência, o átomo de carbono tem facilidade de formar cadeias carbônicas e formar grandes moléculas. Os compostos da química orgânica têm uma cadeia principal, que servirá de base para nomeá-los.
+A cadeia principal em um composto qualquer, é aquela que liga a maior quantidade possível de átomos de carbono. A cadeia não precisa ser linear, mas deve ser contínua. Veja o exemplo abaixo, em que diferentes combinações geram diferentes cadeias:
+formula_1
+formula_2
+formula_3
+formula_4
+formula_5
+De todas as sequências possíveis, a quarta é a que possui maior número de carbonos, logo, esta é a cadeia carbônica principal do 3,4-dimetil-hept-3-eno.
+É dito que um composto é aberto (alifático ou acíclico), quando:
+Para:
+O composto é fechado (cíclico), quando:
+Nos compostos cíclicos o primeiro átomo da cadeia liga-se ao último átomo da própria cadeia, formando um ciclo. Note que o composto será cíclico apenas quando o ciclo representar a maior sequência de carbonos.
+Após encontrada a cadeia principal, se sobram átomos, a cadeia é ramificada, senão, é normal. Exemplo:
+Se há um átomo diferente de carbono e hidrogênio que impede a ligação entre dois carbonos (isto é, interrompe a sequência de carbonos), a cadeia é heterogênea. Como exemplo, o metoximetano:
+Ao contrário, quando não há átomos impedindo o contato de carbonos, a cadeia é homogênea. Exemplo, o etanal:
+Uma cadeia é dita saturada quando apresenta apenas ligações simples entre seus carbonos, e insaturada se possuir ao menos uma dupla ou tripla. Exemplo:
+Se a cadeia é cíclica, ela pode ser aromática ou alicíclica. Tratando-se de um anel benzênico (ciclo de seis carbonos, ligados por uma ligação simples e outra dupla, continuadamente), a cadeia é aromática (podendo ser mononucleada - um anel - ou polinucleada - mais de um anel). Cadeias polinucleadas podem ter os núcleos (anéis) unidos (condensados) ou separados (isolados). As cadeias alicíclicas ainda são classificadas de acordo com sua saturação e presença de heteroátomo.
+Descoberta a cadeia, numera-se os átomos de carbono. O carbono da extremidade mais próxima da insaturação é o carbono 1. Assumem valores crescentes os demais carbonos da cadeia. Veja o 3,4-dimetil-hept-3-eno. A extremidade mais próxima da ligação dupla é a superior, logo, a contagem inicia-se por esta.
+formula_10
+Suponhamos, agora, o seguinte composto (3-metil-hex-3-eno):
+formula_11
+Veja que, independentemente do local em que se começa a contagem, a insaturação estará no terceiro carbono. Nestes casos, deve-se observar a extremidade mais próxima de uma ramificação. Portanto, a contagem deve ser feita da direita para esquerda:
+formula_12
+

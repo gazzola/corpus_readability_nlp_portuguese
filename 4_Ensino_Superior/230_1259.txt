@@ -1,0 +1,23 @@
+Logística/Gestão de armazéns/Configuração discreta de armazéns
+
+
+Logística/Técnicas de previsão/Metodologia bootstrap
+A metodologia "bootstrap" é um sistema pericial que traduz as regras de um perito para um modelo quantitativo. Esta tradução é efectuada por regressão das previsões do perito em relação à informação que este usou. Na realidade, esta metodologia infere o modelo do perito através da análise das previsões realizadas pelos mesmos (Armstrong, 2001, p. 171). 
+Esta ferramenta torna-se, particularmente, útil quando existem poucos dados históricos ou quando estes têm pouca qualidade e é mais apropriada para situações complexas, nas quais as opiniões dos peritos inspiram pouca confiança. Caso seja necessário elaborar várias previsões, a metodologia torna-se económica. Permite, também, identificar enviesamentos nas previsões dos peritos, assim como revela a maneira como os mehores peritos as efectuam.
+Alguns estudos mostram que a metodologia "bootstrap" melhorou a qualidade das decisões na produção em empresas.
+Na metodologia "bootstrap", os peritos efectuam previsões sobre situações reais ou simuladas e são utilizados meios estatísticos para inferir os modelos de previsão. Esta metodologia utiliza as previsões dos peritos como variável dependente e as pistas como variáveis causais. O modelo é normalmente estimado a partir da regressão dos mínimos quadrados (Armstrong, 2001, p. 173):
+formula_1 formula_2 ... formula_3 
+De maneira a desenvolver uma metodologia "bootstrap" é necessário seguir determinados princípios (Armstrong, 2001, p. 173-177):
+A metodologia "bootstrap" apresenta previsões mais fiáveis do que a opinião simples dos peritos especialmente quando (Armstrong, 2001, p. 188):
+A metodologia "bootstrap" é uma técnica com uma certa utilidade, visto que é simples, tem um baixo custo associado e os resultados são bastante fiáveis.
+
+
+Logística/Manutenção de instalações
+
+
+Logística/Embalagem/Reutilização da embalagem
+A reutilização, de acordo com o artigo 2º do Decreto Lei nº 366/97 de 20 de Dezembro, "é definida como qualquer operação pela qual uma embalagem, concebida e projectada para cumprir, durante o seu ciclo de vida, um número mínimo de viagens ou rotações, é enchida de novo, com ou sem apoio de produtos auxiliares presentes no mercado" (Poças et al., 2003, p. 15-18).
+Com vista a minimizar a quantidade de resíduos depositados em aterros e a maximização do número de embalagens recuperadas para valorização, a reutilização deve ser inserida numa política integrada de gestão de resíduos. Embora nos últimos anos se tenha observado uma redução no recurso à reutilização de embalagens, é reconhecido que a reutilização desempenha um papel fulcral no combate ao aumento dos resíduos sólidos urbanos, nos quais se tem verificado um crescimento da proporção de resíduos de embalagens. Logo, a legislação da União Europeia e nacional prevê e estimula o recurso à reutilização de embalagens, como, por exemplo a embalagem da Figura 1.
+Quando se procede à reutilização deve se ter em conta exigências a diversos níveis:
+A reutilização pode contribuir em grande medida para a redução dos resíduos sólidos, mas essas reduções acarretam custos económicos e ambientais que devem ser tidos em conta, face às condições locais e aos imperativos do mercado, ligados às exigências de conveniência e higiene dos consumidores. Para que possa existir um sistema de reutilização de embalagens económico e ambientalmente sustentável, tem que existir um sistema de consignação, sistema esse que tem de ser regulamentado e monitorizado para que sejam garantidos certos níveis de reutilização e respectivas condições para os diferentes operadores da cadeia logística e para o próprio consumidor.
+

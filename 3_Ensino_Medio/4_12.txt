@@ -1,0 +1,22 @@
+Matemática elementar/Conjuntos/Números complexos
+O conjunto dos números complexos formula_1 é a extensão dos números reais. Esta extensão é toda construída a partir de um elemento novo, a unidade imaginária formula_2. Tipicamente, números deste conjunto são designados por "z", mas é permitido utilizar qualquer signo para representá-los.
+A unidade imaginária "i" - que define os números complexos - tem o valor de . Para esta, então, podemos considerar todas as regras de radiciação. Observe o exemplo abaixo:
+Desta forma, raízes negativas podem ser facilmente reduzidas a um número complexo. Esta característica é muito utilizada para descobrir raízes de funções em que o discriminante é menor que zero. Por exemplo, as raízes de "f(x) = x + 9" são dadas por
+A soma de um número imaginário por um número real origina o afixo do número complexo "z". Desta forma, em um número complexo "z" cujo afixo é dado por "a + bi", teremos "a" como a parte real (denotada por "Re"), e "b" a parte imaginária (denotada por "Im"). Desta forma, teremos:
+Já para "a - bi", teremos o conjugado do número complexo. O conjugado de um número complexo "z" é dado por z. Por exemplo, o conjugado do número z = 2 - i é
+Que resulta em z = 2 + i.
+O seguinte fragmento resume a soma e a subtração dos números complexos:
+Por exemplo, considere os números complexos "z" e "z", para "z = -2 + 4i" e "z = -3 - i", então "z" + "z" =
+Conclui-se a soma pela obtenção de -5 + 3i. 
+A subtração pode ser deduzida a partir da adição. Veja a diferença entre "z" e "z":
+Que é igual a 1 + 5i.
+A própria definição do conjunto dos números complexos reside na multiplicação. Assim, definimos o conjunto dos números complexos como tendo a seguinte operação de multiplicação:
+Na prática, isto resume-se na "multiplicação distributiva":
+Exemplo: zz, para z = 2 + i e z = -1 + 2i:
+Você deve ter notado a presença de expoente acima da unidade imaginária no exemplo anterior. A potência pode e deve ser resolvida. Facilmente ela pode ser deduzida. Veja:
+Para expoentes maiores que três ("x"), a seguinte operação é válida:
+Em que "k" é o maior inteiro possível para {y ∈ N| 0 ≤ y ≤ 3}. Por exemplo, i:
+A divisão de números complexos pode ser feita pelo método da chave. Entretanto, esta última muitas vezes pode ser demorada até que se obtenha resto igual a zero. Geralmente, o método aplicado consiste na multiplicação do denominador e numerador pelo conjugado do divisor. Exemplo:
+O conjugado do divisor é igual a -1 - 2i. Portanto:
+Uma abordagem mais avançada dos números complexos pode ser vista no livro Análise complexa/Introdução.
+

@@ -1,0 +1,17 @@
+ Deste mesmo círculo, pode-se obter as demais funções trigonométricas, que não são mais que relações do triângulo retângulo entre a origem, a coordenada e ponto (x; 0):
+Podemos colocar as funções trigonométricas em um plano cartesiano, em que o eixo das abcissas equivale ao ângulo em radianos e o eixo das ordenadas ao contradomínio da função. Colocando-se os resultados obtidos para a função seno num plano, obteremos:
+Observe que a função seno é uma função ímpar, pois "sen (-x) = -sen x", qualquer que seja "x" pertencente aos números reais. Note que esta função é composta por infinitos intervalos 2π. Dizemos, então, que o período da função "sen (x)" é 2π. Quanto ao contradomínio, ele pertence ao intervalo [-1; 1]. A distância entre o centro e o limite da função é a amplitude. Neste caso, a amplitude da função é igual a 1. O gráfico da função seno forma uma senoide. Pode-se determinar o seno de qualquer ângulo através das seguintes equações:
+Onde "y" é um ângulo qualquer e "z" um número inteiro. O gráfico da função cosseno é o seguinte:
+Esta é uma função par, pois "cos (-x) = cos x", qualquer que seja "x" pertencente ao conjunto dos números reais. Igual à função seno, a função cosseno tem período igual a 2π e amplitude igual a 1. O gráfico da função cosseno forma uma cossenoide. De forma similar à função seno, podemos transformar qualquer ângulo real para "0° < x ≤ 90°" e assim obter seu cosseno:
+Onde "y" é um ângulo qualquer e "z" um número inteiro. Já para o gráfico da função tangente, temos:
+A função tangente é uma função ímpar pois é o quociente de uma função ímpar e uma função par. É, pois, tan (-x) = - tan x {x ∈ R}. O período desta função é igual a π, e sua amplitude estende-se ao infinito. O gráfico da função tangente forma uma tangentoide. Para determinar a tangente de um ângulo qualquer, temos, para "0° ≤ x < 90°":
+Onde "y" é um ângulo qualquer e "z" um número inteiro. Dados "a" + "b" sen ("cx" - "dπ") ou "a" + "b" cos ("cx" - "dπ"), que são as equações da senoide e da cossenoide, respectivamente, determina-se:
+A partir destes valores tem-se a amplitude (A), dada pela média aritmética da distância entre as ordenadas dos limites:
+Diretamente da figura que define seno e cosseno (ao lado), temos, pelo triângulo retângulo no primeiro quadrante, que:
+É convencional escrever o quadrado de uma função trigonométrica colocando-se o sinal imediatamente ao lado do nome da função. Assim, esta relação é escrita:
+A geometria do triângulo retângulo prova esta relação no caso de formula_22 ou seja, para ângulos no primeiro quadrante. Nos casos formula_23 temos que um deles (seno ou cosseno) vale 1, e o outro vale 0, logo a soma dos seus quadrados é 1. Nos demais casos, temos:
+Analogamente:
+Finalmente:
+Ou seja, a relação
+é válida para qualquer ângulo real "x". Lembrando que:
+temos que:

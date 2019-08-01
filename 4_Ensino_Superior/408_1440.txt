@@ -1,0 +1,15 @@
+ Por exemplo, formula_9 para formula_10 de 1 a 3 e formula_11 de 1 a 2, define a matriz 3×2 formula_12 
+Abaixo, vemos o exemplo de uma Matriz Quadrada:
+formula_13
+E agora um exemplo de uma Matriz Identidade:
+formula_14
+Abaixo seguem informações sobre as principais operações definidas para matrizes. Abaixo matrizes serão representadas por letras maiúsculas e seus índices por letras minúsculas. Números escalares serão representados pela letra formula_15
+A multiplicação por um escalar é uma das operações mais simples que podem ser feitas com matrizes. Com isso, pode-se pensar também na noção de dividir uma matriz por um número: basta multiplicá-la pelo inverso desse número. Mas essa noção pode ser perigosa: enquanto a multiplicação entre um número e uma matriz pode ser dita "comutativa", o mesmo não vale para a divisão, pois não se pode dividir um número por uma matriz. É impossível somar ou subtrair escalares de matrizes. A multiplicação por escalar possui as seguintes propriedades:
+A adição de matrizes é outra operação bastante simples. Perceba que a operação de soma para matrizes de diferentes dimensões não é definida. A adição de matrizes possui as seguintes propriedades:
+A multiplicação de duas matrizes é bem definida apenas se o número de colunas da matriz da esquerda é o mesmo número de linhas da matriz da direita. A motivação dessa definição é a seguinte: se formula_41 denota a formula_10-ésima linha da matriz formula_43 podemos criar outra matriz formula_44 cujas linhas formula_45 sejam combinações lineares das linhas de formula_46 
+Em cada linha formula_50 a entrada na formula_11-ésima coluna será uma combinação linear de todas as entradas de formula_52 nessa mesma coluna:
+mas formula_54 corresponde a formula_55 Então, se formula_56 for a matriz com as entradas formula_57 definidas como acima, obtemos a fórmula acima. Da mesma maneira, se formula_58 denota a formula_11-ésima coluna da matriz formula_60 podemos criar uma matriz formula_44 cujas colunas formula_62 sejam combinações lineares das colunas de formula_63 
+E, tomando as entradas na formula_10-ésima linha, obtemos
+Mas a formula_67 a formula_10-ésima entrada à linha formula_69 corresponde ao elemento formula_70 de modo que também obtemos a fórmula acima. Portanto,
+A multiplicação de matrizes tem as seguintes propriedades:
+Note que, em geral, a multiplicação de matrizes não é comutativa, ou seja, geralmente tem-se formula_78 Em muitos dos casos, a multiplicação formula_79 pode não estar sequer definida: quando existe a multiplicação formula_80 a multiplicação formula_79 só pode existir no caso em que formula_56 e formula_52 são quadradas; mesmo assim, ainda pode ocorrer a não-comutatividade.

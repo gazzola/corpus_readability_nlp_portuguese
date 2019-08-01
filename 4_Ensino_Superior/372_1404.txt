@@ -1,0 +1,26 @@
+ Isto causa uma situação interessante, uma vez que as áreas entre a curva e o eixo formula_13 dos dois intervalos, quando observadas no plano cartesiano, são identicas, a área das duas deveria ser o dobro de uma delas, entretanto a integral calculada no intervalo entre formula_9 e formula_12 é nula! Esta é a razão pela qual devemos fazer o módulo das integrais em cada intevalo de mudança de sinal, para que os valores das áreas nestes intervalos não se subtraiam, provocando erro no cálculo. Devemos verificar os intervalos onde a função se torna negativa e inverter o sinal antes de efetuar a soma de áreas em cada intervalo, assegurando assim o correto valor do total de unidades quadradas de área, delimitadas pela curva e o eixo formula_13. No caso da função acima, teremos:
+formula_17
+Sob diversas situações devemos verificar o comportamento do gráfico, para que possamos determinar a melhor maneira de calcular a área, no caso de áreas delimitadas por duas curvas podemos determinar a área de cada curva em relação ao eixo e verificar o comportamento das curvas no gráfico para determinar a forma de calcular. Na seção subseqüente veremos como determinar a área delimitada por duas curvas. Sejam duas funções: 
+formula_18
+formula_19
+Vamos calcular a área da região delimitada pelas curvas entre as suas interseções. O gráfico abaixo representa as funções e a área que desejamos calcular, a qual chamamos de A:
+Inicialmente verifiquemos os pontos onde as funções se encontram, ou seja, os pontos onde formula_20:
+formula_21
+Se formula_22
+Se formula_23 em ambas as funções formula_24. Condições que nos revela o intervalo entre:
+formula_25 e formula_26
+Obviamente devemos proceder a subtração entre a área delimitada pela reta e a área delimitada pela parábola, no caso da reta poderíamos ainda fazer a área do triângulo formado pela mesma e o eixo das abscissas, porém façamos todo o processo utilizando integração para que possamos ter um processo universal para o cálculo de áreas desse tipo. Calculemos as integrais:
+formula_27
+formula_28
+formula_29
+formula_30
+formula_31
+formula_32
+formula_33
+formula_34
+formula_35
+formula_36
+A área que queremos encontrar é:
+formula_37
+logo:
+Considerando as diversas formas que encontramos na natureza, podemos verificar que muito poucas têm formas regulares, dificilmente poderíamos encontrar o volume de um corpo sólido encontrado comumente na natureza por meio da geometria euclidiana, as curvas são comuns no nosso mundo, muitas delas podem ser determinadas por equações, porém antes que a teoria do Cálculo fosse elaborada os volumes eram calculados por aproximações.

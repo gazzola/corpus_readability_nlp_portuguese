@@ -1,0 +1,11 @@
+ Por exemplo:
+O conjunto "A" será formado, de acordo com o desenvolvimento da equação dada, por 2 e 4 (únicos números inteiros que satisfazem a condição "P", ou seja, que tornam verdadeira a equação). Logo, formula_9. Um cuidado deve ser tomado com a propriedade "P(x)", já que a formação de conjuntos através deste método pode gerar resultados paradoxais. Um conjunto unitário possui um único elemento. Todo conjunto também possui como subconjunto o conjunto vazio representado por formula_10, formula_11, formula_12 ou formula_13. Podemos mostrar isto supondo que se o conjunto vazio não está contido no conjunto em questão, então o conjunto vazio deve possuir um elemento ao menos que não pertença a este conjunto. Como o conjunto vazio não possui elementos, isto não é possível. Como todos os conjuntos vazios são iguais uns aos outros, é permissível falar de um único conjunto sem elementos. Dizemos que um conjunto "A" é subconjunto de outro conjunto "B" quando todos os elementos de A também pertencem a B. Por exemplo:
+Nesse caso "A" é subconjunto de "B", é indica-se formula_14. Deve-se reparar que "B" é subconjunto de si mesmo; os subconjuntos de "B" que não são iguais a "B" são chamados subconjuntos próprios. Nota: O conjunto vazio, { } ou Ф (phi), é um subconjunto de todos os conjuntos. Dado um conjunto "A", definimos o conjunto das partes de "A", formula_15, como o conjunto que contém todos os subconjuntos de "A" (incluindo o "conjunto vazio" e o próprio conjunto "A"). Uma maneira prática de determinar formula_15 é pensar em todos os subconjuntos com um elemento, depois todos os subconjuntos com dois elementos, e assim por diante. Exemplo:
+Observação: 
+Demonstração:
+Seja P(A) o conjunto de partes de A e n(S) o número de elementos distintos de S.
+Se A = formula_12 → P(A) = {formula_12} → n(P(A)) = 2^0 = 1
+Se A = {a} → P(A) = {formula_12,a} → n(P(A)) = 2^1 = 2
+Se A = {a,b} → P(A) = {formula_12,a,b,{a,b} → n(P(A)) = 2^2 = 4
+Se A = {a,b,c} → P(A) = {formula_12,a,b,c,{a,b},{b,c},{a,c},{a,b,c}} → n(P(A)) = 2^3 = 8
+P(A) é formado por formula_12 somado às possíveis combinações dos elementos de A, com taxa variando de 1 a n(A). Assim, n(P(A)) = número de combinações n(A), com taxa variando de 1 a n(A) somado a 1 (responsável por formula_12).

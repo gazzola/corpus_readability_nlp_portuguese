@@ -1,0 +1,29 @@
+Logística/Sistemas de distribuição/Escala de veículos/Agrupar-primeiro-e-rotas-depois
+=Agrupar-primeiro-rotas-depois=
+Segundo TOTH e VIGO (2002e, p.116 - 118) esta classe abarca três famílias de métodos abaixo descritos:
+Este algoritmo é aplicado a casos "planos" de PEV. Composto por duas partes:
+Em alguns casos tem-se um fase de pós-optimização, onde vértices são trocados entre clusters adjacentes e rotas são optimizadas novamente.
+Escolher um veículo formula_10 não utilizado.
+Começando no vértice sem rota que tenha o ângulo menor, afectar vértices ao veículo formula_10 até à sua capacidade máxima ou ao limite da duração máxima da rota não serem excedidos. 
+Se permanecerem vértices sem rota voltar ao passo 1.
+Neste método as sementes são determinadas resolvendo um problema de capacidade local e os vértices que sobram, numa segunda fase são gradualmente incluídos na rota alocada.
+Assim:
+O algoritmo de Fisher e Jaikumar segundo (Dorronsoro, 2007e) apresentado no livro "A Generalized Assignment Heuristic for Vehicle Routing" em 1981, resolve problemas de atribuição generalizada (PAG) (generalized assignment problem (GAP) em Inglês), formando clusters.
+Assim:
+Escolher pontos semente formula_29 em formula_30 para iniciar cada cluster formula_10.
+Calcular o custo formula_20 de atribuir cada consumidor formula_1 a cada cluster formula_10 como formula_35
+Resolver (PAG) com custo formula_36, formula_37 peso do cliente e formula_14 a capacidade do veículo.
+Resolver um PCV para cada cluster correspondente à solução PAG.
+A árvore de procura neste processo contém tantos níveis quantas forem as rotas, cada nível contém um conjunto de rotas "não dominadas".
+Na sua formulação formula_39 é o conjunto rotas livres (vértices) no nível formula_40.
+Assim:
+Estabelecer formula_41 e formula_42 \ {0}.
+Se formula_43∅, parar. Caso contrário, seleccionar um cliente sem rota formula_1∈formula_39 e gerar o conjunto formula_46 de rotas contento formula_1 e cliente em formula_39. Estas rotas são gradualmente geradas usando combinação linear de dois critérios: poupança e custos de inserção.
+Avaliar cada rota formula_49∈formula_46, usando a função formula_51∪formula_52formula_53 \ formula_54, onde formula_54 é o vértice do conjunto de rotas formula_49,formula_57∪{0}) é o tamanho de uma boa solução PCV em formula_54∪{0} e formula_53 \ formula_60 é a dimensão da Spanning tree mais curta dos ainda clientes sem rota.
+Determinar a rota formula_61 subtituindo formula_62∈formula_63 {formula_64}. Fixando formula_65 e formula_66 \ formula_67 . Voltar ao passo 2.
+O algoritmo petal é uma extenção do algoritmo de varrimento para gerar várias rotas, denominadas petals, e faz uma selecção final ao resolver um conjunto de problemas particionados na forma:
+formula_68∈formula_69
+formula_70formula_71∈formula_72 ∀formula_73 
+formula_74 ∈ {0,1} ∀ k ∈ S, 
+Onde formula_75 é o conjunto de rotas formula_76 se e só se a rota formula_10 pertencer à solução, formula_78 o parametro binário igual a 1 apenas se o vértice formula_1 pertencer à rota formula_10 e formula_81 o custo de "petal" formula_10. Se as rotas corresponderem sectores de vértices contíguos, então este problema possui a propriedade da coluna circular e pode ser resolvido em tempo polinimial (Ryan, Hjorring and Glover).
+

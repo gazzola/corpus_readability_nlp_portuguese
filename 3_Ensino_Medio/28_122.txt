@@ -1,0 +1,12 @@
+Matemática elementar/Geometria plana/Triângulos/Pontos, linhas e círculos associados a um triângulo
+A mediatriz é a reta perpendicular a um lado do triângulo, traçada pelo seu ponto médio. As três mediatrizes de um triângulo se encontram em um único ponto, o circuncentro, que é o centro da circunferência circunscrita ao triângulo, que passa pelos três vértices do triângulo. O diâmetro dessa circunferência pode ser achado pela lei dos senos.
+O Teorema de Tales determina que se o circuncentro estiver localizado em um lado do triângulo, o ângulo oposto a este lado será reto. Determina também que se o circuncentro estiver localizado dentro do triângulo, este será acutângulo; se o circuncentro estiver localizado fora do triângulo, este será obtusângulo.
+Altura é um segmento de reta perpendicular a um lado do triângulo ou ao seu prolongamento, traçado pelo vértice oposto. Esse lado é chamado base da altura, e o ponto onde a altura encontra a base é chamado de pé da altura.
+O ponto de interseção das três alturas de um triângulo denomina-se ortocentro (H). No triângulo acutângulo, o ortocentro é interno ao triângulo; no triângulo retângulo, é o vértice do ângulo reto; e no triângulo obtusângulo é externo ao triângulo. Os três vértices juntos com o ortocentro formam um sistema ortocêntrico.
+A formula para determinar a área do triângulo é: b x alt : 2
+Mediana é o segmento de reta que une cada vértice do triângulo ao ponto médio do lado oposto. A mediana relativa à hipotenusa em um triângulo retângulo mede metade da hipotenusa.
+O ponto de interseção das três medianas é o baricentro ou centro de gravidade do triângulo. O baricentro divide a mediana em dois segmentos. O segmento que une o vértice ao baricentro vale o dobro do segmento que une o baricentro ao lado oposto deste vértice. No triângulo Equilátero, as medianas, bissetrizes e alturas são coincidentes. No isósceles, apenas a que chegam ao lado diferente, no escaleno, nenhuma delas.
+A bissetriz interna de um triângulo corresponde ao segmento de reta que parte de um vértice e vai até o segmento de reta, dividindo o ângulo do vértice em que partiu em dois ângulos congruentes.
+Em um triângulo há três bissetrizes internas, sendo que o ponto de interseção delas chama-se incentro, que é o centro da circunferência inscrita no triângulo.
+Já a bissetriz externa é o segmento da bissetriz de um ângulo externo situado entre o vértice e a interseção com o prolongamento do lado oposto.
+

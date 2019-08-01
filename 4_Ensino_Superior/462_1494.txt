@@ -1,0 +1,23 @@
+ Otimização/Aplicações dos métodos duais
+Considere um problema típico da programação linear como:
+onde são dados formula_2, formula_3, formula_4, formula_5, formula_6, formula_7, formula_8 e formula_9. Por simplicidade, pode-se ainda adotar a seguinte notação:
+Nesta seção será mostrado como a "bonita teoria dos métodos duais" se aplica a esse tipo de problema. Primeiramente, calcula-se a lagrangiana:
+Note que:
+Agora é preciso identificar as funções formula_17 e formula_18 correspondentes a este problema. Conforme anteriormente, tem-se:
+Logo, considerando que formula_23, o problema dual consiste no seguinte:
+O seguinte problema é chamado de problema "standard" (padrão) de programação linear:
+onde são dados formula_26, formula_3 e formula_28. Primeiramente, 
+A função formula_17 não precisa ser calculada, pois já se mostrou que
+Por outro lado, quanto à função formula_18 tem-se:
+Logo, o problema dual é:
+ou ainda
+Considere o seguinte problema:
+que, conforme já foi mostrado em um exercício anteriormente, equivale a
+A lagrangiana é dado por:
+Logo,
+Logo, o dual de formula_41 é:
+ou seja,
+que equivale a 
+Considere a seguinte situação:
+Na década de 30, 40 e 50 havia diversos livros que tratavam cada problema de programação linear individualmente, deduzindo vez após vez os seus duais, e disso extraindo certas "regras" que eram então sugeridas ao leitor na forma ""se o problema for desse tipo, use tal regra, se for daquele tipo, use esta outra, e se for deste outro tipo, use esta regra"". Um dos primeiros autores que começou a trabalhar os problemas sob um novo ponto de vista, mais generalizado, foi Werner Oettio (grafia?) . Seguindo-se por George Dantzig (conhecido como inventor do método simplex), Eugen Blumb (grafia?) e Jean-Pierre Crouzeix. Agora, o problema a considerar passa a ser
+onde formula_46 é um poliedro (interseção finita de semi-espaços), formula_47, formula_48 e formula_49 é uma matriz simétrica positiva definida. Note que este problema tem solução, uma vez que o problema irrestrito correspondente tem solução (já que formula_50 é uma matriz simétrica positiva definida, a função é limitada inferiormente, e como formula_46 é fechado, a função objetivo assume seu valor mínimo em formula_46, por Wolfe). Mesmo para formula_53, os problemas de programação linear já são difíceis de resolver "à mão".

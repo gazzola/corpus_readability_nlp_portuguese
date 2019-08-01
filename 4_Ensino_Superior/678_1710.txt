@@ -1,0 +1,10 @@
+ N é o coeficiente de atrito de Hazen-Williams, e depende apenas da rugosidade da tubulação; R é o raio hidráulico da tubulação. Existem duas maneiras tradicionais de se computar as perdas em curvas e conexões. A primeira é através da fórmula
+formula_18
+onde N é chamado coeficiente de perda, e deve ser estimado experimentalmente para cada situação. A segunda é através da fórmula
+formula_19
+onde N é o fator de atrito e L é chamado comprimento equivalente do elemento. Tabelas de N e L estão disponíveis para os tipos mais comuns de curvas e conexões, mas os valores indicados podem variar de uma fonte para a outra. Sabe-se que N costuma variar em função do diâmetro D de uma forma muito similar à de N.
+Mudanças bruscas de seção provocam grandes perdas, devido ao fenômeno de formação da veia contraída, explicado acima. As tabelas indicam valores do coeficiente de perda em função da razão entre as seções, e considerando a velocidade mais alta, ou seja, a velocidade no trecho mais estreito. Mudanças graduais de seção provocam menores perdas. Quando se trata de um estreitamento gradual, em geral não há formação de veia contraída. Nos alargamentos, entretanto, sempre ocorre separação de fluido, mesmo quando a mudança de área da seção é gradual. Neste último caso, muitas vezes se emprega uma fórmula alternativa para a perda, introduzindo-se o coeficiente de recuperação de pressão
+formula_20
+que indica que fração da energia cinética total aparece como um aumento da pressão após a mudança de área da seção do duto; a velocidade v aqui é, novamente, aquela da seção mais estreita, ou seja, a velocidade do fluido na entrada do difusor. Se o alargamento não apresentasse perdas, N seria igual a
+formula_21
+onde A é a seção transversal na entrada do duto, e A, a seção na saída. Quanto mais longo o difusor, e menor o seu ângulo de abertura, mais o valor de N será próximo do ideal.

@@ -1,0 +1,13 @@
+ Teoria dos conjuntos/Conjuntos Infinitos
+Definição: Um conjunto formula_1 é infinito se, e somente se, existir um conjunto formula_2 tal que formula_3 e formula_4. Ou seja, um conjunto infinito tem uma bijeção com um subconjunto próprio. Segue abaixo três exemplos de bijeção entre Naturais e subconjuntos dos Naturais. bijeção entre Naturais e Naturais pares: formula_5
+bijeção entre Naturais e Naturais ímpares: formula_6
+bijeção entre Naturais e Naturais quadrados: formula_7
+Abaixo segue uma bijeção entre Naturais e Inteiros
+bijeção entre Naturais e Inteiros:
+formula_8
+bijeção entre Inteiros positivos e Racionais positivos:
+O caso dos Racionais é mais complicado, pois a relação < é densa neste conjunto. Isto é, para todo formula_9 e todo formula_9 Racionais tais que formula_11, existe um
+formula_12 tal que formula_13. Portanto, entre dois números Racionais, por menor que seja a diferença entre eles, sempre existe infinitos outros Racionais. George Cantor, o criador da teoria de conjuntos, encontrou uma forma de ordenar os Racionais positivos sem o uso de <, de forma que se possa estabelecer uma correspondência um-a-um entre estes e os Inteiros positivos. Chamamos seu método de ‘passeio de Cantor’. Em primeiro lugar, os Racionais são dispostos em forma de fração em uma tabela de forma tal que os elementos da "n"–ésima coluna tem denominador "n", enquanto os elementos da "m"–ésima linha tem numerador "m". Agora, ordenamos as frações da seguinte forma:
+Assim, podemos estabelecer a seguinte correspondência um-a-um entre os Inteiros positivos e Racionais positivos: "n" corresponde ao "n"–ésimo termo não repetido na ordenação estabelecida pelo passeio de Cantor. bijeção entre Inteiros positivos e Racionais
+O princípio é o mesmo que no caso anterior, mas o passeio é feito da seguinte forma. Contudo, nem todos conjuntos infinitos têm a mesma cardinalidade, como veremos nos resultados a seguir. Proposição: Não é possível estabelecer uma bijeção entre os números Naturais e os números Reais do intervalo ]0, 1[. "Demonstração:"
+Por absurdo, vamos supor que existe uma ordenação enumerável dos Reais no intervalo em questão.

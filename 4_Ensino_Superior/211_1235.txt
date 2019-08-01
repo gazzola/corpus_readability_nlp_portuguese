@@ -1,0 +1,29 @@
+Curso de termodinâmica/Exercícios de termodinâmica/A26
+Numa mistura a 20º C, as pressões parciais dos componentes são:
+Qual é a pressão total da mistura e a fração de hidrogênio em percentual do volume total?
+A pressão total é igual à soma das pressões parciais:
+formula_1
+formula_2
+
+
+Curso de termodinâmica/Exercícios de termodinâmica/A6
+Uma massa de Neônio ocupa 200 ml a 100ºC. Achar seu volume a 0ºC com pressão constante.
+A Lei de Charles diz: 
+"Em pressão constante, o volume de uma quantidade constante de gás aumenta proporcionalmente à temperatura."
+Não entre nesta fria! Nunca esqueça que em física e em química, trabalhamos sempre com a temperatura dita "absoluta" ou "termodinâmica", em Kelvin (K). 
+Temperatura em K = Temperatura em C + 273,16
+Então, nosso gás ocupa 200 ml a 100 + 273 = 373 K. Qual será o volume a 0 + 273 = 273 K?
+formula_1
+
+
+Curso de termodinâmica/Exercícios de termodinâmica/A15
+Uma massa de gás ocupa 1 m às condições padrões (760 mmHg, 0° C). Que volume irá ocupar a 300° C e 25 atm?
+Dados do problema:
+formula_1
+
+
+Curso de termodinâmica/Diagrama de fases de um corpo puro
+Que nos diz este diagrama sobre grafite e diamante?
+A uma certa temperatura constante, a fase sólida diamante do carbono é estável a alta pressão, porém é a fase grafite que é estável a baixa pressão. Sabendo que o estado estável é aquele que tem a energia livre G mínimo e que a variação de G com a pressão é o volume molar da fase, o diagrama indica que o volume molar do diamante é menor que aquele da grafite, quer dizer, que o diamante é mais denso, mais compacto que a grafite.
+A uma certa pressão constante, o diamante é mais estável a baixa temperatura, mas é a grafite que é estável a alta temperatura. Sabendo que o estado estável é aquele de energia livre G mínimo e que a variação de G com a temperatura é a entropia molar da fase, o diagrama indica que a entropia do diamante é menor que aquela da grafite, quer dizer, que o diamante é mais ordenado que a grafite.
+

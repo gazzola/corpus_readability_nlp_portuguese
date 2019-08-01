@@ -1,0 +1,11 @@
+ Otimização/Métodos duais
+O conceito de lagrangiana está sempre relacionado ao seguinte problema:
+Em alguns livros é usada a seguinte notação:
+Deste modo, a lagrangiana fica expressa por
+que é uma representação bem mais compacta. Para permitir a compreensão da importância da função lagrangiana em otimização, é preciso ter em mente os principais resultados que garantem a otimalidade de uma solução para o problema formula_7. Nas próximas seções será apresentado um breve resumo das condições de otimalidade, dividindo-as em dois casos:
+A condição formula_10 significa que os vetores formula_11 e formula_12 formam um ângulo reto ou agudo (menor ou igual a 90 graus), conforme indicado na figura a seguir:
+No caso específico, com formula_13 e formula_14, formula_15 é a derivada direcional de formula_16 na direção formula_17. Quando tal número é não negativo, intuitivamente a função cresce naquela direção. Quando formula_9 é um conjunto convexo e fechado, a existência de uma solução para o problema formula_7 é garantida pela seguinte proposição:
+Até aqui, não é exigido que qualquer das funções formula_20 ou formula_21 sejam diferenciáveis. Isto será utilizado mais adiante, nos algoritmos. A próxima proposição fornece uma caracterização dos minimizadores, em termos do conceito de projeção. Lembre-se que a projeção de um ponto formula_22 sobre o conjunto formula_9, denotada por formula_24, satisfaz formula_25. Na verdade, vale:
+Para tratar este caso, é preciso utilizar o conceito de cone tangente. O conjunto contínua o mesmo, ou seja, formula_8, embora não seja mais suposto que ele é convexo. Mesmo assim, formula_9 ainda será fechado, pois as funções formula_20 e formula_21 que o definem são contínuas. Este teorema pode ser demonstrado de forma análoga a que foi feita anteriormente. Seja formula_31 definido como:
+Pela segunda propriedade do cone tangente, tem-se:
+Em outras palavras, se é dado um conjunto formula_31 e depois se restringe tal conjunto para formula_9, através do acréscimo de restrições inativas em um ponto formula_37, os cones tangentes aos dois conjuntos (no ponto formula_37) coincidem. Observação: Também se pode dizer condições de regularidade das restrições (do inglês, "Regularity conditions").

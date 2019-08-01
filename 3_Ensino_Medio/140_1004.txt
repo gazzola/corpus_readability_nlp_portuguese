@@ -1,0 +1,12 @@
+Introdução à Química/Hidrocarbonetos acíclicos
+Os hidrocarbonetos acíclicos (a= sem; "sem ciclo") são moléculas constituídas apenas de carbono e hidrogênio. Uma cadeia normal de hidrocarbonetos acíclicos satisfaz a seguinte equação:
+Em que C é a quantidade de átomos carbono e L o total de ligações. São divididos em vários grupos, listados abaixo, com suas respectivas equações gerais:
+Para H a quantidade de átomos de hidrogênio, "x" o número de ligações triplas e "y" o de duplas.
+Para determinar a quantidade de hidrocarbonetos acíclicos que tenham determinada fórmula molecular (Q), basta aplicar uma das seguintes fórmulas:
+O etileno é o hidrocarboneto alceno mais simples, constituído por dois átomos de carbono e quatro de hidrogênio ( CH ). Existe uma ligação dupla entre os dois carbonos. A existência de uma ligação dupla significa que o etileno é um hidrocarboneto insaturado. Pela nomenclatura IUPAC recebe a denominação de eteno.
+A molécula não pode rodar em torno da ligação dupla, e os seis átomos dispõem-se no mesmo plano. O ângulo das duas ligações carbono-hidrigênio é de 117º, muito próximo dos 120º preditos pela hibridização sp2 ideal.
+É um gas incolor, odor etéreo, levemente adocicado que liquefaz a -103ºC e solidifica a -169ºC.
+O acetileno conhecido pela nomenclatura IUPAC por etino é um hidrocarboneto da classe dos alcinos. É o alcino mais simples, constituido por dois carbonos e dois hidrogênios (CH). Os dois átomos de carbono estão ligados através de uma tripla ligação.
+É um gás incolor, de odor agradável, que liquefaz a temperatura de -83ºC e solidifica a -85ºC. É muito instável , sob pequenas compressões se decompõem com muita facilidade liberando energia. É armazenado em cilindros de aço, sob pressão , dissolvido em acetona.
+O acetileno foi descoberto por Edmund Davy em 1836 na Inglaterra. Berthelot foi o primeiro a sintetizá-lo através de um arco voltaico produzido entre eletrodos de grafite envolvidos numa atmosfera de hidrogênio:
+

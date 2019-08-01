@@ -1,0 +1,43 @@
+Mecânica dos fluidos/A equação de Bernoulli
+A aplicação das duas primeiras equações básicas (Equação de continuidade e Segunda Lei de Newton) ao escoamento unidimensional do líquido ideal dá como resultado uma equação conhecida como equação de Bernoulli. Essa equação é importante porque muitos problemas práticos podem ser aproximados razoavelmente por essa condição.
+O líquido ideal é um fluido incompressível e com viscosidade nula. Escolhamos um volume de controle C que envolva o fluido de forma que não haja fluxo pelas laterais, apenas pelas faces anterior e posterior. Façamos o volume de C ser infinitesimal e sejam δA e δA as áreas de cada face, e δl o seu comprimento. Como C é muito pequeno, as propriedades importantes do campo só podem mudar infinitesimalmente no seu entorno; assim, se p e v são a pressão e a velocidade do fluido na face anterior, na face posterior serão p + δp e v + δv.
+A aplicação da equação de continuidade
+formula_1
+resultará em
+formula_2
+pois o produto δv · δA pode ser desprezado. Aplicando-se a segunda lei de Newton
+formula_3
+teremos
+formula_4
+A força δF será a componente do peso de C no sentido do escoamento. Seja Θ o ângulo que o fluxo faz com o eixo vertical, convencionado como o eixo Z. Assim:
+formula_5
+Onde δz = δl · sin Θ é a projeção na vertical do elemento de volume. O sinal negativo, obviamente, deve-se ao fato de a força apontar para baixo.
+A força δF, na ausência de tensôes superficiais, uma vez que o fluido tem viscosidade nula, poderá ser calculada pelo método indicado na seção sobre hidrostática: somam-se os produtos da pressão no centro geométrico de cada superfície pela projeção da mesma no plano.
+formula_6
+onde os subscritos a, p e l indicam as superfícies anterior, posterior e lateral, posteriormente. Como estamos considerando positivas as forças que atuam no sentido do fluxo:
+formula_7
+Assim:
+formula_8
+pois o termo δpδA é muito pequeno e pode ser desprezado.
+Tudo isso resulta em
+formula_9
+novamente desprezando o produto de dois infinitesimais. A equação pode ser escrita
+formula_10
+que é a equação de Bernoulli.
+Cumpre lembrar mais uma vez que essa equação só é válida para o líquido ideal em um escoamento laminar, e em regime permanente; apenas nessas condições o fluxo dentro do elemento de volume δv espelha bem o fluxo macroscópico real.
+As parcelas da equação de Bernoulli, como formulada acima, possuem a dimensão de energia especifica. Isso pode ser verificado da seguinte maneira:
+D{e} = [D{F}·D{L}·D{M}] = [[M·L·t]·L·M] = [L·t]
+D{p·ρ} = [D{F}·D{A}]·[D{M}·D{V}] = [[M·L·t]·[L][M]·[L] = [L·t]
+D{v} = [[L·t]] = [L·t]
+D{gz} = [D{g}·D{z}] = [[L·t]·L] = [L·t]
+Como g é uma constante, podemos dividirmos todas as parcelas por ela, obtendo a equação na forma
+formula_11
+onde as parcelas possuirão a dimensão de comprimento, como é fácil ver pela última parcela. A grandeza obtida dessa forma é chamada carga na literatura.
+A linha de energia (EGL - "energy grade line") é uma linha imaginária que representa a carga do líquido ideal fluindo em um duto ou canal aberto. Ela é obtida a partir da equação de Bernoulli, formulada em termos da carga
+formula_11
+A linha piezométrica (HGL - "hydraulic grade line") é uma linha imaginária que representa apenas as parcelas estáticas da carga 
+formula_13
+A parcela formula_14 é chamada de carga dinâmica. Em um canal aberto, a linha piezométrica sempre coincide com a superfície do fluido.
+Uma ilustração das linhas de energia e piezométrica pode ser encontrada neste local
+As seguintes idéias são úteis ao desenhar-se a HGL e a EGL:
+

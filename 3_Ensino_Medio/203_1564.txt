@@ -1,0 +1,11 @@
+ Matemática elementar/Conjuntos/Números naturais
+Um número natural é um número inteiro não-negativo (0, 1, 2, ...). Em alguns contextos, o número natural é definido como um número inteiro positivo, i.e., o zero não é considerado como um número natural. O uso mais comum deles é a contagem ou a ordenação. As propriedades dos números naturais como, por exemplo, divisibilidade e a distribuição dos números primos, são estudadas neste capítulo. Outras propriedades que dizem respeito a contagens e combinações são estudadas pela análise combinatória. Os matemáticos usam formula_1 para se referir ao conjunto de todos os números naturais. Este conjunto é infinito e contável por definição. Se retirarmos o formula_3 desses conjunto, obtemos o subconjunto:
+São duas as operações em naturais que sempre tem correspondente natural. São a adição e a multiplicação de naturais. As outras operações básicas, a subtração e a divisão nem sempre tem correspondente em naturais, embora possam ter em outros conjuntos. Por exemplo: 10 e 11 são números naturais, porém, formula_6, e formula_7 não é um número natural. Porém, é um número inteiro, pertencente ao conjunto formula_8
+Um número é divisível por 2 quando termina em 0, 2, 4, 6 ou 8, isto é, quando é par. Por exemplo, 40, 42, e 44 são números divisíveis por 2. Um número é divisível por 3 quando a soma dos valores absolutos de seus algarismos for divisível por 3. Exemplo:
+Um número é divisível por 4 quando os dois últimos algarismo forem 0 ou formarem um número divisível por 4. Exemplo:
+Um número é divisível por 5 quando termina em 0 ou 5. Exemplo:
+Um número é divisível por 6 quando é divisível por 2 e por 3. Exemplo:
+A divisibilidade por formula_9 também pode ser verificada da seguinte maneira: 
+Tome por exemplo o número 453. Separando-se o último algarismo ficamos com 45 e 3. Do primeiro subtraímos o dobro do segundo, ou seja, formula_10 Como 39 não é divisível por 7 o número 453 também não é.
+Outro exemplo: formula_11 → Separando formula_12 e formula_13 teremos formula_14 Como formula_15 é divisível por formula_9 o número formula_11 também é.
+Outro critério usa a soma e não a subtração.

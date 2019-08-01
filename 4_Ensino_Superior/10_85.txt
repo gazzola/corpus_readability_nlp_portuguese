@@ -1,0 +1,33 @@
+Cálculo (Volume 3)/Seqüências numéricas infinitas
+Definição: Uma seqüência (em Portugal diz-se sucessão) é uma função onde o domínio é formula_1 e cuja imagem é formula_2 ou formula_3.
+formula_4
+É uma lista de elementos, ou seja, um conjunto ordenado de maneira que cada elemento fica naturalmente seqüenciado. Uma seqüência é uma função com domínio igual ao conjunto dos números inteiros positivos (ou, o que é o mesmo, o conjunto dos números naturais não-nulos).
+A seqüência dos inteiros positivos é: 1, 2, 3, ..., "n" - 1, "n", "n" + 1, ... Cada número é um termo, com "n" sendo o "enésimo" termo. Denota-se a seqüência por:
+A seqüência também é indicada por: "a", "a", "a", ..., "a", ... Os termos da seqüência fazem parte de um conjunto comumente indicado por S; Eles são uma seqüência em S.
+Uma seqüência pode ter um número "finito" ou "infinito" de termos; portanto, pode ser uma "seqüência finita" ou uma "seqüência infinita". Obviamente, é impossível enumerar ou explicitar todos os termos de uma seqüência infinita. seqüências infinitas são dadas listando-se seus primeiros termos e colocando um sinal de reticências donde, com costumeira sorte, se depreende a regra formadora do restante da seqüência.
+Formalmente, uma seqüência pode ser definida como uma função de formula_5 (o conjunto dos números naturais) em S. 
+Se "S" for o conjunto dos inteiros, então trata-se de uma seqüência inteira. Se for um conjunto de polinômios, então é uma seqüência polinomial.
+Uma "subseqüência" de uma seqüência "S" é formada removendo-se alguns elementos de "S" sem mudar a posição relativa dos elementos restantes.
+Alternativamente, pode-se definir uma seqüência de modo "recursivo". Consiste em se definir alguns termos iniciais e, a partir daí, atribui-se uma regra que a cada novo termo depende de um ou mais termos antecedentes. Talvez o exemplo mais famoso seja o da seqüência de Fibonacci.
+A soma de uma seqüência é chamada de série matemática. Por exemplo:
+Notações:
+OBS.: Utilizaremos mais a notação 4
+OBS.: Estudaremos apenas seqüências que obedecem a uma lei de formação
+Para se representar uma sequência, colocam-se os membros entre parênteses, seraparados por vírgulas (quando há números decimais na sequência, usa-se o ponto-e-vírgula). Exemplos:
+formula_11
+formula_12
+Por vezes, uma sequência possui um padrão que permite criar uma fórmula do termo geral. É uma equação fundamental que determina os termos da sequência.
+Em uma progressão aritmética, por exemplo, a fórmula do termo geral é:
+formula_13
+Definição: Dada uma seqüência formula_14, dizemos que o número formula_15 é o limite de formula_14 para formula_17 se, formula_18 > 0, formula_19 tal que formula_20 < formula_21.
+Definição: Se a seqüência formula_14 tem limite L, dizemos que ela é convergente e que converge a L. Caso contrário, dizemos que ela diverge.
+Sejam formula_23 duas seqüências convergentes, isto é, formula_24 e formula_25.
+Então:
+Definição: Dada uma seqüência formula_4, as restrições de formula_31 a subconjuntos de formula_32 serão denominadas subseqüências de formula_31.
+Teorema: Se formula_34, então toda subseqüência de formula_35 converge para o mesmo limite L.
+Teorema: Dada a seqüência formula_35, se as subseqüências de ordem par e as subseqüências de ordem ímpar convergem para o mesmo valor L, então formula_35 converge também para L.
+Definição: Dada uma seqüência formula_38, temos que:
+Observações:
+Teorema: Toda seqüência monótona e limitada é convergente.
+Definição: Seja formula_35 uma seqüência monótona:
+

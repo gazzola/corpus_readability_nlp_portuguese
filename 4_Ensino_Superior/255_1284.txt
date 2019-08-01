@@ -1,0 +1,22 @@
+Logística/Gestão de armazéns/Picking
+
+
+Logística/Técnicas de previsão/Previsão a longo prazo/Métodos de previsão subjectivos/Força de vendas
+A força de vendas é uma técnica na qual os vendedores desempenham um papel fundamental na obtenção de informação para as previsões, visto que trabalham muito próximo com os clientes e os seus mercados geográficos.
+O processo desenvolve-se da seguinte forma: os vendedores de determinadas empresas fazem estimativas sobre as suas vendas; estas opiniões são agregadas, tanto a nível distrital como nacional, por forma a ser elaborada uma previsão geral sobre o assunto pretendido; após a obtenção dos resultados, se necessário, é possível, compará-los com os que são obtidos através de outras técnicas que efectuam previsões de vendas, nomeadamente o júri de opinião executiva, os métodos causais ou as séries temporais. 
+As principais vantagens desta técnica de previsão são a apresentação de opiniões antecipadamente e o facto destas serem obtidas independente umas das outras, tornando-as mais viáveis.
+Por outro lado esta ferramenta também apresenta certas desvantagens. A principal é o facto dos vendedores serem muito optimistas em relação às vendas, criando assim um erro de previsão. Uma outra desvantagem é o facto da força de vendas poder não estar a par dos desenvolvimentos ou das condições da macroeconomia, estando o mesmo relacionado com o facto de um bom vendedor não ter, necessariamente, de ser capaz de elaborar uma boa previsão. Por vezes, os vendedores têm a tendência de generalizar sobre o que aconteceu numa reunião de vendas. Uma selecção criteriosa das previsões poderá ajudar a eliminar alguns destes problemas (DeLurgio 1998, p. 630-631).
+De acordo com Mentzer (2005, p. 156), um estudo realizado sobre este método qualitativo revela que:
+
+
+Logística/Sistemas de distribuição/Escala de veículos/Capacidade PEV
+O Problema de escala de Veículos com capacidade limitada (CPEV) é a abordagem mais simples de um PEV (tento a mesma formulação). Uma frota de veículos, com igual capacidade, está disponível a partir do depósito, para assegurar que o problema seja viável, a quantidade total atribuída a cada rota não pode exceder a capacidade do veículo que serve essa rota. Tendo como objectivo minimizar a frota de veículos, a soma do tempo de viagem, bem como a demanda total de produtos para cada rota. 
+Sintetizando deve Respeitar as seguintes restrições:
+
+
+Logística/Planeamento e projecto de instalações/Systematic Layout Planning (SLP)
+Systematic Layout Planning (SLP) ou, em português, Planeamento Sistemático de Instalações, consiste numa reorganização do espaço de trabalho, de modo a encontrar-se o "layout" mais eficiente para um determinado local de trabalho. A reorganização é elaborada tendo por base um conjunto de procedimentos.
+As primeiras técnicas SLP foram publicadas em 1955, pela editora "McGraw-hill Book Co.", em Nova Iorque e, só mais tarde, Richard Muther juntou as várias técnicas e ferramentas, permitindo ao SLP adquirir as características, pelas quais é actualmente conhecido.
+O SLP é implementado há mais de 40 anos e é um sistema de planeamento de "layout", que já provou ser bastante eficaz em várias situações, mais especificamente na mudança de equipamentos, de produtos a serem produzidos e na expansão dos locais de trabalho. Pode também ser utilizado para aumentar e facilitar o fluxo de materiais e melhorar a comunicação entre os colaboradores numa empresa, nomeadamente, na implementação de células de trabalho e na implementação do sistema LEAN.
+Actualmente, o sistema é utilizado por inúmeros gestores industriais, gestores de produção, supervisores e operadores principais.
+

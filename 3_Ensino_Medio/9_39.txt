@@ -1,0 +1,21 @@
+Introdução à Química/Ácidos e bases
+Pela teoria de , base, hidróxidos ou substâncias alcalinas (pois ocorrem com metais alcalinos) é toda substância que em água sofre dissociação e produz como íon negativo apenas OH e torna o outro elemento um íon positivo. Exemplo:
+formula_1
+Dessa forma concluímos que para uma substância ser considerada uma base de Arrhenius ela deve possuir em sua estrutura a , isto é, o grupo OH
+Ácidos são substâncias que ao entrar em contato com água sofrem ionização e produzem o íon positivo H e o íon negativo do outro elemento:
+formula_2
+O é uma medida da concentração de de hidrogênio em solução aquosa. Os valores do pH variam em uma escala que vai de 0 a 14, sendo que a água pura tem pH próximo de 7, conforme a sua . Para soluções ácidas o pH é menor que 7, enquanto que para as soluções básicas o pH é maior que 7:
+Quanto mais próximo de 0 mais ácida é a substância, ou seja, a acidez decresce com o pH.
+Quanto mais próxima de 14 mais básica é a substância, isto é, a basicidade cresce com o pH. 
+Curiosidades
+Quando encontramos compostos ácidos super concentrados (com concentração acima de 1,0 mol/L) observamos que o pH do composto se torna negativo, isso se deve à concentração de íons hidrônio ser muito elevada, logo a escala não suporta.
+Mesma situação ocorre na dissociação de bases com concentrações acima de 1,0 mol/L, sendo o pH dos compostos encontrados acima de 14,0, devido à mesma característica observada nos compostos ácidos, sendo essa concentração relativa aos íons hidroxila.
+Os metálicos conduzem eletricidade devido ao aglomerado de átomos neutros e cátions, mergulhados em uma nuvem de elétrons livres, logo essa nuvem de elétrons funciona como uma ligação metálica, mantendo esses átomos unidos.
+É a reação entre um ácido e uma base, que resulta na formação de água e uma nova substância, um . O sal é formado pelo cátion da base e pelo do ácido.
+Sais são compostos resultantes da reação de um ácido com uma base (reação de neutralização).
+É bom memorizar que todo ácido ao reagir com uma base produz sempre sal e água. O sal mais famoso é o NaCl - cloreto de sódio, o sal de cozinha. Exemplo:
+formula_3
+formula_4
+Óxidos são compostos binários, isto é, possuem dois elementos químicos, sendo o oxigênio o elemento mais eletronegativo. Exemplos: CaO, CO , HO , HO etc.
+Então, lembre-se: os óxidos sempre possuem dois elementos químicos e um deles é obrigatoriamente o oxigênio, o qual aparece do lado direito da fórmula, pois é o átomo mais eletronegativo. Veja as seguintes substâncias binárias: OF, OF elas não são óxidos, pois apesar de possuírem apenas dois elementos e sendo um deles o oxigênio, o átomo de (F) é o elemento mais eletronegativo e por isso aparece à direita da fórmula.
+

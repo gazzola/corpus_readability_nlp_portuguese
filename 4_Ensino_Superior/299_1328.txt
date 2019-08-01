@@ -1,0 +1,59 @@
+Mecânica dos fluidos/Exercícios resolvidos/E18
+Repetir o exercício E8 usando a equação de Hazen-Williams. Considerar o coeficiente de atrito de Hazen-Williams como valendo 80.
+Como
+formula_1
+formula_2
+formula_3
+formula_4
+uma boa aproximação.
+
+
+Mecânica dos fluidos/Elementos pressurizadores
+A perda de carga nas tubulações pode ser compensada através de elementos que elevem a pressão no fluido, de maneira a contrariar a queda de pressão Δp causada pela fricção. Esses elementos são chamados de bombas, no caso de fluxo de líquidos, e de ventiladores ou compressores, no caso de fluxo de gases.
+Em geral, esses pressurizadores introduzem um aumento de pressão muito alto em um intervalo de espaço e tempo muito curto, de modo que é possível, na análise, desprezar alterações na energia interna do fluido e perdas de calor ao meio ambiente. Por isso, a equação de conservação na energia nos dá que
+formula_1
+onde o subscrito 1 se refere à entrada e o subscrito 2, à saída. No caso de líquidos, ρ = ρ e, portanto, pela equação de continuidade, v = v. Assim,
+formula_2
+Como v = v, a energia cinética do fluido permanece constante. A idéia comum de que uma bomba entrega energia cinética para o fluido é, portanto, errônea. A elevação de carga produzida pela bomba é algumas vezes entendida como uma "perda de carga negativa".
+Na prática, a carga ΔH produzida por uma bomba deve ser somente aquela necessária para contrabalançar as perdas na tubulação; a bomba deve, portanto, se ajustar a um dado sistema, de maneira a que a vazão desejada seja obtida.
+A energia entregue por uma bomba é dada por W = Φ · Δp, e a potência é dada por P = Φ · ΔH. A eficiência de uma bomba é dada por
+formula_3
+
+
+Mecânica dos fluidos/Exercícios resolvidos/C10
+Um pistão move-se horizontalmente dentro de um cilindro cheio de gás, atingindo a velocidade de 12 m/s quando distante 0.15 m da parede lateral. Neste momento, a densidade do gás é de 18 kg/m e uniforme dentro do cilindro. A velocidade do gás varia linearmente a partir do repouso para pontos adjacentes à parede lateral até v para pontos adjacentes ao pistão. Derive uma expressão para o valor da densidade média no cilindro e calcule taxa de variação da densidade nesse instante.
+Escolhamos a origem dos eixos coordenados sobre a parede lateral do cilindro. Do enunciado, a velocidade do gás é dada por
+formula_1
+Assim
+formula_2
+Além disso, podemos escrever formula_3
+Logo
+formula_4
+De acordo com a equação de continuidade
+formula_5
+pois v = v = 0. Assim
+formula_6
+pois, de acordo com o enunciado, a densidade não varia com a posição x dentro do cilindro, apenas com o tempo. Logo,
+formula_7
+formula_8
+formula_9
+formula_10
+
+
+Mecânica dos fluidos/Exercícios resolvidos/F3
+Repetir o problema anterior, desta vez para obter a queda de pressão Δp, em lugar da perda de carga h.
+As variáveis originais serão:
+A escolha da queda de pressão, em lugar da perda de carga, faz sentido, pois ela pode ser diretamente medida, com um instrumento simples, como um manômetro diferencial.
+As k = 3 dimensões envolvidas, como se vê, são novamente [M], [L] e [t].
+Selecionemos novamente os 3 parâmetros ρ, v e D; de acordo com o teorema de Buckingham, Δp não deve ser utilizado. Além disso, também de acordo com o teorema, dois dos grupos adimensionais serão: a razão entre D e e e a razão entre D e L. Faltam, portanto, dois, e as equações dimensionais serão:
+formula_1
+Usando novamente o resultado obtido no exemplo já estudado anteriormente, podemos escrever
+formula_2
+bastando resolver a nova equação
+formula_3
+formula_4
+formula_5
+formula_6
+Assim
+formula_7
+

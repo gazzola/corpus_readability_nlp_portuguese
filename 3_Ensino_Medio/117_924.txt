@@ -1,0 +1,24 @@
+Introdução à física/Energia mecânica/Exercício
+Nesse módulo, faremos exercícios sobre os temas desse capítulo: a energia e o trabalho.
+-A bala atirada para cima terá maior velocidade.
+-A bala atirada horizontalmente não atingirá o solo, pois propagar-se-á em linha reta.
+-O primeiro tiro terá velocidade nula, pois no ponto mais alto da trajetória, antes de começar a cair, sua velocidade é mínima.
++As três balas chegaram com mesma velocidade.
+-O terceiro tiro chegará ao solo com a menor energia cinética de todos.
+João, num jogo de basquete, discutia com seus colegas sobre a altura em que a bola chegaria. marque a proposição em que a situação descrita é fisicamente verdadeira, justificando-a.
+- Se eu jogar essa bola de qualquer forma ela chegará a mesma altura que se eu chutasse naquela rampa, desde que tenha a mesma velocidade no instante inicial.
+- Paulo discordou do amigo, dizendo que, se você jogar a bola para cima, ela não terá mesma velocidade que na rampa.
++ Carlos disse que concordava com João, desde que a bola fosse jogada para cima.
+Calcule a altura em que a força resultante estará sobre o eixo horizontal, sabendo que a velocidade no ponto em que a altura é igual ao raio R, corresponde a 10 m/s. Considere g = 10 m/s.
+- formula_1
++ formula_2
+- formula_3
+- formula_4
+- formula_5
+- Percoreram a mesma distância
+- Terão a mesma velocidade no final
+- Gastarão o mesmo tempo
+
+5.Um circo contratou uma empresa para fabricar um globo da morte. Nele, motos girariam, e em determinado ponto, ficariam de cabeça para baixo. Eles desejam fazer uma abertura no globo. Sabendo que o globo da morte é uma esfera perfeita e tem raio de 5 metros e a aceleração da gravidade é 10 m/s², calcule a maior abertura possível para uma velocidade de 36 km/h.
+Um skatista está numa rampa de mesma altura que a Big Air e possui duas partes inclinadas de 10 metros de comprimento e outra central plana de 20 metros. Sabendo que a parte inclinada tem atrito desconsiderável e que a plana tem coeficiente de atrito igual a 0,1, determine:
+

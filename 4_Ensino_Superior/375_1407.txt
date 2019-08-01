@@ -1,0 +1,44 @@
+ Considerando:
+formula_102 área da seção. O volume é:
+formula_103
+Uma vez que quando formula_104 temos formula_105 
+e que temos seções dentro do intervalo formula_39, onde a maior é a norma, podemos concluir que
+a somatória é levada, no limite, a ser a integral:
+formula_107
+Ou seja, para que possamos encontra a área nestes casos basta encontrar a integral definida da
+função área; sempre que for possível encontrar uma função contínua da área da seção em relação 
+a variável independente, poderemos encontrar o volume do sólido integrando esta função área. Calcular o volume do sólido formado por um cilindro circular reto, cuja base tem centro na 
+orígem dos eixos cartesianos e é paralela ao plano formula_108 dentro de um 
+raio de 4 unidades, sendo secionado por um plano que passa pelos pontos formula_109
+e formula_110 equidistante do eixo formula_111:
+Retiramos as informações do problema proposto, que nos diz que:
+pelos pontos que pertencem ao plano, uma vez que o plano é perpendicular ao plano formula_113:
+logo:
+formula_114
+que define a reta:
+formula_115
+que o valor de formula_1 aumenta, cujo valor pode ser obtido por:
+formula_118 
+Diante disto podemos verificar que o sólido pode ser definido por seções trangulares, perpendiculares
+ao eixo formula_1, portanto fazemos:
+formula_120
+Pois há faixas onde formula_121 o que nos obriga a aplicar a correção. Agora vamos calcular a integral indefinida:
+formula_122
+formula_123
+Se tivermos:
+formula_124
+formula_125
+formula_126
+Substituimos:
+formula_127
+formula_128
+formula_129
+formula_130
+Redefinindo:
+formula_131
+Ou seja:
+formula_132
+logo:
+formula_133
+O volume é:
+Esta é uma aplicação bastante interessante... Considere que tenhamos que calcular a pressão que um líquido exerce sobre um objeto imerso em algum líquido, se o objeto é plano o cálculo dessa pressão e conseqüentemente a força total sobre a superfície é fácil de ser calculada, porém se o objeto é curvo e a força se distribui ao longo do corpo temos um problema complexo nas mãos. Investigaremos agora uma aplicação da integral para solução deste problema.

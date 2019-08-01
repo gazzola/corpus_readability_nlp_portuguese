@@ -1,0 +1,41 @@
+ No caso da modificação ser temporária, o retorno às condições iniciais obriga à mesma obediência de divulgação da informação para todos os elementos/áreas afectados directa ou indirectamente pela Modificação. Deve ser prevista na alteração o processo de comunicação a Entidades externas nos termos do definido nos requisitos legais aplicáveis. 8. TIPOS DE ALTERAÇÕES
+Apesar de algumas alterações poderem ser de pequena dimensão e com pouca probabilidade de comprometerem a segurança processual, todas as alterações têm o potencial para perturbação. 8.1 MODIFICAÇÕES NA TECNOLOGIA
+As Modificações na tecnologia/processuais acontecem quando o projecto processual da instalação é alterado. Estas modificações podem também acontecer como resultado de alterações nas cargas de alimentação, catalisador, especificações de produtos, subprodutos ou produtos residuais, inventários de projecto, instrumentação e sistema de controlo ou materiais de construção, assim como alterações impostas por requisitos legais. 8.2 MODIFICAÇÕES EM INSTALAÇÕES/EQUIPAMENTOS
+Modificações em infra-estruturas ocorrem sempre que modificações mecânicas são efectuadas e que não têm necessariamente que constar dos planos de Infraestruturas. Como exemple de alguns tipos de alterações tempos:
+- Projecto de novas instalações que envolvem modificações em equipamento ou unidades existentes;
+- Modificações em instalações existentes incluindo a construção/montagem de novos equipamentos;
+- Projectos para aumentar a capacidade nominal das unidades ou acomodar novas cargas de alimentação ou produtos;
+- Modificação que altere as condições de licenciamento existentes ou obrigue a novos licenciamentos. - Modificações nas condições operacionais, incluindo pressões, temperaturas, caudais ou condições processuais que ultrapassem os limites do projecto original;
+- Modificações no processo ou equipamento que implique operarem acima da capacidade de design. Isto pode incluir aumento da capacidade nominal, operação a temperaturas e pressões mais elevadas, modificação do dimensionamento de equipamentos ou a adição de equipamento que possa contribuir para necessidades de despressurização superiores;
+- Interligações de bypass a equipamento normalmente em serviço;
+- Modificações de operações e respectivos procedimentos, incluindo operações de arranque, paragem normal, e paragem de emergência;
+- Introdução de novos aditivos processuais;
+- Modificação de serviço de equipamentos ou funções de armazenagem, carga/descarga e respectivas tubagens; 
+- Substituição de equipamento/maquinaria por outro com diferentes características;
+- Fornecimento alternativo de material processual, catalisadores ou reagentes, através de acumuladores temporários ou tanques localizados no interior da instalação;
+- Desmantelamento ou desactivação, total ou parcial, de unidades processuais e equipamentos/instalações;
+- Modificação estrutural de equipamentos ou do seu suporte;
+- Novos produtos químicos;
+- Novo ponto de descarga de emissões liquidas ou gasosas;
+- Modificações de redes de drenagem;
+- Modificação que altere a produção de resíduos, efluentes ou emissões em termos de qualidade ou quantidade;
+- Modificação de layout da instalação ou equipamento;
+- Adição, remoção ou modificação de tubagens e válvulas;
+- Modificações de set points de sistemas de segurança;
+- Modificação nas válvulas processuais de disparo de segurança;
+- Modificações nas UPS ou equipamentos de fornecimento de energia eléctrica em emergência;
+- Modificações nos settings das protecções eléctricas;
+- Modificação da escala dos instrumentos de medida;
+- Modificação, alteração e inibição de alarmes;
+- Introdução de novos produtos ou componentes;
+- Modificação de especificação de materiais;
+- Substituição de material de equipamento utilizando peças não especificadas;
+- Modificação de especificação de engenharia;
+- Modificação do tipo de revestimento interior ou exterior (incluindo pintura e isolamentos térmicos ou outros);
+- Modificações de equipamentos de combate a incêndios ou derrames ( incluindo layout localização);
+- Modificações no ordenamento da circulação ou estacionamento em vias de comunicação adjacentes à instalação;
+- Modificações no Plano Director Municipal;
+Referências bibliográficas:
+• API 750-API Recommended Practice 750 - Management of Process Hazard
+• DL 254/2007 estabelece o regime de prevenção de acidentes graves que envolvam substâncias perigosas e a limitação das suas consequências para o homem e o ambiente
+• NPG-031 – Gestão de Modificações- Revisão 01 AQS Corporativo Galpenergia. • Requisitos do Sistema de Gestão de Segurança para a Prevenção de Acidentes Graves (SGSPAG), Agência Portuguesa do Ambiente.

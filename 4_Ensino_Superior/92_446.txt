@@ -1,0 +1,21 @@
+Logística/Localização/Selecção de locais/Selecção do local pela teoria dos conjuntos difusos/Avaliação do peso relativo dos critérios
+Os pesos de cada critério de localização foram, segundo os gestores, expressos em termos de "Muito Importante" (MI), "Importante" (I), "Normal" (N), "Fraco" (F) e "Muito Fraco" (MF). Sabendo que estes critérios são subjectivos e que necessitam de uma avaliação quantitativa, os mesmos apresentam os seguintes pesos numéricos:
+Por observação da Tabela 1, o atributo linguístico "Muito Fraco" (MF), por exemplo, tem um peso que varia entre 0 e 0,4 na tomada de decisão. Supondo que existem quatro valores monetários para a classificação desse atributo, 250€, 300€, 400€ e 500€, estes podem ser interpretados em termos da distribuição trapezoidal, o que corresponde a dizer que o valor inferior, 250€, tem um peso igual a 0; o primeiro ponto médio, 300€, tem um peso igual a 0,1,; o segundo ponto médio, 400€, tem um peso igual a 0,1; e o valor superior, 500€, tem um peso igual a 0,4. Assim, e desta forma, os números do conjunto difuso trapezoidal são fáceis de interpretar (Sule, 2001, p. 22-23). 
+Considerando que cada gestor, "G", é perito em tomadas de decisão, cada um deles atribui uma classificação linguística a cada critério, seja ele objectivo ou subjectivo, e mostra a sua avaliação subjectiva da importância de cada critério (Sule, 2001, p. 24-26). 
+As classificações linguísticas encontram-se representadas na tabela seguinte.
+Através da agregação das classificações linguísticas, atribuídas por cada gestor para cada critério, obtém-se uma nova distribuição trapezoidal, com um peso mínimo, dois valores modais e um valor de peso máximo. Um exemplo de distribuição trapezoidal com atributos linguísticos semelhantes pode ser consultado em Sule (2001, p. 25). 
+Com base nas duas tabelas anteriores, o limite inferior agregado das classificações de todos os gestores para o critério 1, "C" é:
+"Limite inferior" = ("MI + F + N + I") / 4 = (0,8 + 0 + 0,3 + 0,6) / 4 = 0,425
+Do mesmo modo, para a sequência do mesmo critério de decisão, os dois valores modais e o limite superior são:
+"1"º "valor modal" = ("MI + F + N + I") / 4 = (1 + 0,4 + 0,6 + 0,8) / 4 = 0,7 
+"2"º "valor modal" = ("MI + F + N + I") / 4 = (1 + 0,4 + 0,6 + 0,8) / 4 = 0,7 
+"Limite superior" = ("MI + F + N + I") / 4 = (1 + 0,6 + 0,9 + 1) / 4 = 0,875
+Tendo em conta as opiniões dos quatro gestores, o peso do critério 1, "W", tem assim uma nova distribuição:
+"W" = (0,425; 0,7; 0,7; 0,875)
+De forma semelhante, os pesos dos outros critérios são:
+"W" = (0,225; 0,475; 0,475; 0,725)
+"W" = (0,375; 0,65; 0,65; 0,875)
+"W" = (0,3; 0,6; 0,6; 0,85)
+"W" = (0,225; 0,55; 0,55; 0,775)
+"W" = (0,575; 0,8; 0,8; 0,975)
+

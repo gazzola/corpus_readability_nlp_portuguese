@@ -1,0 +1,29 @@
+ Matemática elementar/Estudo de um trinômio elevado a um número qualquer
+Primeiro vamos investigar como se da a distribuição dos trinômios ao quadrado:
+formula_1
+formula_2
+Aparecem coeficientes diferentes para cada termo da expansão, no caso dos trinômios ao quadrado
+existem coeficientes 1 para os termos formula_3, formula_4, formula_5 e 2 para os termos formula_6. A razão para que existam esses coeficientes é simples, o termo formula_7 vem da distribuição da letra a
+sobre o segundo fator formula_8 e também da distribuição da letra b sobre o segundo fator. Ainda não temos artifícios suficientes para generalizar o expoente do trinômio mas sabemos que
+cada termo da expansão pode ter coeficientes diferentes dos coeficientes dos outros termos, vamos
+então ir mais afundo no trinômio para poder generalizar seu expoente. Note que o coeficiente 2 do termo formula_7 veio pelo fato de que existem duas possibilidades,
+na distribuição, de ele aparecer, essas duas possibilidades podem ser interpretadas da
+seguinte maneira:
+Como os dois fatores de multiplicação são iguais, e cada um deles tem 3 letras, então para
+cada termo de duas letras diferentes vão existir duas possibilidades de aparição, uma proveniente
+da distribuição de uma letra sobre outro fator e a outra proveniente da distribuição da outra letra
+sobre o outro fator. Isso tem uma pequena ligação com análise combinatória, quantas possibilidades 
+tem-se de gerar um termo qualquer da distribuição do trinômio formula_10?. Façamos então a distribuição
+com o expoente 3.
+formula_11
+Para fazer essa distribuição pode-se fixar o a do primeiro fator, e o a do segundo fator, 
+distribui-se então essas duas letras dos dois primeiros fatores sobre o terceiro fator, fazendo isso. formula_12
+Agora fixamos o a do primeiro fator e o b do segundo, e distribui sobre o terceiro. formula_13
+Usando a mesma lógica, a primeira letra por convenção é do primeiro fator a segunda do segundo fator. formula_14
+formula_15
+formula_16
+formula_17
+formula_18
+formula_19
+formula_20
+Estão ai todos os termos, agora é só somá-los.

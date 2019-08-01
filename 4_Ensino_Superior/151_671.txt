@@ -1,0 +1,60 @@
+Mecânica dos fluidos/Equações básicas para o líquido ideal
+Um líquido ideal é um fluido incompressível e invíscido (ou seja, sua viscosidade é nula). Muitos líquidos de interesse têm um comportamento que pode ser razoavelmente aproximado pelo líquido ideal. As equações básicas apresentam uma forma muito simplificada quando comparadas às equações gerais.
+Portanto, para um líquido ideal, teremos
+formula_1
+Vamos aplicar essa simplificação às equações básicas em suas diversas formas (para sistemas, integral e diferencial) e obter as equações resultantes. É importante que, como estamos tratando de líquidos, adotaremos a convenção de fazer o eixo Z apontar para baixo, e não para cima. Dessa maneira, o eixo X aponta para a direita e o eixo Y aponta para o observador.
+A equação de continuidade em forma diferencial
+formula_2
+quando aplicada a um líquido ideal, simplifica-se para
+formula_3
+Conforme visto anteriormente, as equações de Navier-Stokes 
+formula_4
+formula_5
+formula_6
+formula_7
+formula_8
+formula_9
+derivadas do princípio de conservação do momento linear, descrevem a dinâmica de um volume diferencial de fluido, juntamente com a equação de continuidade, mas são extremamente difíceis de resolver. No caso de um líquido ideal, as equações acima se reduzem a
+formula_10
+formula_11
+formula_12
+Que podem ser escritas também na forma mais concisa
+formula_13
+Essas equações são chamadas de equações de Euler.
+As equações de Euler em coordenadas cilíndricas podem ser obtidas a partir da forma concisa, substituindo-se a definição da derivada direcional nesse sistema
+formula_14
+formula_15
+formula_16
+formula_17
+As equações de Euler em coordenadas esféricas podem ser obtidas da mesma forma:
+formula_18
+formula_19
+formula_20
+formula_21
+As equações de Euler em coordenadas de linhas de corrente podem ser obtidas a partir da forma concisa tomando-se um elemento de volume infinitesimal δV e aplicando-se o princípio de conservação do momento linear na direção do fluxo, após considerar ρ constante e μ = 0. Seja o fluxo normal ao eixo Y e Θ, o ângulo que a linha de corrente faz com a horizontal nesse ponto. A pressão p na face posterior do volume será
+formula_22
+onde p é a pressão no centro do volume. A pressão na face anterior do volume, similarmente, será
+formula_23
+e a diferença entre as pressões será, evidentemente
+formula_24
+pressão esta cujo sentido é contrário ao fluxo. O peso do volume terá uma componente na direção do fluxo igual a δm · g · sen Θ, também no sentido contrário a ele. Assim, podemos escrever
+formula_25
+onde A é a área transversal ao fluxo e a é a aceleração do volume. Desenvolvendo, teremos
+formula_26
+Mas, sobre uma linha de corrente
+formula_27
+Assim
+formula_28
+No caso de fluxo em regime permanente
+formula_29
+Procedendo de forma similar para a componente normal à linha de corrente
+formula_30
+formula_31
+Desenvolvendo, teremos
+formula_32
+Mas a aceleração na direção normal à linha de corrente é a aceleração centrípeta
+formula_33
+onde r é o raio de curvatura da linha de corrente no ponto considerado. O sinal negativo indica que o elemento de volume está sendo acelerado para dentro da curva. Assim
+formula_34
+Em regiões onde as linhas de corrente são linhas retas, r = ∞, o que implica em a = 0. Nessas regiões, não há variação de presssão entre as linhas de corrente, pois formula_35.
+

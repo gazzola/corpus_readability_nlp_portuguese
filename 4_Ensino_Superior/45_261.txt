@@ -1,0 +1,19 @@
+Teoria dos conjuntos/Axioma da união
+Até agora vimos, usando os axiomas anteriores, como construir conjuntos como formula_1, formula_2 ou mesmo formula_3. É estranho, mas não conseguimos (ainda) construir um conjunto "A" em que formula_4 - apesar de termos um conjunto cujos elementos dos seus elementos são precisamente formula_5, 1 e 2!
+O axioma da união é a ferramenta necessária para se construir este tipo de conjunto, ou seja, a partir de um conjunto "A", forma-se um conjunto "B" cujos elementos são tais que formula_6.
+Um subproduto importante do axioma é a formação do conjunto "união" de dois outros conjuntos, ou seja, dados "A" e "B" este axioma garante a existência de formula_7
+Na linguagem formal, este axioma é:
+A definição acima implica (pelo axioma da extensão) que "B" é único; existem outras formas equivalentes deste axioma, em que o conjunto cuja existência é postulada é um da união. Nestes casos, para se obter a união é preciso aplicar o axioma da separação para a propriedade formula_9.
+Como "B" é único, é interessante dar um nome a ele, assim, este conjunto é definido como:
+Sendo "A" e "B" conjuntos, pelo axioma do par existe o conjunto "X = {A, B}". Aplicando-se o axioma da união a este conjunto "X", obtém-se um conjunto formula_11.
+É fácil mostrar que formula_12, ou seja, este axioma permite construir a união de dois conjuntos:
+Com as definições da união e dos conjuntos com um elemento e com (possivelmente) dois elementos, podemos definir:
+e pode-se continuar definindo conjuntos cada vez maiores. É importante notar que, assim como temos um "esquema de axiomas" no axioma da separação, aqui temos um "esquema de definições" - não iremos explicitamente escrever todas as definições, mas o leitor deve se convencer de que qualquer conjunto com um número finito de elementos pode ser definido desde que haja tempo suficiente para enumerar seus elementos.
+Uma notação, bolada por , que será muito conveniente é a do "sucessor" de um conjunto (mas esta definição só tem sentido prático para números).
+Define-se "s(x)", o "sucessor" de "x", como:
+Já vimos antes as definições de "1" e "2" como conjuntos. É fácil ver que:
+o que motiva a definir:
+Poderíamos continuar assim, mas para ser possível provar alguma coisa em aritmética, será melhor parar por aqui. Note-se que até agora não foi falado do "zero"; por consistência temos que formula_20 é a melhor definição, porque assim temos "1 = s(0)".
+Com os axiomas até agora vistos, falta pouco para poder construir um "modelo" da - falta demonstrar que existe um conjunto dos números naturais.
+Obs: o nome "sucessor" não é um acidente. É fácil ver que se "x" é um conjunto qualquer, então qualquer conjunto "entre" "x" e seu sucessor será igual a "x" ou "equivalente" a x: formula_21 implica (por formula_22) em formula_23 ou formula_24; assim temos finalmente que, se este conjunto "y" existe, então formula_25 ou formula_26. Conjuntos com propriedades parecidas com esta são chamados de "conjuntos não-bem-fundados"; veremos adiante um axioma (o axioma da regularidade) que diz que estes conjuntos não existem.
+

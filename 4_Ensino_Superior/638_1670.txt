@@ -1,0 +1,29 @@
+ Mecânica dos fluidos/Equações básicas para um volume de controle
+As equações básicas devem ser derivadas também para volumes de controle (regiões do espaço através de cujos limites pode ocorrer fluxo de massa), que, nos problemas de dinâmica, são mais usados do que os sistemas. Na derivação que se segue, C denota o volume de controle e S, sua superfície. Neste caso, o princípio de conservação exige que o aumento na quantidade de massa presente dentro do volume de controle seja igual à quantidade de massa que passa pela sua superfície, no sentido inverso (de fora para dentro). Assim:
+formula_1
+Tomando um intervalo de tempo δt e um elemento de volume δV, de dimensões δl x δV, na periferia de C:
+formula_2
+formula_3
+onde v é a componente da velocidade ortogonal a δS. Escrevendo a segunda equação em forma vetorial
+formula_4
+onde o sinal negativo advém da convenção de que um vetor no sentido positivo aponta para fora da superfície. Integrando por toda a superfície:
+formula_5
+Assim, podemos escrever
+formula_6
+formula_7
+Essa equação é chamada equação da continuidade. Se o fluido for incompressível, ρ não é função do tempo; como o volume de controle pode ser escolhido à vontade, é conveniente escolhe-lo de maneira a que sua forma seja constante, e a equação se torna 
+formula_8
+formula_9
+formula_10
+A integral formula_11, calculada sobre um segmento A da superfície S é chamada vazão volumétrica. A razão formula_12 é chamada de velocidade média do fluido formula_13. Neste caso, a lei exige que a taxa de aumento no momento linear presente do volume de controle seja igual à força aplicada externamente mais a taxa de entrada de momento linear pela sua superfície. Assim, tomando um intervalo de tempo δt e um elemento de volume δV, de dimensões δl x δV, na periferia de C:
+formula_14
+Desenvolvendo como no item anterior:
+formula_15
+Evidentemente, a velocidade v deve ser entendida como sendo a velocidade do fluido em relação ao volume de controle. formula_16
+formula_17
+formula_18
+formula_19
+formula_20
+Ou, como é mais comum escrever:
+formula_21
+Cabe lembrar mais uma vez que a velocidade v deve ser entendida como a velocidade do fluido em relação ao elemento de volume.

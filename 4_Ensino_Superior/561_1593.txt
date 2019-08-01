@@ -1,0 +1,20 @@
+ Os componentes do custo são os custos por ordem, o custo de aquisição, custo de ruptura de "stock" e valor de segurança. A seguinte fórmula é relativa ao custo esperado para uma distribuição contínua:
+custo esperado = custo de encomenda + custo de compra + custo de ruptura de "stock" esperado - segurança esperada,
+formula_31
+formula_46,
+formula_47, 
+onde
+"C" = custo de encomenda, por cada encomenda realizada ou custo de instalação,
+"P" = custo de compra unitário,
+"Q" = quantidade da encomenda única, em unidades,
+"A" = custo de ruptura por unidade,
+"M" = procura em unidades (uma variável aleatória),
+"M - Q" = tamanho da ruptura de "stock", em unidades,
+"f(M)" = função da densidade de probabilidade da procura,
+"V" = valor de segurança, por unidade. Para determinar a perda mínima esperada, para uma distribuição contínua, é necessário derivar o custo esperado em ordem à quantidade de encomenda e igualar a expressão a zero:
+formula_48,
+formula_40
+formula_41
+formula_51 = probabilidade óptima de ruptura de "stock". É de observar que, se o custo de aquisição é igual ou superior ao custo de ruptura de "stock", a probabilidade de ruptura desejada é 1. Nestas condições, nenhuma ordem seria instituída até existir uma procura conhecida. Além disso, se um item não tem valor de segurança, a probabilidade de ruptura de "stock" ideal é formula_52. A expressão formula_53 é o nível de serviço e formula_54 é a probabilidade de ruptura de "stock". Assim, se a procura para o item é normalmente distribuída com uma média conhecida formula_55 e desvio padrão formula_56, a seguinte expressão determina o menor custo esperado para a quantidade única de encomenda:
+formula_57 = tamanho óptimo da encomenda única,
+onde "Z" é o desvio padrão normal obtido a partir da tabela normal, para uma probabilidade de ruptura de "stock", formula_54 (Tersine, 1988, p.310-312) .

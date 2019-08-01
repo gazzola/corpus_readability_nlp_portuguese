@@ -1,0 +1,64 @@
+Curso de termodinâmica/Variação de entropia dos gases perfeitos-Ciclo de Carnot
+Considerações iniciais:
+Durante o processo reversível de um estado (T1, V1, P1) para um estado (T2, V2, P2), temos:
+formula_1 segunda lei
+<br>
+formula_2 primeira lei
+formula_3 gás perfeito
+Em conseqüência:
+formula_4
+então:
+formula_5
+Porém, para um gás perfeito
+formula_6
+o que leva a :
+formula_7
+Um ciclo de Carnot compreende quatro etapas reversíveis que aplicamos a n mols de um gás perfeito:
+O ciclo de Carnot constitui um exemplo simples de máquina, quer dizer um instrumento que permite a conversão de calor em trabalho ou de trabalho em calor.
+Cálculo de w, q e E para cada etapa
+Durante a expansão isoterma, uma quantidade de trabalho w é fornecida (perdida) pelo sistema. Simultaneamente, o calor q é absorvido:
+<br>
+formula_8
+formula_9
+formula_10
+A expansão adiabática do gás conduz a um resfriamento da temperatura da fonte quente T1 = T2 para a temperatura da fonte fria T3 = T4. O trabalho é fornecido pelo sistema (é uma expansão ) mas acontece nenhuma transferência de calor.
+formula_11
+formula_12
+<br>
+formula_13
+<br>
+formula_14
+<br>
+formula_15
+formula_16
+A equação de estado do gás permite simplificarem-se as expressões. Assim, durante a expansão adiabática (etapa B), temos: 
+formula_17
+mas:
+formula_18
+formula_19
+formula_20
+Da mesma maneira, para a compressão adiabática (etapa D):
+formula_21
+Deduzimos dessas relações que
+formula_22
+a) calor
+formula_23
+<br>
+formula_24
+formula_25
+<br>
+b) trabalho
+formula_26
+formula_27
+formula_28
+c) energia
+formula_29, de acordo com a primeira lei.Vverificamos igualmente que nem o trabalho nem o calor são funções de estado.
+Globalmente, o sistema absorveu calor e forneceu trabalho. O ciclo de Carnot é um exemplo simples de uma máquina térmica, quer dizer, de um sistema capaz de transformar calor em trabalho. Um veículo automóvel é um outro exemplo de máquina (a combustão da gasolina fornece calor que é transformado em trabalho de deslocamento). O resultado do ciclo de Carnot sugere que poderíamos recuperar em trabalho 100 % do calor fornecido. Entretanto, mesmo que não houvesse nenhuma perda de calor por condução e de energia mecânica por atrito, isso não poderia acontecer, porque o calor q é devolvido pelo sistema no lugar frio da máquina e, na prática, não pode ser reutilizado para operar a máquina. O rendimento máximo de uma máquina de Carnot é:
+formula_30
+Se percorrermos o ciclo de Carnot no sentido inverso, o sistema recebe energia mecânica e fornece calor em troca . É o principio da geladeira e da bomba a calor. Um gás é comprimido à temperatura do local. Fazendo isso, ele libera calor. O gás é transportado para a fonte fria (dentro da geladeira ou fora do prédio) onde sua expansão é acompanhada de uma absorção de calor.
+Sendo S uma função de estado, temos S = 0. Por outro lado, como cada etapa é reversível:
+<br>
+formula_31
+Verificamos que:
+formula_32
+

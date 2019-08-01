@@ -1,0 +1,22 @@
+ Por convenção, os números 0 e 1 não são primos nem compostos. O Teorema Fundamental da Aritmética afirma que qualquer número inteiro positivo pode ser escrito como o produto de vários números primos (chamados fatores primos). O processo que recebe como argumento um número composto e devolve os seus fatores primos chama-se decomposição em fatores primos (fatoração). Exemplos:
+O máximo divisor comum (também conhecido por maior divisor em comum) entre dois números formula_29 e formula_30 (vulgarmente abreviada como formula_31) é o maior número inteiro encontrado, que seja divisor dos outros dois. Por exemplo, formula_32 A definição abrange qualquer número de termos. Exemplo:
+Esta operação é tipicamente utilizada para reduzir equações a outras equivalentes:
+Seja formula_34 o máximo divisor comum entre formula_29 e formula_30 e também formula_37 e formula_38 o resultado da divisão de ambos por formula_39 respectivamente. Então, o seguinte se verifica:
+Pode-se calcular o MDC de duas formas:
+Faz-se a fatoração de cada termo separadamente para, depois, multiplicar os fatores comuns de menor expoente. formula_41
+Com efeito,
+Na Fatoração conjunta (ou algoritmo de Euclides, ou ainda Processo das divisões sucessivas) fatora-se simultaneamente até dois números. Monta-se a tabela com a seguinte estrutura:
+onde,
+O último resto (antes do 0) será o MDC. O Mínimo Múltiplo Comum (também conhecido por menor múltiplo em comum) entre dois números formula_29 e formula_30 (vulgarmente abreviada como formula_51) é o menor número inteiro encontrado, que seja múltiplo dos outros dois. Por exemplo, formula_52 
+Pode-se calcular o MMC de duas formas:
+Faz-se a fatoração com todos os "n" termos, simultaneamente:
+formula_53
+Faz-se a fatoração de cada termo separadamente para, depois, manter-se a base em comum e o expoente maior, multiplicado pelos fatores não comuns. formula_53
+Com efeito,
+Relação de Bézout: 
+formula_55
+Algoritmo de Euclides: 
+MDC(a, b)=MDC(a, b-a)
+MDC(a, b)=MDC(a, r), onde r é o resto da divisão de b por a.
+Exercícios:
+Uma abordagem mais avançada:

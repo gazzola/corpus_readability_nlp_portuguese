@@ -1,0 +1,29 @@
+ Por isso é comum considerar a pressão p no seu interior como idêntica à pressão na região de fluxo livre à mesma distância do ponto de estagnação. Como a espessura da camada limite aumenta com a distância ao ponto de estagnação, a velocidade v também aumenta, devido à diminuição da seção de escoamento. Em vista disso, a pressão p cai, de acordo com a equação de Bernouilli. Em geral, a linha imaginária que limita a camada limite não é uma linha de corrente. Partículas de fluido atravessam essa linha. Isso é requerido pelo princípio da continuidade e pela suposição de incompressibilidade do fluido, uma vez que a área da seção transversal da camada limite aumenta com a distância ao ponto de estagnação. Como a área da camada limite em x + δx é maior que em x, entra fluido na camada limite à medida que nos afastamos do ponto de estagnação. O caso mais simples de camada limite é aquele em que há uma única superfície de contato, e esta é uma placa plana de largura infinita. Nessa situação, a aplicação da equação de Euler para a região de fluxo livre resultará em uma velocidade constante v = v, e v = v = 0. A velocidade constante implica em uma pressão constante p na região. Por esse motivo, utiliza-se aqui a expressão "fluxo com gradiente de pressão nulo". O Número de Reynolds é calculado através da fórmula
+formula_1
+onde x a distância a partir do ponto de estagnação. Na ausência de troca de calor com o ambiente, a experiência mostra que um valor até 500000 indica que o escoamento é laminar, e só a partir de 1000000 torna-se plenamente turbulento. v é uma função tanto de x quanto de y, a distância à superfície; por conseguinte, o Número de Reynolds também o será. É por isso que, à medida que x e y crescem, o escoamento tende a tornar-se turbulento. A vazão mássica por uma seção transversal à superfície na região de fluxo livre é dada por
+formula_2
+onde w é a largura da placa. Se, em lugar da espessura de distúrbio y usarmos a espessura de delocamento y, poderemos escrever
+formula_3
+Assim,
+formula_4
+Para expressar y em função de y, podemos também igualar a perda de vazão mássica devida à camada limite à perda devida ao deslocamento da placa. Se o líquido não fosse viscoso, a velocidade na camada limite seria igual à velocidade na região de fluxo livre. Assim, a viscosidade provoca uma perda de vazão mássica 
+formula_5
+Se, por outro lado, considera-se o líquido como ideal e a placa é deslocada de y, ocorrerá uma perda de vazão mássica devida à diminuição da seção de escoamento, perda essa dada por
+formula_6
+Assim,
+formula_7
+O mesmo pode ser feito com relação à espessura de momento, resultando em
+formula_8
+formula_9
+As espessuras y e y podem ser medidas mais facilmente que a espessura y, o que justifica a introdução dos conceitos. Por exemplo, pode-se medir a velocidade e a pressão no ponto de estagnação e em outro ponto x e a partir daí calcular a relação entre as áreas efetivas da seção transversal nesses locais; como em x = 0 a espessura da camada limite é nula, encontra-se a espessura de deslocamento em x = x; a partir daí, podemos determinar o valor de y(x). Como visto acima, a vazão mássica através da seção transversal da camada limite em um ponto x = x é
+formula_10
+Em x = x + ox, será
+formula_11
+formula_12
+Assim, a vazão mássica através da linha imaginária que delimita a camada limite será
+formula_13
+formula_14
+Da mesma forma, podemos calcular a vazão de momento na camada limite
+formula_15
+formula_16
+formula_17

@@ -1,0 +1,31 @@
+Teoria dos conjuntos/Axioma do par
+Com os axiomas apresentados até agora (o axioma que diz que "existe um conjunto", o axioma da extensão e o axioma da separação), já pudemos mostrar que o conjunto vazio, formula_1, existe e é único.
+Mas não fomos capazes de exibir nenhum outro conjunto!
+Uma teoria dos conjuntos cujo único conjunto seja o conjunto vazio não serve para muita coisa. Seria interessante haver pelo menos outro conjunto, e o candidato natural é o conjunto cujo único elemento é o próprio conjunto vazio.
+Mas não podemos, pelos axiomas atuais, definir
+porque esta não é uma definição de conjunto que se enquadra no axioma da separação.
+O axioma do par é o que garante a existência deste tipo de conjunto. Na sua forma mais usual, ele garante até algo mais: dados "dois" conjuntos, existe um conjunto que tem estes dois conjuntos como elementos.
+Como o axioma não obriga estes "dois" conjuntos a serem diferentes, podemos usá-lo para criar o conjunto cujo único elemento é o conjunto vazio.
+E assim por diante... Mas, como veremos abaixo, este "adiante" ainda não compreende todos os conjuntos que precisamos para ter uma teoria útil e prática.
+Sejam "A" e "B" conjuntos quaisquer (que podem ser iguais). Então existe um conjunto "C" tal que formula_3 e formula_4.
+Nota: existem formulações alternativas do axioma, que dizem que "C" não tem outro elemento além de "A" e "B", e que "C" é único, mas, junto com os axiomas da extensão e da separação, mostra-se que essas formulações são equivalentes.
+Em linguagem matemática, o axioma se escreve assim:
+Usando-se os axiomas da extensão e da separação, chega-se ao seguinte teorema:
+Esboço da prova: o axioma da separação é usado para construir, a partir do z que existe, o conjunto
+e o axioma da extensão garante que todos conjuntos z que satisfazem formula_8 são iguais.
+Como esse conjunto que tem o par de conjuntos como elementos é único, podemos dar um "nome" para ele, a saber:
+Como nada nos axiomas obriga x a ser diferente de y, definimos também:
+Observação: por analogia, também é comum a notação
+Generalizar esta notação, ou seja, definir o que seria "{x,y,z}" ainda não é possível: isto será visto com o axioma da união.
+Segue-se imediatamente da definição que:
+Adotando-se a ideia de von Neumann , vamos definir os seguintes conjuntos:
+e temos que parar por aqui, porque ainda não definimos o que significa "{x, y, z}" - e, pelos axiomas até agora listados, não sabemos se existe este tipo de conjunto.
+Note-se (exercício: prove) que:
+As propriedades acima não são acidentais: quando definirmos os números naturais, elas serão válidas para todos os números. Iremos mais adiante: estas propriedades valerão para uma classe de conjuntos que amplia uma das funções normalmente atribuídas aos números naturais, que é ordenar elementos.
+Note-se que as relações formula_27 e formula_28 não são sempre equivalentes. Por exemplo:
+O também pode ser definido com o axioma do par. Esta definição se deve a Kuratowski:
+O teorema abaixo é de crucial importância para as aplicações do par ordenado:
+Esboço da demonstração:
+Conforme temos formula_36 ou formula_37, combinado com formula_38 ou formula_39, temos quatro casos possíveis. As propriedades do conjunto "{ a , b }" resolvem trivialmente quase todos os casos, exceto quando formula_40.
+Mas, neste caso, temos, por formula_41 que formula_42 ou formula_43. Este segundo caso só é possível quando "z = w", o que já foi excluído antes. Assim, temos formula_44, o que implica em "x = z". Assim, sobra a igualdade formula_45, ou formula_46. Como já vimos que formula_37, segue-se que "y = w".
+

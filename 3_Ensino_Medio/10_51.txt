@@ -1,0 +1,25 @@
+Matemática elementar/Geometria plana/Triângulos
+Um triângulo pode ser classificado de acordo com as medidas relativas de seus lados:
+Denomina-se base o lado sobre qual apóia-se o triângulo. No triângulo isósceles, considera-se base o lado de medida diferente.
+A seguir é mostrada a classificação de alguns triângulos de acordo com o critério anterior:
+Este triângulo é equilátero, pois possui os três lados congruentes. Em particular, como seus lados são dois a dois congruentes, ele é um triângulo isósceles. Pode-se observar que seus todos os seus ângulos internos medem 60°, e por isso ele é equiângulo.
+Neste triângulo há somente dois lados congruentes: os que têm medida formula_1. Por este motivo, o triângulo é isósceles, mas não é equilátero. Além disso, cada um destes dois lados forma um ângulo de medida formula_2 com a base do triângulo.
+Aqui, cada um dos lados tem um comprimento diferente dos demais. Assim, este é um triângulo escaleno. Observe ainda que nenhum par de ângulos internos tem a mesma medida.
+Um triângulo também pode ser classificado de acordo com seus ângulos internos:
+Na geometria euclidiana, de acordo com o teorema angular de Tales, a soma dos ângulos internos de qualquer triângulo é igual a dois ângulos retos (180° ou π radianos). Isso permite a determinação da medida do terceiro ângulo, desde que sejam conhecidas as medidas dos outros dois ângulos.
+Existe também um corolário, que afirma que a medida de um ângulo externo de um triângulo é igual à soma das medidas dos ângulos internos não-adjacentes.
+Exemplo: Se os ângulos internos de um triângulo forem: formula_3 a resposta final será assim: 
+Resolução: formula_4, formula_5. Porque o ângulo externo é a igual à soma dos ângulos internos duas vezes.
+1ª relação: Um ângulo externo de um triângulo é maior que qualquer um dos ângulos internos não-adjacentes.
+2ª relação: Se dois lados de um triângulo tem medidas diferentes, ao maior lado opõe-se o maior ângulo e ao menor lado, opõe-se o menor ângulo.
+3ª relação: Em todo triângulo, qualquer lado tem medida menor que a soma das medidas dos outros dois.
+Existem várias formas de se expressar a área "A" de um triângulo:
+Se o triângulo for equilátero de lado "L", sua área pode ser obtida pela fórmula:
+Lado-Lado-Lado.
+Lado-Ângulo-Lado.
+Ângulo-Lado-Ângulo.
+Lado-Lado-Ângulo reto.
+Segundo o critério LLL (lado-lado-lado), existe semelhança entre dois triângulos se os três lados de um são proporcionais aos três lados correspondentes do outro.
+Segundo o critério LAL (lado-ângulo-lado), existe semelhança entre dois triângulos se têm entre si dois pares de lados correspondentes proporcionais e se os ângulos por eles formados forem iguais.
+Segundo o critério AA (ângulo-ângulo), existe semelhança entre dois triângulos se eles têm dois ângulos iguais.
+

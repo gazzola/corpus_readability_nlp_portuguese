@@ -1,0 +1,45 @@
+Análise real/Subconjunto
+Quando um conjunto formula_1 é parte de uma certa coleção formula_2 dizemos que Y é subconjunto de X e escrevemos formula_3.
+Consideremos os seguintes conjuntos formula_12
+formula_26 significa que todos os elementos de formula_6 estão em formula_2.
+formula_6 é subconjunto próprio de formula_36 e formula_37.
+Para mostrar que X não seja subconjunto de Y, isto é, formula_39, basta exibir um formula_40 e provar que formula_41.
+
+
+Análise real/Números inteiros
+A relação ~ em formula_1 ao ser definida por:
+é uma relação de equivalência se, e somente se for:
+Podemos dividir o conjunto de formula_1 em partições disjuntas cuja união é o próprio formula_1.
+Tome as partições da forma [1,n] ou [n,1]. Vamos usar a tricotomia entre 1 e n.
+Ao somarmos dois elementos de formula_1, o resultado deve ser um elemento do mesmo conjunto.
+Vamos mostrar que formula_23 é uma relação bem definida.
+Ao multiplicarmos dois elementos de formula_1, o resultado deve ser um elemento do mesmo conjunto.
+Vamos mostrar que formula_37 é uma relação bem definida.
+
+
+Análise real/Indução(Problemas)
+ Mostrar que, para todo formula_1 é divisível por 9.
+Prova:
+
+
+Análise real/Integral de Riemann
+A integral de Riemann têm como objetivo calcular a região limitada por funções limitadas em intervalos limitados. E calcularemos esta região através da divisão da mesma em retângulos.
+formula_18
+Pelo que vimos acima, quando acrescentamos um único ponto a partição inicial [a,b], a nossa soma inferior ficou maior, e nossa soma superior ficou menor. A nossa idéia então é fazer com que elas se aproximem o suficiente até formula_21 será para nós quando formula_22. Então encontraremos a área da figura.
+Sejam formula_23 limitada e as partições formula_24
+Sejam formula_26
+Sejam formula_23 limitada, quando se refina uma partição a soma inferior não diminui e a soma superior não aumenta
+Pelo Lema 1, Q é uma refinação da partição P.
+Sejam formula_23 limitada, e as partições P e Q, onde formula_35.
+Refinando P nos pontos de Q, e refinando Q nos pontos de P teremos formula_36. Como formula_37.
+Seja formula_38 todas as partições de [a,b]
+Pelo Lema 1 formula_41.
+Seja formula_43 e formula_44 são todas as partição de [a,b] que contém c. Assim formula_45, então formula_46 são únicos.
+Sejam A, B subconjuntos não vazios e limitados dos reais. (a) => (b)
+Sejam formula_60 limitadas. Então
+Se formula_63, então formula_64
+Sejam formula_68 limitada, então
+Seja formula_77 e formula_78; Dado formula_79 temos:
+Sejam formula_88
+Seja formula_95
+

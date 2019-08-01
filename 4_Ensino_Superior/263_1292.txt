@@ -1,0 +1,19 @@
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Armazenagem de unidades de carga/Equipamento para armazenagem de unidades de carga/Condutor a bordo
+Este tipo de equipamento para armazenagem de unidades de carga permite ao operador do veículo conduzir entre locais a distâncias maiores do que no equipamento com o operador a pé. Estes veículos fornecem também uma capacidade superior para suportar peso e maior alcance vertical (Tompkins et al., 2003, p. 235).
+
+
+Logística/Manutenção de instalações/Plano de manutenção predictiva
+O objectivo da manutenção predictiva é minimizar as falhas não programadas de equipamentos, custos de manutenção e perda de produção. Também se destina a melhorar a eficiência de produção e qualidade do produto na fábrica, através da monitorização regular do estado mecânico de máquinas, eficiência do processo e outros parâmetros que definem a condição de operação da instalação. Usando os dados adquiridos de fábrica dos equipamentos críticos, os problemas são identificados e são tomadas acções correctivas para melhorar a confiabilidade, disponibilidade e produtividade da instalação.
+Para ser bem sucedido, um programa de manutenção preventiva deve ser capaz de quantificar o custo-benefício gerado. No entanto, como a maioria das instalações não acompanha o verdadeiro custo de manutenção, esta pode ser a parte mais difícil de estabelecer um programa de manutenção predictiva.
+Segundo Mobley, o programa de manutenção predictiva assenta em 6 passos. Antes da sua implementação a base de dados da instalação deve conhecer: número de trabalhadores, despesas gerais, prémios de horas extras, despesas de pagamentos do departamento de manutenção, serviços contratados para manutenção, os custos reais de reparação de equipamentos críticos, disponibilidade anual da instalação e conhecer a percentagem de manutenção programada em comparação à percentagem de manutenção não programada. 
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Armazenagem de unidades de carga/Equipamento para armazenagem de unidades de carga/Condutor a bordo/Corredores estreitos/Empilhadora straddle
+Normalmente a empilhadora "straddle" é utilizada quando o espaço do corredor é escasso e/ou excessivamente caro. Esta empilhadora mantém tanto a sua estabilidade como a da carga usando uns "outriggers" ao nível do pavimento em vez de um sistema de contrapeso, diminuindo assim a largura de corredor necessária para entre 2,1 a 2,7 metros. Para aceder às cargas, os "outriggers" são conduzidos e colocados debaixo da carga do primeiro nível de modo a permitir que os garfos possam puxar as paletes para fora da estante sem que o veículo perca a sua estabilidade (Tompkins et al., 2003, p. 257).
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Equipamento de armazenagem de pequenas cargas/Equipamento de armazenagem operator-to-stock/Estante móvel
+As estantes para caixas, os armários com módulos de gavetas e as estantes dinâmicas para caixas podem ter uma estrutura móvel. O método de "train-track" é o método mais popular de mobilização. São colocadas no chão vias em paralelo e as rodas são colocadas na parte inferior do equipamento de armazenagem para criar equipamento mobilizado.
+A economia de espaço advém do facto de apenas ser preciso um corredor entre todas as linhas do equipamento de armazenamento. O corredor é criado separando duas linhas adjacentes de equipamento.
+O equipamento de armazenagem move-se deslizando ao longo das vias através de uma manivela colocada na extremidade dos equipamentos ou através de motores eléctricos. A desvantagem dessa abordagem é o aumento do tempo necessário para aceder aos artigos uma vez que para alcançar um artigo terá de se criar um corredor de armazenamento correspondente (Tompkins et al., 2003, p. 268-269).
+

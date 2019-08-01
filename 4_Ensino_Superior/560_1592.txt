@@ -1,0 +1,36 @@
+ Análise (marginal) do benefício
+Segundo Tersine (1988, p.307-308), a secção anterior delineou um apuramento exaustivo da perspectiva de cada quantidade de encomenda para determinar o tamanho do lote com o valor óptimo esperado. Embora o método seja aplicável à quantidade única de encomenda envolvendo unidades de procura discretas, pode ser um processo tedioso quando o número de alternativas é grande. Nesta secção, é desenvolvida uma relação de optimização mais simples para indicar a quantidade de encomenda mais rentável. O objectivo é determinar o tamanho da encomenda ("Q") que deve ser comprado no início do período (assumido que não há "stock" inicial) para maximizar o benefício esperado no final do período:
+benefício esperado (EP) = receita esperada (ER) - custo esperado (EC);
+receita esperada (ER) = receita de vendas esperada + receita de segurança esperada,
+formula_28
+formula_29
+formula_30;
+custo esperado (EC) = custo de compra + custo de encomenda + custi de ruptura esperado,
+formula_31
+formula_32,
+formula_33
+formula_34
+formula_35,
+onde
+"A" = custo de ruptura por unidade,
+"C" = custo de encomenda, por cada encomenda realizada,
+"M" = procura em unidades (uma variável aleatória),
+"f(M)" = função da densidade de probabilidade da procura,
+"M - Q" = tamanho da ruptura de "stock", em unidades,
+"Q" = quantidade da encomenda única, em unidades,
+"Q - M" = quantidade de "stock" em excesso, em unidades,
+"P" = custo de compra unitário,
+"P_1" = preço de venda unitário;
+formula_36 = probabilidade de uma ruptura de "stock" (probabilidade de haver uma procura superior a "Q"),
+"V" = valor de segurança, por unidade,
+formula_37 = número de unidades em excesso (segurança) esperado, 
+formula_38 = quantidade da ruptura de "stock" esperada, em unidades. Para determinar o benefício máximo esperado, para uma distribuição contínua, é necessário derivar o benefício esperado em ordem à quantidade de encomenda e igualar a expressão a zero:
+formula_39,
+formula_40
+formula_41
+formula_42
+formula_43 = probabilidade de ruptura de "stock" óptima,
+onde
+"ML" = "P" - "V" = perda marginal,
+"MP" = formula_44 = benefício marginal. Análise da perda
+Quando os itens são para uso interno, sem haver receita, a selecção do tamanho da encomenda única é baseada no menor custo esperado.

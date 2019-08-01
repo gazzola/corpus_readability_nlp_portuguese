@@ -1,0 +1,31 @@
+Mecânica dos fluidos/Equações básicas em forma diferencial
+As equações básicas para sistemas e volumes de controle estão expressas em forma integral. Essa forma é conveniente quando se deseja analisar o comportamento macroscópico de um fluido, entendido como um campo de propriedades. Para obter o valor dessas propriedades em cada ponto do espaço, no entanto, elas não servem; para isso é preciso expressar as equações em forma diferencial e resolver as equações diferenciais resultantes.
+A forma diferencial da equação de continuidade pode ser derivada tomando-se as equações para um volume de controle C e considerando-o como um elemento de volume infinitesimal δV e superfície δS.
+formula_1
+Podemos reescrever a equação como
+formula_2
+e aplicar o teorema de Gauss (ou teorema da divergência):
+formula_3
+obtendo
+formula_4
+que é a forma diferencial da equação de continuidade.
+De acordo com a segunda lei de Newton, a força atuante sobre um elemento de volume infinitesimal δV é igual à variação do seu momento linear. Assim, podemos escrever
+formula_5
+Mas, de acordo com as análises anteriores sobre o momento linear, sabemos que sua variação está relacionada à derivada material de acordo com a expressão
+formula_6
+E, de acordo com as análises anteriores sobre as forças aplicadas, sabemos que podemos relacionar essas forças de acordo com as expressões
+formula_7
+formula_8
+formula_9
+formula_10
+para o caso em que a única força do corpo relevante é o peso do líquido e os eixos coordenados são escolhidos de maneira ao eixo Z ficar na vertical e apontando para cima. Como δm = ρ δV, podemos escrever
+formula_11
+que é a equação de conservação do momento em forma diferencial para coordenadas cartesianas.
+Aplicando a primeira lei da termodinâmica a um volume de controle infinitesimal, teremos, considerando um escoamento de regime permanente e na ausência de trabalho realizado, teremos, ao usar a formulação mais extensa:
+formula_12
+formula_13
+onde v, ρ, u e σ são os valores vigentes no centro do volume, v, ρ, u e σ são os valores vigentes na face posterior do volume, e v, ρ, u e σ são os valores vigentes na face anterior do volume. Aplicando a equação da continuidade, ρ · v · A = ρ · v · A = dm/dt
+formula_14
+formula_15
+formula_16
+

@@ -1,0 +1,17 @@
+Eletrônica Digital/Mapas de Veitch-Karnaugh
+Mapa de Karnaugh é um diagrama utilizado na minimização de funções booleanas. Chamamos a esse diagrama um mapa visto este ser um mapeamento biunívoco a partir de uma tabela de verdade da função que está a ser analisada. 
+Os diagramas foram originalmente criados por Edward Veitch (1952) e aperfeiçoados pelo engenheiro de telecomunicações Maurice Karnaugh. Karnaugh utilizou os diagramas para simplificar circuitos utilizados em telefonia. O nome completo do método é Veitch-Karnaugh, em homenagem aos seus dois precursores, mas usualmente utiliza-se apenas o nome de Karnaugh para o método.
+O método utiliza a tabela verdade de uma função booleana como base para as simplificações. Um mapa de Karnaugh é uma ajuda excelente para simplificação de funções de até 6 variáveis. Para funções de mais de 6 variáveis a simplificação é mais complexa pois torna-se uma tarefa árdua identificar as células adjacentes no mapa. Para funções de mais de 6 variáveis devem ser utilizadas soluções algorítmicas computacionais.
+Considere a seguinte função:
+Esta função tem a tabela verdade:
+Os valores dentro de "E" nos dizem quais linhas possuem saída igual a 1.
+As variáveis de entrada podem ser combinadas em 16 diferentes formas, então o mapa de Karnaugh terá 16 posições. O arranjo mais conveniente é em uma matriz 4x4.
+Os bits no mapa representam a saída da função para uma dada combinação de entradas. Note que os valores são ordenados segundo um código de Gray, de forma que apenas uma variável muda de valor entre cada célula e uma adjacente.
+Após o mapa de Karnaugh ter sido construído a próxima tarefa é encontrar os termos mínimos a usar na expressão final. Estes termos são encontrados agrupando conjuntos de 1´s adjacentes no mapa. O agrupamento deve ser retangular e deve ter uma área igual a uma potência de 2 (i.e. 2, 4, 8, …). Os retângulos devem ser os maiores possíveis, sem conter nenhum 0. O agrupamento ótimo na figura está marcado com linhas coloridas (verde, vermelha e azul).
+Para cada um dos grupos encontramos as variáveis que não mudam de valor dentro do agrupamento. para o grupo vermelho encontramos que:
+Então o primeiro termo da expressão booleana é "AC".
+No grupo verde, "A" e"B" mantêm o mesmo estado, mas "C" e "D" mudam. "B" é 0 e deve ser incluída na forma negada. Então o segundo termo é "AB'."
+Da mesma forma, o retângulo azul dá o termo "BC′D′" e a expressão completa é: "AC" + "AB′"+ "BC′D′".
+A matriz é conectada como um toróide, o que significa que a borda da direita é considerada adjacente à borda da esquerda, bem como a borda inferior é considerada adjacente à borda superior. Por exemplo, "ABD′" é um termo válido, embora não tenha sido incluído no conjunto mínimo. Note que, se movermos a primeira linha para baixo da última linha ou a primeira coluna para a direita da ultima coluna, a propriedade de mudar o estado de apenas uma variável se mantém.
+A função inversa pode ser resolvida da mesma forma, agrupando os zeros em vez de 1´s. Quando há uma profusão de 1´s na matriz (isto é, a matriz é densa - a função f é verdadeira pra maior parte dos valores de entrada) pode ser mais rápido desenvolver f′ no mapa e então encontrar f = f′′ analiticamente.
+

@@ -1,0 +1,21 @@
+ Com os logaritmos isto ocorre de forma similiar:
+Para podermos operar logaritmos de forma análoga à álgebra, é fundamental que a base e o logaritmando sejam iguais. Veja outro exemplo:
+Com logaritmos podemos interpretar de maneira semelhante:
+Além de aparecer em parcelas de uma soma ou em fatores, como visto nos dois últimos exemplos, o logaritmo pode aparecer em qualquer outra função! Pode estar no quociente de uma divisão, no expoente de uma potência, no radicando de uma raíz, ou até mesmo no logaritmando de um outro logaritmo. Em alguns casos, é muito comum recorrermos a alguma substituição para podermos visualizar melhor a equação. Por exemplo:
+Na tabela abaixo, vejamos os resultados obtidos na função f (x) = log x:
+Note que os resultados obtidos seguem um progressão geométrica, e portanto, o gráfico será representado por uma curva. Pode-se observar, ainda, nesse exemplo, que quanto menor for "f (x)", mais próximo de zero será "x", mas não há valor para "x" que faça "y" ser nulo. Neste caso, o intervalo do domínio da função é (0, +∞). Chamamos de raíz da função os valores de "x" em que f(x) = 0. Isto é, os pontos em que a curva intersepta o eixo das abscissas. No exemplo anterior, isto ocorre quando x = 1. Vejamos o caso abaixo, de f(x) = (-2)
+Veja que os valores de "f (x)" possuem alternância de sinal, o que faz haver descontinuidade. Desta forma, uma função do tipo log b = c em que "a" < 0 não apresentaria um gráfico, e portanto, não existe. Esta é uma regra: a base não pode ser negativa! Consequentemente, o logaritmando jamais será negativo, pois potências negativas existem somente se a base é negativa e o expoente é ímpar. Vejamos alguns casos que envolvam logaritmos (desenvolveremos na forma de potência) :
+Existem várias regras que visam facilitar a resolução de logaritmos. Para as demonstrações a seguir, consideraremos loga = x, e logb = y. Assim, c = a, e c = b.
+Demonstração:
+Demonstração:
+Demostração:
+Demonstração:
+Que prova a igualdade da propriedade. As quatro propriedades descritas anteriormente (soma, subtração, multiplicação e mudança de base) são fundamentais para o cálculo de logaritmos. Existem outras propriedades que podem ser deduzidas através das operações, que auxiliam em problemas que envolvem logaritmos. São elas:
+Esta propriedade foi utilizada anteriormente na demonstração da substração de logaritmos de mesma base. Pela propriedade, temos que:
+Demonstração:
+Demonstração:
+Demonstração:
+Podemos simplificar uma divisão de logaritmos através da propriedade da mudança de base, na qual é necessário que os logaritmos tenham a mesma base:
+Demonstração:
+Que prova a multiplicação de logaritmos. Cologaritmos são definidos pela seguinte expressão:
+Pela propriedade da inversão do logaritmando, podemos reescrevê-los como:

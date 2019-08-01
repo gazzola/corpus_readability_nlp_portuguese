@@ -1,0 +1,36 @@
+Logística/Gestão de armazéns/Necessidades de espaço
+
+
+Logística/Gestão de armazéns/Modelos de Armazenagem/Estantes para paletes
+Existem dois tipos de estantes para paletes, as de profundidade simples e as de profundidade dupla, sendo que estas podem ser considerados casos especiais de armazenamento em profundidade com formula_1 = 1 e formula_1= 2, respectivamente (Tompkins et al., 2003, p. 563-566).
+A armazenagem de profundidade dupla é um caso específico da armazenagem em profundidade com formula_1 = 2. Neste modelo podem ser armazenadas duas cargas lado a lado numa palete aberta e numa viga comum. A largura e a profundidade da vista de cima de uma estante para paletes de profundidade dupla é dada por formula_4 e formula_5, respectivamente. 
+Para este modelo a quantidade média de área no chão necessária com "stock" de segurança, é dada por, 
+formula_6
+sem "stock" de segurança é dada por,
+formula_7
+Uma vez que a profundidade de armazenagem é conhecida, se formula_8 é par tem-se que formula_9 é igual a formula_10, e se formula_8 é ímpar tem-se formula_12. Assim chega-se às seguintes equações,
+se formula_8 for par:
+formula_14
+formula_15
+se formula_8 for ímpar:
+formula_17
+formula_18
+Para se determinar a quantidade média de área no chão necessária em armazéns com estantes para paletes de profundidade simples calcula-se a profundidade da vista de cima e a largura. A vista de cima é igual a formula_19 e a largura é igual à da estante de profundidade dupla.
+Se formula_1 = 1 e formula_9 = formula_8, fazem-se as alterações necessárias nas equações para a armazenagem em profundidade dupla e obtém-se a quantidade média de área no chão necessária para estantes de profundidade simples,
+com "stock" de segurança:
+formula_23
+sem "stock" de segurança:
+formula_24
+
+
+Logística/Sistemas de distribuição/Escala de veículos/Heurística clássica para CPEV
+A heurística clássica pode ser dividida em 3 categorias. Heurística construtiva que per-supõe ao investigar uma solução viável, tem-se em conta o custo da solução. Heurística de duas fases onde o problema é decomposto nos dois componentes naturais, agrupando os vértices em rotas possíveis e a construção da rota actual com informação de laços que se possam criar entre os dois estágios. Finalmente métodos de melhoramento que tentam aprimorar qualquer solução viável, realizando uma sequência de trocas de vértices e arestas entre ou dentro rotas (Toth et al., 2002e, p. 109 e 110).
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de movimentação de materiais/Transportadores/Trolley Conveyor
+Basicamente é um sistema de transporte por meio aéreo, o produto ou material a transportar é suspenso e transportado.
+É necessária a criação prévia de uma linha de transporte bem definida visto que depois é difícil de alterar a mesma. Esta linha é instalada no meio aéreo e é composta por um cabo, corrente ou correia. Ao longo do cabo são instalados sucessivamente ganchos ou ímanes onde o produto ou material a transportar irá ser fixo.
+É um sistema que permite economizar o espaço terrestre disponível, contudo permite que o transporte em curvas, subidas e descidas seja facilitado e minimize os danos na mercadoria que possam ocorrer durante o embate das mesmas, e consequentemente reduz o risco de acidentes no local de trabalho.
+O seu layout tem de ser minuciosamente bem definido e desenhado, é necessário ter em conta o espaçamento que deve existir entre as cargas a transportar, e também o material a utilizar consoante as características físicas (forma geométrica, peso) do material.
+Pode ser accionado por meio de gravidade ou por auxílio motorizado. 
+

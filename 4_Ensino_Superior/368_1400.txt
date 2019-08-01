@@ -1,0 +1,78 @@
+ Temos mais esta possibilidade para simplificar a integração de funções algébricas; Detalharemos nesta seção as formas de substituição com funções hiperbólicas, que podem ser uma valorosa ferramenta para a integração de funções mais complexas. Como conseqüência das derivadas de funções hiperbólicas inversas, temos as seguintes integrais:
+Em todas as substituições consideramos um triângulo retângulo cujo vértice relacionado ao ângulo formula_83 faz parte de uma perspectiva hiperbólica, ou seja, o ângulo está em formula_219, trata-se de uma abstração que pode ser comprovada em cálculo avançado, o nosso objetivo aqui é de fornecer as ferramentas necessárias para análises desse tipo. Considere a função: formula_220 e que sua integral seja: formula_97, então teremos:
+formula_222
+Concebemos uma nova variável formula_83 de forma que:
+formula_224
+conseqüentemente, sua diferencial é:
+formula_225
+Substituindo na equação inicial, temos:
+formula_226
+formula_227
+formula_228
+formula_229
+Ou seja:
+Porém, devido a natureza exponencial das funções hiperbólicas inversas, ainda podemos transformar esta equação na forma puramente logarítmica:
+formula_231
+Finalmente:
+O problema da integração de funções racionais trigonométrica consiste, basicamente, na característica da complexibilização progressiva quando estas funções são submetidas às técnicas convencionais de substituição, no momento que tentamos substituir a expressão original temos que definir sua diferencial, o que implica na criação de mais um termo a ser incorporado a expressão original. Digamos que tenhamos que integrar a função: 
+formula_233
+Ao adotarmos a linha tradicional de substituições teremos:
+formula_234
+formula_235
+no entanto:
+formula_236
+formula_237
+formula_238
+formula_239
+logo teremos que integrar:
+formula_240
+de forma que:
+formula_241
+Que, pelo menos, é uma função algébrica pura, mas que ainda demanda um certo trabalho para ser integrada... Portanto concluimos que o processo de substituição de variáveis e diferenciais não ajuda muito. Nesta seção exporemos um método de substituição mais eficiente para estes casos. Apresentamos duas identidades que serão muito úteis para a simplifição de funções racionais trigonométricas, são elas:
+Basicamente são resultantes de um processo de substituição mais bem estruturado, para possibilitar a simplificação da integração. A identidade relacionada ao Cosseno é apresentada antes da relacionada ao seno pois será útil para a sua dedução. Considere a seguinte definição:
+formula_242
+logo, é dedutível que:
+formula_243
+Considerando a identidade I-2 Cosseno da soma, temos, por conseqüência:
+formula_244
+Se formula_245 :
+formula_246
+formula_247
+Por outro lado:
+formula_248
+formula_249
+formula_250
+formula_251
+Substituindo na identidade temos:
+formula_252
+que nos dá:
+Ainda considerando a definição:
+formula_242
+também é dedutível que:
+formula_255
+Da identidade anterior:
+formula_253
+Da I-1 Identidade relacional básica:
+formula_257
+Fazendo as substituições:
+formula_258
+formula_259
+formula_260
+logo:
+Temos duas funções trigonométricas fundamentais na forma algébrica para substituir as originais na forma trigonométrica, porém para integrar as funções racionais substituindo-as por estas temos que encontrar uma diferencial correspondente para esta nova variável algébrica que criamos. Da definição inicial:
+formula_262
+Diferenciando:
+formula_263 
+Da identidade I-14 Relacionando tangente e secante:
+formula_264 
+formula_265 
+de onde concluimos que:
+Agora podemos encontrar a integral proposta no início da seção:
+formula_267
+para formula_262, temos:
+formula_269
+ou seja:
+formula_270
+Não é incrível? !!! formula_271
+Jamais poderemos nos esquecer de C, a famigerada constante de antidiferenciação que tanto nos persegue. Para auxiliar nos cálculos, consulte a 
+tabela de integrais na wikipédia

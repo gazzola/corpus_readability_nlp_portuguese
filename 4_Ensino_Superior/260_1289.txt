@@ -1,0 +1,38 @@
+Logística/Serviço ao cliente/Tempo de ciclo da encomenda/Ajustes no tempo de ciclo da encomenda
+No tempo de ciclo da encomenda foram abordadas situações em que os elementos do ciclo da encomenda não têm restrições. Existem, no entanto, situações em que as políticas de serviço aos clientes interferem no tempo de ciclo da encomenda, tais como (Ballou, 2006, p. 100):
+
+
+Logística/Gestão de armazéns/Configuração de áreas de armazenagem contínuas/Múltiplos produtos/Armazém com duas portas do mesmo lado
+Aplica-se a área já calculada no exemplo Armazém com duas portas do mesmo lado (Um produto) e a figura 1, extensivo a várias classes de produtos. Para o produto formula_1 onde, formula_2 (Francis et al., 1992, p.305-306):
+formula_3
+formula_4
+Para três classes de produtos, a distância média percorrida é dada por:
+formula_5 = 
+formula_6
+Supondo que são feitas 100 movimentações por hora e um espaço total necessário de formula_7:
+Considerando formula_8, formula_9, formula_10, formula_11, formula_12 e formula_13, as razões entre as movimentações e os espaços para as três classes de produtos são respectivamente de formula_14; formula_15 e formula_16. 
+Com formula_17, a distância média percorrida para as três classes é de formula_18.
+Para estabelecer um limite superior para o espaço necessário em armazenagem aleatória resultar na mesma distância média percorrida em armazenagem dedicada das três classes de produtos calcula-se a distância média percorrida para uma classe de produtos de área desconhecida e iguala-se à distância média percorrida pelas três classes de produtos. 
+Assim sendo, para formula_19 e formula_20 tem-se: 
+formula_21 = formula_22
+Resolvendo em ordem a formula_23 tem-se formula_24. 
+Assim sendo, com base nos resultados obtidos é possível verificar que o espaço necessário para a armazenagem aleatória não pode exceder 27,72% da área do sistema de armazenagem dedicada.
+
+
+Logística/Serviço ao cliente/Prioridades e queixas dos clientes
+Entre os elementos do serviço ao cliente classificados como prioritários pelos compradores, mais de metade incluem-se na componente logística do Marketing Mix, sendo referidos como prioritários:
+A par das prioridades existem queixas dos clientes distribuídas por vários tipos de anomalias no serviço prestado, sendo essa distribuição a seguinte:
+Tanto nas prioridades como nas queixas são vários os elementos relacionados com o serviço ao cliente.
+Podemos dizer que os pontos 1 e 4 não estão directamente relacionados com o produto em si, mas sim com o serviço prestado ao cliente. Sendo assim, mais de 50% das queixas devem se a erros, má qualidade do serviço prestado pela organização. Mais uma vez pretende-se demonstrar a importância da logística do Serviço ao Cliente no seu bom funcionamento e na redução de atrasos e entregas incompletas. 
+
+
+Logística/Planeamento e projecto de instalações/Computerized Relationship Layout Planning (CORELAP)/Vantagens e limitações
+1. Uma vez que os "layouts" são desenvolvidos a partir de relações pré-estabelecidas, podem ser levadas em conta todas as razões necessárias para as relações, ao contrário do CRAFT, por exemplo, que visa apenas o fluxo da produção.
+2. Não é necessário um "layout" inicial, a unica restrição é a relação máxima comprimento-largura. No entanto essa restrição é o que assegura que o programa não desenvolve "layouts" pouco realistas, por exemplo, demasiado compridos.
+3. Os termos de "imput" e "output" são os mesmos.
+4. Fácil de usar.
+5. É possível ver cada passo ao longo do processo (Hiregoudar et. al., 2007, p. 98).
+1. O sistema não consegue especificar localizações fixas para as actividades
+2. Não calcula com exactidão os locais das actividades.
+3. Não permite instalações com forma irregular (Hiregoudar et. al., 2007, p. 98).
+

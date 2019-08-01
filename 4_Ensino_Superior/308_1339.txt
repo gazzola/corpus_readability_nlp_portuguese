@@ -1,0 +1,26 @@
+Tábuas Atuariais/Tábua de entrada em invalidez
+As Tábuas de entrada em invalidez mede basicamente a probabilidade de um individuo, em função de sua idade, entrar em invalidez.
+São exemplos de tábuas de entrada em invalidez: Álvaro Vindas, IAPB-57, Ibafer, Muller, Hunter, TAS-82, Prudente, TASA-1927.
+
+
+Tábuas Atuariais/Tábuas de vida média
+Uma Tábua de vida média é formada pelo um conjunto de "esperanças completa de vida" e suas idades correspondentes. A esperança completa de vida, representada por formula_1, indica a média de anos que os indivíduos de idade formula_2 viverão. Tal média, para idade formula_2, é obtida através da razão entre a "quantidade de existência", representada por formula_4, e a quantidade de indivíduos vivos na idade (formula_5). A vida média é então apurada pela seguinte fórmula:
+formula_6
+A quantidade de existência (formula_4) é o número de anos que, a partir desta idade formula_2, viverão os formula_5 indivíduos. Para se chegar à quantidade de existência, considerando mortalidade uniforme das mortes ao longo de cada ano, utiliza-se a seguinte formulação:
+formula_10
+
+
+Tábuas Atuariais/Noções de probabilidade
+ESPAÇO AMOSTRAL: Denomina-se espaço amostral, ou espaço das possibilidades,o conjunto de todos os resultados possíveis de um experimento. Representaremos o espaço amostral por S.
+Exemplo de experimentos:
+b) Lançamento de um dado sem vicio ... S = {1,2,3,4,5,6} 
+EVENTO: É um subconjunto de um espaço amostral, definindo um resultado bem determinado. Pode ser formado por umn único ponto ou uma reunião deles. 
+Experimento: Lançar dois dados honestos: 
+O Espaço Amostral deste exemplo é: 
+
+
+Tábuas Atuariais/Tábuas de rotatividade
+Uma Tábua de rotatividade consiste em uma tabela decremental que estabelece as probabilidades de um indivíduo se desligar da empresa em que trabalha. Dessa forma, essa tábua deve refletir o nível médio de rotatividade existente em um empresa, e consequentemente entre os participastes de um fundo de pensão.
+Sua utilização vem se apresentando de fundamental importância para a exatidão das estimativa dos custos atuariais para as empresas de previdência fechada. 
+Sua probabilidade, a taxa de rotatividade, é utilizada para apurar, em função da idade, a elegibilidade a um benefícios de desligamento e as probabilidades de desligamento em geral.
+

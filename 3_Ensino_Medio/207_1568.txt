@@ -1,0 +1,21 @@
+ formula_41
+formula_42
+A fração geratriz terá como numerador a parte não-periódica, seguida do período menos a parte não-periódica, e denominador um número formado de tantos noves quanto são os algarismos do período, seguido de tantos zeros quantos são os algarismos da parte não-periódica (ante-período). formula_40 => formula_44 + formula_45 = formula_44 + formula_47 = formula_48 = formula_39
+Seja o número x = 2,333... (dízima). O período da dízima é o número 3 (um só dígito), assim, para colocar o período da dízima antes da vírgula, fazemos 10*x = 23,333... Agora, podemos eliminar a dízima fazendo a subtração:
+10*x - x = 23,333... - 2,333..., ou seja, 
+9*x = 21
+x = formula_50
+Outro exemplo mais complexo desta conversão, que ocorre quando a dízima se apresente mais à frente da vírgula:
+x = 38,07821821821... (dízima). Após a virgula, temos os números "07"´(dois dígitos) que não fazem parte do período e o período "821" (três dígitos). Primeiro isolamos o período logo após a vírgula:
+100*x = 3807,821821821...
+Agora repetimos o processo do exemplo anterior:
+100.000*x = 3807821,821821821... 
+Fazemos então a subtração
+100.000*x - 100*x = 3807821,821821821... - 3807,821821821..., assim, temos que
+99900*x = 3804014 , portanto
+x = formula_51, que poderá ainda ser simplificada. Como decorrência da repetição deste processo de conversão, podemos chegar à seguinte regra prática de conversão de dízimas em frações. Vamos aplicá-la ao número 38,07821821821...
+Eis os passos:
+1. O período da dízima tem 3 dígitos, que é o número de algarismos nove (999 portanto);
+2. Após a vírgula temos 2 dígitos que não fazem parte da dízima, que é o número de zeros (00 portanto);
+3. Temos assim o denominador da fração que será 99900;
+4. O númerador da fração será a diferença do número formado pelos algarismos até o primeiro período da dízima, no caso 3807821, pelo número formado pelos algarismos que antecedem o início da dízima, no caso 3807. Temos então 3807821 - 3807.

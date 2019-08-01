@@ -1,0 +1,20 @@
+ (1) Se formula_20 e formula_40 são funções afim-lineares, então para qualquer formula_41, tem-se formula_42. Prova-se isso trivialmente
+(2) Condições de Slater: Se as funções formula_20 são convexas e as formula_40 são afim lineares e, além disso, existe formula_45 tal que formula_46 para todo formula_47, formula_48, então para qualquer formula_41, tem-se formula_42. (3) Condições de Mangasarian-Fromowitz: Se formula_51 é linearmente independente e existe formula_52 tal que formula_53 para tpdp formula_54 e formula_55. Note que aqui aparece a lagrangiana, pois a primeira condição é equivalente a:
+O essencial para a existência de formula_57 é que formula_58. A partir deste teorema são construídos alguns algoritmos. Considere o seguinte problema:
+Sabe-se que formula_60 dada por
+Agora, tem-se as KKT:
+ inf_{x in mathbb{R}^n} l(x, u, v) le inf_{x 
+in mathbb{R}^n} sup_{egin{smallmatrix}u ge 0\v in mathbb{R}^q end{smallmatrix}} l(x, u, v) le + infty</math>
+Defina-se a função:
+e também
+Conforme o exercício anterior, tem-se então
+Observando a relação entre essas funções, é natural considerar dois problemas de otimização:
+Considere o problema 
+E, conforme um dos exercícios anteriores (ou através de uma breve análise dos supremos envolvidos na expressão anterior), tem-se:
+Analogamente, tem-se:
+Observe que em relação a formula_81, tem-se uma função fortemente convexa, que portanto possui um único minimizador. Além disso, formula_82 é diferenciável, donde o seu único minimizador formula_83 é dado pela equação:
+ou seja, 
+donde
+Portanto, 
+Assim, os problemas em dualidade são:
+Pelo primeiro item do exercício, tem-se que a minimização do problema formula_71 é equivalente à minimização do problema original. Por outro lado, através da lagrangiana, obtem-se além do problema primal formula_71, um problema dual formula_72, cuja estrutura é muito melhor que a do original (pois pelo outro exercício, consiste da maximização de uma função côncava formula_70 em um poliedro), e que servirá para encontrar o mínimo do problema primal (e consequentemente, do original). Este é um conceito muito importante relacionado à lagrangiana.

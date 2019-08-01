@@ -1,0 +1,11 @@
+ De fato, este é talvez o principal teorema sobre conjuntos fechados. Nos estudos mais avançados da chamada "topologia geral", os fechados são usualmente definidos através desta caracterização. a. Suponha que X seja um conjunto fechado e O seja o complementar de X nos reais:
+Suponha por absurdo que formula_64 não seja um conjunto aberto, ou seja, suponha a existência de um ponto formula_135 tal que:
+Como formula_137 temos que
+Esta propriedade implica que formula_139 e como X é fechado,formula_140 o que contraria a hipótese inicial de que formula_135 e formula_142 
+b. Suponha que X seja o complementar nos reais de um conjunto aberto O:
+Suponha a existência de uma sequência formula_99 tal que:
+Queremos mostrar que formula_146 Suponha, por absurdo, que formula_147 ou seja, formula_67 Como O é aberto, exite uma bola formula_149 Escolha formula_150 tal que formula_151 Isso implica formula_152 o que é uma contradição, já que formula_153
+1. formula_52 é aberto. Pelo teorema "Um conjunto é fechado formula_157 se, e somente se, seu complementar é aberto" o seu complementar é fechado, isto é, formula_51 é fechado. formula_159. formula_160 é denso em formula_161 logo:
+Seja X um subconjunto dos números reais. Dizemos que um ponto x pertencente aos reais é um ponto de acumulação se existe uma sequência formula_99 de pontos diferentes de x convergindo para x. 
+É claro da definição que todo ponto de acumulação é também um ponto de aderência. Deve-se observar que nem todo ponto de aderência é um ponto de acumulação. Por exemplo o conjunto formula_167 possui um único elemento. Este elemento é um ponto de aderência, já que a sequência constante formula_168 converge para ele, mas não é um ponto de acumulação, pois não existe nenhuma sequência de elementos de X diferentes de 0 convergindo para 0. X é o conjunto chamado derivado, onde seus elementos são os pontos de acumulação de X, assim:
+Define-se como ponto isolado de um conjunto X, um elemento formula_172 que não é ponto de acumulação. Diz-se que formula_13 é um conjunto discreto se todos os seus pontos forem isolados.

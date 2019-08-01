@@ -1,0 +1,33 @@
+Álgebra linear/Transformações lineares
+Sejam V e W espaços vetoriais sobre um corpo K, onde a formula_1. Seja formula_2 uma base de V e formula_3 vetores quaisquer de W. Então existe uma transformação linear formula_4.
+A seguir será discutido um exemplo de como achar a imagem de uma transformação linear. Considere formula_5, definida por formula_6.
+O valor de formula_7 em um ponto formula_8 pode ser reescrito da seguinte forma:
+Consequentemente, todo ponto da imagem é uma combinação linear dos vetores formula_10 e formula_11, isto é, tais vetores formam um conjunto de geradores para a imagem de formula_7. Como poderá ser verificado pelo leitor, estes vetores também são linearmente independentes, constituindo portanto uma base para a imagem de formula_7.
+O núcleo de uma transformação linear é um subespaço vetorial do seu domínio
+A demonstração é simples:
+Se formula_21, e formula_22
+Sejam V e W espaço vetoriais sobre o corpo K e formula_23. Se formula_24, então posto(T) + Nulidade(T) = dim V
+Seja formula_25 uma base do Ker(T). Existem vetores formula_26 com j=k+1...,n onde formula_27 é uma base de V.
+Como formula_28 é a base de V, T aplicada nessa base gera um conjunto que gera a imagem de T por V. Aplicando T sobre os vetores da base de V, temos formula_29, mas formula_30, pela definição de núcleo. Assim os vetores formula_31 geram a imagem de T(V).
+Como queremos uma base, eles devem ser independentes, isto é, devem formula_32 tal que formula_33.
+Tomemos formula_34. Logo formula_35. Como formula_36.
+Portanto formula_37. Como formula_38 são L.I., então formula_39.
+O Posto(T) = dim Im(T). Como formula_31 geram a imagem de T(V), logo o posto(T)= n - (k+1) +1 = n-k.
+A nulidade (T) = dim Ker(T). Como formula_25 é uma base do Ker(T), logo a Nulidade (T)= k - 1 + 1 = k
+Como n = dim V, Nulidade(T)=k e Posto(T)=n-k, portanto Posto(T) + Nulidade(T) = dim(V).
+Corolários:
+Demonstra-se ainda que formula_44
+Dizemos que T uma transformação linear, formula_45 é chamada operador linear de T sobre V.
+Demonstra-se que todo operador linear possui um e apenas um operador adjunto correspondente.
+A partir da definição, podemos obter as seguintes conseqüências (prove!):
+Uma matriz A é auto-adjunta se formula_52 
+Os seguintes enunciados são úteis na prova de teoremas do operador auto-adjunto:
+Prove:
+Uma matriz A é unitária se formula_66
+Prove:
+Uma matriz A é normal se formula_70
+Prove:
+É importante ressaltar, ainda, que existem operadores normais que não são unitários nem auto-adjuntos.
+Dizemos também que W é T-invariante.
+Prove:
+

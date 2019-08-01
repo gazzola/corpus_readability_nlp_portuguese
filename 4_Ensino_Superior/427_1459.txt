@@ -1,0 +1,15 @@
+ Em 1937, Claude Shannon produziu sua tese no MIT que implementava Álgebra Booleana e aritmética binária utilizando circuitos elétricos pela primeira vez na história. Intitulado "A Symbolic Analysis of Relay and Switching Circuits", a tese de Shannon praticamente fundou o projeto de circuitos digitais. Dado um número N, binário, para expressá-lo em decimal, deve-se escrever cada número que o compõe (bit), multiplicado pela base do sistema (base = 2), elevado à posição que ocupa. Uma posição à esquerda da vírgula representa uma potência positiva e à direita uma potência negativa. A soma de cada multiplicação de cada dígito binário pelo valor das potências resulta no número real representado. Exemplo:
+1011(binário)
+1 × 2 + 0 × 2 + 1 × 2 + 1 × 2 = 11
+Portanto, 1011 é 11 em decimal
+Dado um número decimal inteiro, para convertê-lo em binário, basta dividi-lo sucessivamente por 2, anotando o resto da divisão inteira:
+Observe que os números devem ser lidos de baixo para cima: 1100 é 12 em decimal. Existe um método muito simples para converter binário em decimal, e vice-versa. Exemplo I
+<br> 0.5625 <br>
+Parte inteira = 0 = 0<br>
+Parte fracionária = 0.5625<br>
+Multiplica-se a parte fracionária por 2 sucessivamente, até que ela seja igual a zero ou cheguemos na precisão desejada. Anotando a sequência de vai-um (carry) na ordem de cima para baixo, temos: 1001. Portanto, 0.5625 = 0.1001
+No entanto, é mais comum nunca zerarmos a fração seguinte da multiplicação. Neste caso, devemos parar as multiplicações quando atingirmos uma certa precisão desejada. Exemplo II
+<br> 67.575<br>
+Parte inteira = 67 = 1000011<br>
+Parte fracionária = 0.575<br>
+Ou seja, entramos em um ciclo sem fim. Escolhemos uma precisão e finalizamos o processo quando esta precisão for atingida, então na ordem de cima para baixo, temos: 10010011. Sistema Octal é um sistema de numeração cuja base é 8, ou seja, utiliza 8 símbolos para a representação de quantidade.

@@ -1,0 +1,12 @@
+Introdução à física/Estática/Tipos de equilibrio
+Estabilidade de Equilíbrio
+A análise da estabilidade do equilíbrio pode ser realizada estudando os mínimos e máximos locais (local extremos) da função de energia potencial.
+Um resultado fundamental da análise matemática diz que uma condição necessária para a existência de um fim local de uma função diferenciável é que todos anular derviadas primeiro lugar. Para determinar problemas dimensionais, verificar se um equilíbrio estável, instável ou indiferente envolve verificar as segundas derivadas da energia potencial:
+É um ponto de equilíbrio instável, se a segunda derivada da energia potencial <0 e, portanto, a energia potencial tem um máximo local. Se o sistema é submetido a um deslocamento que é menor e a sua posição de equilíbrio, em seguida, se afasta cada vez mais da mesma (daí o nome de instabilidade para esta situação).
+Um ponto de equilíbrio é indiferente ou neutro, se a segunda derivada = 0, então encontramos uma região onde a energia não é alterado. Assim, se o sistema é deslocado da posição de equilíbrio, uma pequena quantidade suficiente, não será possível aproximar o equilíbrio, mas não diverge muito da anterior posição de equilíbrio.
+Um ponto de equilíbrio estável é a segunda derivada, se> 0 e, assim, a energia potencial tem um mínimo local. A resposta do sistema a pequenas perturbações ou uma distância arbitrariamente pequeno do ponto de equilíbrio é de volta ou oscilar em torno do ponto de equilíbrio. Se mais do que um ponto de equilíbrio estável para o sistema, então diz-se que qualquer um deles, cuja saída de alimentação é maior do que o mínimo absoluto é um estado metaestável.
+Para dois e três problemas dimensionais (ou, mais geralmente n-dimensional) discussão acima sobre a estabilidade se torna mais complicado e requer o exame da forma quadrática Q (x1, ..., xn) definida pela matriz hessiana da energia potencial:
+Equilíbrio estável ocorre quando a forma quadrática Q (x1, ..., xn) é definida positiva e, por conseguinte, todos os seus valores próprios são números positivos.
+Equilíbrio totalmente instável, ocorre quando a forma quadrática Q (x1, ..., xn) é definida negativa, portanto, todos os seus valores próprios são negativos.
+Equilíbrio misto instável, ocorre quando a forma quadrática Q (x1, ..., xn) não é definida positiva e um dos seus autovalores é negativa. Isto implica que podem existir certas direcções como a estabilidade dimensional, mas de acordo com a instabilidade outro vai unidimensiona
+

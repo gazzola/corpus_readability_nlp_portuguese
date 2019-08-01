@@ -1,0 +1,30 @@
+Análise real/Limites
+Lembrar que uma função de um conjunto X para um conjunto Y é uma aplicação formula_1 tais que f(x) é o único elemento de Y para cada formula_2. Na análise, temos tendência para falar de funções a partir de subconjuntos formula_3 para formula_4.
+A definição para o limite de uma função é quase a mesma que a definição de uma seqüência. De fato, como veremos mais adiante, é possível definir limites funcionais, em termos de limites seqüenciais. Para o momento, porém, vamos apenas dar a definição:
+Dado um subconjunto formula_5 e uma função formula_6, nós dizemos que o formula_7
+A exigência formula_8 é um pouco técnico. É uma expressão que da a idéia de que o comportamento de uma função perto de um ponto não deve ser prejudicado pelo seu comportamento no ponto. Desta forma f(x) não precisa ser definida em c para ter um limite aí.
+Esta definição dá um monte de problemas para um monte de gente, por isso é melhor passar algum tempo intrigante com isso, exemplos de trabalho, etc. Uma forma de conceituar a definição é esta: formula_9 significa que nós podemos fazer f(x) tão próximo quanto gostarmos de L, fazendo x perto de c.
+Sejam formula_10 uma função definida em um conjunto formula_11 e formula_12. Diz-se que existe o limite de formula_13 quando formula_14 tende a formula_15 e denota-se por:
+quando existe um formula_17 com a propriedade de que, para todo formula_18, existe um formula_19 tal que:
+Observe cuidadosamente que formula_21 não precisa estar definido e, quando está, não necessariamente vale
+Seja formula_23. 
+Se formula_24, então formula_25 
+Pela definição de limite temos
+Seja formula_28. Como formula_29 logo formula_30 
+De fato formula_31. 
+formula_32
+formula_33
+Sejam formula_34.
+formula_38
+formula_39
+Limite Sequencial
+Poderíamos muito bem ter dado a seguinte definição do limite:
+Dado um subconjunto formula_5 e uma função formula_41, dizemos que o formula_9 se formula_43 tal que formula_44, e formula_45
+Note-se que o requisito formula_46 corresponde com a exigência formula_47.
+Como um exercício para testar sua compreensão, prove que estas duas definições são equivalentes. Note-se que tendo o contrapositive dá um bom critério para determinar se ou não uma função diverge:
+Se formula_48, e formula_49, então formula_50 não existe.
+Seja formula_51
+formula_52
+Podemos definir o que significa para uma função divergir para o infinito, e o que significa para uma função ter um limite no infinito:
+Como exercício, veja se você pode definir o que significa para uma função ter limite formula_61 como formula_62.
+

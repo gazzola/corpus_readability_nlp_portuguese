@@ -1,0 +1,52 @@
+Mecânica dos fluidos/Exercícios resolvidos/E6
+Deduzir a fórmula para a tensão cisalhante τ no escoamento laminar de um líquido Newtoniano em um tubo cilíndrico horizontal de diâmetro D.
+Aqui, será preciso novamente empregar as equações em coordenadas cilíndricas. Do exercício anterior, sabemos que
+formula_1
+formula_2
+Assim
+formula_3
+formula_4
+Como a tensão não pode ser infinita no centro do duto (r = 0), k = 0. Assim,
+formula_5
+
+
+Mecânica dos fluidos/Medidores magnéticos
+Esses medidores medem a vazão de um líquido condutor de eletricidade, com base na Lei de Faraday. O instrumento gera um campo magnético de densidade de fluxo B, transversal ao fluxo, fazendo com que apareça uma força eletromotriz ε entre dois pontos localizados a uma distância L ao longo do fluxo dada por
+formula_1
+onde v é a velocidade do fluxo e ρ é a condutividade elétrica do fluido.
+A ordem de grandeza típica é da ordem de microvolts, o que torna necessário um elemento secundário muito sensível e com elevada imunidade a ruído eletromagnético. Outra desvantagem é que alguns fluidos importantes, como gases e hidrocarbonetos, por terem baixa condutividade, não podem ter a sua vazão medida por meio desse medidor: exige-se que a condutividade seja superior a 0,5 mS/cm. Além disso, a velocidade muito baixa (abaixo de 0,3 m/s) também faz com que o sinal gerado seja muito fraco para ser usado em aplicações reais.
+Por outro lado, a medição é independente da pressão, da temperatura, da viscosidade e da densidade, o que permite o seu uso em amplas faixas de operação. Outras vantagens são a boa exatidão (0,5% do fundo de escala), a alta rangeabilidade (10:1), a possibilidade de medição bidirecional (ou seja, velocidades negativas) e a exigência de um trecho reto relativamente curto (tipicamente, 8·L).
+
+
+Mecânica dos fluidos/Exercícios estendidos/X1
+Google Docs:
+X1.xls
+Calcular a vazão através da tubulação mostrada na planilha X1.xls, sabendo que a perda de carga total é igual a 100 m.
+O exercício deve ser resolvido através de tentativas, devido à sua complexidade. Três parâmetros devem ser ajustados:
+O processo consiste em 
+A planilha traz uma aba para cada método. Os dois mostram resultados semelhantes. A montagem das fórmulas no caso do método de Darcy-Weisbach dá um pouco mais de trabalho, mas a partir daí o método de Hazen-Williams não apresenta maiores vantagens, em termos de simplicidade. É melhor usar o método de Darcy-Weisbach, que se acredita ser mais preciso.
+
+
+Mecânica dos fluidos/Exercícios resolvidos/E8
+Calcular a perda de carga em um escoamento de água através de um tubo de ferro de 50 m de comprimento e diâmetro de 60 mm, considerando que a vazão é de 10 l/s.
+Precisamos primeiro calcular o Número de Reynolds, para saber se o escoamento é laminar ou turbulento:
+formula_1
+formula_2
+O escoamento é turbulento. A rugosidade de um tubo de ferro, de acordo com a tabela anexa ao Digrama de Moody, é de 0.15 mm. A rugosidade relativa é
+formula_3
+Para simplificar, vamos avaliar o fator de fricção por meio da fórmula proposta por Miller, uma vez que a fórmula de Blasius só pode ser empregada para Número de Reynolds até 100000:
+formula_4
+formula_5
+Para validar a aproximação, joguemos esse valor na fórmula de Colebrook
+formula_6
+formula_7
+formula_8
+ou seja, o erro acarretado pelo uso da fórmula de Miller é pequeno.
+De acordo com o Diagrama de Moody, para a rugosidade relativa de 0.0025 e N de 210000, o fator de atrito teria um valor realmente próximo de 0.026.
+A perda de carga será dada por
+formula_9
+formula_10
+formula_11
+A perda de pressão será dada por
+formula_12
+

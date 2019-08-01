@@ -1,0 +1,47 @@
+Curso de termodinâmica/Exercícios de termodinâmica/A10
+Sejam 20 litros de amônia a 50º C e 760 mmHg. Determine o volume a 30º C e 800 mmHg.
+Aplicar a lei dos gases: 
+volume x pressão / temperatura = constante para uma quantidade constante do mesmo gás.
+O problema é resumido na tabela:
+formula_1
+
+
+Curso de termodinâmica/Variação da energia livre com a temperatura.Relação de Gibbs-Helmhotz
+<br><br><br>
+Por meio da definição de G em termos de H e S, a variação da energia livre G com a temperatura pode também ser escrita em termo de entalpia: 
+formula_1
+Se considerarmos a função G/T no lugar da função G, teremos: 
+formula_2
+As duas equações em cima conduzem a: 
+formula_3
+Como:
+formula_4
+obtemos a relação de Gibbs-Helmholtz: 
+formula_5
+Este resultado é útil para expressar o efeito da temperatura sobre G de um processo (uma reação química por exemplo) em função de H:
+formula_6
+
+
+Curso de termodinâmica/Exercícios de termodinâmica/A32
+Calcular a temperatura necessária para mudar 10 litros de Hélio a 100 K e 0,1 atm para 20 l a 0,2 atm.
+formula_1
+
+
+Curso de termodinâmica/Exercícios de termodinâmica/B5
+Medimos a variação da massa específica do gás trimetilamina (N(CH3)3) a 0º em relação à pressão:
+Qual é a massa molar do N(CH3)3?
+A massa específica é, por definição a massa por unidade de volume. Por sua vez, a massa é a massa molar multiplicada pelo número de moles de gás.
+Para um gás perfeito
+formula_1
+a massa específica é
+formula_2
+Podemos então determinar a massa molar de um gás perfeito a partir da massa específica:
+formula_3
+O enunciado vai permitir verificar se o gás é perfeito. Recalculamos a massa específica aparente e a massa molar para cada pressão.
+Obtém-se um resultado que depende da pressão, o que mostra que o gás não é perfeito. Sabemos que um gás tende a ter as propriedades do gás perfeito quando a pressão tende para zero. Em conseqüência, M tende para dRT/P quando P tende para zero. Há duas maneiras de resolver o problema: a extrapolação gráfica ou a regressão linear.
+O resultado da extrapolação dá 59,15 g/mol.
+Utilizando o Excel: (Ferramentas/Análise de dados/Regressão), obtemos a relação
+formula_4
+O que confirma o valor de 59,14 quando P = 0.
+O valor real da massa molar da trimetilamina é de 59,11 g/mol.
+

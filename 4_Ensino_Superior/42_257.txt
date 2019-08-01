@@ -1,0 +1,26 @@
+Teoria dos conjuntos/Axioma da separação
+O Axioma da separação (também conhecido como Axioma da compreensão ou Axioma de especificação) diz que se um conjunto "A" existe, e conseguimos descrever (através de uma propriedade) elementos deste conjunto, então existe um conjunto "B", subconjunto de "A", que contém estes elementos.
+Este "axioma" é, a rigor, um , porque, para cada propriedade Φ, existe um "axioma da separação".
+A forma apresentada abaixo se deve a .
+Formalmente: qualquer fórmula formula_1 na linguagem da teoria dos conjuntos com variáveis livres entre formula_3:
+Notar que esse não é um axioma, mas um esquema de axiomas: para cada formula_1 temos um novo axioma.
+Este axioma, combinado com o axioma da extensão, mostra que, para todo conjunto "z" e toda propriedade "Φ", existe um único conjunto cujos elementos são os elementos de "z" que satisfazem "Φ". Ou seja, a notação:
+define um conjunto que existe e é único.
+Segue-se imediatamente da definição que:
+Note-se que "R" definido no 
+não é um conjunto segundo a definição acima: é preciso especificar dentro de qual conjuntos os elementos "x" são tirados.
+Já supomos no capítulo introdutório que existe algum conjunto. Então, seja "Φ(x)" uma propriedade que é sempre falsa (por exemplo, formula_9).
+Sejam, portanto, "z" e "w" dois conjuntos quaisquer. Então os conjuntos:
+existem e, pelo axioma da extensão, são iguais, já que é fácil provar que
+Em outras palavras, qualquer que seja o conjunto de partida ("z", "w", etc), o conjunto definido acima será sempre o mesmo.
+Este conjunto é chamado de conjunto vazio, representado por formula_13.
+Os resultados acima podem ser resumidos de forma sintética em existe um conjunto que não tem nenhum elemento, e este conjunto é único.
+Pelos axiomas expostos até agora, o conjunto vazio é um ponto final, ou seja, nada pode ser construído a partir dele. Por exemplo, aplicando-se o axioma da separação ao conjunto vazio, obtem-se apenas o conjunto vazio:
+Por outro lado, pode-se mostrar que:
+Dados dois conjuntos "y" e "z", e a propriedade formula_15, o axioma diz que existe o conjunto "w" tal que
+Este conjunto tem uma notação especial, e é chamado de a interseção de y e z, ou seja:
+Segue imediatamente das definições acima que:
+A propriedade associativa demanda um pouco mais de trabalho:
+Dados dois conjuntos "y" e "z", e a propriedade formula_22, o axioma diz que existe o conjunto "w" tal que
+Este conjunto tem uma notação especial, e é chamado de a diferença de y e z, ou seja:
+

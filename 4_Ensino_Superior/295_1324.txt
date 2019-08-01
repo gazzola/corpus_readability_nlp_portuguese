@@ -1,0 +1,56 @@
+Mecânica dos fluidos/Quando usar o modelo do líquido ideal
+Evidentemente, nenhuma substância real apresenta as características do líquido ideal (compressibilidade e viscosidade nulas). No entanto, já vimos que certas situações podem ser razoavelmente bem aproximadas por esse modelo. Faremos aqui um resumo dessas situações:
+
+
+Mecânica dos fluidos/Equações básicas em forma adimensional
+A equação de continuidade em forma diferencial
+formula_1
+tem dimensão [D{ρ}·D{t}] = M·L·T. Para obter uma equação correspondente adimensional, substituímos a densidade ρ por ρ·ρ e a velocidade v por v·v, onde ρ e v são valores de referência e ρ e v são números puros. Aplicamos um procedimento equivalente também aos comprimentos; por exemplo, substituímos x por x·L, onde L é um comprimento de referência. Assim:
+formula_2
+formula_3
+formula_4
+Se escolhermos t tal que formula_5, a equação se torna
+formula_6
+formula_7
+Para escrever a equação de Bernoulli em forma adimensional, a pressão p deve ser substituída por p·p, com p_r = ρv = ρ·ρ·v. Assim, se fizermos formula_8, 
+formula_9
+formula_10
+formula_11
+formula_12
+Considerando-se o eixo Z como apontando para cima e desprezando-se um dos eixos horizontais, o que é válido para a maioria das situações, as equações de Navier-Stokes para um líquido Newtoniano (densidade e viscosidade constantes), têm a forma seguinte: 
+formula_13
+formula_14
+Essas equações têm dimensão [D[p]·D[z]] = [[M·L·T]·L] = [M·L·T]. Em forma adimensional, teremos
+formula_15
+formula_16
+Como
+formula_17
+Temos
+formula_18
+formula_19
+Com as substituições usuais formula_20 e ainda formula_21,
+formula_22
+formula_23
+Similarmente,
+formula_24
+Também é comum escolher v tal que coincida com a velocidade do fluxo na superfície livre. Esse valor é indicado usualmente também como v. Tal substituição implica que a pressão de referência p e a velocidade de referência sejam relacionadas da mesma forma formula_25, mas a identidade formula_26 não pode ser empregada. Neste caso, a primeira equação se mantém inalterada, mas a segunda se torna:
+formula_27
+
+
+Mecânica dos fluidos/Vídeos
+
+
+Mecânica dos fluidos/Leis de bombas
+Bombas são equipamentos amplamente utilizados em diversos segmentos e aplicações, e o cálculo teórico do desempenho em condições diferentes das nominais de projeto, muito difícil, por isso o levantamento experimental é um procedimento comum. O conjunto de variáveis dependentes geralmente inclui a elevação de carga h obtida e a potência de alimentação requerida P; variáveis independentes relevantes são, de acordo com a experiência, a vazão volumétrica Φ, a velocidade de rotação ω, uma medida de tamanho, como o diâmetro do rotor D no caso de uma bomba centrífuga, e de propriedades do fluido, como a densidade ρ e a viscosidade μ. Os grupos adimensionais, como mencionado anteriormente, devem ser escolhidos de forma independente para cada variável dependente; em geral, se usa
+formula_1
+formula_2
+Os grupos Π e Π são similares ao número de Reynolds, uma vez que ω = vL; os grupos Π e Π são chamados coeficientes de vazão da bomba (esse termo pode ser empregado em outros contextos, com significados diferentes). O grupo Π é chamado coeficiente de carga, e o grupo Π, coeficiente de potência, nesse contexto.
+Obter os mesmos valores para os grupos adimensionais no original e no protótipo é, em geral, difícil. Na prática, porém, verificou-se que os efeitos da viscosidade são pouco importantes na maioria dos casos, e os grupos Π e Π podem ser ignorados. Com isso, as relações
+formula_3
+formula_4
+formula_5
+conhecidas como leis de bombas, são as empregadas na modelagem.
+Um outro coeficiente útil é a velocidade específica, que é dado por
+formula_6
+A velocidade específica é adimensional, pois é uma razão entre grupos Π. Ela pode ser entendida fisicamente como a velocidade necessária para a produção de elevação de carga unitária e vazão volumétrica unitária.
+

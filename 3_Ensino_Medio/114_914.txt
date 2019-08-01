@@ -1,0 +1,11 @@
+Curso básico de LibreOffice/Inserindo a primeira tabela
+Com o uso do Ctrl + F12 ou via menu Tabela → Inserir → Tabela iremos inserir uma tabela-teste. Dar-lhe-emos o nome de TabTeste; ela será definida com 3 (três) colunas e 6 (seis) linhas. Claro que podemos também acionar o ícone de criar tabelas, a partir da Barra de Ferramentas Padrão.
+Observe a figura a seguir, a qual representa o diálogo de Inserir Tabela:
+Algumas explicações sobre o diálogo Inserir Tabela:
+O nome da tabela, como dito anteriormente, é importante caso queiramos localizá-la em um arquivo extenso. Procure dar um nome sugestivo à tabela e evite nomes com espaço, para evitar problema na sua localização, caso necessário.
+O campo Colunas define o número de colunas que terá a nossa tabela; o campo Linhas define, claro, o número de linhas da nossa tabela.
+O campo Repetir Título se refere ao cabeçalho da tabela. Uma vez habilitada esta opção, a tabela passará a ter, em sua primeira linha ou até onde for a definição do cabeçalho, ou seja, até onde for determinado na opção As Primeiras N Linhas, o estilo de parágrafo "Título da Tabela" e nas demais linhas o estilo "Conteúdo da Tabela". Claro que podemos mudar tanto estes estilos bem como formatá-los a nosso gosto, caso desejado.
+A opção Não Dividir Tabela previne que a tabela seja "quebrada", caso estejamos próximos a uma quebra de página. Assim, a tabela flui para a próxima página, caso não caiba no espaço restante da página. Se a tabela se tornar maior que a página, você deve desabilitar esta opção ou, caso necessário, dividir a tabela.
+A opção Borda, se habilitada, insere bordas nas células da tabela. Você pode, evidentemente, modificá-las ou removê-las posteriormente.
+A opção ou botão de Controle Autoformatar abre uma Caixa de Diálogo com várias opções de formatação predefinidas. Estas opções de autoformatação podem ser acrescidas pelo usuário.
+

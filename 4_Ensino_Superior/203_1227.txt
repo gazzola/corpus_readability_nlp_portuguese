@@ -1,0 +1,27 @@
+Curso de termodinâmica/Exercícios de termodinâmica/B3
+Qual é a concentração, em moles por litro e em moléculas por litro, de um gás perfeito a 25º C sob pressão de 10 atm ( vácuo obtido no laboratório)? Se o gás, considerado como perfeito, for o oxigênio, qual é a sua densidade?
+Os dados:
+Lei dos gases perfeitos:
+formula_1
+formula_2
+O número de moléculas é formula_3 moléculas por litro
+A massa específica é formula_4
+
+
+Curso de termodinâmica/Exercícios de termodinâmica/A2
+Qual é a altura da coluna de ar necessária para provocar uma leitura de 76 cm de mercúrio no barômetro? Supomos que a massa específica do mercúrio vale 13,6 g/cm e que a massa específica do ar da atmosfera é uniforme e vale 0,0012 g/cm.
+Há duas pressões iguais: a pressão do ar e a pressão devida ao peso do Hg.
+
+
+Curso de termodinâmica/Relações fundamentais da termodinâmica
+
+
+Curso de termodinâmica/Pressão de vapor
+Seja um corpo puro em fase condensada, quer dizer, não gasosa. A pressão de vapor é a pressão onde um corpo colocado sozinho a uma temperatura constante está em equilibrio dinâmico com o seu vapor, ou seja, a quantidade de líquido que evapora é a mesma que se condensa. Em outras palavras, a pressão de vapor é a pressão de ebulição (ou de sublimação do sólido) na temperatura considerada. 
+Se o líquido é colocado no vácuo, a pressão de vapor é a pressão de equilibrio do líquido. A temperatura de ebulição normal é a temperatura na qual a pressão de vapor do líquido é igual a 1 bar.
+No diagrama de fase P(T), a pressão de vapor do líquido é representada em função da temperatura pela linha de equilibrio líquido-gás. Da mesma maneira, a pressão de vapor do sólido é representada em função da temperatura pela linha de equilibrio sólido-gás.
+Num sistema com diversos constituintes, por exemplo com um corpo puro A líquido colocado no ar sob uma certa pressão total, a pressão de vapor de A é a pressão parcial de A em equilibrio com o líquido na temperatura considerada. Podemos mostrar que a pressão de vapor deste líquido varia com a pressão total segundo a expressão: 
+formula_1
+Da mesma maneira, a pressão de vapor de um sólido varia com a pressão total segundo: 
+formula_2
+

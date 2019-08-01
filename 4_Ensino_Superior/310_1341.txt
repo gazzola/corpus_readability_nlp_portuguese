@@ -1,0 +1,24 @@
+Teoria dos conjuntos/Cardinalidade
+O conceito de "cardinalidade" é a forma rigorosa de comparar o "tamanho" dos conjuntos.
+Intuitivamente, dois conjuntos tem o mesmo tamanho quando é possível colocar seus elementos em correspondência. Rigorosamente, isto é feito através de "funções bijetivas".
+Neste capítulo representaremos formula_1 quando "A" e "B" tiverem o mesmo tamanho.
+Define-se formula_1 quando existe uma função bijetiva formula_3.
+Segue-se imediatamente da existência da função inversa (demonstrada no capítulo do ../Axioma da potência/) que se formula_1 então formula_5.
+Diz-se também que "A" e "B" são equipotentes, que "A" e "B" tem a mesma cardinalidade ou, menos formalmente, que "A" e "B" tem o mesmo número de elementos.
+Segue imediatamente de propriedades de funções bijetivas que:
+
+
+Teoria dos conjuntos/Bibliografia
+
+
+Teoria dos conjuntos/Axioma do infinito
+Axioma do infinito
+Já vimos vários processos que constroem conjuntos cada vez maiores. Por exemplo, aplicando-se o axioma do par da forma "{x}", partindo-se do conjunto vazio, obtemos "{}, , , , ...".
+Ou, aplicando-se o sucessor a partir do conjunto vazio, obtemos "0, 1, 2, 3, ...". Pelos axiomas até agora vistos, estas listas não são conjuntos. 
+O axioma do infinito diz que existe um conjunto que é "{0, 1, 2, 3, ...}". A aplicação dos outros axiomas permite construir outros conjuntos infinitos, tais como "{0, 1, P(1), P(P(1)), ...}".
+O axioma diz que existe um conjunto que tem o conjunto vazio como elemento e que, para cada elemento, tem o seu sucessor.
+Simbolicamente:
+O conjunto dos números naturais é construído aplicando-se o axioma da extensão a algum conjunto definido pelo axioma do infinito.
+No entanto, para podermos definir formula_2 é preciso mostrar que, se temos dois conjuntos "A" e "B" que satisfazem o axioma do infinito, então os conjuntos formula_3 e formula_4 são iguais.
+O problema é que precisamos dos demais axiomas para demonstrar isso. Por exemplo, sem usar o axioma da regularidade, não há como provar que um conjunto do tipo "A = {0, 1, ..., A}" não pode existir; este conjunto satisfaz à definição do axioma do infinito e é um número natural, mas é obviamente bem diferente do conjunto que imaginamos para formula_5.
+

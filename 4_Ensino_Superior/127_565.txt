@@ -1,0 +1,29 @@
+Logística/Manutenção de instalações/Manutenção de equipamentos e sistemas eléctricos/Sistemas de protecção eléctrica/Elemento de protecção/Relé
+O relé, é um órgão de detecção da variação das grandezas eléctricas. Simultaneamente, desempenha também a função de dar ordens de actuação ou sinalização (Matias et al., 2000, p. 18-21 e 31).
+Existem vários tipos de relés:
+No âmbito dos sistemas de protecção, os mais importantes são os relés de protecção.
+Pode-se citar, dentro das demais grandezas actuantes de um relé, as seguintes: intensidade de corrente, tensão eléctrica, potência eléctrica, impedância e pressão.
+Quanto ao modo de ligação do elemento sensor
+Os relés podem ser classificados, quanto ao modo de ligação do elemento sensor, como relés primários (se o relé mede a própria corrente principal) e relés secundários (quando o relé mede uma corrente proporcional à primária).
+Os relés podem ainda ser classificados, em relés directos ou indirectos.
+Um relé directo envia a ordem ao disparador por processo directo. Um relé indirecto necessita de uma fonte auxiliar para alimentar o disparador.
+Quanto ao tipo de resposta
+Quanto ao tipo de resposta, os relés podem ser classificados em relés instantâneos, relés de tempo independente ou constantes, relés de tempo dependente e relés de característica combinada.
+"Relés instantâneos" - Tempo de actuação muito curto, na ordem dos centésimos de segundo;
+"Relés de tempo independente ou constantes" - O tempo de actuação é independente do valor assumido pela grandeza actuante, mas maior do que o tempo de actuação do relé instantâneo, pois o tempo é regulável;
+"Relés de tempo dependente" - O tempo de actuação é dependente do valor assumido pela grandeza actuante, ou seja, o tempo de actuação não é sempre o mesmo;
+"Relés de característica combinada" - Abaixo de determinado valor da grandeza actuante, este tipo de relé apresenta-se como função de tempo inverso, ou seja, o tempo de actuação decresce à medida que o valor da grandeza actuante aumenta e a curva tende para um valor de tempo de actuação t0 (instantâneo) para os valores mais elevados da grandeza actuante, passando a actuar a partir desse limite como relés instantâneos ou de tempo independente.
+Quanto ao efeito utilizado e à constituição
+Quanto ao efeito utilizado podemos referir:
+Quanto à constituição dos relés:
+"Relés electromagnéticos" - Constituídos por um núcleo magnético; desempenham uma tarefa fundamental na proteção dos circuitos contra possíveis curto-circuitos;
+"Relés Térmicos" - É um sistema de protecção contra subcargas, baseado na dilatação de lâminas bimetálicas;
+"Relés Magnetotémicos" - Têm como base os princípios dos relés electromagnéticos e térmicos, por isso desempenham em simultâneo a função de ambos. São constituídos por um núcleo de ferro horizontal, sobre o qual são bobinados dois enrolamentos;
+"Relés Electrodinâmicos" - Baseiam-se no na interacção entre as correntes de duas bobinas;
+"Relés de Indução" - O seu funcionamento é baseado na interacção de uma corrente induzida num condutor (espira, bobina, tambor, disco, entre outros) com um fluxo magnético variável, resultando uma força electromagnética. Apenas são aplicados em corrente alternada e são normalmente utilizados como relés de potência;
+"Relés de Tempo" - Quando detectam o defeito dão a ordem ao disparador ao fim de um tempo regulável e independentemente das variações das grandezas eléctricas na rede;
+"Relés Estáticos" - Extremamente rápidos na sua operação devido à ausência de partes móveis, conduzindo também a uma menor manutenção;
+"Relés Semiestáticos" - Utilizam como elemento de disparo um relé de bobina móvel.
+Quanto à grandeza actuante
+Dependendo do tipo de grandeza que faz actuar o relé, tem-se:
+

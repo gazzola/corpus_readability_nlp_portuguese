@@ -1,0 +1,12 @@
+ Particionamento das transações da base T que atendem ao critério f em subconjuntos, de forma que o intervalo entre o valor mínimo e máximo para o atributo i é dividido em q faixas e cada transação t é alocada no subconjunto equivalente á faixa que se enquadra i_t. Gera a tabela de contingência e as margens para as transações t E T que atendem ao critério f, considerando os atributos definidos em g.
+Considerando a base de dados T a seguir:
+As saídas para cada comando são:
+Nesse exemplo, uma faixa ficou sem representantes
+Tabela de contingência
+Margens da dimensão PROCEDIMENTO
+Margens da dimensão UF
+Margens da dimensão ANO
+Margens das dimensões UF e ANO
+Margens das dimensões PROCEDIMENTO e ANO
+Margens das dimensões UF e PROCEDIMENTO
+As implementações não impõem limite ao volume de dados que são capazes de processar e nem ao número de nós de processamento. Por funcionar sobre a plataforma Hadoop, a escalabilidade da biblioteca depende diretamente da escalabilidade deste último. As implementações fornecem o mesmo nível de tolerância a falhas que o sistema de arquivos distribuído HDFS do Hadoop. As bases de dados a serem processadas ficam armazenadas no HDFS, que é, por natureza, um sistema de arquivos distribuído construído principalmente para facilitar o acesso aos dados pelos nós de processamento do cluster Hadoop. Os algoritmos implementados são pensados para trabalhar em batch, não sendo recomendados para processamento em tempo real, como é comum em operações estatísticas de sistema de banco de dados. Tabela de contingência. Divisão em quantis. As funções de agregação simples, tais como máximo, mínimo, soma, contagem e média (soma/contagem) são trivialmente paralelizáveis, uma vez que é possível dividir o conjunto de dados, executar o algoritmo de forma independente sobre cada conjunto, e promover a junção dos resultados parciais. Isto torna o processamento escalável, bastando aumentar o número de nós para comportar um maior volume de dados ou melhorar a performance. O cálculo do desvio padrão envolve o cálculo da média e posterior cálculo da diferença quadrática de cada elemento para a média.

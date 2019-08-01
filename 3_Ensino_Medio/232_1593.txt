@@ -1,0 +1,33 @@
+ formula_50
+Agora podemos generalizar dizendo que a quantidade de soluções da equação x+y+z=n é a permutação de formula_51 com repetição de n e 2, ou seja, formula_52. Sendo que:
+formula_53. Logo o trinômio formula_10 terá formula_55 termos diferentes em sua expansão, note que a quantidade de termos
+nao depende de x, y e z, o que era de se esperar pois x, y e z são variáveis implícitas na expansão do trinômio. Para sabermos quantos termos totais(não necessariamente diferentes) existem na expansão do trinômio usamos o seguinte
+artifício: quando formula_56 E formula_57 E formula_58 vamos somar todos os coeficientes dos termos, pois toda potência de 1 é 1. A soma de
+todos os coeficientes da expansão nos dará a quantidade de termos totais existentes. formula_10
+formula_60
+formula_61
+A quantidade de termos totais da expansão do trinômio formula_10 é formula_61. Note que a quantidade de termos diferentes tem
+a expressão formula_55 e a quantidade total de termos tem expressão formula_61, se tornarmos as duas funções em naturais ("funções discretas")
+formula_66
+formula_67
+formula_68
+formula_69
+As duas funções são iguais para formula_70. formula_71, isso condiz claramente com o trinômio, se o expoente "n" do trinômio for igual a 1, a quantidade de termos
+diferentes será a mesma que a quantidade de termos totais e iguais a 3.
+formula_72
+Existem 3 termos diferentes que são os únicos da expansão. Note também que para todo formula_73 (nos naturais) a função formula_74 é sempre
+maior qua função formula_75, o que também condiz com o trinômio, para todo expoente maior que 1 sempre vão existir termos com coeficientes
+maiores do que 1. O que nos resta é, ordenar todos os termos de forma lógica para conseguir colocar em um somatório geral do tipo:
+formula_76
+Podemos fazer isso da seguinte maneira, primeiro coloque em ordem decrescente por potência da letra "a". Por exemplo (sem coeficientes):
+formula_77
+Note que é como se o formula_78 estivesse em evidencia, agora precisamos ordenar as letras "b" e "c" dentro de cada
+parenteses "formula_79" daqueles. Como a soma dos expoentes de cada letra tem que resultar no expoente do trinômio é como se fosse o seguinte (sem os coeficientes):
+formula_80
+Note que a potência do "b" sempre começa no máximo e vai diminuindo, e a potência do "c" varia ao contrário, ou seja,
+formula_81
+finalmente incluindo os coeficientes de cada termo (usando formula_39 para o termo formula_37)
+formula_84
+formula_85
+Finalmente generalizando:
+formula_86

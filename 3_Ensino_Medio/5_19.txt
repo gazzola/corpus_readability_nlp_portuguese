@@ -1,0 +1,21 @@
+Português/Classificação das palavras/Verbos/Vozes
+O sujeito pode ser considerado o termo de maior ênfase na oração, por ter um local exclusivo, o início, e pelo fato de o predicado referir-se inteiramente a ele. A construção deste processo é importantíssimo, pois remete a visão do eu-lírico sobre a declaração, isto é, a visão da história. Veja:
+No primeiro caso, o processo sintático (a ação realizada no decorrer do "corpus" e a visão textual) é dada ao sujeito - "aquelas pessoas"; é transmitida a ideia de que se não houvesse "aquelas pessoas" não haveria "aquela doença". No segundo caso, a visão textual recai sobre o sujeito "a doença" e é transmitida a ideia de que se não houvesse "aquela doença", "aquelas pessoas" não teriam a menor importância ao contexto.
+Esta alteração enfática é dada às vozes verbais, que fazem com que um simples complemento verbal transforme-se no sujeito:
+Como você pode notar, ambas as frases estão no mesmo tempo verbal, o pretérito perfeito. Porém, no primeiro exemplo, a frase está relacionada à ação que "aquelas pessoas" exercem sobre "a doença", no segundo, ocorre o contrário. Numa, a ação do verbo ocorre em relação ao tempo enunciado (voz ativa) e noutra, ocorre o tempo enunciado em relação à ação do verbo (voz passiva), isto é, que já passou. Fazendo análise nas orações, temos:
+Veja que os termos são os mesmos, mas a ordem deles, da voz ativa para a passiva, alterou-se (as mesmas cores mostram os mesmos termos). Em sintaxe, cada um destes termos tem a seguinte nomenclatura, uma para voz ativa e outra para a voz passiva:
+Concluímos que:
+Exemplo:
+Exemplo:
+"Alice" e "Os problemas" são sujeitos pacientes porque recebem a ação praticada pelo agente da ação verbal, "diretor da escola" e "funcionários da empresa", respectivamente. O agente da passiva também pode ser indeterminado, como no seguinte exemplo:
+Como não se sabe quem roubou o carro, o agente da passiva é indeterminado. 
+A língua culta só aceita a voz passiva com um verbo que tenha objeto direto, ou seja, verbo transitivo direto:
+Tais frases estão em linguagem coloquial, porque os verbos "obedecer" e "assistir" precisam de um complemento, o sujeito obedece "a alguém" e assistem "a algo". Portanto, o correto seria a frase na voz ativa:
+Exemplo: 
+É importante observar que o tempo verbal da voz ativa deverá ser seguido pelo verbo auxiliar da voz passiva. No exemplo acima, o verbo auxiliar ("ser") está no mesmo tempo que o verbo principal da voz ativa ("conduzir"), o pretérito imperfeito. Exemplo:
+Exemplo:
+No exemplo acima, "jóias" não pratica a ação de "vender", mas sim, sofre essa ação. Portanto, "jóias" não é o agente da ação verbal, mas o sujeito paciente. O verbo é passivo, sendo essa passividade indicada pelo pronome "se". Essa mesma oração pode ser expressa por outras vozes:
+O sujeito continua a ser jóias, que, por estar no plural, levará o verbo também para o plural.
+A voz ativo-passiva recebe este nome pelo fato de o sujeito da oração receber a ação (ou seja, voz passiva), mas ao mesmo tempo, este não ser o sujeito real, estando o verbo em sua forma simples (e não em locução). Nestes casos o sujeito é indeterminado e a frase pode ser passada para a voz ativa e às vozes passivas:
+É notável que seu uso não é constante na língua e que muitas vezes é considerada coloquial.
+

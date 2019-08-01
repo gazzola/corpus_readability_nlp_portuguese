@@ -1,0 +1,52 @@
+ A reta intercepta o plano em:
+formula_67
+Definamos agora o valor de formula_68,
+formula_69 
+formula_70 
+formula_71 
+formula_72
+Simplificando formula_73, temos:
+formula_74
+formula_75
+formula_76
+formula_77
+e o ponto é:
+formula_78
+Bastando-nos aplicá-lo à equação vetorial da reta para encontrá-la:
+formula_79
+Sejam os planos formula_80, devemos encontrar a reta resultante da interseção dos dois planos. Primeiro, extraímos os vetores normais dos planos:
+Com estes vetores podemos encontrar o vetor diretor da reta, que é perpendicular à normal de ambos:
+formula_83
+formula_84
+formula_85
+Agora, devemos encontrar um ponto da reta:
+Supomos formula_86 em ambos os planos,
+formula_87
+formula_88
+formula_89
+formula_90
+formula_91
+sendo o ponto:
+formula_92
+Substituimos os valores na equação da reta,
+formula_93
+Suponhamos que um ponto qualquer no espaço: formula_96 esteja localizado a uma certa distância de um plano, cuja equação que o define é: formula_97, cujo vetor normal é: formula_98. Como já é de nosso conhecimento, o plano impõe uma distância para o ponto que varia de acordo com a distância da coordenada usada como referência para a medida, portanto, não faz sentido definirmos a distância entre o plano e um ponto se não definirmos este ponto como o mais próximo do plano, o que implica o cálculo da projeção do vetor distância do ponto sobre o vetor normal do plano. Definimos a distäncia entre o plano e um ponto arbitrário como a menor distância entre este e o plano, denominando-a de formula_99. Pelo produto escalar obtemos:
+formula_100
+Ou seja,
+formula_100
+Que nos dá a equação:
+Porém, para o vetor formula_103 definimos a distância entre o ponto no plano e o seu par, que é reflexo do ponto formula_104 nos eixos:
+formula_105
+Onde formula_106 é um ponto qualquer no plano. Ou seja,
+formula_107
+Que substituimos na equação da distância entre plano e ponto acima:
+formula_102
+formula_102
+Temos o escalar formula_110 semelhante a equação do plano, o que nos dá
+formula_102
+Podemos adotar uma nomenclatura mais conveniente se usarmos o vetor normal do plano definido como: formula_112:
+O que define a distância entre o plano e o ponto. Sejam dois planos paralelos: formula_114 e formula_115, encontremos a distância entre os dois planos:
+Como os dois planos são paralelos podemos encontrar um ponto em um dos planos, depois utilizar a equação anterior para encontrar a distância entre os dois planos:
+Definamos formula_116 e temos o ponto em um dos planos:
+formula_117,
+para o primeiro plano apresentado.

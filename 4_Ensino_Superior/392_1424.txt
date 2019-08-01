@@ -1,0 +1,27 @@
+ A resposta vem da seguinte relação:
+Se formula_93 e formula_94, são funções que definem uma forma paramétrica, sendo que:
+formula_101
+formula_102
+temos:
+formula_103
+uma vez que formula_2 depende de formula_6:
+formula_106
+Ou seja:
+As derivadas de segunda órdem são conseguidas de forma um pouco mais trabalhosa, uma vez que queremos obter:
+formula_108
+Temos que difernciar a derivada primeira em relação a formula_6 e depois dividí-la pela derivada de formula_2 em relação a formula_6. Pois:
+formula_112
+Que é:
+formula_113
+Ou seja:
+formula_114
+Como já explicamos, definimos a derivada primeira depois calculamos a derivada desta em relação a formula_6 dividindo-a em seguida pela derivada de formula_2 em relação a formula_6
+A aplicação direta dos conceitos de derivadas de funções paramétricas pode ser usado de forma prática para o esboço de gráficos como veremos neste tópico. As propriedades de análise de curvatura são especialmente úteis para encontrar tendências de crescimento e análises de concavidades, uma vez que temos mais derivadas temos mais dados sobre as curvas. Sabendo que as derivadas em relação ao parâmetro nos informam os pontos onde temos tangentes verticais ou horizontais, como já verificamos, devemos ter em conta que a derivada em relação a formula_2 nos informa os pontos onde há mudança de declividade da curva em relação a este eixo, da mesma forma que a derivada segunda em relação a formula_2 nos fornece a concavidade da curva em relação ao mesmo eixo. Entretanto, devido a caracterísica independente das variáveis paramétricas, é comum encontrarmos equações paramétricas que nos fornecem valores inválidos durante a análise quando tomamos diferenciais de formula_3 em função de formula_2. Observando as diferenciais em relação ao parâmetro temos um conjunto de informações que são muito úteis, vejamos:
+A este conjunto de dados podemos adicionar as raízes e pontos de inflexão, os últimos podem ser consequidos pela análise de transição na declividade junto a pontos onde as derivadas não existem. Analisemos os valores que estas derivadas nos fornecem no exemplo abaixo:
+Consideremos a função paramétrica definida pelas equações:
+As derivadas das equações em relação ao parâmetro são:
+formula_130
+formula_131
+formula_132
+formula_133
+O que nos dá a possibilidade de fazer algumas das nossas análises iniciais.

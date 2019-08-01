@@ -1,0 +1,30 @@
+ Uma vez que estabelecemos os valores dos x, podemos arbitrar um ponto intermediário entre eles para que seja o ponto onde definiremos o valor da função, este ponto será importante porque ele estabelecerá a altura do retângulo. O valor de "x", que determinará o ponto da altura de cada retângulo é referenciado como formula_89, referenciamos estes pontos como: formula_90. A base dos retângulos é formula_91, onde os valores podem variar livremente, porém há sempre um retângulo que possui a maior base, que chamamos de norma da partição formula_85, simbolizada por formula_93. Podemos somar todos os retângulos da partição, fazendo o cálculo aproximado da área, da seguinte maneira:
+formula_94
+A integral é obtida quando fazemos os retângulos tão pequenos que poderemos considerar suas bases quase nulas, para isso podemos dividir a partição em pedaços de formula_95:
+formula_96
+O que nos permite delimitar a norma formula_93 e definir a sua tendência a zero, também nos dá a possibilidade de definir a integral como:
+formula_98
+Algumas propriedades são observadas a partir dos conceitos expostos sobre a integral, são regras para simplificar algumas operações, mas que podem ser úteis para o estudo de teoremas que veremos em capítulos mais adiante, vejamos as propriedades e suas comprovações:
+Sejam formula_26 e formula_27, funções contínuas no intervalo formula_85, podemos afirmar que:
+formula_102
+Comprovação:
+Podemos observar que, ao tomarmos o intervalo formula_95, dividindo-o em n pedaços, teremos:
+formula_104
+Sendo formula_105 teremos:
+formula_106
+então:
+formula_107 e:
+formula_108
+O que comprova o teorema. Sendo "K" constante:
+formula_109
+Comprovação:
+formula_110
+que é igual a:
+formula_111
+O que comprova o teorema. formula_112
+Comprovação:
+Novamente tomando o intervalo formula_85, dividindo-o em n pedaços, teremos:
+formula_104
+Portanto formula_115 é fator determinante do sinal. Se tomarmos a integral no intervalo formula_95 e invertermos a sua posição no cálculo, teremos:
+formula_117
+Logo, tomando formula_118 como formula_115 é igual a tomar formula_120 como formula_121. O que comprova o teorema.

@@ -1,0 +1,26 @@
+Logística/Gestão de armazéns/Configuração de áreas de armazenagem contínuas/Um produto
+
+
+Logística/Sistemas de informação/Rastreabilidade/Sistema de rastreabilidade no sector alimentar/Melhorar a cadeia de abastecimento
+Estudos realizados pelo governo americano declara que as indústrias americanas gastam anualmente 1,6 triliões de em actividades relacionadas com abastecimento das cadeias, desde a movimentação, armazenagem e controlo de produtos.
+Uma chave para o sucesso nas indústrias alimentares está muitas vezes ligada a limitações associadas à cadeia de abastecimento. Muitos sistemas de rastreabilidade conseguem superar os custos de implementação em apenas seis meses devido ao aumento alargado de eficiência que beneficia a indústria ao qual são aplicados.
+Ao possuirem um sistema de rastreabilidade automatizado, os processadores conseguem interligar operações. Se conseguir encontrar o parceiro tecnológico indicado, o processador alimentar consegue desenvolver um sistema de captação de dados de rastreabilidade adaptado às necessidades da empresa ao invés de implementar um sistema de pacotes de "software". Os processadores alimentares e os seus parceiros tecnológicos que focam a rastreabilidade, podem desenvolver, implementar e integrar com um sistema de planeamento de recursos financeiros, sistemas de controlo de fabricação e de contabilidade. Estes programas ajudam a garantir a racionalização do maior número de elementos possível.
+O único problema é que a maioria dos processadores alimentares seguem a sua rastreabilidade com «lápis e papel» o que, apesar de ser funcional, não oferece nenhuma melhoria em eficiência operacional. Manter a rastreabilidade com sistema de «lápis e papel» é muito dispendioso devido às oportunidades e tempo perdido. Por outro lado, os meios tecnológicos, permitem melhorar todo o processo (Jahnke, 2009).
+
+
+Logística/Localização
+
+
+Logística/Localização/Localização em redes/Localização em redes cíclicas
+Existem três características quando se fala em problemas de localização de um centro de distribuição, estas características estão descritas abaixo (Francis, 1992, p. 394-395):
+1. Considerar num nó ou em qualquer outro ponto da rede a possível localização da nova instalação.
+2. A localização das procuras estão num nó ou em qualquer outro ponto da rede.
+3. Considerar uma função objectivo onde se pretende minimizar o custo total a todos os pontos de procura, ou então, minimizar o custo máximo a qualquer ponto de procura.
+Cada combinação das características do problema da origem a uma classificação, sendo as seguintes:
+1. Centro - Tanto a instalação como as procuras apenas ocorrem nos nós, neste caso qualquer nó cujo nó mais distante está o mais próximo possível é um centro de uma rede.
+2. Centro Geral - Classifica-se por centro geral qualquer nó onde o ponto mais distante da rede está o mais próximo possível, sendo que os pontos de procura estão localizados nos arcos e nos nós.
+3. Centro Absoluto - Quando a instalação está localizada num ponto qualquer da rede e as procuras estão localizadas nos nós considera-se um centro absoluto onde este é qualquer ponto cujo nó mais distante está tão próximo quanto possível.
+4. Centro Absoluto Geral - A instalação e a procura podem estar em qualquer ponto da rede, o centro absoluto geral de uma rede é qualquer ponto cujo ponto mais distante estiver tão próximo quanto possível.
+Cada um deste quatro tipos de problemas podem ser transpostos, por analogia, como problemas de média, mediana geral, mediana absoluta, mediana absoluta geral, para tal, deve-se mudar a função objectivo, sendo que nestes casos o que se pretende é minimizar a soma das distâncias da instalação a todos os pontos de procura.
+Pode-se ainda considerar dois exemplos de localização cíclica:
+

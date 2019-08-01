@@ -1,0 +1,32 @@
+Curso de termodinâmica/Variação da energia livre com a temperatura e a pressão
+Pelas definições de G e H:
+formula_1
+formula_2
+Segundo as primeira e segunda leis da termodinâmica, aplicadas a um processo reversível: 
+formula_3
+Em conseqüência, para qualquer processo reversível (no equilibrio):
+formula_4
+Se considerarmos dG como a diferencial total exata de G(P,T), temos:
+formula_5
+o que leva a :
+formula_6
+G, V e S são propriedades extensivas, quer dizer, seu valor depende da quantidade de matéria considerada; ao contrário, P e T não dependem do tamanho do sistema, ou seja, são propriedades intensivas. Por exemplo, para um mol, temos:
+formula_7 
+A entropia S (que é o logaritmo de um número de estados) e o volume V são sempre positivos. Alem disso, o volume de uma quantidade de gás é sempre muito maior que o volume de líquido correspondente. Por outro lado, a entropia do gás é maior que aquela do líquido. Podemos então representar esquematicamente as variações de G, para uma certa quantidade de qualquer corpo puro, da seguinte maneira:
+A temperatura constante, um aumento da pressão conduz à liquefação do gás porque, a pressão elevada, a energia livre de uma certa quantidade do corpo no estado gasoso é maior que aquela da mesma quantidade do corpo no estado líquido.
+G > G
+De maneira inversa, a pressão constante, o aquecimento de um líquido provoca sua vaporização.
+G < G
+A temperatura e pressão constantes, na interseção das duas curvas G(T), a energia livre de uma certa quantidade do corpo puro é a mesma em cada fase: as duas fases estão em equilibrio. O sistema inclui as duas fases nas proporções que dependem das outras variáveis de estado. Para o equilibrio de vaporização, por exemplo, podemos mudar a proporção de líquido e de gás variando o volume total do sistema sem mudar nem a temperatura nem a pressão: 
+A energia livre do sistema como um todo é a mesma em cada caso:
+formula_8
+mas a energia livre da fase gasosa (G) ou da fase líquida (G) varia com o volume do sistema, conforme n e n mudam.
+As equações formula_9 permitem também expressar o efeito da pressão e da temperatura sobre a variação de energia livre formula_10 que acompanha uma transformação. Assim:
+formula_11
+onde 1 e 2 designam dois estados do sistema (duas fases, por exemplo). A mudança de energia livre durante a transição 1 → 2 varia segundo: 
+formula_12
+Se a transição se acompanhar de um aumento de volume, G aumenta com P. A transição será então favorecida por uma diminuição de pressão. Da mesma maneira: 
+formula_13
+A variação de G com a temperatura e a pressão permite prever o diagrama de fase dos corpos puros. Com efeito, a entropia de um corpo puro, que é um espelho de seu grau de organização, segue a ordem:
+S > S > S
+

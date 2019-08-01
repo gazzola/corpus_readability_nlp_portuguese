@@ -1,0 +1,34 @@
+Logística/Planeamento e projecto de instalações/Computerized Relationship Layout Planning (CORELAP)/Dados necessários
+1. Tabela de inter-relações entre actividades ou departamentos.
+2. Número de departamentos da configuração.
+3. Área de cada departamento.
+4. Peso na tabela de relações (REL) entre os departamentos (Hiregoudar et al., 2007, p. 96).
+1. Formato do perímetro do edifício.
+2. Razão entre o comprimento e largura.
+3. Configuração final desejada.
+4. Pré colocação dos departamentos (Hiregoudar et al., 2007, p. 96).
+
+
+Logística/Manutenção de instalações/Plano de manutenção preventiva
+Sendo a manutenção preventiva um sistema de actuação precoce, que procura antecipar as falhas que possam vir a acontecer, o departamento de manutenção elabora planos de manutenção preventiva baseados nos tempos de vida dos equipamentos, definidos pelos fabricantes. A adopção de um plano de manutenção preventiva deve, inicialmente, considerar factores tais como: a impossibilidade da adopção da manutenção predictiva, aspectos de segurança pessoal ou da instalação, equipamentos difíceis de dispensar, riscos de agressão ao meio ambiente, sistemas complexos ou de operação contínua (Silva, 2004, p. 31).
+Segundo Dhilon (2002, p. 45-46), o plano de manutenção preventiva apresenta seis passos a seguir para o estabelecimento de um programa de prevenção eficaz, em curto período de tempo. Antes da sua implementação é necessário que a instalação em causa tenha em seu poder: registos históricos dos equipamentos; recomendações dos fabricantes; pessoal qualificado; dados anteriores de equipamentos semelhantes; manuais de serviço; identificação de todos os equipamentos; instrumentos e ferramentas de teste; apoio da gestão e cooperação dos utilizadores; informação sobre falhas organizada por problema, causa ou acção; consumíveis e componentes sobressalentes; instruções escritas de forma clara com uma folha de verificação para ser assinada por alguém exterior ao departamento. Os seis passos referidos são:
+
+
+Logística/Sistemas de informação/Rastreabilidade/Unidades de expedição
+<br.>
+As unidades de expedição são itens que não se destinam a ser vendidos directamente ao consumidor. Uma unidade de expedição pode ser um produto simples ou um conjunto de produtos embalados de modo a facilitar o manuseamento, armazenagem, encomenda, preparação ou expedição.
+O código EAN-14 ou ITF-14 (Figura 1) consiste no EAN do produto precedido de uma variante logística de 1 dígito, sendo esta diferente para cada nível de embalagem e composta por um dígito de 0 a 9 escolhido pelo fabricante de acordo com as suas necessidades específicas (Rodrigues, 2007, p. 44-45):
+
+
+Logística/Técnicas de previsão/Regressão múltipla
+Sousa (2009, p. 20) define regressão linear múltipla como uma relação entre uma variável aleatória dependente, formula_1, e formula_2 variáveis independentes, formula_3, formula_4, …, formula_5, com a seguinte expressão:
+formula_6
+Onde, tal como no caso da regressão simples, se utiliza o método dos mínimos quadrados para determinar os parâmetros formula_7
+De acordo com Henriques (2009, p. 22), a expressão acima pode ser re-escrita na forma matricial como:
+Onde:
+Admite-se que formula_9, formula_10, ...,formula_11 são variáveis aleatórias independentes de média 0 e desvio padrão formula_12.
+Da mesma forma que na regressão simples se utiliza o método dos mínimos quadrados para estimar os parâmetros da regra de regressão, o mesmo acontece na regressão múltipla, da qual se obtém que o vector dos parâmetros da regressão é dado por:
+formula_13
+Caso ocorra formula_14, está-se perante um problema de regressão linear simples, que também pode ser resolvido desta forma.
+Um exemplo de regressão múltipla, dado por Henriques (2009, p. 18), é a relação entre o volume de vendas efectuadas num período de tempo por um vendedor, os seus anos de experiência, e a sua pontuação num teste de inteligência.
+

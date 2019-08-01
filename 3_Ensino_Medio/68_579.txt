@@ -1,0 +1,27 @@
+Introdução à física/Capacidade térmica e calor específico
+Capacidade térmica e calor específico são grandezas físicas que permitem a conversão entre calor (energia) e variação de temperatura. Estas grandezas estão também relacionadas com as interações intermoleculares, a estabilidade de uma fase, a condutividade térmica e a capacidade de armazenar energia.
+Calor específico (c) é uma grandeza física que define a variação térmica de determinada substância ao receber determinada quantidade de calor sensível. Também é chamado de capacidade térmica mássica. É constante para cada substância em cada estado físico. Pode-se dizer que o calor específico caracteriza uma substância (em determinado estado físico). É dado por:
+Em que:
+A tabela ao lado apresenta o calor específico de algumas substâncias à pressão constante de 1 atm. As unidades geralmente utilizadas neste caso são calorias (cal), gramas (g) e graus celsius (°C), apesar de não corresponderem às unidades padrão.
+Uma panela homogênea de ferro de 2 quilogramas, inicialmente a 300 °K, é posta em um fogão de lenha que transfere 9200 joules. Qual a temperatura final da panela, considerando o calor específico do ferro igual a 460 j.kg.K?
+Resolvendo:
+Tradicionalmente, o estudo do calor precedeu a compreensão da equivalência entre calor e energia, que supunha que o calor era transferido entre os corpos através de um fluido invisível e inodoro, chamado "calórico". Assim, quando foi estabelecido o sistema métrico, logo após a Revolução Francesa, definiu-se uma unidade para medir o "calórico", chamada de caloria (abreviada como "cal"), definida como a quantidade de calor necessário para elevar um grama de água em um grau celsius (isto é, o calor específico da água). O sistema internacional define a caloria como sendo, exatamente:
+A regra de Dulong-Petit consiste em obter, aproximadamente, o calor específico das substâncias por meio da massa molar:
+Em que:
+Capacidade térmica (C) ou capacidade calorífica é uma grandeza física que determina a variação térmica de um corpo ao receber determinada quantidade de calor. O valor da capacidade térmica é correspondente à quantidade de calor necessária para elevar a temperatura do corpo em uma unidade de variação de temperatura. É possível calcular pela seguinte fórmula:
+Onde:
+Também podemos substituir o calor específico por sua própria fórmula de definição:
+Um termômetro de mercúrico revestido de vidro tem sua marcação em 300 K e está em equilíbrio térmico. Para tal termômetro, são necessários 2000 joules para que sua temperatura se eleve 1 K. Quantos joules, ao total, o termômetro absorveu?
+O termômetro absorveu, portanto, 600.000 joules.
+Quando se tem um sistema, deve-se considerar que cada corpo tem capacidade térmica e temperatura inicial diferente. Geralmente a temperatura final é aquela do equilíbrio térmico, portanto, todas são iguais. Pela lei da conservação de energia, temos:
+Caso seja adicionado calor proveniente de uma fonte externa, teremos:
+Substituindo-se pela fórmula do calor específico (com Q em evidência), temos:
+Onde:
+Em um caldeirão de 5 quilogramas, de ferro e homogêneo, situado sobre uma lareira que fornece 153 400 j, são colocados 200 gramas de álcool etílico diluído em 1000 gramas de água. O caldeirão e o álcool, antes de serem postos na lareira, estavam a 300 K, enquanto que a água estava a 280 K. Admitindo que não há perdas energéticas, qual o equilíbrio térmico do sistema? Considere o calor específico do ferro igual a 460 j.kg.K, da água igual a 4180 j.kg.K e do álcool a 2500 j.kg.K.
+Como temos três componentes e o calor da fonte:
+Substituindo-se por números:
+Resolvendo:
+E então:
+Assim:
+Conclui-se que, no equilíbrio térmico, todos os componentes estão a 310 K.
+

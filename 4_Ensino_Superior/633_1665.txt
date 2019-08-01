@@ -1,0 +1,32 @@
+ Mecânica dos fluidos/Pressão sobre corpos submersos
+Uma placa retangular, de dimensões L x W, espessura desprezível, imersa em um fluido incompressível de densidade formula_1, sofre pressão sobre a sua superfície superior, devido ao peso desse fluido. Se a placa estiver imersa a uma profundidade D e perfeitamente alinhada horizontalmente, todos os pontos estarão sujeitos à mesma pressão formula_2. Se, no entanto, apenas a sua extremidade superior estiver alinhada com a horizontal e a face fizer um ângulo Θ com esta, os pontos sofrerão uma pressão que varia com a profundidade, de formula_3 no topo a formula_4 na extremidade inferior. Isso dará origem não apenas a uma força resultante sobre a superfície, mas também a um torque na direção horizontal. Para obter a força, é preciso integrar a força infinitesimal sobre cada elemento de área da placa. formula_5
+A direção da pressão é sempre perpendicular à superfície da placa, pois o líquido está estático, o que simplifica o cálculo, tornando desnecessário trabalhar com vetores. Podemos introduzir a variável x, variando de 0 a L, ao longo da face da placa, sendo formula_6, para integrar a equação acima. formula_7
+formula_8
+formula_9
+O torque sobre a superfície, por sua vez, tomando-se como referência a extremidade superior, será dado por
+formula_10
+formula_11
+A profundidade do centro geométrico da placa é
+formula_12
+e a pressão nessa profundidade é
+formula_13
+que daria origem, se aplicada uniformemente a toda a placa, a uma força
+formula_14
+que é igual à força resultante sobre a placa calculada acima. Assim, podemos escrever que a força resultante sobre a placa submersa é igual à força que apareceria se ela estivesse mergulhada na posição horizontal na profundidade em que se encontra o seu centro geométrico. Quanto ao torque, podemos dizer que ele é igual à força formula_15 aplicada à posição
+formula_16
+formula_17
+Esse ponto está a uma profundidade
+formula_18
+e é a coordenada vertical do ponto de aplicação da força resultante F. As outras coordenadas são, obviamente:
+formula_19
+formula_20
+A força F, por sua vez, pode ser expressa por suas componentes em cada uma das dimensões
+formula_21
+Os 6 valores F, F, F, h, z e y descrevem completamente a força aplicada à superficie. Qualquer que seja o formato da placa, podemos escrever, como acima
+formula_22
+formula_23
+formula_24
+formula_25
+onde
+formula_26
+são, respectivamente, o primeiro e o segundo momentos da área da superfície com relação ao eixo que passa pela extremidade superior.

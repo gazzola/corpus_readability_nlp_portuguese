@@ -1,0 +1,39 @@
+Cálculo (Volume 2)/Funções de várias variáveis
+Este capítulo trata de um tema que deve ser explorado com certo detalhamento para que as noções sejam bem entendidas, os tópicos serão explorados de maneira individual e progressiva. Por isso dividimos as subseções de forma a adequar o cronograma seqüencialmente ao estudo.
+
+
+Cálculo (Volume 2)/Integrais múltiplas
+Existem várias situções em que não é possível ou não é fácil utilizar uma integral simples. Assim, surge o aparecimento das chamadas integrais múltiplas que "varrem" o domínio de integração com a ajuda de duas ou três variáveis.Os integrais múltiplos podem ser:Integral dupla formula_1Integral triplo formula_2
+Integrais duplas são integrais definidas de funções de duas variáveis formula_3 sobre uma região limitada no plano formula_4. Denotamos por:
+formula_5
+a integral dupla de formula_3 sobre a região de integração formula_7.
+Aqui, vamos considerar o caso de uma região de integração retangular, i.e., formula_8.
+Como para integrais simples, integrais duplas são definidas como o limite de somas de Riemann. Para tanto, particionamos a região retangular formula_7 em formula_10subretângulos e denotamos a área do formula_11-ésimo subretângulo por formula_12, onde formula_13 e formula_14 são os comprimentos dos lados deste subretângulo. Uma soma de Riemann é dada por:
+formula_15
+onde formula_16 é um ponto qualquer pertencente ao formula_11-ésimo subretângulo.
+A integral dupla sobre formula_7 é definida por:
+formula_19
+com o limite sendo tomado sobre todas as partições retangulares possíveis, fazendo a área dos subretângulos tender a zero. Quando este limite existe, dizemos que formula_20 é integrável. É condição suficiente para a existência deste limite formula_20 ser contínua.
+
+
+Cálculo (Volume 2)/Capa
+
+
+Cálculo (Volume 2)/Geometria tridimensional/Vetores no espaço
+Seja formula_1 um representante do conjunto de números reais enumerados de forma a identificar um dos valores em uma das dimensões do espaço, chamamos cada um destes elementos de componente.
+Definimos o vetor como o conjunto de componentes que definem um ponto em um sistema de coordenadas cartesianas tais que sejam identificados por formula_2, até n dimensões que possam ser expressas. 
+Dados dois pontos no espaço, formula_3 e formula_4, representados por formula_5 e formula_6 podemos representá-los sob a forma de um vetor efetuando a seguinte operação:
+formula_7
+Considerando que o ponto formula_3 seja um vetor com relação à origem e o ponto formula_4 esteja formula_10 unidades distantes do anterior, podemos dizer que os componenetes dos vetores são formula_11 e os de formula_4 são formula_13, temos que:
+formula_14
+formula_15
+Sendo formula_16 e formula_17 vetores, formula_18 também é a representação de um vetor, resultante da operação dos dois primeiros.
+O vetor se apresenta como um conjunto de coordenadas que definem-se nos eixos como triângulos retângulos, podendo ser operados de forma a encontrar parâmetros que nos sejam úteis, um deles é a norma. Se queremos fazer uso do valor numérico associado à magnitude da grandeza expressa pelo vetor podemos calcular a norma ou módulo, que constitui um valor absoluto desta grandeza, para isto usamos a relação quadrática:
+formula_19
+Cada vetor tem sua propriedade fundamental de informação sobre direção e sentido como algo particular, por isso se quisermos obter um vetor que contenha apenas a informação sobre estas duas propriedades devemos calcular o versor do vetor.
+O versor é um vetor unitário que contém a informação relativa espacial das propriedades de direção e sentido, ele pode ser calculado da seguinte forma:
+Se formula_20 é o versor de formula_21, então:
+Isto se evidencia por:
+formula_23
+formula_24
+

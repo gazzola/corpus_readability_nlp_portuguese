@@ -1,0 +1,33 @@
+Logística/Planeamento e projecto de instalações/Computerized Relationship Layout Planning (CORELAP)
+O CORELAP ou "Computerized Relationship Layout Planning" foi um dos primeiros programas de construção disponíveis para computador, sendo introduzido em 1967 por Lee e Moore (Heragu, 2006, p. 197). Tal como o ALDEP, usa a tabela de REL na construção de "layouts". Pode trabalhar com até 70 actividades e a escala do "layout" é limitada pela dimensão máxima de 40x40 (Hiregoudar et al., 2007, p. 95).
+
+
+Logística/Localização/Localização minisoma de múltiplas instalações/Localização minisoma de múltiplas instalações com distâncias euclideanas
+Um problema de múltiplas instalações com distâncias euclideanas pode ser formulado da seguinte forma (Francis et al., 1974, p. 227):
+formula_1
+Onde:
+"m" é o número de novas instalações;
+"n" é o número de instalações já existentes;
+formula_2 é a conversão da grandeza distância entre uma nova instalação formula_3 e uma instalação já existente formula_4 em valores de custos, com formula_5;
+formula_6 é a conversão da grandeza distância entre uma nova instalação formula_3 e outra nova instalação formula_8 em valores de custos, com formula_9;
+formula_10 é a localização da nova instalação formula_3;
+formula_12 é a localização da instalação já existente formula_4;
+As condições necessárias para que as localizações das novas instalações sejam óptimas são dadas pelas derivadas parciais formula_14 e formula_15:
+formula_14 = formula_17
+formula_15 = formula_19
+onde:
+formula_20
+formula_21
+O modelo de distâncias euclidianas assemelha-se essencialmente ao modelo de distâncias rectilíneas, para o caso em que todas as instalações existentes são colineares, ou seja, quando todas ligarem numa única linha. Para este caso, é possível escolher várias posições pois todas as instalações existentes poderão estar ao longo do eixo dos formula_22. 
+Assim pode-se representar os pontos como formula_23 para os valores entre formula_24 e formula_25 (Francis et al., 1992, p. 368).
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Armazenagem de unidades de carga/Estante para armazenagem de unidades de carga/Estante cantilever
+Numa estante "cantilever" (Figura 1) as barras que suportam as cargas são fixas apenas numa extremidade. A estante é constituída por colunas verticais separadas umas das outras. Nestas colunas são afixadas barras horizontais, tanto só de um lado, como de ambos, conforme a necessidade. A principal vantagem destas estantes é que fornecem muito espaço no eixo longitudinal sem a interferência de colunas verticais.
+As barras horizontais podem ser cobertas com plataformas de madeira ou metal. As estantes "cantilever" são utilizadas para a armazenagem de artigos longos, tais como sofás, carpetes, barras, tubos, varas e placas de madeira ou metal (Tompkins et al., 2003, p. 256).
+
+
+Logística/Gestão de armazéns/Picking/Introdução
+O "picking", também conhecido por "order picking" (separação e preparação de pedidos) pode ser definido como a actividade, na qual um pequeno número de produtos, é extraído de um sistema de armazenagem, para satisfazer um certo número de pedidos de clientes independentes. Os processos de "picking" tornaram-se uma parte importante do processo da cadeia de abastecimento. Esta actividade é vista como a mais intensiva e dispendiosa em quase todos os armazéns, onde o custo de separação e preparação dos pedidos é estimado em até 55% da despesa total de funcionamento do armazém. Como esta actividade envolve custos significativos e pode influenciar e afectar os níveis de satisfação do cliente, tem havido um número crescente de melhorias do processo, propostas para ajudar as empresas com essa questão da cadeia de abastecimento (Murray, 2009).
+Existem cinco níveis de "picking" com base no tamanho da unidade que está a ser recolhida. São eles (Halsey, 1998):
+

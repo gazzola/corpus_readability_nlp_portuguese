@@ -1,0 +1,31 @@
+Curso de termodinâmica/Exercícios de termodinâmica/A21
+Uma quantidade de hidrogênio é contido numa cámara de platina de volume constante. Quando a cámara é mergulhada num banho de gelo fundente, a pressão do gás fica 1000 mmHg.
+a- Qual é a temperatura quando o manómetro indica exatamente 100 mmHg? 
+b- Que pressão é indicada quando a cámara é posta a 100°C?
+a- Dados do problema
+formula_1
+b- Dados do problema:
+formula_2
+
+
+Curso de termodinâmica/Exercícios de termodinâmica/B1
+Qual é a massa de ar contida num local de 5 m x 3 m x 3 m a 20º C e 1 atm?
+A composição média do ar atmosferico, em volume, é 78,10% de N + 20,98% de O + 0,94% de Ar
+Podemos calcular a massa molar média do ar:
+O local tem um volume de 5 x 3 x 3 = 45 m
+Aplicamos a lei dos gases perfeitos: 
+formula_2
+Onde:
+
+
+Curso de termodinâmica/Exercícios de termodinâmica/A12
+Uma massa de hidrogênio ocupa 8,74 m a 15ºC e 100 kg/cm. Achar o volume a -30ºC e 250 kg/cm
+Aplicamos a lei geral dos gases:
+O problema é resumido na tabela:
+formula_1
+
+
+Curso de termodinâmica/Evolução térmica espontânea
+EVOLUÇÃO TÉRMICA ESPONTÂNEA DOS SISTEMAS COMPOSTOS DE OBJETOS A DIFERENTES TEMPERATURAS 
+O que ocorre quando dois objetos a temperaturas diferentes são postos em contato? A experiência diária mostra que o objeto mais quente se resfria e o objeto mais frio se esquente. O sistema pára de evoluir espontaneamente quando os dois objetos são à mesma temperatura. Porque não se observa ao contrário que a temperatura do objeto quente aumenta mais no contato com o objeto frio, este último não se resfria mais ainda? Uma tal transferência seria em acordo com a primeira lei, a condição que o calor perdido por um objeto seja recebido pelo outro (conservação da energia). O cálculo das mudanças de entropia do sistema mostra porém que a transferência de energia térmica do frio para o quente seria contrária à segunda lei.
+

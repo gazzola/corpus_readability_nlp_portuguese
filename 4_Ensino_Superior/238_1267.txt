@@ -1,0 +1,25 @@
+Logística/Manutenção de instalações/Manutenção de equipamentos e sistemas eléctricos/Elemento de protecção
+Os principais elementos de um sistema de protecção eléctrica são os fusíveis e os relés (Matias et al., 2000, p. 11).
+
+
+Logística/Gestão de desperdícios e rejeitados/Resíduos agrícolas/Enquadramento Legal
+Em baixo são apresentados os vários decretos lei onde se podem obter as informações legais necessárias ao manuseamento dos resíduos. 
+Decreto-Lei n.º 239/97, de 9 de Setembro – Regras para Gestão de Resíduos;
+Despacho n.º 25297/2002, de 27 de Novembro, Despacho n.º 10977/2003, de 4 de Junho e Despacho n.º 25292/04, de 14 de Novembro - estabelecimento de medidas destinadas a promover a eliminação de práticas de deposição e descarga de toda a espécie de resíduos no espaço rural.
+Portaria n.º 335/97, de 16 de Maio – Regras de transporte de resíduos dentro do território Nacional;
+Desp. n.º 8943/97, de 9 de Outubro - Identifica as guias a utilizar para o transporte de resíduos, em conformidade com o art.º 7º da Portaria n.º 335/97;
+Decreto-Lei n.º 366-A/97 , de 20 de Dezembro – Regras para Gestão de Embalagens e Resíduos de Embalagens;
+Decreto-Lei n.º 111/01, de 6 de Junho – Regras para a Gestão de Pneus usados;
+Decreto-Lei n.º 153/03, de 11 de Julho – Regras para a Gestão de Óleos usados;
+Filmes de cobertura do solo, de estufas e estufins, tubagem de rega, ráfias e redes de ensombramento, embalagens de adubos, vasos, placas, tábuas de germinação, etc.);
+Não existe legislação específica para a gestão deste fluxo de resíduos, pelo que se aplica a legislação genérica, nomeadamente o DL n.º 239/97, de 9 de Setembro, e a Portaria n.º 335/97, de 16 de Maio.
+
+
+Logística/Sistemas de informação/Processamento de encomendas/Exemplo de processamento de uma encomenda
+O processamento de encomendas é feito nas mais variadas situações. Este exemplo, refere-se a uma encomenda industrial. Uma parte das actividades pode ser automatizada, no entanto, a maioria é feita manualmente. Um fabricante produz mangueiras, válvulas e conectores para uso industrial, de acordo com as especificações do cliente. Processa uma média de 50 pedidos por dia, tem um tempo de ciclo total entre 15 e 25 dias e um tempo de ciclo de processamento entre 4 e 8 dias. O sistema de processamento de encomendas foi projectado da seguinte forma (Ballou, 2006, p. 125-127):
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Armazenagem de unidades de carga/Estante para armazenagem de unidades de carga/Estante de profundidade simples
+Uma estante de profundidade simples é uma construção de barras metálicas horizontais e verticais que permite acesso directo a qualquer carga armazenada. Ao contrário do que acontece na armazenagem por empilhamento, o espaço vazio criado na sequência da remoção de uma carga é de imediato disponibilizado. Outra vantagem desta estante é que as cargas não têm que ser de tamanhos uniformes ou constantes, podendo variar a sua largura e altura. Devido à simplicidade deste tipo de estante, ela permite armazenar todo o tipo de cargas. Em casos onde existe muita variação da profundidade das cargas, poderá ser necessário utilizar suportes auxiliares para as cargas. 
+Esta estante pode-se considerar como um padrão para o efeito de comparação das vantagens e desvantagens em relação às outras estantes. Na maioria dos casos, um sistema de armazenagem beneficia do uso de estantes deste tipo desde que o número de unidades a armazenar seja inferior a seis (Tompkins et al., 2003, p. 252).
+

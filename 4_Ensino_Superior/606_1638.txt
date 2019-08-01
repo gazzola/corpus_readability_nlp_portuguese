@@ -1,0 +1,12 @@
+ Logística/Manutenção de instalações/Estrutura organizacional/Alteração e melhoria
+1. INTRODUÇÃO
+As alterações e melhorias podem se entendidas como os novos projectos/instalações, desmantelamentos parciais, modificações em instalações existentes incluindo a construção/montagem de novos equipamentos. Contudo é fundamental estabelecer requisitos em matéria de Gestão das Modificações definido a aplicação de uma metodologia de controlo que assegure que as alterações e melhorias implementadas, temporárias, permanentes ou de urgência, de Tecnologia ou Processual, Instalações/Equipamentos, ou de Pessoas ou da envolvente sejam avaliadas relativamente aos aspectos de Segurança, Saúde e Ambiente, garantindo que todos os potenciais riscos associados sejam identificados e controlados. 2. CONSIDERAÇÕES GERAIS
+Todas as alterações e melhorias devem de ser avaliadas, documentadas e aprovadas pelos respectivos responsáveis que têm a experiência e as competências necessárias para assegurar que são mantidos os padrões de Segurança, Saúde e Protecção do Ambiente definidos pelas organizações. Esta pratica deve ser documentada e controlada mas suficientemente flexível para regular quer grandes, quer pequenas modificações. 3. OBJECTIVO DA GESTÃO DE ALTERAÇÕES E MELHORIAS
+O dinamismo e diversificação existentes numa instalação fruto de necessidades operacionais, requisitos legais ou imperativos de vária ordem, implicam por vezes modificações nos equipamentos, nas tecnologias e nos recursos humanos. Estas modificações têm de ser geridas e avaliadas relativamente aos aspectos de Segurança, Saúde e Ambiente, garantindo que todos os potenciais riscos de SSA associados sejam identificados e controlados. As organizações para isso devem implementar um sistema de gestão de alterações e melhorias de forma a sistematizar essas necessidades, considerando os seguintes factores:
+- Projecto básico processual e/ou mecânico e/ou eléctrico ou de instrumentação para a alteração em causa;
+- Uma análise dos aspectos de segurança, ambiente e saúde ocupacional, envolvidos na alteração em causa, incluindo, como apropriado, uma avaliação de risco com o grau adequado à modificação em causa. Para os efeitos da alrteração/modificação em causa, as infra-estruturas a montante e a jusante devem também ser revistas/consideradas:
+- A necessária alteração dos procedimentos de operação;
+- A divulgação da modificação e suas consequências ao pessoal envolvido;
+- A documentação necessária relativa à modificação;
+- A duração da modificação;
+- As autorizações exigíveis. 4.

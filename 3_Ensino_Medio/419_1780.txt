@@ -1,0 +1,38 @@
+ Matemática elementar/Fatoração de um polinômio
+Os processos para fatorar polinômios são denominados: fatoração por agrupamento, fatoração completa, fatoração da diferença de dois quadrados, fatoração pelo fator comum em evidência, fatoração do trinômio quadrado perfeito, fatoração do trinômio do segundo grau, fatoração da soma ou diferença de dois cubos, fatoração por artifício. Considere o polinômio formula_1 seu fator comum em evidência é formula_2 dividindo cada termo do polinômio pelo fator comum em evidência formula_3 e formula_4 a forma fatorada de um polinômio pelo fator comum em evidência é igual ao produto do fator comum em evidência pelo polinômio obtido da divisão de cada termo do polinômio, logo a forma fatorada de formula_5 O fator comum em evidência pode ser aplicado em todos os termos do polinômio. Outros exemplos:
+Observe o polinômio formula_8 Este polinômio não possui um fator comum para ser aplicado em todo o mesmo, a solução é fazer pequenos grupos de polinômios a partir do polinômio principal, veja: 
+formula_9 logo podemos fatorar os pequenos grupos formados do polinômio principal:
+formula_10 
+formula_11 obtemos a fatoração de formula_12 nota-se que os termos entre parênteses são iguais, permitindo uma nova aplicação do fator comum em evidência: formula_13 A forma fatorada de formula_14 
+Outro exemplo:
+formula_15
+Considere o polinômio formula_16 que é uma diferença de dois quadrados, para fatorar o mesmo devemos obter a raiz quadrada do primeiro termo formula_17 menos a raiz quadrada do segundo termo formula_18 logo temos formula_19 devemos, agora, multiplicar o polinômio resultante das raizes dos termos iniciais pelo seu oposto: formula_20 logo a fatoração da diferença de dois quadrados é igual à raiz quadrada do primeiro termo menos a raiz quadrada do segundo termo vezes o oposto: formula_21 ou simplesmente formula_22 
+Outros exemplos:
+formula_23
+formula_24
+Considere o polinômio formula_25 que é um trinômio quadrado perfeito, pois representa formula_26 mas como saber se um trinômio é ou não quadrado perfeito? Ainda considerando o polinômio formula_25 vamos obter a raiz quadrada do primeiro termo formula_28 e a raiz quadrada do terceiro termo formula_29 finalmente multiplicamos por dois o produto das raízes para verificar se o resultado é igual ao segundo termo do polinômio (formula_30): formula_31 o resultado é igual ao segundo termo do polinômio, logo o mesmo é um trinômio quadrado perfeito e sua forma fatorada é formula_32 
+Outro exemplo:
+formula_33 ou formula_34
+Observe a multiplicação resolvida através da propriedade distributiva:
+formula_35 tendo este cálculo como base, podemos dizer que formula_36 logo, a fatoração do polinômio formula_37 é igual à raiz cúbica do primeiro termo formula_38 mais a raiz cúbica do segundo termo formula_39 vezes o quadrado do primeiro termo formula_40 o produto dos dois termos com o sinal oposto formula_41 mais o quadrado do segundo termo formula_42 formando:formula_43 
+Outros exemplos:
+formula_44
+formula_45
+Observe o trinômio formula_46 cuja forma fatorada é formula_47 para realizar sua fatoração devemos obter dois números que somados dêem o coeficiente do segundo termo do polinômio (-2x) e multiplicados dêem o terceiro termo do polinômio (-35), e escrevê-los como produto de dois termos entre parênteses, veja outros exemplos:
+formula_48
+formula_49
+formula_50
+A fatoração completa implica na união de todos os métodos de fatoração de polinômios para tornar um polinômio fatorado ao máximo, ou seja, que não pode ser mais fatorado. Considere o polinômio formula_51 que é a diferença de dois quadrados, fatorando-o temos: formula_52 note que o primeiro termo da fatoração [formula_53] é uma diferença de dois quadrados, devemos fatora-lo: formula_54 assim, temos a fatoração completa do polinômio formula_55 
+Outros exemplos:
+formula_56
+formula_57
+formula_58
+Em alguns casos, a fatoração só é possível com a utilização de algum artifício. Exemplo;
+Fatore a expressão algébrica: formula_59 
+formula_60 
+formula_61
+Artifício utilizado: Adicionamos e subtraímos o termo formula_62 não alterando, assim, o valor da expressão e possibilitando a obtenção de trinômio quadrado perfeito para a realização da expressão. Outro exemplo:
+formula_63
+Artifício utilizado: soma-se e subtrai-se formula_64 obtendo-se logo em seguida uma soma de cubos:
+formula_65
+Alguns polinômios não podem ser fatorados, estes são chamados de polinômios irredutíveis. Por exemplo, o polinômio formula_66 é irredutível, pelo , com "p" = 2. Note-se, porém, que a irreducibilidade está sempre condicionada ao corpo considerado; pelo , todo polinômio tem uma raiz, portanto este polinômio pode ser escrito como formula_67 sendo formula_68 uma raiz.

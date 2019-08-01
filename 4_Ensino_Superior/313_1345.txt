@@ -1,0 +1,12 @@
+ Curso de termodinâmica/Gases reais
+Experimentalmente, à baixa pressão, observe-se que muitos gases obedecem à equação de estado dos gases perfeitos. Porém há exceções. Por exemplo, o produto PV , em vez de ser constante numa certa temperatura, aumenta ou diminui quando P aumenta de zero para algumas atm. Neste caso , o gás obedece mais a uma lei do tipo :
+formula_1
+Onde B, que chamamos o segundo coeficiente do virial é negativo para as moléculas de grande tamanho CO ou O mas positivo para as moléculas de tamanho pequeno (Ne). <br><br><br><br><br><br>
+À maior pressão ainda , a variação de PV em relação de P não é linear . formula_2
+A equação de estado que reproduz os dados experimentais é chamada equação de estado do virial. onde B, C, D, ... são os coeficientes do virial do gás estudado. <br><br><br><br><br><br>
+Uma outra maneira de expressar os desvios em relação ao gás perfeito utiliza o parâmetro Z, fator de compressibilidade : 
+formula_3
+que é igual a 1 para um gás perfeito. As observações experimentais indicam que Z = 1 unicamente quando P tende para zero. Em geral , Z é diferente de 1 para os gases reais . Pode se notar que grandes desvios são observados a baixa temperatura . A alta temperatura , ao contrario , o metano se comporta como um gás perfeito numa grande faixa de pressão. Por exemplo , a T =200oC   formula_4 
+Estes resultados mostram que :
+Qualquer gás se comporta como um gás perfeito a 
+À pressão elevada , qualquer que seja a temperatura , o desvio é positivo (Z> 1). Nestas pressões , o volume ocupado pelas moléculas não é mais irrisório em relação ao volume do recipiente . O volume das moléculas não é levado em conta na lei dos gases perfeitos. O volume disponível , em fato , é menor que V. Usar o volume do recipiente como valor de V, leva a valores exagerados de PV e a valores de Z maiores que 1. A temperatura e pressão baixas , o desvio , em geral , é negativo.

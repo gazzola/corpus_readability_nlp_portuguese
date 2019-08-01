@@ -1,0 +1,16 @@
+Logística/Serviço ao cliente/Custo do serviço ao cliente/Ponto óptimo de serviço ao cliente
+Para encontrar o ponto óptimo de serviço é necessário identificar as receitas e os custos logísticos do serviço e, a partir daí, é possível encontrar o nível de serviço que maximiza os lucros da empresa.
+Se o objectivo for maximizar o lucro, temos de encontrar o ponto em que a variação das receitas é igual à variação dos custos, ou seja, a receita marginal é igual ao custo marginal. Para melhor entender esta situação, isto significa que num gráfico de receitas e custos (y) por serviço (x), o lucro máximo, ou seja, o nível óptimo, é quando as curvas dos custos e das receitas se encontram a uma distância maior uma da outra, representando essa distância a margem de lucro do serviço (Ballou, 2006, p. 106-107).
+Um bom exemplo desta situação é uma empresa que tem sumo de limão em "stock". Este "stock" é de tal maneira elevado que poderia durar até quatro anos. O nível de serviço para o produto foi fixado em pelo menos 99 % e a empresa pretende saber se é necessário ter o nível de "stock" tão elevado. A opinião dentro da empresa é que cada variação de 1 % no nível de serviço originaria uma alteração nas vendas de 0,1 %. Os pontos de venda são reabastecidos semanalmente pelo armazém. O lucro é de 0,55 UM/caixa e o armazém vende 59 904 caixas/ano. O custo por caixa é de 5,38 UM e o custo de posse do "stock" é de 25 %/ano. O tempo de reposição é de uma semana, com vendas médias semanais de 1152 caixas e 350 caixas de desvio padrão.
+O ponto óptimo de serviço é aquele em que a variação:
+Lucro = lucro/caixa × variação das unidades vendidas × vendas anuais 
+= 0,55 × 0,001 × 59 904 
+= 32,95 UM por ano por 1 % de variação no nível de serviço.
+A variação do custo resulta da quantidade de "stock" de segurança que deve ser mantido para cada nível de serviço:
+"Stock" de segurança = custo de aprovisionamento × custo caixa × desvio padrão × desvio normalizado
+= 25 × 5,38 × 350 × Δz 
+= 470 Δz/ano.
+Os valores de Δz estão tabelados, não sendo importante publicá-los para o caso.
+A intercepção das curvas de variação no lucro e nos custos do "stock" de segurança dá o ponto óptimo de serviço que se encontra entre 92 e 93 %.
+A empresa aplicou este método a milhares de produtos que tem em "stock" conseguindo uma redução de custos de posse do "stock" de vários milhões de dólares (Ballou, 2006, p. 107-108).
+

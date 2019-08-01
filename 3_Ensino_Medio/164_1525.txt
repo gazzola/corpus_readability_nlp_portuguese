@@ -1,0 +1,9 @@
+ Pela propriedade transitiva das relações de equivalência, xRa, logo x formula_5 ā.
+Deste modo, ā=ē. Teorema: Se a∉ē, então ā∩ē=∅
+Demonstração: Suponha, por absurdo que existe um x em ā∩ē. Da definição de interseção de conjuntos e da definição de classes de equivalência, xRa e xRe. Logo aRx e xRe. Daí aRe. Deste modo, a formula_5 ē. Isto é um absurdo pela hipótese. Deste modo, nenhum x pode pertencer a ā∩ē. Logo ā∩ē=∅. Teorema: Se ā≠ē, então ā∩ē=∅
+Demonstração: Se ā≠ē, então existe u formula_5 ā tal que u∉ē ou u formula_5 ē tal que u∉ā. Suporemos, sem perda de generalidade, que existe u formula_5 ā tal que u∉ē. Como já provamos ū=ā e ū∩ē=∅. Logo ā∩ē=∅. Definição: Uma partição de um conjunto X é um conjunto P tal que x formula_5 P ⇒ x⊆X, além de x,y formula_5 P ⇒ x∩y=∅ e x formula_5 X ⇒ ∃a formula_5 P tal que x formula_5 a.
+Teorema: Seja R uma relação de equivalência em A, P={ā⊆A|a formula_5 A} é uma partição de A.
+Demonstração: Mostramos, no teorema anterior, que os elementos de P são subconjuntos de A, o que cumpre a primeira condição da definição de partição. Dois elementos de P, se são distintos, são disjuntos, conforme provamos no teorema anterior. E, para todo u em A, ū pertence a P, pela definição de P.
+Deste modo P é uma partição de A.
+Teorema: Seja P uma partição de A, a relação R dada por aRe ⇔ a formula_5 ē é de equivalência. Demonstração: a formula_5 ā por definição, de modo que aRa para todo a em A. Se aRe, então a formula_5 ē, logo ā=ē. Daí, como e formula_5 ē por definição, então e formula_5 ā. Logo eRa
+Se aRe e eRu, então a formula_5 ē e e formula_5 ū. Daí, sabemos que ā=ē=ū. Logo a formula_5 ū e, portanto, aRu. Deste modo, provamos as três condições da definição de relação de equivalência. Disto sabemos que toda partição induz uma relação de equivalência e toda relação de equivalência induz uma partição. Estes resultados são muito úteis em vários ramos da Matemática, como Geometria.

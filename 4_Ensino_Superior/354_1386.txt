@@ -1,0 +1,53 @@
+ As funções exponenciais são estas em que a parte variável é o logaritmo, ou seja:
+Se formula_28
+então:
+formula_29
+O que implica formula_30, tornando-o uma função, na qual podemos atribuir valores a "x" e obter uma imagem. O número "a" é chamado base, este número é facilmente identificado nos logaritmos convencionalmente abordados na matemática elementar, mas qual é a base da função formula_31 ? Esta questão nos leva a um novo conceito abordado na próxima seção, o número de Euler. A base do logarítmo natural é o número de Euler, simbolizado por: "e", ele é obtido pela definição do logaritmo natural, esse número corresponde á área sob a curva da função: formula_32, quando seu valor é unitário, ou seja:
+formula_33,
+mais formalmente:
+formula_34
+O valor deste número pode ser encontrado por aproximação, utilizando-se os métodos de análise de seqûencias e séries, encontrados no livro: Cálculo (Volume 3). A equação que fornece o valor do número de Euler é dada a seguir:
+formula_35
+Nesta equação podemos observar que quanto mais alto o valor de "n" mais preciso se torna o valor de "e". De maneira simplificada, com base nos conceitos até agora abordados podemos encontrá-la da seguinte maneira:
+Se formula_7 então formula_37, logo: formula_38
+Por outro lado, pela definição:
+formula_39
+Para formula_40:
+formula_41
+formula_42
+formula_43
+formula_44
+formula_45
+Sendo: formula_46 e formula_47
+Concluimos que:
+formula_35
+A maioria dos teoremas relacionados, têm origem nas conclusões obtidas no estudo do logarítmo natural, dos quais relacionamos os mais usados:
+Seja a função formula_49, pode-se afirmar que:
+formula_50
+Comprovação:
+Considerando: formula_51 e formula_52,
+formula_53
+formula_54
+logo:
+formula_55
+formula_56
+sendo: formula_57 e formula_58,
+formula_59 
+O que comprova o teorema. De forma similar à análise anterior, sendo a função formula_60, pode-se afirmar que:
+formula_61
+Comprovação:
+Considerando: formula_51 e formula_52,
+formula_64
+formula_65
+logo:
+formula_66
+formula_67
+sendo: formula_57 e formula_69,
+formula_70 
+O que comprova o teorema. Seja a função formula_71, pode-se afirmar que:
+formula_72
+Comprovação:
+formula_73
+formula_74 
+!formula_85 
+As equações desta seção são conseqüência das características dos senos e cossenos, seu comportamento cíclico e sua relação com uma circunferência de raio unitário lhes conferem uma excelente operatividade, possibilitando-nos fácil intercâmbio entre as mesmas.

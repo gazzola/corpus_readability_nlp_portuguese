@@ -1,0 +1,11 @@
+Mecânica dos fluidos/Medidores ultrassônicos
+Nesses medidores, cristais piezoelétricos produzem ultrassom na faixa de dezenas a centenas de kHz, enviam-no na direção oblíqua ao fluxo e também recebem o ultrassom emitido por outro cristal ou refletido pelo fluido, convertendo-o em sinal elétrico, como mostra a figura abaixo.
+O medidor de vazão a efeito Doppler mede a frequência da onda que volta ao cristal, após ser refletida por uma partícula ou bolha imersa no fluxo. Essa frequência será maior ou menor que a original, dependendo da velocidade da partícula na direção do fluxo. 
+formula_1
+O medidor de vazão a tempo de trânsito mede o tempo que a onda mecânica leva para ir de um cristal a outro. O outro cristal pode ser colocado do outro lado do tubo ou no mesmo lado, recebendo o sinal após uma reflexão na parede oposta. O tempo de trânsito é inversamente proporcional à velocidade resultante
+formula_2
+onde v é a velocidade do som naquele fluido, e Θ é o ângulo entre o feixe ultrassônico e o escoamento. O medidor a tempo de trânsito é mais usado para líquidos limpos ou moderadamente sujos, por ser mais preciso.
+Entre as vantagens do medidor ultrassônico, encontram-se o fato de poder operar com líquidos ou gases; medir a vazão de forma não intrusiva; a alta durabilidade, por não possuir partes móveis; a boa precisão (1 a 0.3 % do fundo de escala); a boa rangeabilidade (10:1); a capacidade de medir a vazão em ambos os sentidos; a capacidade de trabalhar com fluidos sujos ou gases úmidos; a possibilidade de troca de sensores sem necessidade de parada para manutenção; a capacidade de trabalhar em amplas faixas de temperatura e pressão; e a capacidade de medir vazão em dutos muito largos (mais de 100 m). Potencialmente, esse medidor pode dispensar calibração dinâmica.
+Como desvantagens, podem ser citadas: o custo relativamente elevado; a necessidade de o fluido ser uma substância pura; e o fato de requerer longos trechos retos (10L a montante e 5L a jusante), com o uso de condicionador de escoamento sendo recomendável. 
+A AGA report n° 9 é um exemplo de norma internacional que regula medidores ultrassônicos a tempo de trânsito.
+

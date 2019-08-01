@@ -1,0 +1,14 @@
+Introdução à física/Cinemática/Movimento/Força de atrito
+Atrito (F) é a força que aparece sempre que duas superfícies rugosas estão em contato. Num contexto mais generalizado, considera-se também como atrito a força sofrida por um corpo em movimento em um fluido.
+Podemos classificar as superfícies, basicamente em dois tipos, quanto à força de atrito:
+Suponha que haja um bloco sobre uma superfície qualquer. Inicialmente, ao tentarmos empurrá-lo horizontalmente, deslizando pela superfície, o bloco não se moverá. Entretanto, há um limite para essa tendência de repouso. Existe uma força mínima que, aplicada ao corpo, o faz mover. Enquanto o bloco estiver em repouso diz-se que a força de atrito agindo sobre ele é "estática", e quando ele começa a se mover, diz-se que a força de atrito é "dinâmica".
+A força mínima, citada acima, pode ser calculada pela seguinte fórmula (que vale para o atrito estático e o dinâmico):
+Onde:
+Se o corpo está parado, então qualquer força aplicada menor que a força máxima de atrito estático é incapaz de mover o bloco. Se o corpo está movendo, a força de atrito dinâmico terá o efeito prático de reduzir sua aceleração. Surpreendentemente, há alguns casos em que o corpo se move e o atrito é estático. Tome por exemplo as rodas de um carro. Se tivermos uma câmera que registre precisamente seu movimento, descobrimos que o ponto do pneu que encosta no asfalto fica, momentaneamente, parado. Isso significa que a força de atrito desse caso deve ser a força de atrito estática.
+Uma caixa de 20 kg encontra-se em repouso sobre uma superfície de coeficiente de atrito igual a 0,5 N/m. Em determinado momento, foi necessário tirar a caixa do local. Ela foi arrastada em 24 segundos, por 12 metros em linha reta, sendo que a todo instante fora deslizada pela mesma superfície. Desconsiderando a resistência do ar, qual a força imposta na caixa?
+Como a força de atrito é sempre uma força contrária à trajetória, temos:
+Substituindo "F" por N μ e "a" por S/t:
+Trocando por números:
+Resolvendo:
+E assim:
+

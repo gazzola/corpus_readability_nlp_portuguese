@@ -1,0 +1,22 @@
+ Além disso, tem-se as seguintes desigualdades:
+Logo, somando os membros correspondentes, obtem-se:
+ou seja,
+Portanto,
+Por outro lado, formula_31, sendo primeira desigualdade válida por formula_32 ser não negativa e formula_33 positivo, e a segunda devida à própria definição de formula_23. Logo, formula_35. Se a primeira das hipóteses acontece, segue da coercividade e dessa última desigualdade que formula_36. Então formula_37 é uma sequência limitada. Se ocorre a segunda, então formula_32 é coerciva, mas foi mostrado que formula_39, consequentemente formula_40. Sendo formula_32 coerciva, conclui-se novamente que formula_37 é uma sequência limitada. Portanto, em qualquer caso, formula_37 possui algum ponto de acumulação. Seja formula_44 um ponto de acumulação de formula_37. Então existe formula_46 tal que formula_47. Logicamente, formula_48. Pela continuidade de formula_49 e sabendo que formula_35, se deduz que formula_51. Mas já havia sido verificado que formula_52, então segue a igualdade formula_53. A sequência formula_54 é crescente. Seja formula_55 (por que razão ele existe?). Como formula_56, tem-se formula_57. Portanto, formula_58. Logo formula_59, ou seja, formula_60. Como formula_32 é contínua, formula_62, e este valor é nulo se, e somente se, formula_63. Logo, formula_64, donde formula_53. Assim, tem-se formula_66, ou seja, formula_44 é solução de (P). Primeiro passo: Escolha formula_68, formula_69 e formula_70
+Nota: Neste algoritmo, formula_32 é uma função de penalidade exterior. Considerando o problema
+com formula_49 uma função quadrática, formula_79 simétrica positiva definida, formula_80 lineares, e a função de penalidade, formula_32, dada por:
+Pode-se usar o método dos gradientes conjugados para resolver o seguinte problema:
+onde formula_84 terá sua matriz Hessiana definida positiva. Este método também é conhecido como método de barreira. Ele consiste em trabalhar com funções de penalidade tais que formula_85 e qualquer que seja a sequência formula_86 para a qual formula_87, se tem que a função de penalidade tende a formula_88. Mas como conseguir esse tipo de função? Considere o caso em que formula_89. Lembrando que a função logarítmica tem a propriedade:
+pode-se tomar formula_91, pois
+implica que
+Analogamente, tem-se
+então, uma outra função com a propriedade desejada é formula_95. O problema a ser resolvido quando se quer aplicar o método de barreira é o seguinte:
+onde formula_97 é tal que formula_98
+Observação: formula_99 não é necessariamente igual ao interior do conjunto formula_100. Por exemplo:
+ Primeiro passo: Escolha formula_101, formula_69 e formula_103
+Observação: Neste método os termos da sequência formula_109 estão sempre em formula_99. Considerando o problema
+pode-se usar o método de barreira no conjunto:
+Pode-se usar qualquer das funções de penalidade interior apresentadas, por exemplo:
+ou ainda
+Como formula_115, o problema passa a ser:
+Observação: Note que é necessário conhecer um ponto inicial formula_101, para servir de primeira aproximação, ou ponto de partida para o algoritmo.

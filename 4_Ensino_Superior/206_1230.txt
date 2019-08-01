@@ -1,0 +1,44 @@
+Curso de termodinâmica/Outras equações de estado
+Outras equações de estado foram propostas. Elas levam em conta, sob formas diferentes, efeitos de volume excluído e de atração intermolecular: 
+1.5.1 Equação de Berthelot
+formula_1
+</br>
+formula_2
+1.5.2 Equação de Dieterici
+formula_3
+<br>
+formula_4
+O valor calculado de Zc é muito próximo dos valores observados .
+
+
+Curso de termodinâmica/Primeira lei da termodinâmica
+A termodinâmica trata da energia , por exemplo das mudanças de energia num meio no decorrer de uma reação química. Seu objetivo é de descrever e de explicar o efeito da temperatura e da pressão sobre as propriedades de equilíbrio dos sistemas químicos ou bioquímicos. As observações experimentais sobre a energia foram resumidas em três leis ou princípios, cuja aplicação permite de definir o estado de equilíbrio e a tendência de um sistema para evoluir espontaneamente na direção de seu estado de equilíbrio.
+
+
+Curso de termodinâmica/Exercícios de termodinâmica/A9
+Uma certa massa de gás cloro ocupa 38,0 ml a 20C. Determinar o volume a 45C.
+Os dados são resumidos na tabela: 
+formula_1
+
+
+Curso de termodinâmica/Variação da entropia durante processos reversíveis
+Durante uma transformação reversível, a primeira e a segunda lei da termodinâmica levam a:
+formula_1
+ou ainda
+formula_2 (processo reversível)
+Durante a variação de temperatura reversível à pressão constante, temos:
+formula_3
+<br>
+formula_4
+Da mesma maneira, durante uma variação de temperatura reversível a volume constante:
+formula_5
+formula_6
+por exemplo:
+formula_7
+Temperaturas e calores de vaporização padrões ( = sob pressão de 1 bar constante) foram medidas. Podemos, a partir destes dados, calcular a entropia de vaporização:
+Observamos que os valores de formula_8 são muito parecidos. É a lei de Trouton:
+formula_9 na temperatura de ebulição padrão
+Esta regra empírica permite de avaliar formula_10 simplesmente a partir de T. Indica que a vaporização de um mol de líquido puro se faz em geral com um crescimento da desordem do sistema.
+Existem exceções à regra de Trouton:
+Para utilizar em prática a segunda lei da termodinâmica , precisa calcularformula_11 do processo e o comparar aformula_12 . Para isso , utilizamos o fato queformula_13é uma função de estado.formula_14 depende só dos estados inicial e final. Para o processo estudado, vamos construir um novo caminho indo do estado inicial ao estado final por uma sucessão de etapas reversíveis, para quais a mudança de entropia é calculável.
+

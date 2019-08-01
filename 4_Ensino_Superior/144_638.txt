@@ -1,0 +1,10 @@
+Mecânica dos fluidos/Manômetros
+Manômetros são instrumentos simples que medem diferença de pressão entre dois pontos em um fluido incompressível estático através da medição da diferença de elevação entre esses pontos.
+Um manômetro de coluna líquida em forma de U é feito de um tubo de vidro em forma de U, aberto em ambos os lados e contendo um líquido (chamado líquido manométrico nesta aplicação). O tipo mais simples usa o mercúrio. Como o líquido é muito mais denso que o ar, a densidade deste pode ser desprezada na análise. A pressão P do outro lado fará o líquido subir no tubo de uma altura h. Medindo-se h, obtém-se P através da fórmula
+formula_1
+Para aumentar a precisão da leitura, deve-se aumentar o volume do líquido deslocado para uma dada pressão, aumentando-se a sensibilidade do manômetro. Isso pode ser conseguido por três meios:
+Como o tubo terá um diâmetro pequeno no lado aberto, o líquido deve apresentar ainda uma tensão superficial baixa, de modo a não desenvolver um menisco muito curvo. Hidrocarbonetos líquidos são fluidos especialmente adequados a esses manômetros de tubo inclinado. O ângulo de inclinação, na prática, pode chegar a 80° com relação à vertical; acima disso, o menisco se torna difícil de distinguir.
+Esses manômetros podem medir a pressão tanto de gases quanto de líquidos, contanto que o líquido manométrico usado não se misture com eles.
+O piezômetro é um instrumento mais simples de medida de pressão. Trata-se de um tubo graduado de material transparente, aberto na extremidade superior, onde se lê a pressão estática a que está submetido o líquido colocado no seu interior. A pressão na superfície livre do líquido será, obviamente, a pressão atmosférica; a altura do líquido no tubo será proporcional à pressão a que ele estiver submetido.
+Uma das grandes limitações desse instrumento é que ele não consegue medir pressões abaixo da atmosférica, nem é conveniente para a medição de pressões muito elevadas. Além disso, ele não se presta à medida da pressão de gases.
+

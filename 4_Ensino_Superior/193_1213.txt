@@ -1,0 +1,34 @@
+Análise real/Exercícios 7
+Considere a seguinte seqüência de funções formula_1 dada pela relação de recorrência:
+Mostre que:
+Considere a seqüência de funções indexada pelos índices formula_9 e formula_10:
+Mostre que:
+Considere a seqüência de funções formula_13 definidas por:
+Mostre que 
+não obstante
+Defina formula_17 como:
+Mostre que 
+não obstante
+Seja a seqüência de funções formula_21 dada por:
+Mostre que:
+Conclua, provando que:
+Construa uma seqüência de funções contínuas em formula_28 convergindo pontualmente para um função que não é integrável à Riemann.
+
+
+Análise real/Produto Cartesiano
+Dados dois objetos a e b definimos o par ordenado (a, b) cuja primeira coordenada é "a" e a segunda é "b". Dois pares ordenados (a, b) e (c, d) são iguais se eles forem iguais coordenada por coordenada, i.e., formula_1.
+Dados dois conjuntos A e B existe um conjunto chamado de produto cartesiano de A e B (denotado formula_6) formado pelos pares ordenados (a, b) tais que formula_7. Em símbolos: formula_8.
+A diagonal mais simples é do quadrado formula_15. Da mesma forma temos a diagonal do quadrado formula_16
+
+
+Análise real/Equações
+Podemos definir equação como uma sentença matemática que possui uma igualdade entre duas expressões algébricas e uma ou mais incógnitas (valores desconhecidos) que são expressadas por letras.
+
+
+Análise real/Conjunto de Funções
+Dados dois conjuntos A e B, denotamos por F(A;B) o conjunto de todas as funções formula_1.
+Sejam I e C conjuntos não vazios. Uma família formula_2 de elementos de C é uma função formula_3 para a qual denotamos por formula_4 (em vez de formula_5) a imagem de i por A. Dizemos que a família está indexada pelo índice formula_6, que I é o conjunto de índices e que formula_4 é o i-ésimo elemento (ou membro) da família. Quando I é o conjunto dos números naturais substituímos a palavra família por sequência.
+Como dito anteriormente, o uso mais frequente do termo família é quando o contradomínio
+é uma coleção de conjuntos. Trata-se, então, de uma família de conjuntos. Neste caso, existem notações especiais para a união e a interseção da coleção. Se formula_2 é uma família de conjuntos, então a união e a interseção da família são definidas, respectivamente, por formula_10 e formula_11
+Porém, sempre devemos ter em mente que infinito não é número!
+

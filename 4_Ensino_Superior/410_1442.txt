@@ -1,0 +1,17 @@
+ Esta denominação nos faz pensar em uma equação independente de posição. Tomando como base o vértice, podemos dizer que, se o mesmo tem coordenada formula_21 temos:
+Encontrar os parâmetros da parábola:
+formula_24. Façamos a adaptação da equação para o formato que nos permita analisar os valores:
+formula_25. formula_26. formula_27
+Como podemos verificar o vértice da parábola está no ponto formula_28. Uma vez que a equação representa uma função onde a variável das abscissas tem grau 2, o foco e o vértice da parábola estão no mesmo valor de formula_29 e como o parâmetro formula_30, temos o valor do foco:
+formula_31
+E a diretriz é:
+formula_32
+Encontrar a equação da parábola cujo vértice está na coodenada formula_33 e está distante da sua diretriz formula_34 unidades, sabendo que a concavidade da mesma está voltada para cima. Como a concavidade da parábola está voltada para cima, temos o foco e o vértice para o mesmo valor de formula_29 que tem grau 2:
+formula_36
+formula_37
+formula_38
+A equação é:
+A elipse é uma cônica largamente utilizada, principalmente em áreas de tecnologia e Física. As características fundamentais do seu formato estão relacionadas diretamente com a natureza das teorias de espaços curvos, que são estudadas atualmente pelos físicos teóricos. Nas áreas de tecnologia, as características de hiperbolicidade no comportamento de certas grandezas físicas, destacando as eletromagnéticas, são aplicáveis em vários equipamentos onde observam-se conceitos elétromagnéticos e ópticos, os mesmos possuem comportamentos elípticos devido a estas características. Define-se a elipse como o conjunto de pontos em torno de dois focos, onde a soma das distâncias entre um ponto e cada foco é uma constante. Vejamos o gráfico abaixo:
+A equação da elipse pode ser encontrada, como no caso anterior da parábola, explorando a propriedade de simetria dos diversos pontos, os quais mantém a soma das duas distâncias para os focos sempre igual para todos os pontos da curva. Podemos fazer:
+formula_40
+Sendo formula_41, um ponto qualquer e formula_42 a constante.

@@ -1,0 +1,35 @@
+Otimização/Índice remissivo
+Nesta página estão listados os conceitos abordados neste livro em ordem alfabética.
+O nome de cada conceito possui um link para a página onde o mesmo é definido. Outras ocorrências importantes do conceito são indicadas pelos links numerados, logo após o "link" principal.
+
+
+Otimização/Capa
+
+
+Otimização/KKT
+Neste capítulo o objetivo é desenvolver algumas ideias e provar o teorema de Karush–Kuhn–Tucker (também chamado simplesmente de teorema KKT) que será utilizado no capítulo seguinte para explorar os métodos duais. 
+O teorema KKT é bem útil para resolver problemas do tipo
+Em outras palavras, a propriedade que caracteriza um cone é que este tipo de conjunto contém todos os múltiplos não nulos de qualquer de seus elementos.
+Observações:
+Na segunda propriedade a igualdade pode não ocorrer (exemplo?). Para o objetivo deste texto, o ideal seria que a igualdade valesse. Mas será que isso ocorre para algum conjunto? A resposta é sim e, conforme o próximo lema, basta que formula_10 seja um cone convexo fechado.
+Esse conjunto formula_11 é o cone das direções viáveis em formula_12, com respeito a formula_10.
+formula_16 é um cone não-vazio convexo e fechado pois, formula_17. E se formula_18, tem-se
+Portanto formula_21 mostrando que formula_16 é convexo.
+Para mostrar que formula_16 é fechado, pode-se pegar uma sequência convergente formula_24 e mostrar que o ponto de acumulação dela esta em formula_16.
+Tem-se que formula_26.
+Passando o limite com formula_27, obtem-se
+Isso mostra que formula_16 é fechado.
+A seguir, serão mostradas algumas propriedades deste cone.
+=(C^{	op}C)^{-1}C^{	op}z</math> com formula_31.
+Isso mostra que formula_32.
+Agora passando o limite em formula_33 obtém-se formula_34, mostrando que formula_35.
+Determinar o cone tangente ao ponto formula_41 do quadrado unitário com vértices formula_42, formula_43, formula_44 e formula_45.
+O cone tangente definido anteriormente tem as seguintes propriedades:
+A terceira propriedade indica que o cone tangente só depende do que ocorre bem perto de formula_51, no conjunto formula_10.
+subset C</math> tal que formula_55 e formula_56 quando formula_57.
+Assim para formula_58 existe formula_59 tal que para formula_60, tal que formula_61 e formula_62.
+Em particular, tomando formula_63 tem-se
+Tomando o limite quando formula_66, obtem-se que formula_67 e
+Logo formula_69.
+Isso mostra que formula_70.
+

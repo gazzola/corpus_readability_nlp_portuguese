@@ -1,0 +1,24 @@
+Medida e integração/Funções simples e a topologia da reta estendida
+Em linhas gerais, uma "função simples" é uma função que assume uma quantidade finita de valores. No contexto da teoria abordada neste livro, a definição de "função simples" incluirá algumas restrições adicionais, de modo que este nome possa ser usado apenas para se referir ao tipo de específico de função simples que é relevante para a integração.
+A função formula_1 definida por formula_2 é uma função simples. De fato, tem-se
+Isto significa que formula_3 que é finito. Observe ainda que formula_4
+Em geral, se formula_5 e se definem os conjuntos formula_6 para cada formula_7 de formula_8 a formula_9 resulta que formula_10 Note que formula_11 é uma partição finita de formula_12
+Por outro lado, sempre que se tem uma partição formula_11 finita de formula_14 e uma sequência finita formula_15 de elementos em formula_16 de modo que formula_17 quando formula_18 a equação formula_19 define uma função simples. É comum se referir ao segundo membro daquela equação como sendo a representação canônica de formula_20
+_{+}</math> e formula_21 é a função nula, então existe uma sequência formula_22 de funções simples, mensuráveis em formula_14 de modo que:
+</math> cujos termos são dados por
+satisfaz as condições estipuladas no enunciado do teorema. Isto será feito em três etapas:
+Primeiramente, fixe um ponto formula_30 e um inteiro positivo formula_31 Para mostrar que formula_32 observe que:
+Como formula_33 há duas possibilidades:
+Na primeira delas, tem-se formula_38 e portanto formula_39 Mas
+então formula_40 deve estar em um destes dois intervalos disjuntos, isto é, formula_41 ou formula_42 Se ocorrer formula_43 então formula_44 Por outro lado, caso ocorra formula_45 então formula_46
+Portanto, formula_47
+Na segunda possibilidade, tem-se formula_48 e consequentemente formula_49 Além disso, 
+então formula_40 deve estar em um destes dois intervalos disjuntos. No caso em que formula_51 isto é, formula_52 se deduz que formula_53 A outra alternativa é que formula_54 e de formula_55 se conclui que 
+Usando isto em conjunto com a desigualdade formula_56 se deduz que existe algum índice formula_57 tal que formula_58 e formula_59 Isto implica que formula_60 pela própria definição deste conjunto. Logo, formula_61 Com isto, se conclui a prova de que a sequência é não-decrescente.
+Agora, para garantir que formula_62 basta observar que se formula_30 e formula_64 então
+Finalmente, formula_26 em todo ponto formula_27 De fato, para cada formula_30 pode ocorrer formula_74 ou formula_75
+</math> para formula_29
+Com relação as sequências cujos termos estão em formula_95 tem-se a seguinte propriedade: Se formula_96 e formula_97 são sequências não decrescentes em formula_95 ou seja, formula_99 e formula_100 para todo formula_101 e existem os limites formula_102 e formula_103 então formula_104
+Esta propriedade, juntamente com a e o , implicam que se
+_+</math> e formula_105 são funções mensuráveis, então formula_106 e formula_107 também são mensuráveis.
+

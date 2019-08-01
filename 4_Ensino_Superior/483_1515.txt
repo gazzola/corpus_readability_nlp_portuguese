@@ -1,0 +1,10 @@
+ É imediato mostrar que, se "Ord(β)" e formula_59, então "Ord(α)". A prova parte da construção da relação "((α, α), Ra)" definida a partir da relação de ordem "((β, β), Rb)", definindo o gráfico "Ra" como um subconjunto de "Rb":
+Então temos:
+Ou seja, "Ord(β)" e formula_59 implica formula_63. Isto é óbvio: formula_64, e formula_65
+e formula_66. Veremos mais adiante um resultado ainda mais forte que este. Sejam "Ord(α)", "Ord(β)" e γ a sua interseção. Considerando em γ a relação cujo gráfico é interseção dos gráficos das relações
+formula_67 em α e β, é imediato verificar:
+Falta apenas verificar:
+Como "S" é um subconjunto tanto de "α" quanto de "β", sejam formula_73 e formula_74. Mas estes mínimos, por serem elementos de "S", são também elementos de "α" e de "β", portanto um deles não pode ser subconjunto do outro, logo são iguais "a = b", sendo, portanto, o mínimo de "S" em γ. Se "Ord(α)", "Ord(β)" e "Ord(γ)", com formula_75, então formula_76. Formemos o conjunto formula_77. S não é vazio porque formula_78. Seja "m" o seu mínimo. Queremos provar que "m = s(α)". Primeiro, é óbvio que formula_79: por construção, formula_80, portanto, por ser "α" um ordinal de "m", temos que formula_81 - o que completa a prova de que formula_82. Por outro lado, seja "x" um elemento de "m". Então, comparando "x" com "α", temos três possibilidades: "x = α" implica formula_83, formula_56 analogamente implica formula_83, finalmente formula_86 implica formula_87 e, pelo fato de "m" ser o mí­nimo de "S", em formula_88, o que (junto com formula_89) contradiz a aliorrelatividade 
+Ou seja, formula_90 e formula_91, completando a demonstração de que formula_92
+Será provado ainda mais que isso:
+A prova: como o conjunto "β - α" não é vazio, então tem um elemento mínimo "m". Provaremos então que formula_94 e formula_95. Primeiro, por construção, é claro que formula_96.

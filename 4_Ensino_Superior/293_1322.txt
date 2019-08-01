@@ -1,0 +1,51 @@
+Mecânica dos fluidos/Exercícios resolvidos/B2
+Um depósito retangular de dimensões 8 m x 3 m x 2 m, cheio de água, é acelerado na direção do seu comprimento a 1.5 m/s. Quantos litros de água serão derramados em decorrência disso?
+A inclinação resultante será
+formula_1
+
+
+Mecânica dos fluidos/Exercícios resolvidos/C7
+Um tanque de volume igual a 0.1 m encontra-se a 20 °C de temperatura e uma pressão manométrica de 100k Pa. Ar é injetado a uma pressão absoluta de 20M Pa, o que faz a temperatura subir a uma taxa de 0.05 °C/s em t = 0. Determine a vazão de ar no tanque em t = 0, assumindo um processo adiabático.
+c = 720 J.kg.K
+R = 290 J.kg.K
+Como neste problema não temos um eixo que realiza trabalho, deve-se usar a seguinte forma da equação da primeira lei da termodinâmica:
+formula_1
+O trabalho realizado sobre o tanque é nulo, pois seu volume permanece constante. Escolhendo-se o volume de controle em torno do tanque, com a superfície de controle perpendicular ao fluxo, desprezando-se os efeitos da viscosidade e considerando que a energia se distribui uniformemente, teremos
+formula_2
+As componentes devidas à energia cinética e à energia potencial gravitacional do ar mantêm-se constantes e por isso não precisam ser levadas em conta. Além disso, de acordo com a equação de estado dos gás ideal, p = ρRT. Assim,
+formula_3
+formula_4
+onde A é a área da abertura de entrada de ar. O sinal negativo deve-se ao fato de o fluxo ter a direção para dentro do volume de controle. Mas ρvA =  = dm/dt. Assim,
+formula_5
+Como o processo é isovolumétrico, ΔH = ΔU = c ΔT, onde c é o calor específico do ar a volume constante. Assim,
+formula_6
+formula_7
+formula_8
+formula_9
+formula_10
+
+
+Mecânica dos fluidos/Exercícios resolvidos/F1
+Obter grupos adimensionais N necessários para a determinação experimental da força de arrasto de um objeto esférico em um líquido, levando em conta também a rugosidade e do objeto. A dimensão de e é [L]: pode-se entender e dessa forma como uma medida da altura média das rugas presentes na superfície.
+As variáveis originais serão:
+As k = 3 dimensões envolvidas, como se vê, são [M], [L] e [t].
+Selecionemos os 3 parâmetros ρ, v e L; F, de acordo com o teorema, não deve ser utilizado. Além disso, também de acordo com o teorema, um grupo adimensional será a razão entre L e e. As equações dimensionais resultantes serão:
+formula_1
+O problema, assim, difere pouco do exemplo já estudado anteriormente, e podemos escrever
+formula_2
+
+
+Mecânica dos fluidos/Exercícios resolvidos/C1
+Um tanque, cujo volume é igual a 0.05 m, contem ar inicialmente à pressão de 800k Pa (absoluta) e temperatura de 15 °C. Uma válvula, cuja abertura é de 65 mm, é aberta e o ar começa a escapar a uma velocidade de 300m/s e uma densidade de 6 kg/m. Calcular a taxa de variação da densidade no interior do tanque em t = 0.
+A calcular: formula_1 em t = 0
+Uma vez que o ar escapa do tanque, este não pode ser considerado como um sistema. Escolhamos o tanque como o volume de controle C a ser considerado e apliquemos a equação de continuidade na sua forma integral:
+formula_2
+formula_3
+uma vez que assumimos que a densidade é uniforme dentro do corpo C e também na válvula de saída. Como a velocidade também é uniforme na saída,
+formula_4
+O produto ρ x v x A é positivo, pois é direcionado para fora do volume de controle. Assim,
+formula_5
+pois o volume V é constante. Portanto,
+formula_6
+formula_7
+

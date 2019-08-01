@@ -1,0 +1,24 @@
+Análise real/Equivalências entre corpos ordenados arquimedianos
+formula_1 é partição de formula_2 se, formula_3 e formula_4, se formula_5.
+Uma seqüência formula_6 em formula_7 é dita de Cauchy se, dado formula_8 tal que, se formula_9 então formula_10.
+Um conjunto formula_12 é dito fechado se o limite de toda sequência de pontos de formula_13 é ponto de F.
+formula_7 é dito conexo se formula_7 e formula_16 são os únicos subconjuntos abertos e fechados deformula_7
+Seja formula_7 um corpo ordenado arquimediano. Em formula_7 são equivalentes:
+1[1'] Toda seqüência crescente [decrescente] limitada superiormente [inferiormente] de formula_7 é convergente;
+2[2']) Todo subconjunto formula_21 não-vazio limitado superiormente [inferiormente] tem supremo [ínfimo];
+3[3']) Seja formula_12 um conjunto fechado limitado superiormente [inferiormente], então, formula_13 tem máximo e mínimo;
+4)formula_7 é conexo.
+5) (Postulado de Dedekind) Dada uma partição formula_25 deformula_7, com formula_27, para todo formula_28, e formula_29, isto é formula_25 é um corte de Dedekind, então, em formula_31 existe maior elemento, ou, em formula_32, existe menor elemento.
+6) (Propriedade dos intervalos encaixantes) Toda seqüência de intervalos encaixantes, fechados e limitados tem intersecção não-vazia. Isto é, seja formula_33 uma seqüência de intervalos, satisfazendo formula_34, para todo formula_35, então formula_36.
+7)formula_7 é seqüêncialmente completo, isto é, se (x_n)_{n \in \mathbb{N}} é uma seqüência em formula_7 de Cauchy então (x_n) é convergente.
+As equivalências formula_39 são evidentes e serão deixadas como exercício.
+1) formula_40 2)
+Seja A nas condições de 2), vamos mostrar que A tem supremo.
+Como A formula_41, podemos pegar formula_42e como A é limitado superiormente, existe formula_43majorante de A.
+Seja formula_44, se formula_45for majorante de A, então definimos formula_46, e formula_47 e caso formula_48 não seja majorante de A, definimos formula_49 e formula_50.
+Suponha que formula_51 e formula_52 estejam definidas, formula_53, se formula_54 for majorante de A, então definimos formula_55, e formula_56 e caso formula_54 não seja majorante de A, definimos formula_58 e formula_59.
+Definimos duas seqüências formula_60 e formula_61 que formam, respectivamente, uma seqüência monótona não-decrescente e uma seqüência monótona não-crescente. Claramente formula_62 é um limitante inferior de formula_63 e formula_64 é um limitante superior de formula_65, e por "'1)", concluimos que ambas seqüências são convergentes.
+Sejam formula_66 e formula_67.
+Suponha, por absurdo que formula_68, então formula_69, tomando formula_70, como formula_71, existe formula_72 tal que formula_73. Portanto formula_74, como formula_75, definindo formula_76, existe formula_77 tal que, formula_78. Absurdo, pois isso contradiz nossa construção de formula_65 e formula_63.
+Por construção, temos formula_81 para todo formula_82 natural.
+

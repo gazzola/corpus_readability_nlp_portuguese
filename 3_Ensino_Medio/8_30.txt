@@ -1,0 +1,13 @@
+Introdução à física/Mecânica dos fluidos
+A Hidrostática estuda as forças exercidas por e sobre fluidos em repouso em relação a sólidos que estão no fluido.
+A densidade é uma grandeza que revela quanta massa está concentrada em determinado volume de uma substância. Portanto, sua fórmula matemática é expressa como:
+formula_1
+A massa específica é a densidade característica de uma substância. Difere-se da densidade por eliminar do cálculo do volume as áreas ocas que possam existir no interior do material estudado. Normalmente é usada ao se referir aos líquidos, devido à capacidade de fluir que estes possuem, impedindo a formação natural de áreas ocas eu seu interior. Neste caso, o símbolo deixa de ser d e passa a ser u.
+A pressão é uma grandeza escalar e pode ser determinada pela seguinte fórmula (onde F é a força exercida e S a área da superfície onde F está sendo aplicada):
+formula_2
+A Lei de Stevin determina que, sendo um líquido em repouso de densidade d e DELTAh a diferença de profundidade entre dois pontos quaisquer A e B, a diferença de pressão Δp entre estes é:
+O Princípio de Pascal determina que: A variação na pressão exercida em um fluido é transmitida integralmente a todos os pontos do mesmo, desde que esteja contido em um recipiente fechado.
+O Princípio de Arquimedes determina que: Todo corpo mergulhado num fluido em repouso sofre, por parte do fluido, uma força vertical para cima, cuja intensidade é igual ao peso do fluido deslocado pelo corpo.
+O peso real (o peso do corpo no ar) é igual ao peso aparente (peso do corpo imerso no líquido) somado com o empuxo que este líquido exerce sobre o corpo.
+O peso do corpo é igual ao empuxo, e o volume do líquido deslocado é menor que o volume do corpo. A densidade do líquido é maior, e por isto o corpo flutua. Sendo assim, pode-se descobrir os valores usando-se a fórmula abaixo (lembrando que V é o volume de líquido deslocado pelo corpo, não o volume total do líquido):
+

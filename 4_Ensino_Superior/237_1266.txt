@@ -1,0 +1,26 @@
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Equipamento de armazenagem de pequenas cargas/Equipamento de armazenagem operator-to-stock/Estante dinâmica para caixas
+A estante dinâmica para caixas é outro equipamento popular do tipo "operator to stock".
+A armazenagem em estantes dinâmicas é usada normalmente para artigos que são armazenados em embalagens de tamanho e forma apropriados.
+As caixas são repostas nas traseiras das estantes no corredor de reposição e avançam/deslizam para substituir o espaço vazio deixado pelas embalagens que se encontravam na frente.
+Este movimento de trás para a frente assegura o sistema "FIFO" ("first in, first out") do material.
+O arrumo em estantes não é mais do que o sistema de prateleiras com rolos e com um determinado ângulo para fazer deslizar os materiais.
+Quanto mais profundas as secções, maior é o espaço dedicado à armazenagem em oposição ao espaço no corredor.
+A obtenção de espaço pode ser alcançada aproveitando o espaço acima da armazenagem em estantes dinâmicas para armazenagem de paletes.
+Os custos da armazenagem por gravidade em estantes dependem da capacidade de suportar o peso e do comprimento das estantes.
+Idêntico ao sistema de estantes para caixas, a armazenagem em estantes dinâmicas para caixas tem um baixo custo de manutenção e encontra-se disponível em vários tamanhos e variedades de secção, de uma lista de vários fornecedores.
+O facto de apenas uma embalagem de cada coluna de artigos estar localizada à frente, significa que um grande número de artigos são apresentados ao funcionário numa pequena área.
+Portanto, as deslocações e as exigências de mão de obra podem ser reduzidas com a implementação de um "layout" eficiente (Tompkins et al., 2003, p. 267-268).
+
+
+Logística/Gestão de existências/Sistemas de procura independente: modelos determinísticos/Modelo de quantidade fixa de encomenda
+Neste sistema, a resposta à pergunta quando encomendar e qual a quantidade desejada depende dos parâmetros utilizados para caracterizar o mesmo sistema. Assume-se então que conhecemos a procura e é também ela constante, o que significa que a quantidade a encomendar e o tempo entre o processo de encomendas não sofrem variação. Os artigos estão sujeitos a um sistema de revisão contínua e quando se verifica que o ponto de encomenda atinge um determinado nível calculado, é realizada uma nova encomenda com a quantidade fixa de artigos (Tersine, 1988, p. 90).
+
+
+Logística/Técnicas de previsão/Série temporal e dados transversais
+Uma série temporal ou cronológica (Figura 1) é composta por um conjunto de observações contínuas, ordenadas em intervalos temporais igualmente espaçados (e.g., uma observação por mês). Um exemplo é uma base de dados do desempenho de um único banco desde 2000 até à actualidade. Por sua vez, os dados transversais são recolhidos num certo instante no tempo. Os indicadores do desempenho recente de cem bancos pode constituir uma base de dados transversais (DeLurgio, 1998, p. 13). 
+A análise de séries temporais (ou análise longitudinal) tem vários objectivos (Ehlers, 2009, p. 2):
+O planeamento da produção, orçamentação, gestão de existências, vendas, "marketing" e distribuição, dependem de previsões a curto prazo precisas (Duncan et al., 2001, p. 196). Por sua vez, uma análise de dados transversais (ou análise transversal) fornece um retrato instantâneo das variáveis em estudo, num instante específico no tempo. Pode mostrar como essas variáveis estão representadas numa secção transversal da população. As análises transversais geralmente utilizam inquéritos para recolher dados, por exemplo, os recenseamentos populacionais (Figura 2) (Saint-Germain, 2002).
+

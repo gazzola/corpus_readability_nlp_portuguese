@@ -1,0 +1,16 @@
+ Um valor de N inferior à unidade indica fluxo subcrítico; um valor de N superior à unidade indica fluxo supercrítico. Fluxos supercríticos apresentam fenômenos únicos, como os ressaltos hidráulicos, por exemplo. O coeficiente formula_8, que aparece na equação acima, pode ser desenvolvido
+formula_9
+e é o inverso do número de Reynolds:
+formula_10
+Esse grupo adimensional pode ser entendido como a razão entre as forças devidas à inércia e as devidas à viscosidade. Fluxos com um número de Reynols alto, ou seja, fluxos onde a viscosidade exerce um efeito apreciável, são geralmente turbilhonários, não laminares. O grupo adimensional
+formula_11
+é chamado de número de Euler. Δp é, em geral, a diferença entre a pressão e a pressão na superfície do fluido. O número de Euler aparece em problemas de aerodinâmica envolvendo líquidos ideais (ou seja, fluidos incompressíveis e não viscosos), e pode ser entendido como a razão entre as forças devidas à pressão e àquelas devidas à inércia do fluido. Esse adimensional também é conhecido como coeficiente de pressão. O grupo adimensional
+formula_12
+é conhecido como o número de Weber. Ele pode ser entendido como a razão entre as forças devidas à inércia e aquelas devidas à tensão superficial. O valor desse grupo adimensional indica a presença e a frequência das ondas capilares na superfície de um fluido. O grupo adimensional
+formula_13
+é conhecido como o número de Mach. Ele é a razão entre a velocidade do fluxo e a velocidade do som no fluido. O valor desse grupo adimensional indica se o escoamento se processa a velocidades tão elevadas que os efeitos da compressibilidade do fluido devem ser levados em conta. O número de Mach também pode ser escrito nas formas seguintes
+formula_14
+formula_15
+onde ε é o módulo de elasticidade volumétrica do fluido. Um fluido incompressível teria N = 0, e a velocidade de propagação do som nele seria infinita. O grupo adimensional
+formula_16
+idêntico em forma ao número de Euler, é chamado de número de cavitação quando Δp é a diferença entre a pressão e a pressão de vapor do fluido à temperatura do problema. Esse número é usado na análise da probabilidade de ocorrência de cavitação em uma determinada situação. Quanto menor o número de cavitação, maior essa probabilidade.

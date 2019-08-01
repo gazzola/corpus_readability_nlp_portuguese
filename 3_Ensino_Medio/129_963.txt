@@ -1,0 +1,13 @@
+Química inorgânica/Introdução/Íons e a regra do octeto/Complexos atômicos
+Um complexo atômico é uma união entre cátions e ânions afim de se estabilizarem. Os complexos podem ser dividos em:
+Eles podem ser divididos quanto à quantidade de elementos que os forma:
+Nas substâncias simples formadas por moléculas, basta acrescentar um perfixo de quantidade ao elemento ("di, tri, tetra, penta, hexa, hepta, octa", etc). Exemplos:
+Tais compostos possuem a seguinte estrutura, para moléculas:
+Deve-se acrescentar os prefixos quantitativos aos ânions (se houver apenas um ânion, utiliza-se "mono") e cátions (não utiliza-se "mono" nos cátions). Tratando-se de um agregado iônico, não acrescenta-se prefixos, mas deve-se exibir a carga (NOX) em numeração romana caso o átomo seja polivalente:
+Tenha em mente que alguns cátions e ânions já têm um prefixo em seu nome, e por isso, alguns agregados iônicos possuem prefixos. Exemplos (<nowiki>*</nowiki> indica moléculas):
+No caso de haver mais de um íon poliatômico, deve-se pôr a quantidade de íons entre parênteses. Para nomeá-lo, basta acrescentar um prefixo de quantidade. Algumas vezes pode ocorrer de já haver um íon com o mesmo nome ao acrescentar um prefixo. Para evitar enganos, o prefixo e o ânion são separados por parênteses. Nestes casos, o prefixo "di" passa a ser "bi". Em agregados iônicos, não se põe o prefixo (mas alguns já possuem incluído no nome do cátion ou do ânion)! Exemplos:
+Compostos binários estabilizadas exclusivamente por íons H ou H recebem sufixo "ano". Alguns destes compostos têm outros nomes aceitáveis. Os halogênios não entram nesta regra, e são simples hidretos. Em solução aquosa, tais compostos possuem uma nomenclatura própria (a dos ácidos) - que veremos adiante. Exemplo:
+Se em uma substância houver mais de um cátion ou ânion diferentes, deve-se enumerar todos os íons. Nas moléculas isto não acontece, da mesma forma que em alguns agregados iônicos (devido à formação de íons poliatômicos). Especificamente, deve haver ao menos dois cátions metais ou dois ânions quaisquer. Exemplos:
+Muitas vezes as substâncias metálicas são compostas por vários elementos. Nestes casos, coloca-se os íons que podem se alternar entre parênteses:
+Quando diferentes íons atingem estabilidade por um único cátion/ânion, o(s) ânion(s) antecede(m) o(s) cátion(s):
+

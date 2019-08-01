@@ -1,0 +1,13 @@
+Eletrônica Digital/Códigos Numéricos
+A eletrônica digital trabalha com diversos códigos de acordo com necessidades específicas. Códigos numéricos são códigos que trabalham unicamente com valores numéricos em sua composição.
+O código 9876543210 é um código binário que converte cada dígito decimal em um conjunto de 10 bits, onde o valor 1 assume a posição correspondente ao número decimal, e o restante é completado com o valor 0.
+O código BCD 8421 (de "Binary-coded decimal" 8421) é um sistema de codificação de números decimais em binários de quatro bits. Os valores 8421 são respectivamente os valores de 2 elevado ao valor de sua posição (3,2,1,0). Este código assume apenas 10 dígitos, variando de 0 a 9.
+Existem diversos códigos BCDs que assumem valores diferentes de acordo com alguma variação em seu cálculo. Entre eles podemos destacar o BCD 7421, BCD 2421 e o BCD 5211.
+Código Excesso-3 (XS-3) é um código binário decimal, chamado também de código de Excesso-N, que segue o mesmo príncipio de conversão do número decimal para binário, incrementando 3 unidades ao resultado binário.
+Para convertermos um número como 127 utilizamos (0100, 0101, 1010).
+O código Gray é um sistema de código binário onde de um número para outro apenas um bit varia. Este sistema de codificação surgiu quando os circuitos lógicos digitais se realizavam com válvulas termoiônicas e dispositivos eletromecânicos. Os contadores necessitavam de potências muito elevadas e geravam ruído quando vários bits modificavam-se simultâneamente. O uso do código Gray garantiu que qualquer mudança variaria apenas um bit.
+Atualmente o código Gray é utilizado em sistemas sequênciais mediante o uso dos Mapas de Karnaugh, já que o príncipio do desenho de buscar transições mais simples e rápidas segue vigente, apesar de que os problemas de ruído e potência tenham sido reduzidos. 
+O código 2 entre 5 possui sempre dois bits iguais a 1 dentro de seus bits.
+O Código Johnson (Johnson-Mobius) é um código especial utilizado na construção do Contador de Johnson. Este código constitui-se em um código binário e cíclico (como o código Gray) cuja capacidade de codificação é dada por 2n, sendo "n" o número de bits. Para codificar os dígitos decimais são necessários 5 bits: 
+Este código permite a simplicidade de criação de contadores, e por isto é utilizado em sistemas digitais de alta velocidade. Proporciona uma maior proteção contra erros mas é menos eficiente em memória do que o código binário decimal.
+

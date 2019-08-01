@@ -1,0 +1,21 @@
+Tábuas Atuariais/Capa
+Índice
+Wikilivristas que cooperaram com o desenvolvimento e manutenção deste wikilivro:
+
+
+Tábuas Atuariais/Tábuas de mortalidade
+Uma Tábua de mortalidade é formada por um conjunto de taxas de mortalidade (formula_1) e as respectivas quantidades de indivíduos mortos (formula_2) referentes a uma determinada coorte. Essas informações estão atreladas a uma idade (formula_3) e por vezes são diferenciadas em virtude do sexo do grupo pesquisado. Esse conjunto descreve a velocidade com que uma determinada população vai extinguindo-se em decorrência do falecimento de seus indivíduos.
+As tábuas de mortalidade servem basicamente ao cálculo de seguros contra a morte, e a criação de comutações de 2ª ordem. São os dados das tábuas de mortalidade que dão origem as tábuas de vida, através das seguintes relações:
+O termo tábua de mortalidade é por vezes empregado para definir uma tábua de vida que "mata muito", ou seja, que apresenta probabilidades de mortalidade maiores do que a maioria das tábuas, sendo indicada, por razões de segurança à embasar produtos de seguro contra a morte.
+
+
+Tábuas Atuariais/Tábuas de morbidade
+Uma Tábua de morbidade consiste em uma tabela que apresenta os índices de incidência e tempo de permanência de um indivíduo ser atingido por uma enfermidade.
+São utilizadas nos seguros-saúde para medir as probabilidade que os um grupo de pessoas saudáveis contrair determinadas doenças, em determinado espaço de tempo.
+
+
+Tábuas Atuariais/Tábuas de sobrevivência
+Uma Tábua de sobrevivência é formada por um conjunto de taxas de sobrevivência (formula_1) e as respectivas quantidades de indivíduos vivos no inicio da idade (formula_2) referentes a uma determinada coorte. Essas informações estão atreladas à uma idade (formula_3) e por vezes são diferenciadas em virtude do sexo do grupo pesquisado.
+As tábuas de sobrevivência servem basicamente ao cálculo de seguros de sobrevivência e previdência, e a criação de comutações de 1ª ordem.
+O termo Tábua de sobrevivência é por vezes empregado para definir uma tábua de vida que "mata pouco", ou seja, que apresenta uma sobrevivência maior do que as a maioria das tábuas, sendo indicada, por razões de segurança à embasar produtos de previdência.
+

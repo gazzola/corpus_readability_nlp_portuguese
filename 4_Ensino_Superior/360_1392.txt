@@ -1,0 +1,64 @@
+ Assim, dizemos que:
+Da mesma forma que:
+Seja a função formula_101, sendo a sua inversa:
+formula_102,
+podemos operá-la desta forma:
+formula_103
+formula_104,
+Por outro lado:
+formula_105
+formula_106
+formula_107
+O que nos dá:
+formula_108,
+Logo:
+Ainda temos que a função formula_110, sendo a sua inversa:
+formula_111,
+podemos operá-la desta forma:
+formula_112
+formula_113,
+Por outro lado:
+formula_114
+formula_115
+formula_116
+O que nos dá:
+formula_117,
+Logo:
+Para integração das funções arcseno e arccosseno, veja o capítulo de técnicas de integração, para uma completa abordagem do tema. Definimos a função:
+arctangente de "x", como a inversa da função:
+tangente de "y", para todo o intervalo formula_121, porque no mesmo há apenas um valor de tangente para cada arco. Do mesmo modo podemos definir a função:
+arccotangente de "t", como a inversa da função:
+cotangente de "z", para todo o intervalo formula_121, porque no mesmo há apenas um valor de cotangente para cada arco. Seja a função formula_119, sendo a sua inversa:
+formula_120,
+podemos operá-la desta forma:
+formula_127
+formula_128,
+Por outro lado:
+formula_129
+formula_130
+O que nos dá:
+formula_131,
+Logo:
+Ainda temos que a função formula_133, sendo a sua inversa:
+formula_134. Por outro lado:
+formula_135
+O que nos dá:
+formula_136,
+Logo:
+Para integração das funções arctangente e arccotangente, veja o capítulo de técnicas de integração, para uma completa abordagem do tema. Definimos a função:
+arcsecante de "x", como a inversa da função:
+secante de "y", para os intervalos de "x": formula_140, onde, nos mesmos, há apenas um valor de secante para cada arco. A função formula_141 é relacionada a função formula_142 como segue:
+Do mesmo modo podemos definir a função:
+arccosecante de "t", como a inversa da função:
+cosecante de "y", para os intervalos de "x": formula_140, onde, nos mesmos, há apenas um valor de secante para cada arco. A função formula_147 é relacionada a função formula_148 como segue:
+Seja a função:
+formula_138
+que tem correspondência em:
+formula_151
+Sendo:
+formula_152
+formula_153
+formula_154
+Portanto:
+Para integração das funções arcsecante e arccossecante, veja o capítulo de técnicas de integração, para uma completa abordagem do tema. Como resultado das derivadas de funções trigonométricas inversas algumas integrais de funções algébricas podem ser convertidas em "arc-funções", são elas:
+Em todas, como é de costume, encontramos a constante de antidiferenciação "C".

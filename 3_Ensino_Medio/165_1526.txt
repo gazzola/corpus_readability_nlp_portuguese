@@ -1,0 +1,13 @@
+ Matemática elementar/Funções
+Uma função é uma relação especial, que é definida da seguinte maneira: sejam dois conjuntos "A" e "B", tais que para todo elemento "x" pertencente a "A", haja uma correspondência de um elemento "y" pertencente a "B". Essa correspondência é a função: a associação, definida de algum modo, entre todos os elementos de um conjunto e os elementos de outro conjunto. A função que associa um elemento "x" a outro valor pode ser indicada por "f(x)". O aparecimento de "x" na simbologia da função não ocorre por acaso, uma vez que o valor "f(x)" depende de "x". Por isso mesmo, "x" é chamada variável independente e "f(x)" (ou "y") é chamada de variável dependente. Matematicamente a função é definida:
+Um exemplo de função: dado o conjunto dos números naturais, uma função pode associar cada número ao seu quadrado. Assim, essa função assumiria os valores: { 1,4,9,16... }. Uma função pode, na verdade, associar mais de um conjunto a outro; pode haver diversas variáveis independentes. Por exemplo: uma função pode tomar dois valores inteiros e expressar sua soma:
+No entanto, neste livro será dada mais atenção às funções de uma variável, apenas. São duas características da função enquanto relação:
+A tabela a seguir mostra dois exemplos de relações que não são funções:
+Já o diagrama a seguir representa uma função:
+Duas funções "f(x)" e "g(x)" são ditas iguais ("f" = "g") se e somente se para cada valor de "x" no domínio "D", "f(x)" e "g(x)" assumam o mesmo valor:
+Relações que estabeleçam dependência entre os elementos de dois conjuntos são denominadas funções. Um exemplo clássico de função é a do salário de vendedores que ganham por comissão:
+Existe um valor fixo que o vendedor ganha mesmo se não conseguir vender nada naquele mês e uma comissão, que depende da quantidade de vendas que o vendedor realizou. Por exemplo:
+Da tabela acima podemos construir uma relação entre as vendas e o salário do vendedor:
+formula_5
+E com isso, construímos um gráfico que relaciona vendas a salário, onde verifica-se que:
+Ao aplicar uma função formula_6 em um dado conjunto formula_7, cada elemento deste deverá ter como correspondente um elemento em um dado conjunto formula_8.

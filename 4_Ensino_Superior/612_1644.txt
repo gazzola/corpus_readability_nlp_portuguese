@@ -1,0 +1,34 @@
+ O que se segue tem como pressuposto essencial um cenário de potencial de funcionamento de 24 horas/dia. 2. INDICADORES TÉORICOS DE MANUTENÇÃO
+2.1 Taxa de avarias
+A Taxa de Avarias (λ) exprime o número de avarias por unidade de utilização. Por exemplo, num máquina, o número de avarias/hora, num veículo, número de avarias por Km, etc. Para evitar números muito pequenos e pouco sugestivos é conveniente exprimir a taxa de avarias em nº avarias/1000 horas; nº avarias/10,000 km, etc. Taxa de avarias de um equipamento (avarias/1.000 horas):
+λ C = (Nav / TF)* 1.000
+Em que:
+λC = Taxa de Avarias Calendário
+Nav = número de avarias no período de análise
+TF = Tempo total de funcionamento no período
+Adoptando o cenário de operação sugerido para os tempos de funcionamento, sugere-se para um quadro de bordo de manutenção a seguinte formulação expressa em “avarias/ano”:
+Fórmula I:
+λ C = (Nav / número de dias no período) * 365 (avarias/ano)
+Em que:
+λ C = chamemos-lhe, Taxa de Avarias Calendário
+Nav = número de avarias no período de análise
+No caso da figura abaixo, entre o mês 3 e o mês 12:
+λ C = (4 / 300) * 365 = 4.87 avarias/ano
+Notações: 
+TE = Tempo de espera; 
+TR = Tempo de reparação; 
+TF = Tempo de funcionamento
+Só nos casos onde se dispuserem de registos fiáveis de funcionamento se poderá utilizar:
+λ = (Nav / TF) * 1000 (avarias/1000H)
+Para veículos:
+λ = (Nav / Km) * 10,000 (avarias/10,000 Km)
+Em que:
+λ = Taxa de Avarias (Funcionamento)
+Nav = número de avarias no período de análise
+Km = Total de quilómetros realizados no período
+Para um conjunto de equipamentos, pelas razões de consistência apontadas, e para um dado período de tempo de análise, faz mais sentido falar da Taxa de Avarias (calendário), isto é:
+Fórmula II:
+λ C = (Σ Nav/número de dias do período) * 365 (avarias/ano) 
+Em que:
+Σ Nav = número de avarias em todos os equipamentos do conjunto no período. 2.2 MTBF de um equipamento
+A abreviatura MTBF deriva do inglês Meam Time Between failures, ou seja, é o tempo médio entre avarias.

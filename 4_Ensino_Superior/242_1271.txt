@@ -1,0 +1,17 @@
+Logística/Sistemas de informação/Custo logístico/Factores que afectam o custo logístico
+Os autores Coyle et al. (2003, p. 63-69) consideram que os custos logísticos são afectados por factores relacionados com a competitividade, o produto e as localizações, para melhor explicar o papel estratégico da logística numa empresa.
+
+
+Logística/Gestão de armazéns/Configuração de áreas de armazenagem contínuas/Múltiplos produtos/Armazém com cinco portas
+Considera-se um armazém com cinco portas e quatro produtos. A recepção dos produtos é feita pelas portas de entrada/saída 4 e 5, cada porta de recepção tem igual probabilidade de ser utilizada. Os produtos são comercializados através das portas 1, 2 e 3, sendo a porta 2 a mais provável de ser utilizada. Uma vez que as cargas são consideradas unidades completas para serem recebidas e enviadas, o número de cargas recebidas é igual ao número de cargas enviadas. Assim, 50% da actividade de armazenagem/reposição é dividida igualmente pelas portas 4 e 5. Os restantes 50% do movimento são divididos pelas portas 1, 2 e 3 (Francis et al., 1992, p. 274-275).
+O produto de mais alto nível, D, requer um espaço de formula_1 para armazenagem e deve ser colocado em primeiro lugar no armazém, prosseguindo-se para armazenagem o produto B. A área de armazenagem total destes dois produtos vai ser de formula_2. De seguida, coloca-se para armazenagem o produto C, a sua área de armazenagem juntamente com os produtos B e D representa uma área total de formula_3. Os restantes formula_4 são destinados ao produto A (Francis et al., 1992, p. 301). As curvas de nível das respectivas áreas de armazenagem estão representadas na figura 1. 
+
+
+Logística/Gestão de armazéns/Picking/Procedimentos de organização/Picking discreto
+No "picking" discreto, cada operador é responsável por uma única encomenda de cada vez e avia apenas um único produto de cada vez. Este tipo de procedimento possui um conjunto de vantagens, essencialmente por ser o mais simples, adequando-se perfeitamente quando toda a documentação está em papel. A probabilidade de erros na actividade de "picking" é reduzida, pois existe apenas um documento para cada encomenda. Este procedimento é, todavia, o menos produtivo, pois como o operador deve aviar a totalidade da encomenda, o tempo de deslocação é muito superior ao dos outros métodos (Medeiros, 1999).
+
+
+Logística/Sistemas de informação/Custo logístico/O número de armazéns do sistema logístico
+De acordo com Coyle et al. (2003, p. 297), decidir qual o número de armazéns que um sistema logístico deve possuir é uma das tarefas mais importantes do gestor logístico. Esta decisão deve, de um modo geral, basear-se na compensação entre custos.
+Verificou-se, então, que o aumento do número de armazéns num sistema logístico afecta o custo de distribuição. O aumento do número de armazéns provoca, por um lado, uma diminuição do custo de transporte e do custo de vendas perdidas, e, por outro lado, um aumento do custo das existências e do armazenamento. Agrupando as mercadorias a receber por cada armazém de modo a corresponderem a um vagão ou camião completo, as tarifas de transporte são mais baixas, diminuindo o custo de transporte. Por outro lado, o aumento do número de armazéns aproxima os armazéns do cliente e da área de mercado, reduzindo tanto a distância como o custo de transporte. O custo de armazenamento aumenta pois o espaço total aumenta sempre com um maior número de armazéns.
+

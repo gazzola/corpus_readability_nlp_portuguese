@@ -1,0 +1,19 @@
+Logística/Localização/Localização minisoma de uma única instalação
+
+
+Logística/Embalagem/Metal
+No sector das embalagens de acordo com Twede (2009, p. 385-386), as latas de chapa de aço estanhado e as latas de alumínio constituem mais de 70 % das embalagens metálicas. A embalagem é uma pequena parcela, cerca de 3,8 %, da produção total de aço, mas é 21 % da produção total de alumínio. A indústria de latas de metal é uma das indústrias de embalagens mais concentradas nos Estados Unidos, onde os sete maiores produtores detêm 90 % do volume da produção.
+As latas de aço e alumínio são alternativas para muitos usos e a sua utilização depende dos preços relativos. Apesar do alumínio ser mais caro por quilo que o aço, as latas de alumínio são mais leves e a maior parte das inovações tem incidido numa maior redução seu peso. Para reduzir o custo das matérias-primas, a indústria de alumínio tem facilitado a reciclagem. Em 2003, nos Estados Unidos, 50 % das latas de alumínio utilizadas já eram recicladas. Desde 1981 que as latas de alumínio ultrapassaram em número as latas de aço. As latas de alumínio são as mais populares para as bebidas, mas as de aço ainda predominam para os alimentos.
+O maior uso das latas de metal (71 %) é para as bebidas com gás. A lata metálica é tão importante para a produção de cerveja, que as grandes centrais de cerveja, por vezes, têm instalações de produção de latas só para elas. Os fabricantes de alimentos usam 26 % das latas produzidas. 
+
+
+Logística/Movimentação de materiais
+
+
+Logística/Gestão de armazéns/Recepção e expedição
+A recepção é o conjunto de actividades num armazém que tem como objectivo verificar, de uma forma organizada, que o fornecedor entregou o produto correcto, em boas condições, na quantidade certa, com a qualidade exigida, no momento certo; e dar entrada desse produto no armazém ou enviá-lo para outro sector da empresa (Mulcahy, 1994, p. 4.1 e Tompkins et al., 2003, p. 405).
+Pode-se definir a recepção como o portal das instalações, todos os materiais, mercadorias e equipamentos que entram nas instalações passam pela área de recepção. Se esta não funcionar de modo correcto então irão entrar nas instalações materiais incorrectos, danificados ou com defeito. Assim sendo a área de recepção é uma zona crítica, que se não estiver a operar correctamente pode criar dificuldades operacionais nas instalações (Tompkins et al., 1984, p. 303-304).
+A recepção tem como actividades principais (Mulcahy, 1994, p. 4.1):
+A expedição é uma actividade do armazém que se realiza depois de a mercadoria ser devidamente separada e inclui as seguintes tarefas (Tompkins et al., 1996, p. 393):
+A expedição pode ser também definida como uma conduta por onde passa o artigo de maior valor nas instalações. Este artigo não é o produto final mas sim o produto vendido. O objectivo das instalações é produzir um determinado bem ou serviço. Quando este atinge o estado final (acabado ou vendido), a expedição realiza então as operações finais. Os problemas que surgem na expedição podem variar desde o mau funcionamento, danificação de produtos prontos a serem expedidos e a expedição de quantidades erradas, todos resultando numa má imagem da empresa. Assim, é importante que a expedição seja uma actividade bem planeada e funcional (Tompkins et al., 1984, p. 303-304).
+

@@ -1,0 +1,236 @@
+Logística/Imprimir
+=Capa=
+=Prefácio=
+=Introdução=
+=Técnicas de previsão=
+=Série temporal e dados transversais=
+=Representação gráfica=
+=Estatísticas univariadas, bivariadas e autocorrelação=
+=Medidas de precisão da previsão=
+=Intervalo de previsão=
+=Estimativa dos mínimos quadrados=
+=Transformações e ajustamentos=
+=Decomposição de séries temporais=
+=Princípios=
+=Médias móveis=
+=Média móvel simples=
+=Média móvel centrada=
+=Média móvel ponderada=
+=Alisamento local de regressão=
+=Decomposição clássica=
+=Métodos do Census Bureau=
+=Decomposição STL=
+=Alisamento exponencial=
+=Regressão simples=
+=Regressão múltipla=
+=Métodos ARIMA de Box-Jenkins=
+=Modelos avançados de previsão=
+=Previsão a longo prazo=
+=Dinâmica de grupo=
+=Intenções=
+=Opinião de peritos=
+=Método Delphi=
+=Análise conjunta=
+=Pesquisa de mercado=
+=Pesquisa qualitativa=
+=Pesquisa quantitativa=
+=Metodologia bootstrap=
+=Analogias=
+=Extrapolação=
+=Redes neuronais=
+=Previsão baseada em regras=
+=Sistemas periciais=
+=Integração, ajustamento e combinação=
+=Sistemas de informação=
+=Introdução=
+=Custo logístico=
+=O custo logístico e a economia=
+=Impacto do desenvolvimento de novas tecnologias no custo logístico=
+=O número de armazéns do sistema logístico=
+=Factores que afectam o custo logístico=
+=Competitividade=
+=Produto=
+=Localização=
+=Análise do custo logístico total=
+=Outros custos relacionados com a logística=
+=Modelos de optimização do custo logístico=
+=Processamento de encomendas=
+=Preparação da encomenda=
+=Transmissão da encomenda=
+=Atendimento da encomenda=
+=Aviamento da encomenda=
+=Relatório da situação da encomenda=
+=Exemplo de processamento de uma encomenda=
+=Rastreabilidade=
+=Rastreabilidade e tecnologias da informação=
+=Unidades de expedição=
+=Processo de rastreabilidade GS1=
+=Sistema de rastreabilidade no sector alimentar=
+=Características fundamentais=
+=Rastreabilidade e qualidade alimentar=
+=Autenticidade=
+=Indicadores de desempenho=
+=Valor Económico Acrescentado (EVA)=
+=Indicadores AECOC=
+=Taxa de rotação dos stocks=
+=Indicadores de utilização de recursos: pessoas=
+=Mão de obra na movimentação de materiais=
+=Mão de obra directa na movimentação de materiais=
+=Perda de mão de obra directa em movimentações=
+=Indicadores de utilização de recursos: equipamentos=
+=Utilização de equipamento=
+=Percentagem de ocupação=
+=Disponibilidade=
+=Flexibilidade da linha de produção=
+=Flexibilidade do posto de trabalho=
+=Indicadores de controlo de gestão: movimento=
+=Movimento por operação=
+=Distância média por movimento=
+=Gestão do aprovisionamento=
+=Funções do aprovisionamento=
+=Gestão de fornecedores=
+=Introdução=
+=Âmbito=
+=Processo de fornecimento=
+=Abordagens actuais=
+=Organização do aprovisionamento=
+=Abordagem estratégica=
+=Integração das decisões de aprovisionamento e transporte=
+=Introdução=
+=Condições do frete FOB=
+=Intervenção do aprovisionamento nas actividades de transporte=
+=Factores de decisão na selecção do modo de transporte e transportador=
+=Organização para tomada de decisões sobre o transporte=
+=Integração contínua=
+=Questões ambientais do aprovisionamento=
+=Gestão de existências=
+=Introdução=
+=Existências=
+=Tipos de existências=
+=Tipos de organizações e problemas de gestão de existências=
+=Funções das existências=
+=Classificação dos problemas de gestão de existências=
+=Componentes dos sistemas de existências=
+=Custos das existências=
+=Conflito de objectivos=
+=Ciclo do fluxo das existências=
+=Considerações financeiras=
+=Influência nos ciclos económicos=
+=Just in time=
+=Sistemas de procura independente: modelos determinísticos=
+=Modelo de Quantidade Fixa de Encomenda=
+=Modelo de Quantidade Económica de Encomenda (QEE)=
+=Sistemas de procura discreta: modelos determinísticos=
+=Sistemas de procura independente: modelos estocásticos=
+=Alteração e limitações dos sistemas de existências=
+=Encomendas únicas=
+=Procura e tempo de aprovisionamento conhecidos=
+=Procura conhecida, tempo de aprovisionamento variável=
+=Procura variável, tempo de aprovisionamento conhecido=
+=Procura e tempo de aprovisionamento variáveis=
+=Avaliação e medição de existências=
+=Controlo de existências=
+=Reparações e sobressalentes=
+=Gestão de sobressalentes=
+=Movimentação de materiais=
+=Introdução=
+=Princípios de movimentação de materiais=
+=Listas de verificação=
+=Unidade de carga=
+=Equipamento=
+=Equipamento de contentorização e unitivo=
+=Contentores=
+=Unificadores=
+=Equipamento de movimentação de materiais=
+=Conveyors=
+=Chute conveyors=
+=Belt conveyor=
+=Roller conveyor=
+=Wheel conveyor=
+=Slat Conveyor=
+=Chain Conveyor=
+=Tow Line Conveyor=
+=Trolley Conveyor=
+=Power e Free Conveyor=
+=Cart-on-Track Conveyor=
+=Sorting Conveyor=
+=Veículos Industriais=
+=Walking=
+=Riding=
+=Automated=
+=Monocarris,Hoists e Gruas=
+=Monocarril=
+=Hoists=
+=Gruas=
+=Equipamento de armazenagem=
+=Armazenagem de unidades de carga=
+=Estantes para armazenagem de unidades de carga=
+=Armazenagem por empilhamento=
+=Armação para empilhamento=
+=Estante de profundidade simples=
+=Estante de profundidade dupla=
+=Estante drive-in=
+=Estante drive-thru=
+=Estante dinâmica=
+=Estante push-back=
+=Estante móvel=
+=Estante cantilever=
+=Equipamento para armazenagem de unidades de carga=
+=Operador a pé=
+=Porta paletes=
+=Empilhadora=
+=Condutor a bordo=
+=Corredores largos=
+=Porta paletes motorizado=
+=Empilhadora de contrapeso=
+=Corredores estreitos=
+=Empilhadora straddle=
+=Empilhadora straddle reach=
+=Empilhadora lateral=
+=Empilhadora de torre=
+=Empilhadora híbrida=
+=Máquina de armazenamento automática=
+=Equipamento de armazenagem de pequenas cargas=
+=Equipamento de armazenagem operator-to-stock=
+=Estante para caixas=
+=Armários com módulos de gavetas=
+=Estante dinâmica para caixas=
+=Mezanino=
+=Estante móvel=
+=Equipamento de remoção operator-to-stock=
+=Carrinho de picking=
+=Carro=
+=Equipamento de armazenagem automática com operador a bordo=
+=Remoção robótica=
+=Equipamento stock-to-operator=
+=Carrosséis=
+=Carrosséis horizontais=
+=Carrosséis verticais=
+=Prateleiras rotativas independentes=
+=Máquina de armazenagem automática para pequenas cargas=
+=Armazenagem vertical de alta densidade=
+=Dispensador automático=
+=Equipamento de identificação e comunicação automática=
+=Identificação e reconhecimento automático=
+=Codificação por barras=
+=Código de barras=
+=Leitor de código de barras=
+=Reconhecimento óptico de caracteres=
+=Etiqueta de identificação por radiofrequência=
+=Fita magnética=
+=Sistema de visão=
+=Comunicação automática, sem papel=
+=Terminal de dados por radiofrequência=
+=Auscultadores e microfone=
+=Light e computer aids=
+=Cartão inteligente=
+=Planeamento e projecto de instalações=
+=Localização=
+=Gestão de armazéns=
+=Embalagem=
+=Gestão de desperdícios e rejeitados=
+=Sistemas de distribuição=
+=Manutenção de instalações=
+=Gestão de devoluções=
+=Serviço ao cliente=
+

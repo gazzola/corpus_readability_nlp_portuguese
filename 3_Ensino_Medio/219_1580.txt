@@ -1,0 +1,10 @@
+ Consideremos um triângulo retângulo que corresponde à metade de um triângulo equilátero de lado 1 uc. Tem, portanto, sua hipotenusa "c" igual a 1, seu lado "a" igual a 0,5 uc e seu lado "b" igual a altura do triângulo equilátero, 0,5 uc. Assim:
+Que é o seno de 30° e o cosseno de 60°. O seno de 60° e o cosseno de 30° são obtidos de forma similar:
+E assim é possível obter as demais funções trigonométricas para 30° e 60°. Para 45°, considera-se um triângulo retângulo igual à metade de um quadrado de lado 1 uc. Tem, então, hipotenusa de medida uc - a diagonal do quadrado - e os catetos de medida 1 uc - os lados do quadrado:
+De forma mais simples, os valores do seno dos cinco ângulos notáveis são o quociente entre "x" e "2", em que "x" é a raiz de cada um dos cinco termos a, a, a, a e a de uma progressão aritmética em que a = 0 e a razão é igual a +1. O cosseno destes ângulos é a ordem decrescente da progressão:
+A tangente é obtida pela dividindo-se o seno do respectivo ângulo pelo seu cosseno, pois:
+Que resulta:
+A tangente de 90° não é definida, pois é impossível que o ângulo entre a hipotenusa e os catetos seja 90°. Considerando um círculo de 1 uc de raio, este tem sua circunferência igual a 2π uc. Portanto, um setor de um grau deste círculo corresponde a:
+Podemos transformar a unidade de medida "uc" (unidades de comprimento) em "rad" (radianos). Assim, podemos dizer que:
+Colocando os ângulos notáveis neste círculo obtêm-se os valores (x; y) em que "x" é o cosseno do ângulo e "y" o seno:
+Observa-se em tais valores que à medida em que os ângulos avançam de quadrante os valores de seno e cosseno tem seu sinal alternado. É perfeitamente notável que tais funções seguem, então, uma periodicidade infinita, e seus valores repetiram a cada volta do círculo.

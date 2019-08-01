@@ -1,0 +1,39 @@
+Análise real/PBO
+Todo subconjunto não-vazio formula_1 possui um elemento mínimo, ou seja, se formula_2.
+Vale o Princípio da Boa Ordem se, e somente se, vale o Princípio da Indução.
+ Mostre que, dados formula_76.
+Se formula_86
+
+
+Análise real/Funções
+Sejam A e B dois conjuntos não vazios. Uma função formula_1 (lê-se função f de A em B) é definida por uma regra de associação, ou relação, entre elementos de A e B que a cada formula_2 associa um único elemento formula_3 (lê-se f de x) em B, dito imagem de x por f. O conjunto A é o domínio de f enquanto que B é o contradomínio de f.
+Uma mesma regra pode ser definida em vários domínios diferentes:
+Sejam formula_12, onde f e g tenham regras iguais.
+Seja formula_22.
+Dado formula_25, uma função que relaciona cada formula_2 com um formula_27.
+ Exemplo
+Seja formula_37. O gráfico da função f é o conjunto formula_38.
+Uma função formula_39 é chamada função identidade se formula_40 Implicações:
+Uma função formula_44 é chamada função constante se formula_45 Implicações:
+Dado formula_48, definimos a função característica ou indicadora de A por formula_49 (também denotada por formula_50 ) por formula_51.
+
+
+Análise real/2Funções
+Sejam formula_1 duas funções. Dizemos que f e g são iguais se
+Sejam formula_3. Dizemos que f é uma restrição de g ou que g é uma extensão de f se formula_4. Neste caso escrevemos formula_5.
+Sejam formula_6 tais que formula_7.
+Seja formula_24. 
+
+
+Análise real/Coleção de conjuntos
+Seja X um conjunto cujos objetos sejam conjuntos, nesse caso os objetos são denominados membros e o conjunto coleção.
+O Conjunto das partes P(A) de um conjunto A é o conjunto formado por todos os subconjuntos do conjunto A.
+Se A é um conjunto, não existe uma função formula_6 que seja sobrejetiva.
+Seja C uma família cujos membros são formula_7. Assim formula_8 onde n é quantidade de membros da família C.
+formula_13
+Seja C uma família cujos membros são formula_7. Assim formula_8 onde n é quantidade de membros da família C.
+Uma família de conjuntos formula_20, denomina-se um anel de conjuntos, se satisfaz as seguintes propriedades:
+formula_13
+Considere formula_26 a família de subconjuntos de um conjunto com 1 elemento, onde formula_26 é um anel de conjuntos.
+Considere formula_26 a família de subconjuntos de um conjunto com 2 elementos, onde formula_26 é um anel de conjuntos.
+

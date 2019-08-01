@@ -1,0 +1,100 @@
+Português/Metaplasmos/Modificadores
+A palavra 'metaplasmo', etmologicamente, significa 'mudança de forma'. A gramática define os metaplasmos como transformações fonéticas que os vocábulos sofrem durante sua evolução histórica. Os vocábulos ao passarem da língua latina para a língua portuguesa sofreram alterações que basicamente se encontram dentro de três leis, denominadas leis fonéticas.
+Há tres leis fonéticas básicas que presidem a transformação dos vocábulos que deram origem à formação da língua portuguesa a partir do latim.
+Tendência universal em que o falante simplifica a emissão dos sons, facilitando os órgãos do aparelho fonador.
+A consoante inicial da palavra da língua em uso permanece igual a consoante inicial do vocábulo de origem.
+A sílaba tônica da palavra em uso é igual àquela do vocábulo de origem.
+Eles se dividem em metaplasmos de permuta, de aumento e de subtração.
+Substituição de um fonema por outro.Pode ocorrer:
+Troca de um fonema surdo por um sonoro (geralmente no mesmo ponto de articulação do aparelho fonador):
+p / b (labiais surda/sonora) = lupu > lobo 
+t / d (labio dentais surda/sonora) = cito > cedo 
+c / g (gutural surda/sonora) = acutu > agudo 
+f / v (fricativas surda/sonora) = profectu > proveito
+Transforma um fonema consonantal em fonema vocálico. Os grupos em latim bs, ct, lc, lp, lt, gn, pt, transformaram-se em /i/ ou /u/:
+octo > oito 
+multu > muito 
+falce > fouce > foice 
+palpare > poupar 
+conceptu > conceito 
+absentia > ausência
+regno > reino 
+captale > caudal
+Converte fonema vocálico em consoante: /i/ > /j/; /u/ > /v/:
+uagare > vagar 
+ieiunu > jejum
+Mudança para um fonema muito próximo (vogal ou consoante):
+palumba >paomba>pomba 
+calente>caente>queente>quente (regressiva - vocálica) 
+persona>pessõa>pessoa (regressiva - consonantal) 
+amaramlo > amaram-no (progressiva - assimila com o posterior) 
+persicu > pêssego (regressiva) 
+nostru > nosto > nosso (progressiva) 
+tauru > touro (parcial)
+Desaparecimento de um fonema quando já existe outro no vocábulo. (consoante ou vogal):
+temoroso > temeroso (regressiva) 
+memorare > memrare > nembrar > lembrar (progressiva) 
+callamellu > caramelo (transformação) 
+cribru > crivo (queda)
+Fonema oral passa para nasal:
+mihi > mi > mim 
+macula > macla > mancha
+Fonema nasal passa para oral:
+luna > lua 
+persona > pessõa > pessoa 
+bona > bõa > boa
+Apofonia ou Deflexão
+Vocábulo junta-se a um prefixo - vogal da sílaba inicial modificada:
+in+barba > imberbe 
+per+facto > perfectu > perfeito 
+in+amigo > inimigo
+Metafonia
+Modifica timbre de uma vogal por influência de outra (assimilatório também):
+novum > novo 
+novos > novos 
+focum > fogo 
+focos > fogos 
+decima > dízima 
+debita > dívida
+Metaplasmos por aumento
+Quando ocorre o acréscimo de um fonema a uma palavra. Pode ocorrer:
+No início do vocábulo:
+stare > estar 
+spiritu > espírito
+Epêntese
+No meio da palavra:
+masto > mastro 
+stella > estrela
+No fim da palavra:
+ante > antes
+Quando ocorre perda de fonema em uma palavra. Pode ocorrer nas seguintes condições:
+Perda de fonema no início da palavra:
+acume > cume 
+attonitu > tonto 
+inamorare > namorare > namorar 
+enojo> nojo
+Queda de fonema no interior da palavra:
+legale > leal 
+malu > mau 
+Senhor > Sô 
+calente > caente ( > queente > quente*)
+Desaparecimento de uma sílaba, quando existe outra igual na palavra:
+idololatra > idólatra 
+semimínima > semínima 
+bondadoso > bondoso
+Desaparecimento de um fonema em final de palavra:
+cinematógrafo > cinema > cine 
+mala > maa > má 
+mare > mar 
+amat > ama 
+male > mal 
+muito > mui
+Fusão de dois fonemas vocálicos iguais. Durante o processo histórico podem ocorrer mais do que um tipo de metaplasmo. Nos exemplos abaixo, em primeira instância ocorreu haplologia:
+videre > veer > ver 
+dolore > door > dor 
+legere > leer > ler 
+pede > pee > pé 
+queente > quente
+Desaparecimento de fonema vocálico no fim da palava, quando a próxima é iniciada por vogal.
+de+este > deste
+

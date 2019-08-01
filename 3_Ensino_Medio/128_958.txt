@@ -1,0 +1,14 @@
+Química inorgânica/Introdução/Íons e a regra do octeto
+Apesar de a quantidade de nêutrons pouco interferir no átomo, a quantidade de elétrons interfere bastante, inclusive, uma das organizações da tabela periódica é pela quantidade de elétrons na camada de valência. Os íons são átomos que ganharam ou perderam elétrons.
+Desta forma, os íons divididem-se em dois tipos:
+As cargas representam a quantidade de elétrons que o átomo deve ganhar ou perder para atingir estabilidade. Podem ser dividas em dois tipos pela natureza dos elementos:
+Estes fundamentos são essenciais para o estabelecimento de ligações químicas.
+Os átomos estabilizam-se (deixam de ter eletroafinidade e potencial de ionização) quando sua carga é zero. Assim:
+Este conjunto de regras denomina-se "regra do octeto".
+Há duas maneiras de se representar um íon. Na formulação iônica, o símbolo do elemento é seguido pelo número de elétrons necessários para que o átomo se estabilize. Tais dados podem ser obtidos pela análise da tabela periódica e devem seguir a regra do octeto. Em seguida, exibe-se a carga do íon. No caso de apenas um elétron, não é necessário exibir o número 1. Nesta representação, o espaço destinado é a ponta superior esquerda do símbolo atômico. Exemplo:
+A segunda maneira é pelo método de Stocks. Usa-se para cátions metais. Após o símbolo atômico, põe-se o número de elétrons na camada de valência em numeração romana:
+Complexos são conjuntos de átomos, que unidos, se estabilizam. Nestas, os ânions unem-se aos cátions, seguindo a regra do octeto. Veja alguns exemplos:
+Neste caso, o átomo de ferro, que tem dois elétrons na camada de valência, doa seus elétrons para o átomo de oxigênio, que tem seis elétrons. Deste modo, o átomo de ferro (que é um metal) fica com zero elétrons, e o de oxigênio (que é um ametal) fica com oito, e completa-se o octeto.
+Agora todos os átomos são ametais, e necessitam de oito elétrons. Eles unem-se e o octeto é formado.
+Existem formas de representar as móleculas, que veremos adiante.
+

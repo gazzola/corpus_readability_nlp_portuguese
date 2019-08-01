@@ -1,0 +1,23 @@
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Equipamento de armazenagem de pequenas cargas/Equipamento stock-to-operator/Carrosséis
+Os carrosséis, são dispositivos mecânicos que guardam e movimentam os artigos para armazenagem e "picking".
+Estão disponíveis algumas classes de carrosséis para a armazenagem de pequenas cargas: carrosséis horizontais, carrosséis verticais e prateleiras rotativas independentes (Tompkins et al., 2003, p. 271-272).
+
+
+Logística/Manutenção de instalações/Manutenção de equipamentos e sistemas eléctricos/Transformador
+Um transformador é uma máquina eléctrica utilizada em corrente alternada, que transforma o valor da tensão eléctrica. Pelo facto do transformador ter esta capacidade, permitiu uma grande expansão no transporte, distribuição e utilização da energia eléctrica. O transformador, em conjunto com o motor de corrente alternada, mostrou a grande importância na utilização da corrente alternada, na altura em que se tentava perceber se a energia eléctrica deveria ser utilizada sob a forma de corrente contínua ou corrente alternada.
+Os transformadores monofásicos e trifásicos são os mais conhecidos. O transformador monofásico é constituído por duas bobinas, que estão em volta de um núcleo de ferro. Uma destas bobinas recebe a tensão (o primário), enquanto a outra fornece a tensão (secundário). O funcionamento do transformador trifásico é semelhante ao transformador monofásico, com a excepção deste funcionar com três bobinas no primário e três no secundário. Em alguns casos, verifica-se que cada bobina do secundário se divide em duas.
+São inúmeras as aplicações onde os transformadores são utilizados, onde se pode referir: transporte e distribuição de energia eléctrica, aparelhagens domésticas e industriais e muitas mais aplicações onde é necessário alterar o valor da tensão de rede de alimentação, para o adaptar ao valor que o aparelho necessita e consegue suportar (Cabrita, 2007).
+
+
+Logística/Gestão do aprovisionamento/Questões ambientais do aprovisionamento
+Nos tempos actuais, a preservação e respeito pela natureza são cruciais. Não só pelo óbvio cuidado pelo ambiente e bem-estar da sociedade e natureza, mas também como marketing. A ideia de uma empresa limpa e cuidadosa é sempre favorável. Os clientes tendem a optar, actualmente, por empresas limpas e "verdes". Este factor cria uma certa pressão para melhorar esse aspecto para a empresa se manter competitiva no mercado. (Logistics Bureau, 2010)
+É então necessário as empresas começarem a dar ênfase a boas práticas ambientais. No caso do aprovisionamento, o factor mais prejudicial é o transporte. As emissões de carbono e o barulho afectam tanto o ambiente como a comunidade. (Logistics Bureau, 2010)
+A análise de impacto ambiental começa por avaliar certas áreas da rede de transportes como:
+(Logistics Bureau, 2010)
+
+
+Logística/Técnicas de previsão/Previsão a longo prazo/Métodos de previsão subjectivos/Pesquisa de mercado/Pesquisa quantitativa
+A pesquisa quantitativa tem como objectivo criar indicadores numéricos do mercado com a ajuda de elementos estatísticos, tais como amostragem, margens de erro, estimativa e desvio padrão. A pesquisa por amostragem é das técnicas mais utilizadas na pesquisa quantitativa. Os factores mais importantes para o bom funcionamento deste procedimento são a elaboração de um desenho da amostra, a definição das margens de erro, o correcto dimensionamento do tamanho da amostra e apresentar um questionário apelativo.
+Esta segue os conceitos estatísticos que permitem escolher uma amostra da população estudada, não havendo necessidade de escolher um a um.
+Por lado, o censo, outra técnica de pesquisa quantitativa, obriga a que a recolha de dados seja efectuada na totalidade do público-alvo. Este facto encarece o processo, tornando-o muitas vezes a recolha de dados inviável (Azevedo, 2004, p. 7-8).
+

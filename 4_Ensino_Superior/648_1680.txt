@@ -1,0 +1,18 @@
+ Outra dificuldade seria a obtenção de fluidos diferentes com a mesma densidade e viscosidades diferentes, e de fluidos com viscosidades iguais e diferentes densidades. A análise dimensional ajuda a diminuir essas dificuldades, pois podem-se combinar essas 5 variáveis (as 4 originais, mais a força de arrasto) de forma a obterem-se 2 grupos adimensionais (ou monômios adimensionais) e escrevendo-se um em função do outro, o que requer um número de experiências 1.000 vezes menor. Além disso, a viscosidade e a densidade podem ser combinadas no adimensional formula_1, o que elimina a necessidade de se variar o valor desses parâmetros durante o experimento; basta variar a velocidade do fluxo, o que permite que apenas um líquido já seja suficiente para o levantamento. O teorema Pi de Buckingham estabelece que, em lugar de aplicar a técnica da análise dimensional a uma função f de n variáveis, é possível aplicar a técnica a uma função g de n - k variáveis auxiliares, sendo k o número de dimensões fundamentais, o que torna o problema mais simples. As variáveis auxiliares são adimensionais, e cada uma pode ser expressa por uma função h de, no máximo, k + 1 variáveis originais. Essas variáveis auxiliares são chamadas grupos adimensionais π ou números π.
+Como ilustração, tomemos novamente o problema da queda livre de um corpo a partir de uma velocidade inicial. Em lugar de l = f(m,g,t,v) devemos escrever f(l,m,g,t,v) = 0, para satisfazer a forma exigida pelo teorema. Neste caso, n = 5; as dimensões de cada variável (l,m,g,t,v) são, respectivamente, [L], [M], [LT], [T] e [LT]. São k = 3 as dimensões fundamentais presentes. É possível, portanto, definir n - k = 2 grupos adimensionais π. Selecionam-se k + 1 = 4 das variáveis originais de maneira a formar o primeiro grupo adimensional π: por exemplo, s, m, g e t; escrevemos [MLT] = [LM[LT]T] = [MLT] ⇒ b = a + c = d - 2c = 0. Escolhemos arbitrariamente a = -1, o que implica em c = e d = 2. Assim, π = h(s,m,g,t) = l·m·gt. Procedendo da mesma forma em relação ao grupo adimensional π = h(s,m,t,v), encontraremos [MLT] = [LMT[LT] = [MLT] ⇒ f = e + h = g - h = 0. Escolhemos arbitrariamente e = -1, o que implica em h = 1 e g = 1. Assim, π = h(s,m,t,v) =l·m·tv = 0. Com tudo isso, obtivemos
+formula_2
+formula_3
+O teorema se torna tanto mais útil quanto maior é o número de variáveis originais. Os expoentes a, b, c etc. devem ser números racionais. Para facilitar os cálculos, é comum que sejam escolhidos números inteiros. Os grupos adimensionais encontrados não são únicos. Vários conjuntos diferentes de grupos adimensionais podem ser obtidos a partir do mesmo procedimento, se escolhermos de forma diferente as variáveis a serem repetidas. O procedimento para aplicação do teorema π de Buckingham em casos práticos é o seguinte:
+Considere-se novamente o problema da determinação da força de arrasto em um objeto esférico perfeitamente liso imerso em um líquido, e apliquemos a ele o teorema Pi de Buckingham. As variáveis originais serão:
+As k = 3 dimensões envolvidas, como se vê, são [M], [L] e [t]. Selecionemos os 3 parâmetros ρ, v e L; F, de acordo com o teorema, não deve ser utilizado. As equações dimensionais resultantes serão:
+formula_4
+formula_5
+o que resulta em
+formula_6
+formula_7
+formula_8
+formula_9
+formula_10
+formula_11
+Assim
+formula_12

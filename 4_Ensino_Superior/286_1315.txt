@@ -1,0 +1,59 @@
+Mecânica dos fluidos/Teorema do transporte de Reynolds
+As equações básicas para volumes de controle têm todas uma forma similar:
+formula_1
+formula_2
+formula_3
+formula_4
+formula_5
+que pode ser escrita como
+formula_6
+onde η é uma propriedade intensiva e ς, uma propriedade extensiva correspondente:
+formula_7
+A maneira como as equações básicas foi derivada para um volume de controle é bastante genérica, de forma que a expressão pode ser estendida a qualquer par de propriedades relacionadas da forma
+formula_8
+
+
+Mecânica dos fluidos/Viscosímetros por cisalhamento
+O viscosímetro de pistão oscilante ou viscosímetro eletromagnético consiste de um pistão metálico que se move dentro de uma câmara cheia de fluido, sob a influência de um campo eletromagnético oscilante. O período da oscilação do pistão é proporcional à viscosidade, para uma dada intensidade do campo. O próprio medidor consegue manter a temperatura do fluido constante durante a medição.
+Esse instrumento pode ser usado para medição "on-line" de viscosidade.
+Este viscosímetro consiste em um disco ou cilindro que gira em velocidade constante, movido por um motor síncrono de precisão, dentro de um reservatório cilíndrico. O reservatório deve ser largo o suficiente para que as paredes não influam no fluxo. A superfície do elemento girante é frequentemente trabalhada de maneira a aumentar o atrito. O fluido preenche os intervalos lateral e inferior entre o elemento girante e as paredes. A faixa de medição típica vai de 5 a 400000 cP. 
+Outras geometrias são possíveis:
+No viscosímetro de Stormer, tipo antigo de viscosímetro coaxial, a rotação dos cilindros era obtida por meios puramente mecânicos (uma mola tensionada ou um peso de referência); media-se a velocidade angular resultante, que é proporcional à viscosidade do fluido.
+
+
+Mecânica dos fluidos/Exercícios resolvidos/C1
+Um tanque, cujo volume é igual a 0.05 m, contem ar inicialmente à pressão de 800k Pa (absoluta) e temperatura de 15 °C. Uma válvula, cuja abertura é de 65 mm, é aberta e o ar começa a escapar a uma velocidade de 300m/s e uma densidade de 6 kg/m. Calcular a taxa de variação da densidade no interior do tanque em t = 0.
+A calcular: formula_1 em t = 0
+Uma vez que o ar escapa do tanque, este não pode ser considerado como um sistema. Escolhamos o tanque como o volume de controle C a ser considerado e apliquemos a equação de continuidade na sua forma integral:
+formula_2
+formula_3
+uma vez que assumimos que a densidade é uniforme dentro do corpo C e também na válvula de saída. Como a velocidade também é uniforme na saída,
+formula_4
+O produto ρ x v x A é positivo, pois é direcionado para fora do volume de controle. Assim,
+formula_5
+pois o volume V é constante. Portanto,
+formula_6
+formula_7
+
+
+Mecânica dos fluidos/Exercícios resolvidos/E11
+Repetir o exercício E8, considerando que o diâmetro do duto é de 100 mm.
+O Número de Reynolds será
+formula_1
+O escoamento é turbulento. A rugosidade relativa será agora
+formula_2
+O fator de fricção, de acordo com a fórmula de Miller, é:
+formula_3
+Para validar a aproximação, joguemos esse valor na fórmula de Colebrook
+formula_4
+formula_5
+formula_6
+ou seja, o erro acarretado pelo uso da fórmula de Miller é pequeno também neste caso.
+De acordo com o Diagrama de Moody, para a rugosidade relativa de 0.0015 e N de 130000, o fator de atrito estaria abaixo de 0.025.
+A perda de carga será dada por
+formula_7
+formula_8
+A perda de pressão será dada por
+formula_9
+O aumento do diâmetro do tubo em 67% diminuiu a perda em mais de 10 vezes, apesar de o fator de fricção ter permanecido mais ou menos o mesmo.
+

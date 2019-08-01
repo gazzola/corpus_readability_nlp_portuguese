@@ -1,0 +1,25 @@
+ Curso de termodinâmica/Equação de estado dos gases perfeitos
+A uma temperatura e pressão constantes, o número de moléculas de gás contido num certo volume é o mesmo qualquer que seja o gás. Então, o volume V é directamente proporcional ao número de moléculas (a P e a T constantes) ou ainda , em termos de número de mols (1 mol = 6,022 x 10 moléculas), V é directamente proporcional ao número de mols (a P e a T constantes)
+formula_1
+A temperatura constante (isotermia), os volumes ocupados por uma mesma massa gasosa são inversamente proporcionais às pressões que suportam. Por inversamente proporcional entenda que, quando a pressão aumenta, o volume decresce na mesma proporção e vice-versa. Se representarmos a pressão em ordenadas e volume em abscissas, o gráfico da eq. de Boyle-Mariotte é uma curva denominada hipérbole equilátera. Se a transformação isotérmica se realizar numa temperatura T>T, valor do produto pV será mais elevado, e portanto a hipérbole representativa ficará mais afastada dos eixos. formula_2
+A pressão constante (condições isóbaras), o volume de uma quantidade constante de gás aumente proporcionalmente com a temperatura. Para pressões suficientemente baixas, este comportamento é observado para todos gases. O volume é diretamente proporcional à temperatura T , isto é:
+se a temperatura é expressa numa nova unidade : o Kelvin (K) , ligado ao grau Celsius por : 
+formula_4
+A volume constante, a pressão a que está sujeita uma certa quantidade constante de gás aumenta proporcionalmente com a temperatura. Os gases que obedecem às 3 ultimas leis são ditos perfeitos (tem uma polémica : estes gases são perfeitos ou ideais? Usaremos o termo perfeito) . A combinação destas leis fornece : 
+formula_5
+A constante é chamada constante dos gases perfeitos (símbolo R). A dimensão de PV é de uma energia . R = 8.314 J.K.mol = 0.08206 L.atm.K.mol = 1.9872 cal.K.mol
+Um traçado da pressão em relação ao volume (a temperatura constante) P = nRT /V se chama um isotermo e, como é uma função da forma f(x) = constante/x, possui aparência de uma hipérbole. Podemos também representar o estado de um gás perfeito (para uma certa quantidade de matéria por área) num diagrama a três dimensões P,V e T . Os isotermos P(V) com duas dimensões são as projeções desta área sobre um plano . A pressão exercida por uma coluna de líquido ( por exemplo o mercúrio) é calculada a partir de sua densidade que supomos constante qualquer seja a altura na coluna. No caso de uma coluna de gás de seção A, a densidade varia com a altitude. A pressão P na altura z, Pz , é devida ao peso da coluna de gás entre z e z+dz. Em conseqüência, a pressão diminui quando a altitude aumenta. Quando a altura aumenta de uma pequena quantidade dz , a pressão aumenta de uma quantidade dP:
+formula_7
+formula_8
+formula_9
+formula_10
+onde g é a aceleração da gravidade e formula_11 a densidade do gás, que suponhamos ser idéntica de z ate z +dz . Além disso, para um gás perfeito de massa molar M: 
+formula_12
+o que conduz à equação barométrica: 
+onde formula_14 é a pressão na altitude formula_15
+Seja uma mistura de diversos gases contida num volume V, colocada a uma temperatura T e submetida a uma pressão P . Anotamos por formula_16 , o número de mols do gás i . Por definição, a pressão parcial formula_17 do componente i da mistura é a pressão que o gás iria produzir se for sozinho no recipiente . No caso de um gás perfeito , a pressão total exercida por uma mistura é igual à soma das pressões parciais dos componentes . É a lei de Dalton , conseqüência da equação dos gases perfeitos , para qual o estado do gás depende só do número de moléculas e não da sua natureza . formula_18
+formula_19
+formula_20
+formula_21
+No caso de uma mistura de mais de dois constituintes:
+onde xi é a fração molar do constituinte i da mistura .

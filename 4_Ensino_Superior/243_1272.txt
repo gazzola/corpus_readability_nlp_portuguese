@@ -1,0 +1,23 @@
+Logística/Planeamento e projecto de instalações
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de movimentação de materiais/Transportadores/Slat Conveyor
+Slat conveyors, é um sistema de transporte por um filamento de placas (articuladas) na horizontal.
+O sistema é bastante semelhante ao de transporte por tapetes rolantes, mas com a vertente de ser mais rígido e consequentemente mais resistente ao desgaste e como tal permite o transporte de materiais mais pesados.
+Sendo maioritariamente concebidos em placas de aço inoxidável, torna-se mais higiénico pois permite uma lavagem mais eficiente. Por isso é muitas vezes um sistema de eleição para indústrias alimentícias e farmacêuticas. Estas placas também proporcionam um baixo atrito, o que é bastante bom para o transporte de embalagens pois não existe muita força entre a embalagem e o tapete de slats, o que não provoca desgaste na embalagem nem danifica a mesma.
+O sistema de transporte por slats é accionado mecanicamente e pode ter velocidade variável, tendo também guias laterais. Normalmente é montado em pernas de tripé o que permite regular a altura de funcionamento. 
+Este sistema tem vários exemplos de aplicação como, aeroportos, indústrias químicas, linhas de montagem. 
+Os transportadores mecânicos de ripas podem ser usados quando a velocidade e precisão são essenciais. Geralmente são utilizados nas indústrias alimentar, farmacêutica e de processamento e embalamento, mas também podem ser usados para o transporte de produtos pesados.
+As ripas são geralmente produzidas com plástico resistente a altas temperaturas ou em aço inoxidável permitindo que seja utilizado em aplicações de secagem a quente. Os transportadores mecânicos de ripas são extremamente fortes e de construção robusta o que lhes confere um desempenho confiável de de longa duração.
+
+
+Logística/Gestão de desperdícios e rejeitados/Resíduos industriais e comerciais
+Biliões de toneladas de resíduos industriais são gerados e geridos no local, em instalações industriais de cada ano, a quantidade gerada é aproximadamente quatro vezes maior do que a quantidade de RSU produzidos (Tammemagi, 1999). Gerado por um amplo espectro de instalações, os resíduos industriais são os subprodutos da fabricação e outros processos. 
+De acordo com o Capítulo 4 do Decreto-Lei n.º 89/2002, de 9 de Abril, entende-se por resíduo industrial «os resíduos gerados em actividades industriais, bem como os que resultem das actividades de produção e distribuição de electricidade, gás e água.»
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de identificação e comunicação automática/Identificação e reconhecimento automático/Codificação por barras
+Os sistemas de identificação automática de "codificação por barras" foram desenvolvidos para facilitar a identificação e recolha de dados logísticos. Apesar do seu elevado custo de implementação, estes sistemas substituem os antigos processos de identificação e recolha de dados, baseados na documentação de textos, onde existia grande susceptibilidade de erros e perdas de tempo. Assim, a codificação por barras, tornou-se uma exigência na movimentação de materiais (Bowersox et al., 2007, p. 188).
+Segundo Lambert et al. (1998, p. 96), a empresa "Texas Instruments" obteve resultados extremamente positivos na gestão de pedidos de materiais, através da implementação de aplicações EDI e da codificação por barras. A empresa reduziu os custos das existências em 124 mil dólares; desobstruiu cerca de 12 mil metros quadrados, no seu armazém; destituiu 11 empregados do controlo de abastecimento; e, ainda, reduziu 30% do tempo de ciclo de operações. Além disto, a contagem do material recebido passou a ser mais precisa.
+O sistema de codificação por barras inclui (Tompkins et al., 1996, p. 266-273):
+

@@ -1,0 +1,18 @@
+Coding for noobs - Aprenda Lógica de Programação/Programação Estruturada
+O conceito de programação estruturada visa melhorar o entendimento, escrita e manutenção de programas. A programação é realizada através de algoritmos, que são instruções dadas ao computador para que ele seja capaz de realizar determinada função.
+O desenvolvimento da programação estruturada é feita por "fases", como em um jogo que que são encadeadas e que uma tarefa só poderá ser realizada após o término de outra. Existem três métodos que validam a existência da estruturação na programação, que são a sequencia, seleção e interação.
+
+
+Coding for noobs - Aprenda Lógica de Programação/Variável
+Um programa de computador precisa passar por um conjunto de processos(entrada, processamento e saída) que envolvem a utilização de dados na memória do computador. Cada espaço na memória possui um nome, que é uma numeração hexadecimal. Por exemplo, o endereço 21B46A representa uma posição X na memória. Quando um programa é escrito, o programador precisa acessar várias vezes e manipular o conteúdo desses blocos de memória, mas é muito complicado para um ser humano lembrar desses endereços, ainda mais que, um programa costuma acessar milhares deles no loop de Entrada-Processamento-Saída.
+É nesse problema que entra a ideia de variável.
+Basicamente uma variável é um nome que é dado para um bloco de memória. Vamos imaginar a seguinte problemática:
+"João precisa fazer um algoritmo que some dois números e mostre o resultado na tela de um computador"
+Para isso, João precisará de dois espaços na memória para guardar as parcelas da soma, e de um outro espaço na memória para guardar o resultado. Graças ao conceito de variável, ele não precisará decorar endereços de memória. João dará um nome aos três espaços de que precisa na memória, e quando lhe convier, basta chamar cada espaço pelo nome. O seguinte algoritmo seria assim:
+parcela1 = 2
+parcela2 = 3
+resultado = parcela1 + parcela2
+mostra(resultado)
+parcela1, parcela2 e resultado são os nomes que atribuímos a pedaços na memória. Quando precisamos guardar valores, usamos variáveis para isso.
+Bem simples, não ?!
+

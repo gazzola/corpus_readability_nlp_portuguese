@@ -1,0 +1,25 @@
+Logística/Movimentação de materiais/Equipamento/Equipamento de movimentação de materiais/Veículos industriais
+
+
+Logística/Gestão de armazéns/Picking/Procedimentos de organização/Picking por zona
+Nesta procedimento de organização, as áreas de armazenagem são separadas em zonas. Cada zona possui determinados produtos e cada Operador da actividade de "picking" está relacionado com uma dessas zonas. Quando um pedido dá entrada, cada Operador coloca os respectivos produtos a esse pedido, que fazem parte da sua zona de trabalho. Se o pedido se encontrar completo, ele pode ser despachado. Caso contrário, o mesmo irá para a zona de "picking" seguinte e o próximo Operador irá colocar os produtos necessários (Medeiros, 1999).
+A área total de recolha está organizada em secções distintas (zonas) com uma pessoa atribuída a cada zona. O Operador que é atribuído a cada zona coloca todas os produtos para cada pedido que se encontra dentro dessa zona. Os produtos de cada zona são levadas para uma área de consolidação de pedidos em que são combinados para completar o pedido antes do despacho. Se os produtos necessárias estão espalhados por três zonas, em seguida, três operadores vão trabalhar nesse pedido. Cada Operador só funciona em um pedido de cada vez e existe apenas um único período de programação por turno (Halsey, 1998).
+Existem duas variações de "picking" por zona. 
+Este procedimento é usualmente utilizado quando existem diferenças de produtividade entre os operadores ou diferenças de equipamentos ou tecnologias utilizadas na área de "picking". Deste modo, as zonas de "picking" são determinadas até obtermos um balanceamento da carga de trabalho entre as zonas (Medeiros, 1999).
+
+
+Logística/Sistemas de informação
+
+
+Logística/Localização/Localização em redes/Localização em redes cíclicas/Classificação
+Existem três características quando se fala em problemas de localização de um centro de distribuição, estas características estão descritas abaixo (Francis, 1992, p. 394-395):
+1. Considerar num nó ou em qualquer outro ponto da rede a possível localização da nova instalação.
+2. A localização das procuras estão num nó ou em qualquer outro ponto da rede.
+3. Considerar uma função objectivo onde se pretende minimizar o custo total a todos os pontos de procura, ou então, minimizar o custo máximo a qualquer ponto de procura.
+Cada combinação das características do problema da origem a uma classificação, sendo as seguintes:
+1. Centro - Tanto a instalação como as procuras apenas ocorrem nos nós, neste caso qualquer nó cujo nó mais distante está o mais próximo possível é um centro de uma rede.
+2. Centro Geral - Classifica-se por centro geral qualquer nó onde o ponto mais distante da rede está o mais próximo possível, sendo que os pontos de procura estão localizados nos arcos e nos nós.
+3. Centro Absoluto - Quando a instalação está localizada num ponto qualquer da rede e as procuras estão localizadas nos nós considera-se um centro absoluto onde este é qualquer ponto cujo nó mais distante está tão próximo quanto possível.
+4. Centro Absoluto Geral - A instalação e a procura podem estar em qualquer ponto da rede, o centro absoluto geral de uma rede é qualquer ponto cujo ponto mais distante estiver tão próximo quanto possível.
+Cada um deste quatro tipos de problemas podem ser transpostos, por analogia, como problemas de média, mediana geral, mediana absoluta, mediana absoluta geral, para tal, deve-se mudar a função objectivo, sendo que nestes casos o que se pretende é minimizar a soma das distâncias da instalação a todos os pontos de procura.
+

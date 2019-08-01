@@ -1,0 +1,12 @@
+ Matemática elementar/Logaritmos
+Considere o seguinte exemplo:
+"Uma família decidiu construir sua árvore genealógica. Enquanto desenhavam-na, notaram que a cada geração superior, dobrava o número de ascendentes. Na última geração, havia um. Na penúltima, dois. Na antepenúltima, quatro, e assim sucessivamente." Qual a geração em que há 128 pessoas? É simples:
+No entanto, há a impossibilidade de resolver o cálculo. Para isto, algumas calculadoras possuem a tecla log:
+Portanto, a geração em que há 128 ascendentes é a sétima geração anterior à primeira. A tecla log nada mais faz que descobrir um logaritmo. Um logaritmo pode ser descrito como:
+Observe que em cada operação (logaritmo, potência e raiz) um elemento diferente está em evidência. Isto mostra qual destes ("a, b" ou "c") é necessário para a resolução da equação. Sendo apenas a inversão de outras duas operações, as propriedades dos logaritmos são idênticas às das potências e raizes. Vejamos um exemplo numérico abaixo:
+Neste caso, dizemos que 2 é a base e 8 é o logaritmando. Assim, 3 é o logaritmo de 8 na base 2. Observação: quando o valor da base não está explicita, considera-se 10 para a base:
+Existem basicamente três métodos para a resolução de equações com logaritmos:
+Na resolução de equações envolvendo logaritmos é de grande ajuda em certas situações usar princípios de equações exponenciais. Nestes casos, convertemos o logaritmo para uma potência. Por exemplo:
+Que pode ser entendida como:
+Esse tipo de comparação facilita a compreensão do problema em questão e de muitos outros semelhantes. Neste caso, basta pensarmos a que expoente devemos elevar a base 3 para obtermos a potência 27. Conclui-se que x = 3, pois 3 = 27. O logaritmo pode também ser entendido como uma função. Por exemplo, se temos uma função "x", operamos com os princípios da álgebra, e isto ocorre também com os logaritmos. Exemplo:
+Na álgebra, para podermos operar termos é necessário que a parte literal de cada monômio seja igual.

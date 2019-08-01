@@ -1,0 +1,25 @@
+Topologia/Espaços métricos
+Seja "M" um conjunto não-vazio e formula_1 uma função. Dizemos que formula_2 é um espaço métrico se, para todo formula_3, a função "d" satisfizer as seguintes propriedades:
+Define-se, num espaço métrico "M", a "bola aberta de centro em x e raio formula_8" formula_9.
+Pode-se provar que o conjunto formula_10 é uma topologia sobre "M". De fato, temos, por vacuidade, formula_11 e, para quaisquer formula_12, formula_13, donde formula_14. Sejam formula_15 e formula_16. Então existem formula_17 tais que formula_18 e formula_19. Escolhemos formula_20. Vemos que formula_21 e formula_22, logo formula_23 e formula_24. Seja formula_25 uma família em "T". Se formula_26, então, para algum "μ", formula_27, donde existe um formula_28 tal que formula_29. Logo formula_30. Isto completa a demonstração de que "T" é uma topologia sobre "M".
+
+
+Topologia/Imprimir
+
+
+Topologia/Sequências
+Num conjunto "X", diz-se que um conjunto "B" de partes de "X" é uma base-de-filtro se, e somente se:
+1) Ø ∉ "B";
+2) Para "α", "β" ∈ "B", existe "γ" ∈ "B" tal que "γ" ⊆ "α" ∩ "β".
+Dados dois conjuntos "X", com um conjunto "A" de partes "X", e "Y", com um conjunto de "B" de partes de "Y", dada uma função "f": "X" → "Y", pode-se perguntar se, dado "α" ∈ "A", f("α") tem alguma relação com os elementos de "B" ou se, dado "β" ∈ "B", "f"("β") tem alguma relação com os elementos de "A". Considere-se os casos:
+1) Diz-se que "f" é "A","B"-mensurável sse, para todos os "β" ∈ "B", "f"("β") é um elemento de "A".
+2) Diz-se que "f" é "A","B"-aderente sse, para todos os "β" ∈ "B" e "α" ∈ "A", vem que f("α") intersecta "β".
+3) Diz-se que "f" é "A","B"-convergente sse, para todos os "β" ∈ "B", existe "α" ∈ "A" tal que f("α") ⊆ "β".
+4) É evidente que, se "A", "B" são bases-de-filtro, vem que "f" ser "A","B-convergente implica "f" ser "A","B-aderente.
+Sejam "X", "A"; "Y", "B" e "Z", "C" conjuntos com bases-de-filtro respectivas e "f": "X" → "Y" e "g": "Y" → "Z" funções. Então:
+1) Se "f" é aderente e "g" convergente, então "g" ○ "f" é aderente.
+2) Se "f" é convergente e "g" convergente, então "g" ○ "f" é convergente.
+Sejam "X", "A" e "Y", "B" conjuntos com bases-de-filtro. Sejam "Z" ∈ "A" e "C" = {"Z" ∩ "α" : "α" ∈ "A"}, que é uma base-de-filtro em "Z". Sejam "f": "X" → "Y" e "g": "Y" → "Z" funções. Então:
+1) "f" é "A","B"-aderente (resp. convergente) sse "f"│"Z" é "C","B"-aderente (resp. convergente).
+2) "g": "Y" → "X" é "B","A"-aderente (resp. convergente) sse "g": "Y" → "Z" é "B","C"-aderente (resp. convergente).
+

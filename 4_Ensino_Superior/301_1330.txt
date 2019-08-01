@@ -1,0 +1,51 @@
+Mecânica dos fluidos/Exercícios resolvidos/E1
+Um filme de água desce por um plano de 1 m de largura inclinado de 15° com relação à horizontal. A vazão é de 850 ml/s. Calcular a espessura do filme, considerando que a viscosidade da água é igual a 1 g.ms.
+A vazão volumétrica nesse caso é dada pela expressão
+formula_1
+formula_2
+formula_3
+
+
+Mecânica dos fluidos/Exercícios resolvidos/C9
+Um fluido viscoso flui entre duas placas paralelas separadas por uma distância H = 4 mm. A velocidade em cada ponto é dada pela equação
+formula_1
+onde v = 4 mm/s. Tinta é jogada sobre o líquido em t = 0 de maneira a formar uma cruz, com braços de comprimento L = 2 mm, e com um dos braços paralelo às placas. Calcular
+Como v tem a direção do eixo X, não haverá movimento vertical. Considerando a origem dos eixos coordenados na placa inferior, o centro geométrico do desenho é colocado em t = 0 na posição P(x(0),y,H/2). Em t = 1.5 s ele estará na posição
+formula_2
+formula_3
+Todos os pontos sobre o braço paralelo às placas sofrerão o mesmo deslocamento de 3mm. Já o ponto do braço transversal às placas localizado mais próximo à placa inferior é colocado em t = 0 na posição P(x(0),y,H/2 - L/2). Em t = 1.5 s ele estará na posição
+formula_4
+formula_5
+E o ponto do braço transversal às placas mais próximo à placa superior é colocado em t = 0 na posição P(x(0),y,H/2 + L/2). Em t = 1.5 s ele estará na posição
+formula_6
+formula_7
+O objeto, portanto, sofre uma deformação, e o ângulo entre os braços diminui de 90° para 
+formula_8
+e, além disso, um dos braços é esticado. A taxa de deformação angular será
+formula_9
+A taxa de rotação será
+formula_10
+
+
+Mecânica dos fluidos/Exercícios resolvidos/E5
+Deduzir a relação entre a velocidade média do escoamento turbulento e o valor da velocidade no centro de um duto de seção circular, usando a lei de potências. Assumir que a lei vale inclusive para os pontos bastante próximos às paredes do tubo.
+A vazão no duto será
+formula_1
+formula_2
+formula_3
+formula_4
+formula_5
+formula_6
+formula_7
+formula_8
+A velocidade média do escoamento é, portanto,
+formula_9
+formula_10
+
+
+Mecânica dos fluidos/Válvulas lineares
+Nas válvulas de comporta, o obturador, usualmente em forma de cunha, é fixado a uma haste e colocado em posição perpendicular ao escoamento, e desliza para dentro e para fora do bojo, de maneira a interromper ou liberar o fluxo. Como mencionado anteriormente, esse tipo de válvula não pode ser usado como válvula de controle, pois o obturador sofreria um desgaste muito grande se inserido apenas parcialmente no fluido em movimento.
+Essa construção é bastante simples e robusta, mas a vedação é problemática. Possui ainda a vantagem de apresentar perda nula quando totalmente aberta.
+Nas válvulas globo, o bojo é construído de forma a mudar a direção de escoamento em 90° e fazê-lo passar por um orifício circular. Em volta desse orifício é colocado um anel (ou gaxeta) de vedação. O obturador é um plug terminado em um disco, que é fixado a uma haste e se move para dentro e para fora do bojo, encaixando-se sobre o anel de vedação quando totalmente imerso. Após atravessar o orifício, o fluxo retorna à direção de escoamento original.
+Esse tipo de construção é o mais comum em uso na indústria, tanto para válvulas "on-off" quanto para válvulas de controle. Apresenta as desvantagens de grande perda de carga, alto custo, maior peso, menor capacidade de vazão e a possibilidade de vazamento pela gaxeta.
+

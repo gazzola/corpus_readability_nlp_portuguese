@@ -1,0 +1,46 @@
+Matemática elementar/Progressões
+Sequências ou progressões são funções do tipo formula_1, onde A é o conjunto dos números naturais ou um subconjunto dos números naturais consecutivos com mais de dois elementos, e B é um conjunto numérico. Sendo funções, nas sequências existe uma regra geral que permite determinar cada elemento de B a partir do elemento A, por exemplo:
+Os dois tipos de sequências matemáticas mais comuns são a progressão aritmética, que contém números tais que o anterior somado a uma razão fixa resulta no posterior, e progressões geométricas, que contém números tais que o anterior multiplicado pela razão fixa resulta no posterior.
+Exemplos:
+1) Ache tres números em P.A crescente,sabendo que a soma é 15 e o produto é 105.
+O problema pode ser resolvido assim:
+Chame de x o primeiro dos 3 números na PA e de r a razão da mesma.
+Então os termos são os seguintes:
+x, x+r, x+2r
+Como a soma deve ser igual a 15, os números x e r precisam satisfazer a equação:
+x + x+r + x+2r = 15
+ou seja,
+3x + 3r = 15
+que se reescreve como
+x + r = 5
+Logo, r = 5-x.
+Por outro lado, se o produto de tais números é 105, deve ocorrer:
+x*(x+r)*(x+2r)=105
+ou seja,
+x*(x+5-x)*(x+2(5-x))=105
+que pode ser reescrito como
+50x-5x^2=105
+As raízes dessa equação do segundo grau são
+3 e 7
+e se obtem rapidamente pela fórmula de Bhaskara.
+temos que considerar cada um dos casos:
+nessa situação, como r=5-x=5-3=2, os termos da PA são 3, 5 e 7
+deduz-se que r=5-7=-2, donde os termos são 7, 5 e 3
+Apenas o primeiro caso representa uma PA crescente, logo a resposta é 3, 5 e 7
+2) O perímetro de um triangulo retangulo mede 24 cm.Calcule as medidas dos lados sabendo que eles estão em P.A.
+Sabendo que os lados estão em PA, podemos chamá-los de x, x+r e x+2r, e supor que esta é uma PA crescente, como no problema anterior. Mas se o perímetro é 24, ou seja a soma dos lados tem esse valor, então:
+3x+3r=24
+ou seja
+x+r=8
+donde r=8-x
+Mas em todo triângulo retângulo vale o Teorema de Pitágoras, e a hipotenusa é sempre o maior lado, então:
+(x+2r)^2=(x+r)^2+(x)^2
+ou seja,
+(16-x)^2=8^2+x^2
+ou ainda,
+256 - 32x + x^2= 64 + x^2
+que é equivalente a
+32x=256-64=192
+Portanto, x=6 e consequentemente r=8-6=2.
+Assim a resposta deve ser 6, 8 e 10.
+

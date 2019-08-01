@@ -1,0 +1,53 @@
+ Calcular o volume do sólido de revolução criado pela rotação da parábola formula_48 em torno do eixo das abscissas, no intervalo formula_49. Aplicando a fórmula anteriormente vista temos:
+formula_50
+formula_51
+formula_52
+formula_53
+O volume é:
+Agora podemos definir um sólido "oco", ou seja, para que um sólido tenha uma abertura devemos delimitar uma face externa e outra interna, o que nos pede que tenhamos uma curva para cada face. Para a determinação das duas faces considere as duas funções formula_2 e formula_56 sendo que, para determinar o sólido de forma regular, estabelecemos o seguinte conjunto de regras:
+Observemos a ilustração a seguir:
+Consideremos um corte que nos permita observar uma fatia do sólido, como podemos ver o retângulo que tomamos no centro do desenho representa uma fatia de um disco "oco". Agora podemos encontrar o volume ocupado pelo sólido, no espaço delimitado pelas duas funções, considerando que as duas sofrem rotação, mantendo o eixo formula_1 como base de rotação, conforme fizemos no caso do tópico anterior com uma função, a única diferença é que temos um volume que deverá ser subtraido do outro. Segundo o mesmo raciocínio da análise anterior, verificamos que o volume de um disco de seção do sólido no intervalo formula_39
+pode ser determinada como seque:
+formula_62
+Inevitavelmente vemos a correspondência entre os dois casos, simplesmente há uma subtração de volumes, que veremos refletida no resultado final... Prosseguindo, façamos a somatória dos valores das seções dentro do intervalo formula_39 quando as parcelas diminuem infinitesimalmente:
+formula_44
+Finalmente encontramos o volume:
+formula_65
+formula_66
+Calcular o volume do sólido gerado pela rotação das curvas formula_67 e formula_68 em relação ao eixo das abscissas, considerando o intervalo entre formula_69 e o ponto de encontro das duas curvas. Antes de tudo vamos encontrar o ponto de encontro das curvas, ou seja:
+formula_70
+formula_71
+As curvas se encontram quando:
+formula_72
+Devemos encontrar o volume entre as duas curvas no intervalo formula_73:
+formula_74
+formula_75
+formula_76
+formula_77
+Que nos fornece um volume aproximado de:
+Agora imaginemos um sólido cujo eixo se encontra nas ordenadas, ou seja, para cada ponto da 
+função teremos uma circunferência, se traçarmos uma reta até o eixo das abscissas para cada 
+ponto teremos cilindros concêntricos ao eixo das ordenadas. Para definir o volume do cilindro consideremos:
+O volume de um pequeno segmento do cilindro é:
+formula_87
+Somamos todos os segmentos para encontrar o volume total:
+formula_88
+Se levarmos os subintervalos entre os valores de formula_1 a números cada vez 
+menores teremos:
+formula_90
+ou seja:
+formula_91
+Como podemos fazer:
+formula_92
+Concluimos que:
+formula_93
+formula_94
+Encontrar o volume do sólido gerado pela rotação da curva formula_95, cujo eixo de revolução é o eixo das ordenadas, no intervalo formula_96 das abscissas:
+Da fórmula do cálculo temos:
+formula_97
+Podemos usar a integração por partes e chegar a:
+formula_98
+formula_99
+formula_100
+Temos um volume aproximado de:
+Os métodos anteriormente utilizados para o cálculo de volumes podem ser englobados em um conceito geral, no qual podemos fazer a soma de pequenos segmentos de um sólido encontrando o volume total, uma forma de fazer isso é utilizar o secionamento de forma a relacionar a área de cada seção à variável independente, ou seja, se temos seções trasversais perpendiculares ao eixo da variável independente e podemos relacionar a área de cada "lâmina" ao valor da variável, temos um meio de integrar todas as lâminas e encontrar o volume do sólido com uma somatória das mesmas.

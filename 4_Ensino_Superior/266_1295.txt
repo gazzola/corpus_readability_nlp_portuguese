@@ -1,0 +1,26 @@
+Logística/Localização/Introdução
+Os problemas de localização de instalações pretendem servir e suprir as necessidades da população de uma dada área geográfica.
+O objectivo principal, ao resolver problemas de localização, é encontrar o número de instalações e as suas localizações de forma a satisfazer as necessidades de um conjunto de clientes, com o mais baixo custo possível.
+A escolha da localização das instalações deve ser feita de forma a optimizar uma função objectivo, respeitando todas restrições do problema proposto (Galvão, 1981, p. 5).
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de movimentação de materiais/Transportadores/Sorting Conveyor
+Os sistemas de transporte por triagem são utilizados para desviar um determinado produto de uma linha de transporte para outra. Utilizando controlos e transportadores múltiplos de triagem o produto pode ser classificado e desviado para o seu transporte adequado.
+Este sistema é projectado para permitir uma separação mais fácil e adequada dos produtos. Os recursos para a separação podem incluir calhas, curvas e rampas.
+Usualmente o produto é transportado em ripas ou rolos, maioritariamente feitas em alumínio, ao longo de um trajecto ou pista horizontal em que é instalado num local pré-definido uma calha ou sistema que permita seleccionar e desviar o produto requerido para outra linha de transporte ou armazenagem.
+Este desvio pode ser controlado por foto células, leitor de códigos, controladores PLC ou outros métodos de controlo estabelecidos.
+O sistema de triagem apresenta também a opção de velocidade variável de transporte, permitindo assim, com base nas especificações do produto, mais tempo para a auditoria, inspecção e classificação do produto que se queira desviar. Esta variação da velocidade permite um método rápido e fácil de ajustamento da taxa de alimentação para uma ampla variedade de produtos diferentes. 
+
+
+Logística/Gestão de existências/Introdução/Tipos de existências
+Segundo Tersine (1988, p. 4), as existências podem ser de:
+Os materiais de consumo corrente são consumidos durante o funcionamento normal de uma organização, embora não fazendo parte do produto final. Dos consumíveis típicos destacam-se lápis, papéis, lâmpadas, tinteiros para impressoras e artigos para a manutenção das instalações. Os materiais de consumo corrente nas fábricas são denominados "MRO", de manutenção, reparação e operação. 
+De acordo com SENAC.DN (1998, p. 10), as matérias-primas são materiais necessários para a fabricação dos produtos onde são incorporados. 
+Produtos em vias de fabrico são materiais que ainda se encontram na fase de produção, enquanto que produtos acabados são aqueles que já adquiriram a sua forma final, mas ainda não foram vendidos. Os tipos de materiais a serem mantidos em "stock" são muito diferentes, pois cada actividade produtiva tem necessidades específicas.
+
+
+Logística/Manutenção de instalações/Preparação para emergências
+Tipicamente uma emergência pode ser classificada como: 
+A lista de causas de emergência pode tornar-se muito extensa no entanto o mais importante a reter é o facto que uma emergência pode ocorrer muito rapidamente e sem aviso.Acidentes podem causar interrupções temporárias ou permanentes em parte das instalações ou até mesmo em toda a sua totalidade, deste modo, é importante que a preparação para emergências de uma empresa inclua um plano dinâmico, eficaz e sobretudo eficiente.
+A preparação para emergências é um processo que requer a compreensão do meio envolvente, uma pesquisa intensiva e contínua e sobretudo treino na área da emergência, esta preparação envolve planeamento e preparação de esforços colectivos por parte de toda a empresa e indivíduos que nela trabalham todos os dias ou pelos a frequentam parcialmente.(Lewis, Bernard T. et al.)
+

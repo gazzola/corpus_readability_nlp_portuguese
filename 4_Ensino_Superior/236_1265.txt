@@ -1,0 +1,19 @@
+Logística/Movimentação de materiais/Listas de verificação
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de identificação e comunicação automática/Comunicação automática, sem papel/Light e computer aids
+A utilização de light" e "computer aids (ver Figura 1 e Figura 2), tem como objectivo reduzir o tempo de procura, recolha e documentação, de preparação e selecção de pedidos, aumentando, assim, a eficiência do processo (Tompkins et al., 1996, p. 266). O tempo de procura é reduzido através da iluminação automática de um "display", instalado no local de armazenagem ou de recolha de materiais. O tempo de recolha é reduzido através da exibição da quantidade de material necessária, no "display". O tempo de documentação é reduzido, quando o operador pressiona num botão, situado no mesmo local, informando o computador que o pedido foi concluído. O resultado deste sistema automatizado, reflecte-se na eficiência da selecção e preparação de pedidos, tendo o sistema uma taxa de 600 pedidos, por hora laboral. Os "displays" pode ser integrados em equipamentos como; "bin-shelving", "flow rack" e "carousel systems".
+Estes sistemas dispõem, também, de um ecrã instalado em cada estação de armazenamento, onde é projectada a configuração do contentor de armazenamento. No compartimento onde o pedido deve ser processado, o "display" é iluminado e exibe a quantidade de material que deve ser processada. Estes sistemas também são utilizados em pequenos sistema de recuperação e armazenamento automatizado. 
+O objectivo dos "light" e "computer aids" é planear a selecção e preparação de pedidos. Contudo, pressupõe-se um desafio para os operadores: com a utilização destes sistemas, o trabalho torna-se muito mais simples e espontâneo, logo, mais aborrecido e até aviltante para muitos operadores.
+
+
+Logística/Gestão de existências/Avaliação e medição de existências
+As existências são constituídas por características físicas objectivas, fluxos de bens, e financeiras, fluxos de capital, onde a vertente é mais subjectiva. Estes atributos são normalmente analisados separadamente de outras questões no interior da organização. A vertente financeira da gestão de existências está ligada à necessidade de medir o desempenho operacional num determinado período de tempo, juntamente com a análise da posição financeira da organização. Os procedimentos contabilísticos para os "stocks" dividem-se no método da avaliação e no método fluxo de existências (Tersine, 1988, p. 447).
+
+
+Logística/Gestão de armazéns/Configuração discreta de armazéns/Armazenagem aleatória vs. dedicada
+A armazenagem aleatória mesmo apresentando mais dificuldades em se determinar as necessidades de armazenagem, necessita de menos espaço que a armazenagem dedicada.
+Mas a armazenagem dedica permite ter um bom sistema de localização para manter o controlo da localização dos produtos, sabendo-se a localização fixa ou permanente dos produtos.
+No entanto, talvez uma razão mais convincente tem a ver com os tempos de viagem necessários para armazenar e reaver os produtos de acordo com os dos dois sistemas de armazenagem.
+Com a armazenagem dedicada, os produtos com muita procura ficam localizados nas melhores posições, enquanto que aos produtos com pouca procura são atribuídas piores posições. Com a armazenagem aleatória uma melhor posição pode não estar disponível quando um produto com muita procura chega para ser armazenado, sendo colocado numa pior posição. Da mesma forma, quando chega um produto com pouca procura, se uma melhor posição está disponível, será utilizada pelo produto com menos procura. Assim, espera-se que os tempos de viagem resultantes da armazenagem aleatória sejam maiores do que os resultantes da armazenagem dedicada (Francis et al., 1992, p. 278-279). 
+

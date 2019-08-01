@@ -1,0 +1,43 @@
+Otimização/Operador de projeção
+Seja formula_1 um conjunto convexo e fechado.
+Sejam formula_1 um conjunto convexo e fechado, e formula_5 um função diferenciável no ponto formula_6. formula_7
+
+
+Otimização/Situação inicial
+Embora se possa trabalhar com mínimos e máximos, ao longo dos próximos capítulos só trabalharemos com mínimos, pois achar o máximo de uma função formula_1 é equivalente a achar o mínimo da função formula_2 
+Sejam formula_3 e formula_4 Para encontrarmos o mínimo global, devemos encontrar o formula_5
+Seja formula_3 e formula_4 Para encontrarmos o máximo global, devemos encontrar o formula_8
+Seja formula_3 e formula_4 Para encontrarmos o mínimo local, devemos encontrar o formula_11
+Seja formula_3 e formula_4 Para encontrarmos o máximo local, devemos encontrar o formula_14
+Seja formula_15 tais que formula_16 
+Mostrar que formula_17 
+Afirmação: formula_18 e formula_19
+Prova1: Tome formula_20 
+Prova2: Suponha por contradição que formula_21 Mas formula_22 Logo formula_23 Contradição! A contradição foi supor que formula_24 
+Portanto, formula_17
+Seja formula_15 tais que formula_27 Seja formula_28 
+Mostrar que formula_29 
+Suponha por contradição que formula_30 tal que formula_31 Por formula_32 Logo formula_33 Contradição! A contradição foi supor que formula_30 tal que formula_31 Portanto formula_29
+
+
+Otimização/Operador de projeção
+Seja formula_1 um conjunto convexo e fechado.
+Sejam formula_1 um conjunto convexo e fechado, e formula_5 um função diferenciável no ponto formula_6. formula_7
+
+
+Otimização/Situação inicial
+Embora se possa trabalhar com mínimos e máximos, ao longo dos próximos capítulos só trabalharemos com mínimos, pois achar o máximo de uma função formula_1 é equivalente a achar o mínimo da função formula_2 
+Sejam formula_3 e formula_4 Para encontrarmos o mínimo global, devemos encontrar o formula_5
+Seja formula_3 e formula_4 Para encontrarmos o máximo global, devemos encontrar o formula_8
+Seja formula_3 e formula_4 Para encontrarmos o mínimo local, devemos encontrar o formula_11
+Seja formula_3 e formula_4 Para encontrarmos o máximo local, devemos encontrar o formula_14
+Seja formula_15 tais que formula_16 
+Mostrar que formula_17 
+Afirmação: formula_18 e formula_19
+Prova1: Tome formula_20 
+Prova2: Suponha por contradição que formula_21 Mas formula_22 Logo formula_23 Contradição! A contradição foi supor que formula_24 
+Portanto, formula_17
+Seja formula_15 tais que formula_27 Seja formula_28 
+Mostrar que formula_29 
+Suponha por contradição que formula_30 tal que formula_31 Por formula_32 Logo formula_33 Contradição! A contradição foi supor que formula_30 tal que formula_31 Portanto formula_29
+

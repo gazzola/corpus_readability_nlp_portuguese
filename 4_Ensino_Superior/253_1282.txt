@@ -1,0 +1,19 @@
+Logística/Localização/Localização em redes
+
+
+Logística/Sistemas de distribuição/Escala de veículos
+O problema de escala de veículos (PEV), "vehicle routing problem" (VRP), consiste na determinação do conjunto óptimo de rotas a serem percorridas por uma frota de veículos para servirem um dado número de clientes. O VRP é um dos problemas de optimização combinatória mais importantes e mais estudados (Toth et al., 2002a, p. xvii).
+O VRP foi formulado pela primeira vez, em 1959, por Dantzig e Ramser, quando analisaram a optimização das rotas de distribuição de gasolina aos posto de venda e formularam o primeiro modelo de programação matemática e abordagem algorítmica. Alguns anos mais tarde, em 1964, Clarke e Wright propuseram uma heurística que melhorou a abordagem de Dantzig e Ramser. A estes dois trabalhos iniciais seguiram-se muitos outros modelos e algoritmos para obter soluções óptimas e aproximadas de várias versões do VRP que deram origem a diferentes programas para resolução de casos reais. O interesse deste problema resulta da sua aplicação prática e considerável dificuldade.
+Nas últimas décadas do século XX assistiu-se a um aumento no uso de programas de optimização baseados em técnicas de investigação operacional e programação matemática, para uma gestão correcta de sistemas de distribuição (Toth et al., 2002b, p. 1).
+O VRP é um problema de programação inteira pertencente à classe de problemas NP-Difícil, "NP-Hard", o que significa que o esforço computacional para resolver o problema aumenta exponencialmente com o tamanho do problema. Para encontrar rapidamente soluções adequadas ao fim a que se destinam, é muitas vezes preferível obterem-se soluções aproximadas. Nos casos reais o VRP apresenta, geralmente, restrições adicionais. Algumas das mais importantes são (Dorronsoro, 2007a).
+
+
+Logística/Planeamento e projecto de instalações/Automated Layout Design Program (ALDEP)
+O "Automated Layout Design Program" ou ALDEP desenvolvido na , em 1967, por Seehof e Evans, é principalmente um algoritmo de construção. Os dados básicos de entrada são os mesmos do CORELAP ("Computerized Relationship Layout Planning"). Ambos seleccionam da mesma forma a primeira actividade a entrar no "layout", mas o ALDEP resolve os empates aleatoriamente aleatoriamente. Assim, o CORELAP procura uma solução óptima enquanto o ALDEP mostra as várias possibilidades e deixa o utilizador escolher a que mais lhe convém (Hiregoudar et al., 2007, p. 93-95).
+
+
+Logística/Sistemas de informação/Processamento de encomendas/Preparação da encomenda
+Da preparação da encomenda fazem parte todas as actividades relacionadas com a recolha de informações acerca dos produtos e serviços pretendidos e com a sua requisição formal para que sejam adquiridos. O preenchimento de formulários, a determinação da disponibilidade de existências e a transmissão da encomenda a um encarregado de vendas podem também fazer parte da preparação da encomenda. Com o desenvolvimento da tecnologia, estas actividades passaram a estar muito facilitadas.
+Existem várias ferramentas que são uma grande ajuda, tais como: o código de barras, que nos dá a descrição dos produtos pretendidos, incluindo o tamanho e quantidade; os páginas Web dos fornecedores com informação acerca dos seus produtos ou até a possibilidade de fazer as encomendas "online"; ou os computadores das empresas, que através da troca electrónica de dados, geram encomendas directamente, evitando as faltas de existências.
+Estas tecnologias vão, aos poucos, eliminando várias tarefas, que anteriormente tinham de ser feitas manualmente, tornando o tempo de preparação da encomenda mais curto e reduzindo, assim, o tempo de ciclo da encomenda do cliente (Ballou, 2006, p. 122-123).
+

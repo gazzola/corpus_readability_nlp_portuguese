@@ -1,0 +1,33 @@
+ A profundidade do centro geométrico da placa é
+formula_27
+e a pressão nessa profundidade é
+formula_28
+que daria origem, se aplicada uniformemente a toda a placa, a uma força
+formula_29
+que também é igual à força resultante sobre a placa calculada acima. Assim, podemos escrever que a força resultante sobre a placa submersa, qualquer que seja o seu formato, é igual à força que apareceria se ela estivesse mergulhada na posição horizontal na profundidade em que se encontra o seu centro geométrico. Quanto ao torque, podemos lançar mão do "teorema dos eixos paralelos" (ou "teorema de Steiner") e substituir
+formula_30
+onde formula_31 é o segundo momento da área (ou momento de inércia da placa) com relação a um eixo que passa pela posição formula_32
+formula_33
+formula_34
+formula_35
+formula_36
+No caso de uma placa retangular, não haverá torque na direção horizontal, devido à simetria formula_37. Para uma placa de formato qualquer, é preciso calculá-lo de acordo com as mesmas fórmulas. Os 6 valores F, F, F, h, z e y descrevem completamente a força aplicada à superficie. No caso de uma placa curva, não temos mais os infinitesimais dF apontando todos para a mesma direção. O cálculo se torna mais complexo, porque é preciso integrar separadamente as componentes vertical e horizontal dF e dF:
+formula_38
+formula_39
+onde dA e dA são, respectivamente, as projeções do elemento de área dA na direção horizontal e vertical. No caso de F, a fórmula deixa claro que a superfície curva A pode ser substituída pela sua projeção na vertical A, sem que o cálculo seja afetado. Assim, podemos usar a fórmula geral
+formula_40
+Quanto a F, pode-se usar o mesmo método ou desenvolver-se a expressão
+formula_41
+onde V_s é o volume de fluido total que se encontra sobre a placa. O torque na direção horizontal pode ser calculado a partir da força F como se a placa fosse plana. A direção x deve ser escolhida de forma a coincidir com o eixo vertical e a direção z, com a horizontal. formula_42
+formula_43
+Para calcular formula_44, deve-se encontrar a coordenada horizontal do centro de massa do volume de fluido sobre a placa. Vale ressaltar que o método usado para o cálculo de F é totalmente geral e pode ser usado qualquer que seja a direção desejada. Dependendo da posição da placa, pode ser conveniente escolher uma direção de análise que não coincida com a horizontal ou a vertical. Se a placa for plana e retangular, de dimensões L x W, espessura desprezível, estiver imersa a uma profundidade D e a face fizer um ângulo Θ com esta, como na seção anterior
+formula_45
+formula_46
+que é a componente horizontal da força F calculada na seção anterior. formula_47
+que é a componente vertical da força F calculada na seção anterior. formula_48
+formula_49
+formula_50
+que é o mesmo valor calculado na seção anterior, apenas multiplicado por formula_51, devido à mudança de orientação do eixo x, de paralelo à face da placa para a vertical. Na direção horizontal, podemos escrever formula_52 e calcular
+formula_53
+formula_54
+que é o mesmo valor calculado na seção anterior. O método apresentado nesta seção é bastante genérico e serve para calcular a pressão sobre uma superfície qualquer, bastando dividi-la em um número apropriado n de superfícies (S, S, etc.) de forma que o cálculo se torne fácil.

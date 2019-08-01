@@ -1,0 +1,14 @@
+ Talvez o exemplo mais famoso seja o da seqüência de Fibonacci. A soma de uma seqüência é chamada de série matemática. Por exemplo:
+Notações:
+OBS. : Utilizaremos mais a notação 4
+OBS. : Estudaremos apenas seqüências que obedecem a uma lei de formação
+As sequências evoluem, dependendo do seu número sequencial formula_24, de diversas formas. Esta evolução pode ser classificada quando a equação da sequência é conhecida. Podemos, nestes casos, verificar se a evolução da fórmula leva a números em ordem crescente ou decrescente em um intervalo ou durante sua evolução completa, do primeiro elemento ao infinito. Uma sequência é classificada como crescente quando, para cada formula_24, temos formula_26 e decrescente quando formula_27. Este comportamento pode ser encontrado em um trecho em particular da evolução, delimitado por dois valores de formula_24, ou em toda a evolução. Sob este contexto, uma sequência crescente ou decrescente pode ser chamada de monotônica quando apresenta apenas um dos comportamentos. Vamos analisar a evolução da sequência: formula_29
+formula_30
+formula_31
+formula_32
+formula_33
+formula_34
+ou seja, temos:
+formula_35
+Portanto, a sequência aparentemente indefinível algebricamente por uma expressão em função do índice, se mostra redutível a uma equação. Estas séries redutíveis a equações nos fornecem informações muito úteis, nos permitindo encontrar relações e regras que podemos usar na síntese de equações. Temos sequências que se aproximam de valores quando formula_24 tende a aumentar indefinidamente, ou seja, quando o valor desta variável tende a infinito. Este comportamento é similar ao encontrado quando analisamos funções que tendem a valores quando levadas ao infinito. A única diferença entre funções e sequências, quando analisadas sob este aspecto, é o fato das sequências exigirem valores inteiros das variáveis, enquanto que funções admitem valores reais para as mesmas. Uma vez que temos a evolução de valores de sequências similares a valores de funções, é plausível concluir que limites em valores estritamente limitados a números inteiros possam levar a análise de limites de forma semelhante. Então vejamos como esta análise pode ser conduzida:
+Conforme fizemos o estudo de limites no infinito no Volume 1, temos formula_37 como um número tomado sob a abscissa inteira, ou seja, um número inteiro.

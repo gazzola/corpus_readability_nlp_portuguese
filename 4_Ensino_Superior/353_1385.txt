@@ -1,0 +1,30 @@
+ Cálculo (Volume 1)/Análise de funções elementares (1)
+O estudo das funções deste capítulo refere-se às funções não puramente algébricas, relacionadas a números transcendentais, algumas das quais já conhecemos da matemática elementar, porém é necessário um aprofundamento do tema para o ambiente acadêmico, onde temos que lidar com análises mais detalhadas e complexas. A integral da função algébrica formula_1 traz uma indefinição quando formula_2:
+formula_3
+A existência desta indefinição nos leva a uma questão: Qual o procedimento para integrar a função: formula_4? A resposta é dada na análise numérica, calculando a integral pelos métodos de análise algébrica podemos chegar a seguinte conclusão:
+A função ln é chamada de logaritmo natural, a sua base é chamada de número de Euler, ele é um logarítmo conseqüente do cálculo da área sob a curva da função formula_6, que pode ser obtido numericamente usando a integral de Riemann e outras técnicas de cálculo numérico. Aproximações deste número são possíveis utilizando-se técnicas de aproximações sucessivas com o uso de séries, discutidas em Cálculo (Volume 3). Todos os teoremas para logaritmos, que estão incluidos nos cursos de nível médio, podem ser obtidos a partir da análise do logaritmo natural, também chamado de logaritmo Neperiano. Vejamos os principais teoremas para os logaritmos:
+Nas citações abaixo, consideremos formula_7,
+formula_8
+Comprovação:
+Da definição:
+formula_9
+formula_10
+fazendo formula_11 e quando formula_12:
+formula_13
+formula_14
+O que comprova o teorema. formula_15
+Comprovação:
+Sendo formula_16:
+formula_17
+formula_18
+logo:
+formula_19
+formula_20
+Comprovação:
+Sendo: 
+formula_21 -> b vezes, que é:
+formula_22 -> b vezes, resultando:
+formula_23
+Da definição do logarítmo natural e a partir do teorema fundamental do cálculo, podemos deduzir a derivada da função logarítmica natural, ou seja, se formula_24 que é a integral definida de formula_25, então a derivada é:
+formula_26
+Para integração de funções logarítmicas, veja o capítulo de técnicas de integração, para uma completa abordagem do tema. A função formula_27 é chamada de função exponencial na base "a", todas as funções exponenciais são introduzidas a partir da definição do logaritmo natural "ln x" como sua função inversa.

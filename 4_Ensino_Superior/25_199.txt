@@ -1,0 +1,30 @@
+Análise real/Derivadas
+Estamos agora prontos para definir a derivada de uma função.
+Seja formula_1, e seja formula_2. Dizemos que formula_3 é diferenciável em formula_4 se, e somente se, existir formula_5 tal que
+formula_7 é dita a derivada de formula_8 em formula_9 e é denotada por formula_10.
+A função é dita diferenciável no conjunto formula_11 se a derivada existir para cada formula_12. A função é diferenciável se ela é diferenciável em todo o seu domínio.
+Conceitualmente, encontrar a derivada em um ponto significa encontrar a inclinação da reta tangente ao gráfico da função naquele ponto. Assim, a derivada pode ser considerada como uma aproximação linear ou de primeira ordem.
+Algumas propriedades das derivadas seguem imediatamente a partir da definição: 
+Se f e g são diferenciáveis, então: 
+Se formula_8 é diferenciável em formula_20, então ela é contínua em formula_20.
+Uma vez que formula_8 é diferenciável em formula_20, formula_24.
+Então formula_25
+Assim, formula_26, então f é contínua em x. 
+Se formula_8 e formula_28 são diferenciáveis, então formula_29.
+formula_30
+O próximo teorema é um pouco mais complicado para provar do que parece. Nós gostaríamos de usar o seguinte argumento: 
+formula_36
+O problema é que formula_40 pode ser zero em pontos arbitrariamente próximos de x, e, por conseguinte, formula_41 não seria contínua nesses pontos. Assim aplicamos um lema inteligente como se segue:
+Seja formula_1. Dizemos que formula_3 é diferenciável em formula_44 se, e somente se, existe uma função contínua formula_45 que satisfaz 
+É fácil ver que formula_52 é contínua e preenche a condição exigida.
+Como formula_57 é contínua, formula_58, ou seja, 
+Seja formula_62 diferenciável em formula_63 e seja formula_1 diferenciável em formula_65. Então
+O lema de Caratheodory implica que existem funções contínuas formula_69 tais que
+Agora, considere a função formula_72. Obviamente, formula_73 é contínua. Além disso, ela satisfaz
+Assim, pelo Lema de Caratheodory, formula_66 é diferenciável em formula_44 e vale formula_77.
+Considere formula_78 definida por formula_79. Qual é a derivada de formula_80 em formula_81? 
+formula_82
+Assim, aqui vemos que formula_84. Uma vez que formula_81 foi um ponto arbitrariamente escolhido, concluímos que formula_86.
+Similarmente a fórmula da derivada também pode ser encontrada.
+Uma vez que os teoremas anteriores garantem que soma, bem como o produto, de funções diferenciáveis é resulta em uma função diferenciável, segue que as funções polinomiais são diferenciáveis.
+

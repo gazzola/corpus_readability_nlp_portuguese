@@ -1,0 +1,12 @@
+Mecânica dos fluidos/O tubo de Pitot
+A partir da equação de Bernoulli, podemos escrever
+formula_1
+Fazendo z = z e v = 0,
+formula_2
+p é a pressão nos pontos onde a velocidade do fluido é nula. Essa pressão é chamada de pressão de estagnação do fluxo. O termo formula_3 é chamado de pressão dinâmica do fluxo. A pressão termodinâmica (p) é também chamada de pressão estática nesse caso.
+Para ilustração dos conceitos, suponhamos que uma pessoa coloca a palma da mão contra o vento, p, a pressão estática, equivale à pressão atmosférica; a pressão no centro da palma é a pressão de estagnação formula_4 nesse caso. A pressão sentida pela pessoa na palma da mão é a pressão dinâmica, pois nas costas da mão atua a pressão atmosférica em sentido contrário (- p).
+A velocidade do fluxo pode ser obtida a partir das pressões
+formula_5
+O tubo de Pitot é um dispositivo que mede ao mesmo tempo a pressão estática p e a pressão de estagnação p, de forma a permitir o cálculo da velocidade do fluxo. Ele combina duas sondas, como mostra o diagrama abaixo. A pressão de estagnação é medida no ponto 2 (na ilustração, por meio da elevação de uma coluna de água). A pressão estática é medida por meio de furos na superfície exterior do tubo (não mostrados no diagrama). Assume-se que a pressão estática p não varie ao longo do instrumento. Os pontos 1 e 2 devem ficar distantes o suficiente para que o tubo não perturbe demais o fluxo. É importante lembrar que as linhas de corrente precisam ser linhas retas para que não haja alterações em p ao longo do fluxo.
+Por ser baseado na equação de Bernoulli, o tubo de Pitot só funciona com fluidos incompressíveis e com viscosidade nula. No entanto, a velocidades baixas (Mach < 0,3 ≈ 100 m/s ≈ 360 km/h), o ar rarefeito a elevadas altitudes pode ser aproximado por esse modelo. Assim, o tubo de Pitot é muito usado para medir a velocidade de aviões.
+

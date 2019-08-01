@@ -1,0 +1,13 @@
+Introdução à física/Estática
+A estática é a parte da física que estuda sistemas sob ação de forças que se equilibram. 
+De acordo com a segunda lei de Newton, a aceleração destes sistemas é nula. 
+De acordo com a primeira lei de Newton, todas as partes de um sistema em equilíbrio também estão em equilíbrio. Este fato permite determinar as forças internas de um corpo a partir do valor das forças externas. 
+De acordo com a terceira lei de Newton, as forças entre dois corpos tem mesmo módulo e direções contrárias. Este fato permite isolar partes do sistema, e verificar as forças internas do sistema, tratando-as como forças entre dois corpos.
+Na figura acima, temos um livro de massa "m" colocado sobre uma mesa.
+Como estamos na Terra, a gravidade está atraindo este livro, então sobre ele existe uma força de módulo "mg" apontando para baixo.
+Para este corpo estar em equilíbrio, precisamos que a soma (vetorial) de todas as forças sobre ele sejam zero. Assim, é necessário que a "mesa" exerça sobre ele outra força, igual em módulo mas de sentido contrário, ou seja, a força "F".
+Finalmente, pela terceira Lei de Newton, o livro exerce sobre a mesa a força "F'", igual (vetorialmente) ao seu peso "mg". A análise terminou aqui, mas, se fôssemos analisar o equilíbrio da mesa, seria necessário entrar com seu peso, e com a força que o solo exerce sobre ela.
+Na figura acima, temos um corpo colocado em um plano inclinado. Naturalmente, temos duas forças sendo exercidas sobre ele:
+Pela primeira Lei de Newton, para este corpo estar em repouso é necessário que a soma (vetorial) das forças seja zero. Assim, é necessário invocar uma terceira força, "F", representada como uma seta para cima e para a direita (do observador).
+Esta força não surge do nada: ela é chamada de "força de atrito", e também é uma força exercida pelo plano inclinado sobre o corpo.
+

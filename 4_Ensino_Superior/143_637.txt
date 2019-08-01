@@ -1,0 +1,50 @@
+Mecânica dos fluidos/Equações básicas da estática dos fluidos
+Um fluido pode ser considerado estático quando não está sujeito a nenhuma força de cisalhamento; isso acontece em duas situações:
+Nesse caso, as únicas forças a serem consideradas são a pressão externa P aplicada e o peso do próprio líquido. A análise usa geralmente o enfoque Lagrangeano. Os eixos coordenados são escolhidos de modo que o fluido esteja estacionário em relação a eles, e o eixo Z seja vertical e orientado para cima. Deformações nos elementos de volume podem ser desprezadas. 
+A equação básica da estática dos fluidos é a lei de Stevin
+formula_1
+Ela deve ser integrada e condições de contorno aplicadas de forma a obter-se o "campo de pressões" no fluido. Por convenção, a pressão formula_2 é positiva quando orientada na direção do elemento de volume (ou seja, representando uma força de compressão).
+Em um fluido incompressível, formula_3 é constante. Considerando a gravidade constante, a integração da equação resulta em
+formula_4
+formula_4
+onde formula_6 é a pressão em formula_7.
+Nas aplicações práticas, quando se trata de um líquido, fazem-se três escolhas de forma a simplificar os cálculos:
+Dessa forma, para evitar confusões, a variável z é substituída pela variável h. A expressão básica se torna então:
+formula_9
+Em problemas envolvendo circuitos de tubulações, com trechos de profundidade h preenchidos por líquidos diversos de densidade formula_10, a pressão pode ser calculada através da equação
+formula_11
+Para esse tipo de fluido, formula_3 não pode ser considerado constante. Antes de integrar a a equação básica é preciso, portanto, expressar como a densidade varia. Para os gases, um dos meios usado é a equação de estado, geralmente a equação de estado do gás ideal
+formula_13
+O uso de equaçãoes de estado requer a introdução de uma nova variável no problema, geralmente a temperatura. Ou seja, é preciso expressar T em função de outra variável (pressão, profundidade, altitude, etc.)
+No caso especial de problemas que envolvem a atmosfera terrestre, quatro enfoques diferentes são comumente usados:
+Então
+formula_15
+formula_16
+formula_17
+formula_18
+formula_19
+formula_20
+A temperatura é dada então por
+formula_21
+formula_22
+Então
+formula_24
+formula_25
+formula_26
+Então
+formula_28
+formula_29
+formula_30
+formula_31
+formula_32
+formula_33
+Observe-se que, quando formula_34, cairemos no caso da densidade constante, analisado anteriormente.
+Essa hipótese é razoável, uma vez que o ar é um mau condutor de calor. Assim, quando um elemento de volume sofre convecção, movendo-se para cima, expandindo-se, resfriando-se, movendo-se para baixo, contraindo-se, aquecendo-se e movendo-se para cima novamente, ele permanece o tempo todo em equilíbrio termodinâmico. O processo é, então, reversível, e pode-se aplicar a relação termodinâmica da dilatação adiabática do gás ideal
+formula_36
+Assim:
+formula_37
+formula_38
+formula_39
+formula_40
+formula_41
+

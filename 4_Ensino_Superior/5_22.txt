@@ -1,0 +1,12 @@
+Curso de termodinâmica/Variação de entropia durante processos irreversíveis
+Com exceção das reações no equilíbrio, as reações químicas são , em geral, processos irreversíveis. Como se calcula a variação de entropia de uma reação? Não podemos utilizar, como em termoquímica, as reações de formação padrões, visto que, no contrário de formula_1, não podemos medir diretamente formula_2 para nenhuma reação química (formula_2 é diferente de formula_4). Utilizaremos a entropia absoluta dos corpos puros à temperatura considerada, S:
+Calculamos S por meio das entalpias associadas às transições de fases e das capacidades caloríficas em função da temperatura. Para um gás, por exemplo:
+formula_5
+onde S é a entropia do corpo a T = 0K. Poderíamos então determinar a entropia de um composto a qualquer temperatura se podermos estimar a sua entropia a 0K.
+Entropia dos corpos puros a 0 k. Terceira lei da termodinâmica
+É possível, por meio das capacidades caloríficas dos reagentes e dos produtos de extrapolar a baixa temperatura as entropias de numerosas reações químicas ou transições de fase. Na maioria dos casos, a extrapolação a 0 K fornece valores muito pequenos, próximos de zero. Este indica que, no zero absoluto, as entropias dos reagentes e dos produtos são iguais. Em outros termos, a maioria dos corpos puros tem , a 0 K , a mesma entropia formula_6. A entropia é uma medição da desordem molecular. Estes corpos puros não podem ter a 0 K o mesmo grau de ordem sendo quimicamente diferente a menos de ser perfeitamente ordenados e então possuir todos uma entropia nula (em efeito, num sistema perfeitamente ordenado, existe só uma maneira de distribuir as moléculas). Este resultado constitui a terceira lei da termodinâmica:
+formula_7 a oK
+De uma maneira parecida que para S, podemos expressar a entalpia absoluta de um corpo puro, H, por:
+formula_8
+Porém H não é nulo e depende do corpo considerado. Para algumas aplicações, necessitaremos dos valores de (H - H), que se acham em tabelas.
+

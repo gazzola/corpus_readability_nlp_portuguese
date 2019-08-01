@@ -1,0 +1,14 @@
+Introdução à Biologia/Biologia Humana/Sistema endócrino
+O sistema endócrino compreende os órgãos que secretam um tipo especial de substâncias, os hormônios. 
+Os hormônios são mensageiros químicos secretados no sangue por células endócrinas ou por neurônios especializados, que levam informações aos órgãos alvo distantes.
+A maioria dos hormônios é lançada diretamente no sangue, onde circulam através do corpo em concentrações muito baixas. Alguns hormônios trafegam intactos pela corrente sangüínea. Outros já precisam de uma substância portadora, como uma molécula de proteína, para se manterem dissolvidos no sangue. 
+Os hormônios trafegam pelo sangue até atingirem seus tecidos-alvos, onde eles ativam uma série de alterações químicas. Para atingir um pretendido resultado, um hormônio precisa ser reconhecido por uma proteína especializada nas células do tecido-alvo, chamada de "receptor".
+O hipotálamo é o órgão responsável pelo controle e estimulação hormonal. Ele envia estímulos à hipófise, É dividido em duas regiões: a adenohipófise, no lobo anterior, e a neurohipófise, no lobo posterior.
+Os sinais de controle (estímulos) vêm do hipotálamo via neurônios, que estimulam as células das regiões a liberar os hormônios. 
+Na região da adenohipófise, os hormônios são liberados num conjunto de vasos denominados sistema porta hipotalâmico-hipofisário, que os leva do hipotálamo a AH. 
+Na neurohipófise os hormônios são liberados diretamente na NH por neurônios que têm seu corpo celular no hipotálamo. 
+O pâncreas é uma glândula mista ou anfícrina, ou seja, p"ossui uma parte endócrina e uma parte exócrina". O pâncreas, secreta enzimas digestivas ao duodeno e hormônios à corrente sangüínea.
+A parte exócrina secreta suco pancreático, e a parte endócrina é representada por um conjunto de células de vital importância para a liberação hormonal, as Ilhotas de Lagerhans.
+Essas ilhotas possuem 2 tipos de células, as célula alfa e as células beta, que secretam importantes hormônios, o glucagon e a insulina, respectivamente, que agem como importantes reguladores do metabolismo de açúcar. Estes dois hormônios possuem efeitos antagônicos, ou seja, atividade fisiológica inversa.
+Enquanto a insulina tem sua atuação voltada para a absorção de glicose pelas células do fígado, músculos esqueléticos e tecido adiposo, diminuindo sua concentração devido à retirada de glicose do sangue, o glucagon, com atividade estimulante oposta, faz aumentar o teor de glicose na corrente sangüínea, a partir da quebra do glicogênio (substância de reserva energética).
+

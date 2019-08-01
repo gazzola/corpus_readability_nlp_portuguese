@@ -1,0 +1,50 @@
+Análise real/Lógica
+É uma sentença resultante de uma sentença que pode ser uma afirmação ou uma negação.
+
+
+Análise real/Isomorfismo
+Podemos dividir um conjunto em suas partições disjuntas de forma que se unirmos tudo teremos novamente o conjunto:
+ Um subconjunto R de formula_2 é uma relação de equivalência em A se, e somente se,
+A relação binária ~ sobre A é uma relação de equivalência sobre A se:
+Seja A um conjunto e ~ uma relação de equivalência em A, então a classe de equivalência de a em A é o conjunto de todos os elementos que têm relação com a:
+Pares:
+Impares
+O conjunto das classes de equivalência de uma relação de equivalência ~ em A é chamado de conjunto quociente de A sobre ~, que será escrito como A/~.
+Como vimos acima, foi definido no conjunto dos inteiros uma relação de equivalência separando o conjunto dos inteiros em duas partições tal que a união disjusta:
+Seja s a função das somas naturais onde s(a,b) é a soma entre a e b.
+Seja d a função que multiplica dois naturais onde d(a,b) é a multiplicação entre a e b
+
+
+Análise real/Desigualdade
+Em todo corpo ordenado K, se formula_1 e formula_2, vale formula_3
+formula_11.
+ Mostrar que formula_17.
+Prova:
+ Use o teorema da indução com 1 deslocado para provar que formula_26
+ Prove que formula_33 é decrescente a partir do terceiro termo.
+ formula_41 é decrescente a partir do terceiro termo, ou seja, formula_42.
+
+
+Análise real/Naturais
+Ao querermos provar alguma sentença matemática P(n), se é verdadeira, tendo seus elementos nos naturais, usamos a indução, onde:
+Definição de um número natural: formula_1
+Somar dois números n e p:
+Um número natural n tem o seu sucessor como sendo s(n) = n + 1.
+Sejam a,b naturais, assim se a=b então s(a) = s(b)
+ Vamos definir formula_4, para dizer que tínhamos o kº sucessor de n, logo em seguida tomamos o sucessor dele, e assim obtivemos o (K+1)º sucessor de n.
+Exemplos:
+Na última prova é bem aceitável aceitar como verdadeira a igualdade formula_16. Ela é dada como válida pois é dada por definição da adição, mas é interessante prová-la por indução.
+Assim vamos fazer indução sobre p em formula_17.
+formula_26.
+Provar por indução que formula_30.
+formula_33.
+formula_37
+formula_38
+Para quaisquer formula_39 tem-se formula_40.
+Para quaisquer formula_44 tem-se que formula_45.
+Para quaisquer formula_49 tem-se formula_50.
+formula_54.
+formula_59.
+formula_63.
+formula_67.
+

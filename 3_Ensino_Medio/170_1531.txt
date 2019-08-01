@@ -1,0 +1,14 @@
+ Matemática elementar/Matrizes
+Uma matriz formula_1 pode ser entendida como um conjunto de mn (m multiplicado por n) números, dispostos em "m" linhas e "n" colunas, conforme figura ao lado. formula_2
+Assim, na matriz acima, de 2 linhas e 3 colunas, temos:
+formula_4
+formula_5
+Ordem de uma matriz refere-se ao seu número de linhas e colunas. É apresentada na notação "m"×"n", onde "m" é o número de linhas e "n" o de colunas. Lê-se "m por n". Assim, a matriz "A" acima é de ordem 2×3. Esta operação só pode ser feita com matrizes de mesmo número de linhas e mesmo número de colunas (mesma ordem). Sejam duas matrizes formula_6 e formula_7. Então a matriz formula_8 é uma matriz mn tal que cada elemento de formula_9 é dado por:
+Seja a matriz formula_1 e formula_12 um escalar. A matriz
+formula_13 é uma matriz m×n tal que cada elemento de formula_14 é dado por:
+Sejam formula_16 e formula_17 matrizes formula_18 e formula_12 e formula_20 escalares. Então:
+formula_21 e formula_22. E, também, se formula_23 e formula_24 então formula_25. Matriz nula formula_26 é aquela cujos elementos são todos nulos. matriz identidade formula_27 é matriz formula_28 na qual formula_29 se formula_30 e zero nos demais casos. Ou, de outra maneira, é a matriz na qual todos os elementos da diagonal principal são iguais a 1 e os demais são nulos. Sejam as matrizes formula_37 e formula_38 (o número de colunas da primeira deve ser igual ao número de linhas da segunda). O produto AB é dado pela matriz formula_39 cujos elementos são calculados por:
+formula_40
+formula_41 e
+formula_42
+Veja os cálculos para o exemplo da figura acima. Se A e B são matrizes quadradas (igual número de linhas e colunas), ambos os produtos AB e BA podem ser calculados. Entretanto, na multiplicação de matrizes, a ordem dos fatores não é indiferente. Em geral, formula_47.

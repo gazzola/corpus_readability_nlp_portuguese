@@ -1,0 +1,17 @@
+Introdução à física/Energia
+Energia (E) é uma grandeza capaz de provocar uma ação sobre um corpo. A unidade padrão da energia é o joule (j). É comum encontrar outros tipos de unidades de energia, como a caloria (cal).
+A energia tem as seguintes propriedades:
+O fato de a energia não poder ser tocada, é justamente por ela não ter massa ou volume. No entanto, ela pode ser sentida. A luz (visão), o som (audição) e o calor (tato) são exemplos de energias sensitivas.
+A energia segue o mesmo princípio da matéria: não se pode criar nem extinguir. Desta forma, para qualquer sistema é verdadeiro afirmar que a energia antes a um evento (E) é igual a energia depois de um evento (E):
+Um tipo de energia pode-se transformar em outro, mas sempre haverá uma perda extra de energia. Podemos afirmar, então, que em uma transformação, nunca se tem 100% de energia transformada em um único tipo(ΔE):
+Transformações que possuem 100% de aproveitamento são transformações em objetos ideais. Em uma transformação em objetos ideais, não há perdas extras de energia (o rendimento é igual a 100%). Tais objetos não existem, mas são bastante utilizados didaticamente.
+Quanto aos tipos de energia, elas podem ser classificadas como:
+Abaixo, temos uma breve explicação de cada uma:
+As transformações energéticas ocorrem comumente em nosso cotidiano. Veja, abaixo, alguns exemplos:
+Tais transformações energéticas podem ser lentas ou rápidas. A grandeza que relaciona o tempo e a transformação da energia é a potência.
+A energia pode ser transferida de um corpo ao outro. Em uma transferência energética, podemos notar que:
+Também, é impossível um corpo doar toda sua energia - o que nos revela que não existem corpos sem energia:
+Com essa propriedade, esquematizamos a lei de conservação de energia. Ela nos mostra que nas transferências energéticas, se um corpo perde uma determinada quantidade de energia, outro corpo, obrigatoriamente, adquire tal quantidade de energia, mantendo a quantidade de energia sempre constante.
+O joule (j) é a unidade padrão de energia. Um joule é definido pelo trabalho das forças, em que, tal é a quantidade de energia para exercer um newton de força. Sendo assim, um joule é a quantidade de energia necessária para mover um objeto de um quilograma por um metro. Abaixo, a transformação entre joules e calorias:
+A definição de "calorias" pode ser vista aqui.
+

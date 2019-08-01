@@ -1,0 +1,14 @@
+Matemática elementar/Plano de Argand-Gauss/Raízes complexas
+Considere uma expressão do tipo "x = a + bi". Para um índice "n", como podem ser calculadas as soluções para a expressão? Este problema pode ser aplicado, por exemplo, em
+O método para encontrarmos os valores de "x" que se igualem a "a + bi" consiste em aplicar valores ao plano de Argand-Gauss. Para isto, você deve saber que
+A partir disto, podemos chegar às seguintes conclusões:
+Além disso, a distância entre um vértice e outro é constante (por tratar-se de um polígono regular). Então podemos dizer que a partir de um vértice "A" neste plano, os pontos seguintes serão parte de uma progressão aritmética, onde a soma de "n" distâncias deve completar o círculo. Portanto, a diferença "d", em radianos, entre um vértice e outro é dada por
+Introduzindo o conceito de progressão aritmética, temos que a = a + (x - 1)r em que "x" é o termo da progressão. Então:
+Pelo fato de "x" ter de ser um número natural diferente de zero, o resultado de (x - 1) é, obrigatoriamente, maior ou igual a zero. Como nos interessa determinar todas as raízes da expressão, devemos substituir "x" por cada "n". Desta forma, o primeiro (x - 1) da nossa progressão será zero, o segundo igual a 1, o terceiro igual a 2, e assim sucessivamente. Substituiremos, então, "x - 1" por "k", que é o número natural que determinará cada raiz, para k < n: formula_3
+Nestes casos, o nosso termo a é o quociente entre o argumento θ e "n" (representa o ângulo entre o eixo real e a semirreta que une a origem e o primeiro vértice do primeiro quadrante). Representaremos o conceito de raíz por z em vez de a. As coordenadas de cada vértice são determinadas a partir do valor absoluto. A parte real é calculada pelo cosseno, enquanto a parte imaginária pelo seno. As coordenadas (Re, Im) devem ser iguais, pelo fato de a distância entre o lugar geométrico e os vértices do polígono serem constantes:
+Falta-nos determinar o apótema de nosso polígono (raio do círculo), que introduzido na fórmula:
+Para "r" o valor absoluto da expressão.
+A fórmula gerada chama-se segunda fórmula de Moivre.
+Portanto, os valores de x são -2, 1 + i e 1 - i.
+Que são os valores de x.
+

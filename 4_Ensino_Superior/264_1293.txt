@@ -1,0 +1,24 @@
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Equipamento de armazenagem de pequenas cargas/Equipamento de armazenagem operator-to-stock
+Os três tipos principais de equipamentos para armazenagem de pequenas cargas, em que o operador se desloca até às existências, são: estantes, armários com módulos de gavetas e estantes de armazenagem dinâmica. Para melhorar o aproveitamento de espaço, cada um destes sistemas de armazenagem pode ser instalado num mezanino ou em estantes móveis (Tompkins et al., 2003, p. 264).
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de identificação e comunicação automática
+A "identificação automática e captura de dados", "automatic identification and data capture" (AIDC), engloba um grupo diversificado de sistemas e tecnologias que permitem a captura e transmissão automática de dados, relacionados com um determinado item (Automatic, [2008]).
+A utilização destes sistemas de identificação automática e captura de dados permite a recolha de toda informação referente ao material, em tempo-real; informações como a localização, quantidade, origem, destino e programação (Frazelle et al., 1994, p. 593). A captura de dados pode ser efectuada através de sistemas de tratamento de imagens, sons ou vídeos, conforme a sua aplicação (Fernando, 2010, p. 593). A identificação e comunicação automática permite que as entidades da cadeia logística acompanhem e comuniquem os pormenores das movimentações dos materiais, com reduzida probabilidade de erro e perda de tempo (Bowersox et al., 2006, p. 188).
+São exemplos de tecnologias de identificação automática (Frazelle et al., 1994, p. 593):
+Os sistemas de identificação automática permitem que os equipamentos identifiquem e recolham dados referentes ao estado do material. Já os sistemas de comunicação automática permitem a comunicação, sem papel, dos dados do material. É deste modo que Tompkins et al. (2003, p. 278) estabelecem a diferença entre:
+
+
+Logística/Sistemas de informação/Indicadores de desempenho/Indicadores de utilização de recursos: equipamentos/Flexibilidade do posto de trabalho
+O indicador de flexibilidade do posto de trabalho é uma medida muito utilizada na organização de máquinas e postos de trabalho, tendo em conta a utilização de homens e máquinas. Este pode calcular-se com base no seguinte quociente:
+"Indicador de flexibilidade do posto de trabalho" = "c" / "d"
+Sendo:
+c = Número de máquinas ou postos de trabalho dentro da área em questão, concebidas/os de maneira a poderem ser deslocadas/os para qualquer outro local, num turno de trabalho;
+d = Número total de máquinas ou postos de trabalho dentro da área em questão.
+Neste caso, um posto de trabalho abrange toda a área coberta pelas ferramentas, equipamentos, máquinas e materiais em vias de fabrico, necessários para o desempenho de uma determinada operação (Apple, 1977, p. 430-431).
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de movimentação de materiais/Transportadores/Cart-on-Track Conveyor
+Este sistema de transporte é resumido pela utilização de um carro sobre carris. É definida uma pista entre dois pontos em que o carro de transporte vai circular. No meio dos carris existe um tubo ligado ao carrinho que por acção de rotação irá proporcionar velocidade ao carro de transporte ao longo da pista. O sistema de ligação entre os carros e o tubo é feito por uma roda existente no carro que repousa sobre o tubo e que é utilizada para variar a velocidade do carro (variando o ângulo de contacto entre a roda e o tubo).
+Estes carros são independentemente controlados por estes tubos e os mesmos podem ser acumulados ao longo da pista ficando parados quando a roda de contacto entre o carro e o tubo fique paralela ao tubo.
+

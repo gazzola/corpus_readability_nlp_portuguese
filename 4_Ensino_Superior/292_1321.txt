@@ -1,0 +1,60 @@
+Mecânica dos fluidos/Exercícios resolvidos/A2
+Um cilindro contém 356 dm de ar a 49 °C a uma pressão absoluta de 2.8 kg/cm. O ar é comprimido até seu volume ser de 70 dm.
+k = 1.40
+formula_1
+formula_2
+formula_3
+Assim
+formula_4
+formula_5
+formula_6
+formula_7
+formula_8
+A temperatura final é dada por
+formula_9
+formula_10
+
+
+Mecânica dos fluidos/Exercícios resolvidos/F2
+Obter grupos adimensionais Π necessários para a determinação experimental da perda de carga em um escoamento de um líquido incompressível através de um tubo horizontal de diâmetro D, comprimento L e rugosidade e. Levar em conta a velocidade do fluxo, a viscosidade e a densidade do fluido. 
+As variáveis originais serão:
+As k = 3 dimensões envolvidas, como se vê, são [M], [L] e [t].
+Selecionemos os 3 parâmetros ρ, v e D; h, de acordo com o teorema, h não deve ser utilizado. Além disso, também de acordo com o teorema, três grupos adimensionais serão: a razão entre D e e, a razão entre D e L e a razão entre D e h. Falta apenas um, e a equação dimensional será:
+formula_1
+Usando o resultado obtido no exemplo já estudado anteriormente, podemos escrever
+formula_2
+Vê-se, assim, que o problema não apresenta maiores dificuldades, do ponto de vista teórico, apesar do elevado número de variáveis envolvidas. Do ponto de vista experimental, exige-se um número razoável de experiências, devido ao fato de serem quatro os grupos adimensionais; além disso, pode ser difícil obter um número adequado de objetos com diferentes rugosidades (grupo Π). Além disso, requer-se raciocínio físico, que aponta para o uso de D, e não de L, como parâmetro repetido; intuitivamente, a relação da rugosidade e com o diâmetro do tubo é mais significativa que a relação de e com o comprimento L.
+
+
+Mecânica dos fluidos/Equações em coordenadas cilíndricas
+Frequentemente, a geometria de um problema sugere seja usado um sistema de coordenada outro que não o sistema cartesiano. É importante, portanto, derivar as equações básicas em forma diferencial para outros sistemas. Esse problema não afeta as formas integrais das equações, que são as mesmas para qualquer sistema. Nesta seção, apresentaremos as equações básicas em coordenadas cilíndricas.
+A forma diferencial da equação de continuidade utiliza uma expressão genérica, que permite expressá-la facilmente em qualquer sistema de coordenadas.
+formula_1
+Basta empregar a expressão do divergente em coordenadas cilíndricas para encontrar
+formula_2
+A derivação das equações de Navier-Stokes no sistema de coordenadas cilíndricas é dificultado pelo fato de não existir uma expressão genérica para as mesmas, que seja a mesma em qualquer sistema de coordenadas.
+
+
+Mecânica dos fluidos/Exercícios resolvidos/C4
+Um foguete, cuja massa inicial é de 400 kg, é lançado verticalmente, consumindo combustível a uma taxa de 5 kg/s e ejetando gás a 3500 m/s. Calcule a aceleração em t = 0 e a velocidade em t = 10s. A resistência do ar pode ser desprezada.
+Tomemos o foguete como o volume de controle C e apliquemos a equação de conservação do momento, com a correção necessária devido ao fato de o referencial usado está acelerado em relação à Terra:
+formula_1
+onde a é a aceleração do foguete com relação à Terra e v é a velocidade do fluido com relação ao foguete. A força externa aplicada resume-se ao peso do foguete; a velocidade v_m é constante e a aceleração a, uniforme sobre o corpo, por isso
+formula_2
+pois a velocidade do fluxo dirige-se para fora do volume e na direção negativa do eixo Y.
+Mas, de acordo com a equação de continuidade:
+formula_3
+formula_4
+Assim,
+formula_5
+formula_6
+formula_7
+formula_8
+Para encontrar a velocidade v do foguete, basta integrar a equação
+formula_9
+formula_10
+formula_11
+formula_12
+formula_13
+formula_14
+

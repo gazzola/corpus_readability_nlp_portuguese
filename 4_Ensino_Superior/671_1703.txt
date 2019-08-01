@@ -1,0 +1,31 @@
+ Por exemplo,
+formula_7
+onde o sinal negativo se deve ao momento estar deixando o volume de controle. Assim, podemos escrever
+formula_8
+e assim por diante. A expressão acima mostra por que o escoamento é laminar próximo à parede: tanto formula_5quanto δv decrescem nessa região. Em algumas situações, as expressões são escritas da forma seguinte:
+formula_10
+A grandeza formula_11 é chamada velocidade de fricção e comumente denotada pelo símbolo u_*. Valores da tensão de Reynolds podem ser levantadas experimentalmente para valores diversos do número de Reynolds e em formas diversas de dutos. Em geral, utilizam-se grupos adimensionais como
+formula_12
+formula_13
+onde d é a distância à parede e D uma medida representativa da largura do duto; por exemplo, o diâmetro, em caso de dutos de seção circular. Os resultados experimentais indicam o seguinte:
+De acordo com esses resultados, a diferença as velocidades de dois pontos localizados na região afastada das paredes será
+formula_19
+A partir daí, podemos expressar a velocidade em uma posição qualquer tomando como referência a velocidade no centro do tubo, 
+formula_20
+formula_21
+onde formula_22 é a velocidade no centro do tubo. Essas expressões são conhecidas como a lei da queda de velocidade (ing. "velocity defect law"). Outra expressão obtida empiricamente é a chamada lei da potência
+formula_23
+onde n é uma função do número de Reynolds. A fórmula deixa claro que, quanto maior o valor de n, menos pronunciado será o perfil de velocidades, ou seja, menor será a diferença entre a velocidade em um ponto qualquer e a velocidade no centro do duto. Isso já era esperado: quanto mais turbulento o escoamento, maior a troca de momento entre os pontos do fluido e, por conseguinte, menores os gradientes de velocidade. A lei da potência funciona razoavelmente bem para d > 0.02 D; entretanto, nas proximidades do centro do duto, deveríamos ter formula_24, requisito que nenhuma das equações empíricas cumpre. Uma expressão empírica para n é: n = -1.7 + 1.8 log(N), válida para números de Reynolds superiores a 20000. Valores de n a partir de 6 já são típicos para escoamento turbulento. Pode-se usar a aproximação n = 7 para 20000 ≤ N ≤ 100000 e n = 8 para 100000 ≤ N ≤ 400000. Boussinesq propôs a fórmula simplificada
+formula_25
+onde μ (muito maior que μ) é chamada viscosidade turbulenta. Esse modelo não corresponde bem à realidade física, mas é usado devido à similaridade com o caso do escoamento laminar. Prandtl, por sua vez, propôs a fórmula
+formula_26
+onde L é uma função da distância à parede y, chamado de comprimento de mistura, para calcular a tensão de Reynolds. A fórmula é obtida a partir da hipótese de que pequenos grupos de partículas são transportados pelo movimento turbulento até à
+distância média L entre regiões com velocidades diferentes δv e δv. Dessa forma
+formula_27
+Outra proposta é a de von Kármán
+formula_28
+onde τ é a tensão na parede e α é chamada constante de von Kármán. Essa constante é igual a 0.4 para a água. Expressões alternativas já foram sugeridas para o cálculo do perfil de velocidades:
+formula_29
+formula_30
+formula_31
+onde e é a rugosidade relativa e N é o número de Reynolds.

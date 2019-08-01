@@ -1,0 +1,11 @@
+ A perda é dada por
+formula_22
+A vantagem de usar o conceito de coeficiente de recuperação de pressão é que ele é relativamente independente do Número de Reynolds para N ≥ 75000. Se uma entrada de fluido possui bordas aparentes, forma-se uma veia contraída, que obriga o fluxo a acelerar subitamente; quando ele volta a se expandir e ocupa toda a largura do tubo, ocorre uma desaceleração brusca, com separação de fluido e consequente perda de carga. A perda em uma entrada, portanto, é menor se as bordas são menos pronunciadas. Um valor típico de 0.5 é encontra para o N em uma entrada em ângulo reto perfeito; o valor pode chegar a 0.78 se as bordas avançarem muito para fora da entrada, e diminuir para até 0.04 se as bordas forem suficientemente arredondadas. Em uma saída de fluido (por exemplo, para um tanque), a energia cinética é totalmente dissipada. Assim, não tem sentido falar de um coeficiente de perda; a perda é igual à energia cinética do fluido, que foi calculada anteriormente como formula_23
+A colocação de um difusor na saída não altera a perda de carga, mas em geral aumenta a vazão do fluido ao sair para o ambiente. Com o difusor, a perda de carga será dada por
+formula_24
+onde formula_25 é a velocidade na entrada do difusor, formula_26 é a velocidade na saída, Δh é a perda na entrada do difusor, Δh é a perda ao longo do difusor, Δh é a perda na saída do difusor, N é o coeficiente de perda na entrada e N é o coeficiente de perda ao longo do difusor. Assim
+formula_27
+formula_28
+formula_29
+formula_30
+Em geral, formula_31. Como a área da seção de entrada não mudou, se a velocidade aumentar, a vazão também aumentará. A perda de carga na saída do difusor é pequena, em função do grande diâmetro desta e, por conseguinte, da baixa velocidade de saída. Para que a perda de carga total seja constante, é preciso que a perda na abertura e no difusor sejam elevadas, e isso obriga a que a velocidade do fluido na abertura seja elevada.

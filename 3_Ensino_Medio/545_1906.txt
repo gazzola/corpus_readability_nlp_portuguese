@@ -1,0 +1,14 @@
+ Introdução à física/Dinâmica/Decomposição de vetores
+A decomposição de vetores envolve ângulos relacionados aos vetores. A respeito da direção de um vetor relacionado à trajetória, tem-se os seguintes fatos:
+Conforme as leis postuladas por Newton, pode-se dizer que:
+Como a força peso (W na imagem) é aplicada pela Terra, esta estará sempre direcionada ao centro do planeta. Portanto, em tais casos, a força peso não é totalmente aplicada na superfície, e parte dela gera movimento, geralmente fazendo os corpos escorregarem. Assim, para se calcular a força que é aplicada na superfície, deve-se considerar um vetor perpendicular ao plano (mgcosTHETA no diagrama abaixo). Já a força resultante, deve-se considerar um vetor paralelo ao plano (mgsinθ no diagrama). Temos, então, pela simplificação de mg = P:
+Onde:
+Aplicando a terceira lei de Newton, aliada às leis da geometria, a seguinte equação é verdadeira:
+E então,
+Para os ângulos, temos duas fórmulas que podem ser usadas:
+Um objeto de massa 10 kg é abandonado em uma superfície perfeitamente lista, e que forma o ângulo de 45° com a superfície. Dados: g = 10; cos45° = ; sen45° = . Já no caso de se ter o vetor (A) em um sentido, mas o vetor resultante (R) é angular (ou vice-versa), pode-se usar uma das fórmulas abaixo. Esses casos não ocorrem necessariamente em um plano inclinado. Pode-se considerar, também:
+Pela terceira lei de Newton, podemos ter as seguintes conclusões a respeito de um ângulo em um vetor:
+Pela imagem a seguir, analise a presença de dois vetores, A e B, e de um ângulo alpha entre estes. O vetor resultante é dado pela regra do paralelogramo:
+E caso se deseje o ângulo:
+Quando A = B, e alpha = 90°, pode-se utilizar uma versão mais simples para a resultante:
+Sobre um objeto, atuam duas forças simultâneas, uma de 2 newtons e outra de 3 newtons. Entre as forças, está um ângulo de 60°.

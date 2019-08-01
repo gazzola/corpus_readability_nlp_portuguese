@@ -1,0 +1,13 @@
+ Cálculo (Volume 1)/Derivadas
+Funções são criadas para refletir o comportamento de certos entes físicos ou estados de valores, porém existe outro meio para analisar o comportamento dos números, que não conhecemos. Trata-se da derivação, um processo destinado a analisar as variações no comportamento de um conjunto de dados numéricos, largamente utilizado hoje em dia. Vamos criar os conceitos, desde o início, para entender como estão fundamentados os princípios de derivação. Com estes teremos meios de analisar vários problemas sob a ótica infinitesimal (das pequenas variações). Seja uma reta definida pelos pontos formula_1 e formula_2 Existe uma relação entre as coordenadas dos dois pontos que expressa a "inclinação da reta"; 
+Definimos como coeficiente angular de uma reta, a seguinte razão:
+formula_3
+O resultado desta relação é um número que expressa quanto a reta está "inclinada" comparada com o eixo x (da variável independente), pois quanto maior for o coeficiente angular de uma reta, mais próximo ela estará de ser uma reta vertical. O coeficiente "m" é constante para qualquer segmento de uma reta fixada, e é visivelmente igual à tangente do ângulo formado entre a reta e o eixo x.
+Agora imagine o que teríamos se ao invés de uma reta tivéssemos uma curva... Em uma função para a qual os pontos do gráfico não acompanham uma linha reta, geralmente temos diferentes valores de "m" para cada par de pontos que tomamos para fazer o seu cálculo. Isto se deve ao fato de que a inclinação varia ao longo da curva, o que nos sugere que cada pequeno segmento da curva possui um "m" diferente. Considerando uma função formula_4 teríamos sobre o seu gráfico os pontos:
+formula_5
+formula_6
+Podemos denotar a distância de formula_7 até formula_8 por formula_9, e deste modo:
+formula_10
+Logo, teríamos:
+formula_11
+Esta relação nos dá a inclinação de cada segmento de reta ligando um ponto formula_12 a outro estabelecida pela distância formula_13 que nos fornece: formula_14 Imaginando que o gráfico da função seja uma "curva suave", podemos, a partir da equação anterior, encontrar os valores de "m" e verificar qual a inclinação aproximada da curva para cada ponto; note que quando diminuímos o módulo de formula_15 a equação se torna mais precisa, no sentido de fornecer uma melhor aproximação para o coeficiente angular de um pequeno trecho da curva, pois cada segmento que é analisado se torna menor, logo temos condições de analisar mais segmentos da curva. Imaginemos que para cada par de pontos tenhamos uma reta, com seu respectivo coeficiente angular formula_16, como vimos anteriormente existe uma maneira de relacionar a "declividade" a cada ponto da curva...

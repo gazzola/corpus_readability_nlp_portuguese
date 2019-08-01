@@ -1,0 +1,10 @@
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Equipamento de armazenagem de pequenas cargas/Equipamento stock-to-operator/Carrosséis/Carrosséis verticais
+Um carrossel vertical é um carrossel horizontal (assente numa das extremidades e envolto em metal).
+Tal como nos carrosséis horizontais, um operador pode trabalhar num ou em vários carrosséis ao mesmo tempo. Os carrosséis são controlados quer automaticamente por via de computador ou manualmente com o operador a comandar através de um teclado inserido no carrossel.
+Os carrosséis verticais variam entre 2,5 metros a 11,5 metros de altura. A altura, tal como o comprimento dos carrosséis horizontais é limitada pela capacidade de "picking" e restrições de infra-estrutura. Quanto mais alto o sistema, mais tempo irá demorar, em média, para rodar desde a caixa de artigos desejada até à zona de aquisição dos produtos.
+Os tempos de aquisição dos produtos para os carrosséis verticais, teóricamente são menores relativamente aos carrosséis horizontais. A diminuição dos tempos de aquisição dos produtos resulta do facto dos produtos serem colocados ao nível da cintura. Este aspecto elimina a necessidade de alcançar os artigos em locais de difícil acesso (junto ao chão), além disso reduz não só o tempo de procura de artigos como a probabilidade de erro no "picking".
+Algumas das vantagens nos tempos de recolha dos artigos são calculados pela menor velocidade de rotação do carrossel vertical.
+Alguns benefícios fornecidos pelos carrosséis verticais incluem uma excelente protecção e segurança dos artigos.
+No carrossel vertical apenas uma prateleira de artigos é apresentada ao operador de cada vez e a totalidade dos artigos no carrossel pode ser trancada.
+Considerando o metro cúbico de armazenamento de artigos, os carrosséis verticais são tipicamente 40 a 70% mais caros que os carrosséis horizontais. O custo adicional dos carrosséis verticais é atribuído à cobertura de metal e ao consumo de energia necessário para a rotação do carrossel contra a gravidade (Tompkins et al., 2003, p. 274-275). 
+

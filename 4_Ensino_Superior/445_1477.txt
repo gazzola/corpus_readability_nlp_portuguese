@@ -1,0 +1,20 @@
+ Análise real/Topologia da reta.
+Conceitos da topologia da reta que serão usados na Análise Real. Nota: para usar uma analogia com a geometria, um número real "x" também será chamado de um "ponto" "x". Tome formula_7.
+Tome formula_8, como formula_9.
+Um ponto x é dito ponto interior de um conjunto formula_10 se, e somente, se formula_11. 
+Usamos a notação formula_12 para denotar o conjunto de todos os pontos interiores do conjunto formula_13.
+Dado formula_22. Um ponto formula_23 é dito ponto da fronteira de formula_24, se toda vizinhança de x intersecta formula_25. Imediato da definição. 2.Seja formula_53 uma família de conjuntos abertos indexada pelo índice formula_54 e seja:
+Então se formula_56 existe um formula_57 tal que formula_58.
+Como formula_59 é aberto, existe um intervalo formula_60 com formula_61.
+Como formula_62 temos que:
+E portanto formula_64 é aberto. 3.Seja formula_65 uma família finita de conjuntos aberto e seja formula_66 e formula_67 Como formula_68 e cada formula_69 é aberto. Existem intervalos formula_70 tais que:
+Naturalmente vale que formula_72 Agora definimos:
+É fácil ver que formula_74.
+e portanto:
+O que completa a demonstração. Seja formula_22. As afirmativas abaixo são equivalentes. Vamos mostrar que formula_77.
+Então formula_85 é aberto pois é união de abertos. Ponto aderente de um conjunto é definido como todo ponto a que é limite de uma sequência de pontos x E X c formula_86. 
+Valor de aderência de uma sequência é um ponto aderente do conjunto formula_90.
+As seguintes afirmações são equivalentes:
+1 2: Se a é um ponto aderente de X, por definição, existe um sequência formula_99 tal que formula_100. Da definição de limite de sequências, para todo formula_94 existe um formula_102 tal que: formula_103. Como formula_104 basta definir formula_105 e o resultado segue. 2 3:Suponha que formula_95 e formula_107 Como formula_108 formula_109 e o resultado segue. 3 1:Defina a sequência formula_110 escolhendo-os de forma que formula_111 Esta sequência tem a propriedade que formula_99 e formula_113 logo formula_114 e o resultado segue. Define-se o fecho de um conjunto X como é o conjunto dos pontos aderentes de X e denota-se por formula_115. 
+Um conjunto formula_13 é dito conjunto fechado se e somente ele é igual ao seu fecho: formula_127.
+Um conjunto é fechado se, e somente se, seu complementar for um conjunto aberto.

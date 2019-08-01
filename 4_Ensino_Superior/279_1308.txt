@@ -1,0 +1,36 @@
+Logística/Gestão de devoluções/Tipos de devolução.
+Basicamente existe dois tipos de devoluções, que são, devoluções em vendas directas ao consumidor final e devoluções por erro de expedição.
+NOTA: O processo de devolução de um produto vendido pelo grossista é normalmente, o inverso da venda, ou seja, o consumidor devolve ao distribuidor e este consequentemente ao grossista. Desta maneira, os produtos devolvidos seguirão o caminho contrário ao das entregas, mas este processo torna-se mais difícil quanto maior for o número de distribuidores.
+Para reduzir cada vez mais o erro de expedição as empresas recorrem aos processos de gestão da qualidade total e informatização logística, como por exemplo, a informatização de sistemas de expedição e recepção de armazéns, o código de barras, o "Electronic Data Interchange" (conhecido por EDI), entre outros.
+
+
+Logística/Localização/Afectação-localização.
+Nos problemas de afectação-localização as variáveis de decisão são as localizações das novas instalações e as cargas que são submetidas.
+Neste tipo de problemas contínuos é considerado um número infinito de localizações possíveis tanto em distâncias rectilíneas ou distâncias euclideanas.
+Um problema típico de afectação-localização pode envolver a localização de centros de distribuição ou armazéns, que recebe produtos de instalações de produção e produtos de distribuição para clientes retalhistas. envolve também a determinação da atribuição de clientes para esse armazém.
+É difícil calcular a solução óptima para problemas de afectação-localização devido ao facto de que a solução que minimiza as distâncias da localização poderá não ser igual à solução de minimização dos termos globais. Para evitar este erro é possível não minimizar a localização de instalações se se considerar tanto a localização como a atribuição simultaneamente.
+Analiticamente um problema de afectação-localização pode resolver-se da seguinte forma:
+formula_1
+
+Logística/Planeamento e projecto de instalações/Computerized Relationship Layout Planning (CORELAP)
+O CORELAP ou "Computerized Relationship Layout Planning" foi um dos primeiros programas de construção disponíveis para computador, sendo introduzido em 1967 por Lee e Moore (Heragu, 2006, p. 197). Tal como o ALDEP, usa a tabela de REL na construção de "layouts". Pode trabalhar com até 70 actividades e a escala do "layout" é limitada pela dimensão máxima de 40x40 (Hiregoudar et al., 2007, p. 95).
+
+Logística/Localização/Localização minisoma de múltiplas instalações/Localização minisoma de múltiplas instalações com distâncias euclideanas.
+Um problema de múltiplas instalações com distâncias euclideanas pode ser formulado da seguinte forma:
+formula_1
+Onde:
+"m" é o número de novas instalações;
+"n" é o número de instalações já existentes;
+formula_2 é a conversão da grandeza distância entre uma nova instalação formula_3 e uma instalação já existente formula_4 em valores de custos, com formula_5;
+formula_6 é a conversão da grandeza distância entre uma nova instalação formula_3 e outra nova instalação formula_8 em valores de custos, com formula_9;
+formula_10 é a localização da nova instalação formula_3;
+formula_12 é a localização da instalação já existente formula_4;
+As condições necessárias para que as localizações das novas instalações sejam óptimas são dadas pelas derivadas parciais formula_14 e formula_15:
+formula_14 = formula_17
+formula_15 = formula_19
+onde:
+formula_20
+formula_21
+O modelo de distâncias euclidianas assemelha-se essencialmente ao modelo de distâncias rectilíneas, para o caso em que todas as instalações existentes são colineares, ou seja, quando todas ligarem numa única linha. Para este caso, é possível escolher várias posições pois todas as instalações existentes poderão estar ao longo do eixo dos formula_22.
+Assim pode-se representar os pontos como formula_23 para os valores entre formula_24 e formula_25.
+

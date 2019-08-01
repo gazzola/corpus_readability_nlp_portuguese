@@ -1,0 +1,17 @@
+Introdução à física/Dinâmica/Leis de Newton/Princípio fundamental da dinâmica
+Na segunda lei de Newton (ou lei de princípio fundamental), temos a definição de duas grandezas fundamentais à mecânica: massa e força.
+A matéria é formada por átomos, moléculas e íons. Caracteriza-se, principalmente, por ter massa e volume. O estudo mais aprofundado da matéria, é feito pela química.
+A massa (m) é a constituição de um corpo. No sistema internacional de medidas, a unidade de massa é o quilograma (kg). Veja na tabela, abaixo, a relação entre quantidade de moléculas e o quilograma de algumas substâncias:
+O volume (V) é o espaço em que um corpo ocupa no espaço. O cálculo do volume dos corpos é feito pela geometria. A unidade padrão do volume é m³.
+A densidade (d) é a relação entre massa e volume. Matematicamente:
+A unidade padrão da densidade é kg/m³.
+Força é o que faz um corpo ter, ou tender a um movimento. No sistema internacional de medidas, a unidade de força é o newton (N). Por definição, 1 N é:
+Ou seja, um newton é a quantidade de força necessária para mover um objeto de um quilo, por um metro. Sendo assim, é possível calcular a quantidade de newtons pela seguinte fórmula:
+Em que:
+A força peso é uma força que constantemente aparece em problemas físico. Esta força tem sentido vertical e é originada do planeta. É esta a força que nos mantem presos ao chão. Com esta força, considera-se constante a aceleração no sentido vertical, próximo à superfície. Este fato é decorrente de que a massa do planeta é tão grande que a massa do corpo em questão acaba tornando-se desprezível. Um estudo mais detalhado sobre esta força, a gravidade, pode ser visto conforme a força de gravitação.
+Aqui no planeta Terra, considera-se a aceleração da gravidade equivalente a 9,8 m/s², mas costuma-se igualá-la a 10. Sendo assim,
+Onde:
+Observe que, em física, "peso" se difere do sentido popular da palavra. Na tabela abaixo, você pode conferir o valor para "g" nos planetas do sistema solar e na lua:
+Enquanto que a força peso é a força que Terra exerce em um corpo, a força normal (N) é a força que um corpo exerce sobre a superfície. No caso de a superfície ser plana, esta será contrária à força peso. Em uma superfície plana e sem aceleração gravitacional (isto é, o objeto está em repouso), a força normal é:
+No caso de a superfície ser inclinada, deve-se realizar a decomposição de vetores.
+

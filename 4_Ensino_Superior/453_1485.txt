@@ -1,0 +1,22 @@
+ Otimização/Métodos de penalidades
+Os métodos que recebem este nome fazem parte de uma família de métodos baseados em:
+Algumas das primeiras funções de penalidade foram desenvolvidas por:
+Para compreender este tipo de método, será considerado o seguinte problema:
+formula_1
+Adicionalmente, se for considerado o conjunto de pontos formula_2, o problema (P) se escreve ainda como
+formula_3
+Uma primeira idéia para a resolução desse tipo de problema é fazer uso de funções indicadoras, conforme é definido a seguir:
+Notas: A função indicadora formula_4 é às vezes denotada por formula_5. Para transformar um conjunto (P) em um problema sem restrições, pode-se proceder da seguinte maneira: Considerar o problema (PD), dado por:
+formula_6
+Considerando formula_7 definida por:
+Tem-se ainda o problema (PP), dado por:
+formula_9
+Comentários:
+Para contornar a desvantagem da descontinuidade da função apresentada anteriormente, surgem outras funções, como por exemplo:
+A idéia de aplicar "penalizações" aos pontos que não pertencem ao conjunto viável é formalizada na seguinte definição: 
+Em particular, as funções formula_17 são funções de penalidade exterior. Nota: Conforme o Wikcionário, o termo significa: que coage; que reprime; "que impõe pena"; coercitivo. Nesse sentido, esse é um termo adequado ao tratar do conceito anterior, no contexto dos métodos de penalidade. Em algumas situações, é interessante ter em mente que certos conceitos definidos no contexto da Otimização são, na verdade, instanciações de conceitos mais gerais, muitos deles provenientes da topologia. Alguns exemplos são apresentados a seguir. Em outras palavras, a topologia euclideana é a coleção de todos os conjuntos abertos contidos em formula_20. Pode-se verificar com facilidade que de fato são satizfeitas as três propriedades que definem uma topologia. Outro exemplo muito comum é o seguinte:
+Em geral, a noção de limite seria caracterizada topologicamente da seguinte forma:
+Uma vez apresentados os conceitos iniciais, pode-se provar o seguinte teorema:
+H(ar{x}(r_{k+1}) \
+end{array}</math>
+Sendo que a primeira desigualdade se deve ao fato de formula_23 ser um minimizador, por construção, e a segunda segue por que formula_24 é decrescente. Portanto, formula_25.

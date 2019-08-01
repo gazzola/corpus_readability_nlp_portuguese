@@ -1,0 +1,31 @@
+Otimização/Método da lagrangiana aumentada
+O problema a ser resolvido é:
+Sabe-se que se for aplicado o método da lagrangiana, será considerada a função:
+e também
+A grande dificuldade seria saber quando o valor de formula_6 é finito. Uma idéia seria modificar um pouco a lagrangiana (aumentando-a, com um termo extra), da seguinte maneira:
+Com isso, seria necessário garantir que a idéia de fato resolve o problema. Por este motivo, é preciso desenvolver alguns resultados teóricos. Para fazer a análise deste método, um primeiro resultado importante é o seguinte:
+A partir de agora, o problema será:
+onde se supõe que formula_9 são funções de classe formula_10 e que para todo formula_11, o conjunto formula_12 é compacto (em inglês costuma-se usar a expressão inf-compact para descrever tais funções).
+Sabe-se que a lagrangiana associada ao problema formula_13 é:
+e ainda, em uma notação mais sintética, considerando a função formula_16 dada por:
+tem-se a lagrangiana expressa da seguinte maneira:
+Para o método da lagrangiana aumentada serão assumidas as seguintes hipóteses:
+Note que a segunda hipótese tem exatamente a mesma forma de uma das condições que aparece no lema de Finsler-Debreu.
+Observe que é justamente a aparição do termo formula_26 sendo somado à lagrangiana que justifica o nome lagrangiana aumentada.
+Esse conceito possui algumas interpretações:
+Então
+quaisquer que sejam formula_28 e formula_29.
+Portanto,
+ou seja, os auto-valores de formula_31 são todos positivos.
+Para concluir que formula_32 é fortemente convexa, basta recordar-se de dois fatos:
+Com isso, formula_32 é fortemente convexa pois
+Isso significa que há um único mínimo local para tal função, e que consequentemente ele é um mínimo global. Das hipóteses 1 e 2 colocadas no início da discussão sobre a lagrangiana aumentada, segue que formula_42 é fortemente convexa em formula_43.
+Com essas condições, mostrou-se que em um ponto que seja solução, a lagrangiana aumentada é fortemente convexa.
+Antes de apresentar o algoritmo, será fixada mais uma notação:
+Dados formula_45 e formula_46.
+Este é um dos algoritmos mais usados e mais eficientes para problemas de programação não linear. A garantia de convergência segue dos próximos teoremas.
+Observações:
+O segundo teorema é:
+Observações:
+Com esses resultados, tem-se a garantia de que o algoritmo realmente converge para uma solução, desde que os parâmetros sejam tomados adequadamente. A questão que ainda permanece é como identificar os valores adequados de formula_57 e de formula_58 para que tal convergência ocorra.
+

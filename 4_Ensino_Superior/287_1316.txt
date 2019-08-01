@@ -1,0 +1,55 @@
+Mecânica dos fluidos/Outros tipos de medidores de vazão
+Outros tipos de medidores de vazão, pouco usados na atualidade ou com aplicações muito específicas, são os seguintes:
+Utiliza-se também o medidor de vazão em válvulas. Esse medidor aproveita a prévia existência de uma válvula de controle na tubulação; tal válvula constitui uma restrição, portanto, medindo-se a pressão em pontos a montante e a jusante da mesma, pode-se obter uma medida da vazão através do mesmo princípio dos medidores de pressão diferencial, já estudados. 
+
+
+Mecânica dos fluidos/Exercícios resolvidos/E3
+Um sistema hidráulico opera a uma pressão de 20M Pa e a uma temperatura de 55 °C, usando óleo SAE 10W. O sistema empurra um pistão de 25 mm de diâmetro e 15 mm de comprimento, que corre ajustado a um cilindro, com um espaço de 0.005 mm entre as paredes de ambos. Sabendo que a pressão manométrica no ponto de saída é igual a 1M Pa, calcule a vazão de óleo entre o cilindro e o pistão.
+Outras informações:
+Viscosidade do óleo (μ) - 0.018 kg·m·s
+Densidade do óleo (ρ) - 920 kg/m
+Como h « D, podemos modelar as paredes como duas placas paralelas de comprimento πD, evitando a necessidade de usar coordenadas cilíndricas. A queda de pressão entre as faces do pistão será
+formula_1
+Primeiramente, para saber se o escoamento é laminar, é preciso examinar o número de Reynolds:
+formula_2
+Aqui usaremos a velocidade média do fluido e a distância entre as placas para tipificar a situação. Assim, usando a expressão vista anteriormente:
+formula_3
+Como o valor é muito menor que o limite (1400), o escoamento é certamente laminar. A vazão, então, será
+formula_4
+formula_5
+
+
+Mecânica dos fluidos/Exercícios resolvidos/E17
+Calcular a vazão de saída de água de um reservatório com altura de 10 m, descarregando livremente na atmosfera, considerando 
+Calcular também a pressão na abertura e a velocidade de descarga na atmosfera, após a instalação do difusor. Considerar o valor do coeficiente de recuperação de pressão como 0.3 (um valor baixo).
+Independentemente do formato da embocadura,
+formula_1
+Considerando α = 1,
+formula_2
+O Número de Reynolds será
+formula_3
+o que faz com que a aproximação α = 1 seja bastante razoável. Assim, a vazão será
+formula_4
+formula_5
+formula_6
+formula_7
+O difusor foi ineficaz, devido à grande perda introduzida pela abertura em ângulo reto.
+formula_8
+formula_9
+A vazão aumentou em quase 30%. A pressão na abertura é calculada da seguinte maneira:
+formula_10
+formula_11
+A pressão na abertura cai bem abaixo da pressão atmosférica. Já a velocidade de saída será
+formula_12
+Uma queda muito grande. O exemplo mostra que, mesmo um difusor com um valor baixo de N pode ser bastante eficaz. Um difusor pode ter um N de 0.7 ou ainda maior.
+
+
+Mecânica dos fluidos/Exercícios resolvidos/A3
+Uma gota de água a 27 °C está em contato com o ar e tem um diâmetro de 0.5 mm. Se a pressão manométrica no interior da gota é de 5.8 g/cm, calcular o valor da tensão superficial.
+Para que a gota seja perfeitamente esférica, é preciso desprezar o seu peso. Neste caso, o equilíbrio de forças numa direção qualquer exige que a força exercida pela pressão interna p sobre a superfície da gota seja igual à força devida à tensão superficial sobre o perímetro da mesma.
+formula_1
+onde A é a projeção da esfera sobre a direção considerada. Assim:
+formula_2
+formula_3
+O emprego da pressão manométrica, que facilitou o cálculo, foi possível porque a pressão atmosférica atua da mesma forma no interior e no exterior da gota. Seu efeito, portanto, se anula e pode ser desprezado.
+

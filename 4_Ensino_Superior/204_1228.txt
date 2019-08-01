@@ -1,0 +1,64 @@
+Curso de termodinâmica/Exercícios de termodinâmica/B4
+O ácido acético (M = 60,05 g.mol) gasoso contém uma quantidade importante de dímero ((CHCOOH)) estabilizado por ligações de hidrogênio. Supondo que a mistura de gás obedece à equação de estado dos gases perfeitos, calcular:
+formula_1
+formula_2
+formula_3
+formula_4
+formula_5
+Resolvendo o sistema de equações, obtemos:
+formula_6
+formula_7
+formula_8
+formula_9
+formula_10
+formula_11
+
+
+Curso de termodinâmica/Exercícios de termodinâmica/A30
+Uma mistura de N, NO e NO é analisada por absorção seletiva dos óxidos de nitrogênio. O volume inicial é de 2,74 ml. Após tratamento com água, que absorve o NO , o volume mudou para 2,02 ml. Uma solução de sulfato ferroso foi agitada com o gás residual para absorver o NO, resultando num volume residual de 0,25 ml. Todos os volumes foram medidos à pressão atmosférica. Negligenciando o vapor de água, qual era o percentual de cada gás na mistura original?
+formula_1
+formula_2
+formula_3
+formula_4
+
+
+Curso de termodinâmica/Tabelas: pressão do ar
+<noinclude>
+obs:
+Ref. Engineering Toolbox
+
+
+Curso de termodinâmica/Relações fundamentais
+<br><br><br>
+As leis da termodinâmica para um sistema fechado:
+então:
+Por outro lado:
+então:
+Também:
+então:
+Nota: 
+A partir dessa equação, reencontramos o resultado dG = 0 para um processo reversível e conduzido à temperatura e pressão constantes.
+É, às vezes, útil definir a função de estado F, a energia livre de Helmholtz:
+então:
+Em resumo, para qualquer transformação reversível:
+formula_4
+formula_9
+formula_22
+formula_23
+A partir de cada uma destes diferenciais totais exatas, podemos expressar algumas derivadas parciais de E, H, F e G:
+formula_24
+formula_25
+formula_26
+formula_27
+e escrever as seguintes relações, chamadas "as relações de Maxwell", a partir do teorema de Euler sobre as diferenciais totais exatas:
+formula_28
+formula_29
+formula_30
+formula_31
+As relações fundamentais mostram que G é a função central da termodinâmica. Em efeito, se conhecemos completamente G em relação a T e P, podemos deduzir todas as outras funções do sistema:
+formula_32
+formula_33
+formula_34
+Nota sobre a validade das relações fundamentais: 
+Estas relações são válidas para qualquer processo reversível. Além disso, se as funções de estado do sistema dependerem só de duas variáveis independentes , a relação será válida para qualquer processo, mesmo irreversível. Um corpo puro (ou uma mistura com composição constante) é um exemplo de um tal sistema. É a conseqüência do fato que dE, expresso como a soma de dois termos em S e V, ou dG, expresso como a soma de dois termos em P e T, são diferenciais totais exatas.
+

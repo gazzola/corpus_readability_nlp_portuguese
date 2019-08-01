@@ -1,0 +1,12 @@
+Logística/Técnicas de previsão/Métodos ARIMA de Box-Jenkins/Verificação do modelo
+Antes de se poder utilizar o modelo em previsões, deve-se testar a sua adequação. Em termos práticos, um modelo é considerado adequado se os resíduos não puderem ser usados para melhorar a previsão, apresentam um comportamento aleatório (Hanke et al., 2008, p. 410).
+Muitas das representações gráficas de resíduos que são úteis na análise de regressão, podem ser desenvolvidos para os resíduos de um modelo Autoregressivos Integrados de Médias Móveis (ARIMA). Os histogramas e a distribuição normal, para confirmar a normalidade, e ainda a representação gráfica dos valores da série cronológica, para verificar a existência de "outliers", são particularmente úteis.
+As correlações individuais dos resíduos devem ser fracas e geralmente devem estar contidas no intervalo formula_1 em torno de zero.
+Autocorrelações significantes em intervalo baixos ou intervalos com componente sazonal, sugerem que o modelo não é adequado e que devemos proceder à escolha de um novo modelo.
+As autocorrelações dos resíduos, como grupo, devem ser consistentes com as produzidas por erros aleatórios.
+A análise geral à adequação do modelo, é feita pelo teste do qui-quadrado (formula_2)baseado na estatística "Q" de Ljung-Box. Este teste analisa as autocorrelações dos resíduos como um grupo. O teste da estatística "Q" é
+formula_3
+que segue uma distribuição, aproximadamente, igual a uma variável aleatória do qui-quadrado com formula_4 graus de liberdade onde formula_5 é o número total de parâmetros estimados no modelo ARIMA. Na equação acima descrita,
+Se o valor-"p" associado à estatística "Q" é pequeno (por exemplo, valor-"p" <.05), o modelo é considerado inadequado. O analista deve então considerar um modelo novo ou modificado e continuar a análise até que, seja determinado um modelo satisfatório.
+A capacidade de juízo é uma peça importante no processo de construção do modelo. Dois modelos simples, podem descrever os dados de forma adequada, sendo que a escolha pode ser feita com base na natureza da previsão. De realçar que, alguns resíduos grandes podem ser ignorados se, puderem ser explicados por circunstâncias incomuns, ficando o modelo adequado ao resto das observações (Hanke et al., 2008, p. 410-411).
+

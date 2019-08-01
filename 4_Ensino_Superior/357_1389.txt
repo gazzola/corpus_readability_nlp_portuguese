@@ -1,0 +1,33 @@
+ Cálculo (Volume 1)/Análise de funções elementares (2)
+Esta seção é a continuação do estudo trigonométrico, iniciado no capítulo anterior, que foi criada após o aumento progressivo do conteúdo. Quando definimos o seno e o cosseno fizemos a referência a seu significado no ciclo trigonométrico, da mesma forma introduziremos a tangente neste momento. Como já vimos anteriormente a derivada é uma função que representa a declividade de uma curva, da mesma forma podemos definir a tangente, pois essencialmente, ela representa a declividade do ciclo para cada ângulo em particular, ou seja, se traçarmos uma reta orgononal a cada ponto do ciclo trigonométrico e relacionarmos ao ângulo que forma com o eixo "x", teremos retas com declividades iguais às tangentes desses ângulos. Como cada ponto do ciclo é definido por formula_1 e o valor inicial formula_2 é sempre nulo, temos um valor de declividade tal que:
+formula_3
+que é:
+Desta forma também podemos concluir que a tangente é a representação do cateto oposto ao ângulo quando mantemos o cateto adjacente constante e unitário, cosiderando este ponto de vista, qual seria o valor da hipotenusa? Para definir "h", a hipotenusa, façamos :
+formula_5
+formula_6
+formula_7
+Da identidade relacional temos:
+formula_8
+portanto:
+formula_9
+Este valor é o que chamamos de secante, que é outra função importante para o estudo trigonométrico, então podemos dizer que:
+Nas próximas seções veremos que a secante mantém íntimas ralações com a tangente. Como definimos as identidades entre seno e cosseno, incluiremos as identidades que incluem tangente e secante nesta seção, todas são algebricamente dedutíveis e intercambiaveis. Seja "x" uma variável que expressa o ângulo em cada ponto do ciclo trigonométrico, entre formula_11 podemos afirmar que:
+Conforme visto nos conceitos iniciais logo acima, a relação é conseqüência direta das relações triangulares que definem as funções tangente e secante. Sendo "a" e "b" dois ângulos no ciclo trigonométrico:
+Comprovação:
+Considerando a definição da tangente temos:
+formula_14
+formula_15
+formula_16
+formula_17
+formula_18
+Resultando em:
+formula_13
+O que comprova a identidade. formula_20
+Comprovação:
+Admitamos formula_21 e teremos pela tangente da diferença:
+formula_22
+Considerando que a tangente é:
+formula_23
+E que o seno é determinante para o sinal enquanto o cosseno não é, concluímos que o sinal da tangente é igual ao da variável, tal qual se comporta o seno, logo:
+formula_20
+O que comprova a identidade.

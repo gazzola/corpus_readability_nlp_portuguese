@@ -1,0 +1,25 @@
+Logística/Localização/Selecção de locais/Selecção do local pela teoria dos conjuntos difusos/Avaliação do peso relativo de cada cidade em relação a cada critério subjectivo
+Nesta fase da aplicação da teoria dos conjuntos difusos, é avaliado, por parte dos gestores da empresa, cada critério, relativamente a cada alternativa de localização (A, B, C). As avaliações, relativamente a cada uma das cidades, sendo expressas através de atributos linguísticos, podem ter uma classificação entre dois grandes pesos (Sule, 2001, p. 26-28). Assim, é necessário conhecer os pesos numéricos dos vários atributos linguísticos, os quais se encontram apresentados na tabela seguinte. 
+Uma vez conhecidos os pesos numéricos para cada atributo linguístico, é necessário avaliar-se cada cidade em relação a cada critério específico, como representado na tabela seguinte.
+Através da observação da tabela anterior, "AC" representa a avaliação da cidade A, por parte de cada gestor, "G", relativamente ao critério "C", acessibilidade e infra-estruturas urbanas. Para as restantes cidades e critérios, a nomenclatura é análoga. Seguindo o procedimento anteriormente utilizado na determinação do peso dos critérios objectivos e subjectivos, é necessário determinar o valor do peso do limite superior, médio, e inferior para cada localização e para cada critério.
+Com base nas tabelas anteriores, para "AC", o valor destas avaliações, são:
+"Limite superior" = ("MB + M + EB e MB + EMF e F") / 4 = (1 + 0,8 + 1 + 0,5) / 4 = 0,825
+"Limites médios" = ("MB + M + EB e MB + EMF e F") / 4 = (1 + 0,6 + 0,9 + 0,3) / 4 = 0,7
+"Limite inferior" = ("MB + M + EB e MB + EMF e F") / 4 = (0,9 + 0,4 + 0,7 + 0) / 4 = 0,5
+Definindo "S" como o peso para o local "i" e critério "j", e efectuando cálculos semelhantes, obtém-se:
+"S" = (0,5; 0,7; 0,7; 0,825)
+"S" = (0,375; 0,6; 0,75; 0,9)
+"S" = (0,275; 0,525; 0,675; 0,825)
+"S" = (0,375; 0,6; 0,6; 0,775)
+"S" = (0,425; 0,625; 0,85; 0,95)
+"S" = (0,525; 0,75; 0,75; 0,875)
+"S" = (0,725; 0,875; 0,875; 0,95)
+"S" = (0,45, 0,675, 0,75, 0,9)
+"S" = (0,1; 0,375; 0,45; 0,625)
+"S" = (0,35; 0,525; 0,6; 0,775)
+"S" = (0,3; 0,525; 0,675; 0,825)
+"S" = (0,375; 0,6; 0,75; 0,9)
+"S" = (0,4; 0,55; 0,55; 0,7)
+"S" = (0,425; 0,625; 0,7; 0,825)
+"S" = (0,3; 0,525; 0,675; 0,825)
+

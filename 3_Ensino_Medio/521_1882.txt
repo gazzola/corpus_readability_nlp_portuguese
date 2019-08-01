@@ -1,0 +1,10 @@
+ O BrOffice.org disponibiliza vários recursos de Zoom para visualização e manipulação dos slides na tela. Diferentes visualizações 
+podem ajudar o usuário a construir slides mais detalhados ou obter uma visão mais geral da página. Este recurso encontra-se disponível na barra de ferramentas padrão. Na barra de status o usuário também terá acesso a algumas opções de zoom, clicar com o botão direito do mouse para 
+ativar o menu suspenso. Ao inserir uma caixa de texto, aparece uma tela de desenho ao seu redor. Com esta ferramenta é possível criar áreas de inserção
+de texto e movê-las para dentro do slide. A barra de ferramentas desenho possui ícones para inserção de caixa de texto. Pode ser aplicado efeito no texto inserido na caixa como: piscar, percorre, rolar para frente e para trás e rolar para dentro. Para isto, selecionar a caixa de texto e clicar no menu Formatar -> opção Texto. Na caixa de diálogo Texto, clicar
+na Guia Animação de Texto escolher o efeito e a posição para ocorrer o evento. Para desenhar formas perfeitas (com todos os lados iguais oou manter o tamanho do raio de um círculo), ao desenhar a
+figura no slide manter a tecla Shift pressionada. Para inserir formas básicas, clicar na barra de ferramentas desenho no ícone correspondente e selecionar o estilo desejado,
+depois clicar na área do slide e arrastar até formar o tamanho desejado. Para inserir símbolos ovais e elipticas, clicar na barra de ferramentas principal do ícone correspondente e selecionar
+o estilo desejado, depois clicar na área do slide e arrastar até formar o tamanho desejado. Para inserir um objeto 3D, clicar no menu Exibir -> Barra de Ferramentas -> Objetos 3D. Na barra de objetos selecionar
+a forma e, depois clicar na área do slide e arrastar até formar o tamanho desejado. Para inserir curvas, clicar na barra de ferramentas desenho no ícone selecionar o estilo desejado, depois clicar na área 
+do slide e arrastar até o tamanho desejado, para finalizar dê um duplo clique.

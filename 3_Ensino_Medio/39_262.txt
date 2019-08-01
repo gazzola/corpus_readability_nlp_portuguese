@@ -1,0 +1,20 @@
+Matemática elementar/Sistemas de equações algébricas
+Sistemas de equações algébricas são conjuntos de equações algébricas. Em tais equações, admite-se qualquer operação matemática. Por exemplo, em
+ocorre o produto de variáveis.
+Diferentemente de um sistema de equações lineares (formado por "linhas" - retas), nas equações algébricas os gráficos têm inúmeras formas. Estes apresentam essencialmente curvas, e podem ter várias soluções. O número de soluções de um sistema de equações algébricas é dado pelo número de intersecções que existem num gráfico. Exemplos:
+A solução de um sistema com duas equações são as coordenadas das intersecções nos gráficos. Portanto, a solução de x e y em um sistema qualquer é (x, y) da intersecção. Para um sistema com três variáveis, pode-se considerar um terceiro plano "z" para o gráfico.
+Para determinar tais coordenadas, utiliza-se o método da substituição. Por exemplo, no sistema
+isola-se uma das variáveis:
+Em seguida, substitui-se este novo resultado na equação seguinte:
+Eliminada uma variável, pode-se descobrir o valor da primeira:
+Para descobrirmos o valor de y, neste caso, utilizaremos a famosa fórmula de Bhaskara:
+Substituiremos y por tais valores na primeira equação:
+Assim, temos duas soluções para este sistema: (2; 3) e (3; 2).
+Um sistema com n equações pode possuir até n variáveis para que se possa determinar o valor de cada incógnita. Nestes casos, as intersecções devem ocorrer entre todas as equações envolvidas. Exemplo:
+Primeiramente, isolaremos uma incógnita em uma das equações. Optaremos pela primeira equação, por ser mais simples. Também, resolveremos a terceira equação:
+Substituiremos a incógnita isolada "x" por "-y" nas demais equações:
+Realizando a fórmula de Bhaskara, obteremos as raízes 0 e 1 na segunda equação. Na terceira, teremos 0 e -2. Já que a solução de um sistema é a intersecção dos gráficos, as raízes devem repetir em todas as equações. Portanto, a única raiz compatível é zero. Substituiremos os resultados compatíveis (neste caso, zero) em uma equação qualquer. Optaremos pela primeira:
+Assim, obtivemos o primeiro par ordenado: (0; 0). Agora, substituiremos a incógnita "-y" por "x" (ou "y" por "-x") na segunda e na terceira equação:
+Através da fórmula de Bhaskara, obteremos as raízes 0 e -1 na segunda e na terceira equação. Deste modo, ambos os resultados são compatíveis. Pelo fato de já termos substituído 0 na primeira equação no processo anterior (em que se descobriu o primeiro par ordenado), resta apenas substituir por -1. Optaremos, novamente, pela primeira equação:
+Conclui-se que (-1; 1) também é uma solução do sistema.
+

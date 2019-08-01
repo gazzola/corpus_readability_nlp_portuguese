@@ -1,0 +1,14 @@
+ Cálculo (Volume 3)/Sequências numéricas infinitas
+Uma sequência pode ser entendida como um conjunto de valores enumerados em uma ordem, de forma a estabelecer uma lista. Esta lista é, usualmente, denotada como formula_1, genericamente devido ao fato de que cada elemento pode ser identificado pela posição na lista. Temos, por exemplo, formula_2, como uma representação de uma sequência. Para se representar uma sequência, colocam-se os membros entre parênteses, seraparados por vírgulas (quando há números decimais na sequência, usa-se o ponto-e-vírgula). Exemplos:
+formula_3
+formula_4
+Vejamos alguns exemplos de sequências, notando que, a princípio, não há uma regra clara para estabelecimento de cada valor que os termos da mesma assumem:
+formula_5
+formula_6
+formula_7
+Por vezes, uma sequência possui um padrão que permite criar uma fórmula do termo geral. É uma equação fundamental que determina os termos da sequência. Em uma progressão aritmética, por exemplo, a fórmula do termo geral é:
+formula_8
+Apesar de não haver uma exigência de que haja uma equação que descreva o comportamento dos elementos de uma sequência, as sequências que mantem uma relação como regra para definição de seus termos são muito úteis para o estudo do comportamento numérico. De modo genérico, podemos dizer que o mais comum é estabelecer uma relação do numero que designa o ítem da sequência e o elemento. Por exemplo, podemos ter:
+formula_9
+Esta sequência nos fornece para cada termo a somatória dos números inteiros até o nésimo elemento da sequência. A função sequência tem um gráfico onde os valores são apresentados como pontos cuja magnitude é expressa em formula_10 e o número do indice da sequência é expresso em formula_11, vejamos o exemplo abaixo:
+Podemos observar que os pontos representantes das amplitudes fazem com que o aspecto do gráfico de uma sequência seja diferente do conjunto contínuo que nos abituamos a observar em gráficos de funções. Enquanto a função se mantém definida para formula_12, a sequência define valores em formula_13.

@@ -1,0 +1,36 @@
+Mecânica dos fluidos/Escoamento em velocidades supersônicas
+
+
+Mecânica dos fluidos/Tomadas de pressão
+Embora medidores de pressão não sejam abordados neste wikilivro, e sim no livro sobre Termodinâmica, é importante falar um pouco a respeito de como os sensores são instalados em tubulações.
+Quando se trabalha com um fluido corrosivo ou volátil, é usual evitar-se o contato deste com o sensor, o que se consegue por meio de um selo de pressão. O sensor é colocado dentro de um invólucro selado e cheio de um segundo fluido (fluido de selagem), não agressivo ao instrumento. A construção mecânica faz que a pressão externa no primeiro fluido (fluido de processo) seja transmitida ao fluido de selagem, possibilitando a medida indireta por meio do sensor. O selo de pressão também protege o sensor de excessiva variação na temperatura ou sujeira do fluido de processo, bem como de infiltrações.
+O fluido de selagem ideal precisa ser incompressível, de forma a transmitir perfeitamente a pressão ao sensor; possuir pequeno coeficiente de temperatura e elevado calor específico; possuir baixa viscosidade, de forma a conseguir trabalhar bem inclusive em baixas temperaturas; ser quimicamente estável em altas temperaturas.
+Em lugar do selo de pressão, pode-se fazer a tomada de pressão por meio de um repetidor pneumático de pressão. Este consiste de um tubo cheio de ar, pressurizado para que o fluido de processo não o invada e para evitar o efeito da compressibilidade do gás; um valor típico é 35k Pa. Qualquer alteração na pressão na abertura reflete-se na outra ponta, onde é colocado o sensor. Esta opção é mais barata que o selo, mas menos precisa.
+
+
+Mecânica dos fluidos/Exercícios resolvidos/E2
+Um cilindro de 12 cm de raio gira no interior de outro, que está fixo, e cujo raio mede 12.6 cm. Os eixos dos cilindros são concêntricos e ambos têm 30 cm de comprimento. É necessário aplicar um torque de 9.0 kg.cm para manter a velocidade de rotação em 60 rpm. Determinar a viscosidade do fluido que preenche o espaço entre os cilindros.
+Esse problema já foi resolvido anteriormente, considerando-se valores médios para todas as variáveis, tendo-se obtido o valor de 0.025 kg.s/m. Com a equação obtida para o fluxo entre dois cilindros para a tensão cisalhante τ e a velocidade v:
+formula_1
+formula_2
+podemos escrever que a potência mecânica requerida para girar o cilindro será dada por
+formula_3
+formula_4
+formula_5
+formula_6
+formula_7
+Assim, como P = Oω,
+formula_8
+formula_9
+formula_10
+formula_11
+
+
+Mecânica dos fluidos/Medidores de vórtices
+Esses medidores contam com um obstáculo que perturba o fluxo ("bluffer"), de forma a provocar o aparecimento de vórtices nas suas laterais. A intensidade desses vórtices exibe um caráter oscilatório. A frequência de oscilação relaciona-se com a velocidade do fluido da forma seguinte:
+formula_1
+onde L é o comprimento característico do obstáculo e N é o número de Strouhal. O obstáculo pode ter formas diversas, desde uma simples barra até um flange com múltiplas aberturas. 
+Neste caso, a variável secundária é a frequência de oscilação, que normalmente é obtida a partir da oscilação da pressão. Esta pode ser medida por diversos meios: manômetros, cristais piezoelétricos, etc.
+Os medidores de vórtices podem medir líquidos e gases, em amplas faixas de temperatura, com boa exatidão (de 1% a 0,5% do fundo de escala) e moderada rangeabilidade (20:1). Não são muito bons, no entanto, para trabalho com líquidos muito viscosos e tubulações muito largas (superiores a 6"). Além disso, provocam perda de carga e vibrações na tubulação.
+
+

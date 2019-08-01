@@ -1,0 +1,29 @@
+Mecânica dos fluidos/Conservação da energia
+Como consideramos nula a velocidade junto às paredes do duto, não há perda de energia nesses pontos por fricção. No entanto, se as irregularidades nas paredes forem grandes o suficiente para ultrapassar a região de camada limite, passa a existir perda de energia também aí.
+A rugosidade absoluta e é a altura média das irregularidades presentes nas paredes. A rugosidade relativa é a razão entre a rugosidade absoluta e uma medida da largura do duto; em dutos circulares, por exemplo, é a razão formula_1, onde D é o diâmetro do duto.
+A rugosidade em geral não influi quando o escoamento é laminar, pois a espessura da camada limite nesse caso é maior que as irregularidades das paredes. À medida que a velocidade do escoamento aumenta, o Número de Reynolds também cresce, o perfil de velocidade vai se tornando cada vez mais plano, a camada limite diminui e o efeito da rugosidade vai se tornando cada vez mais dominante.
+Ao longo do tempo, a rugosidade de um duto aumenta, devido a efeitos como sedimentação e corrosão, em fatores que variam entre 5 e 10 vezes.
+A perda de carga em um escoamento deve-se à transformação de parte da energia cinética do fluido em calor, devido à fricção entre as partículas. O calor gerado aumenta a energia interna do fluido, o que se reflete na elevação da temperatura; parte desse calor eventualmente atravessa as paredes do sistema e se perde.
+A primeira lei da termodinâmica nos informa que
+formula_2
+Como W = 0 e a quantidade de energia dentro do volume de controle não varia no tempo, se tomarmos um intervalo curto, teremos
+formula_3
+formula_4
+uma vez que a energia interna u e a pressão p podem ser consideradas constantes ao longo da seção vertical do duto. Introduzindo o chamado coeficiente de energia cinética 
+formula_5
+podemos escrever
+formula_6
+O coeficiente de energia cinética, que é adimensional, pode ser considerado como um fator de correção introduzido na fórmula devido ao fato de a velocidade do fluido não ser constante ao longo da seção do duto; se essa velocidade fosse constante, α seria igual a 1.
+Assim, tomando dois pontos 1 e 2 no escoamento,
+formula_7
+formula_8
+A parcela u - u corresponde ao aumento da energia interna do fluido: energia cinética transformada em calor, devido à fricção. A parcela referente à perda de calor é
+formula_9
+O termo
+formula_10
+é a perda de calor por unidade de massa do volume de controle. A equação tem a dimensão [Lt], o mesmo que energia por unidade de massa. Essa grandeza é algumas vezes chamada também de "perda de carga", mas o mais comum é dividir tudo por g de forma a obter-se a perda de carga em dimensão linear.
+formula_11
+O coeficiente de energia cinética tem valor 2 para escoamento laminar; para escoamento turbulento, de acordo com a "lei da potência", seu valor é dado por
+formula_12
+Para valores suficientemente elevados do número de Reynolds, a aproximação α = 1 é bastante razoável.
+

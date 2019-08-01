@@ -1,0 +1,21 @@
+Logística/Serviço ao cliente/Os elementos
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de contentorização e unitivo/Unificadores
+Segundo Tompkins et al. (1996, p. 175), existem outros equipamentos desenvolvidos para facilitar a formação e movimentação de unidades de carga. 
+A utilização de equipamentos de stretchwrap, shrinkwrap e cintar, asseguram que a composição da unidade de carga não se altere e desagregue, durante a sua movimentação. Os equipamentos de "stretchwrap", "shrinkwrap" e cintar, são utilizados para unitizar a unidade de carga. O "shrinkwrapping" é a colocação de um saco de plástico, de grandes dimensões, sobre a carga, aplicando, posteriormente, calor e sucção para moldar o plástico à carga. O "stretchwrapping" envolve uma tela de plástico esticada, em torno da carga e podem ser aplicadas múltiplas camadas, para obter maior grau de segurança, face às condições ambientais (como a chuva, humidade, vento, entre outras) que podem danificar a composição e qualidade da carga. As cintas podem ser de aço, fibras e de materiais plásticos, e são utilizadas para compactar a unidade de carga.
+As paletizadoras e despaletizadoras automáticas são utilizadas para empilhar e desconjuntar unidades de carga, respectivamente. As paletizadoras servem para conceber unidades de carga, paletizando os itens provenientes da linha de produção, ou de montagem, em conjunto com equipamentos de armazenagem de cargas (por exemplo: paletes), de acordo com padrões pré-especificados (Taylor, 2009, p. 7-11). Tipicamente, as paletizadores são equipamentos automatizados de alta velocidade, que possuem uma interface de controlo acessível para que os operadores possam facilmente controlar os processos de unitização. Segundo Tompkins et al. (1996, p. 176), as despaletizadoras têm a função de receber unidades de carga e desconjuntar a sua composição.
+
+
+Logística/Sistemas de informação/Indicadores de desempenho/Indicadores de utilização de recursos: equipamentos/Flexibilidade da linha de produção
+O indicador de flexibilidade da linha de produção é satisfatoriamente usado como uma medida de flexibilidade dum equipamento numa linha de produção, em relação ao fluxo duma peça. Este pode calcular-se da seguinte forma:
+"Indicador de flexibilidade da linha de produção" = "a" / "b"
+Em que:
+a = Número de máquinas ou postos de trabalho a realizarem operações na peça em consideração, concebidas/os de maneira a poderem ser deslocadas/os para um novo local na mesma linha de produção, num turno de trabalho;
+b = Número total de máquinas ou postos de trabalho a realizarem operações na peça em consideração, na linha de produção.
+Neste contexto, uma máquina representa qualquer dispositivo imóvel com uma fonte de energia separada ou individual (Apple, 1977, p. 430-431).
+
+
+Logística/Serviço ao cliente/Tempo de ciclo da encomenda/Ajustes no tempo de ciclo da encomenda/Restrições da encomenda
+Em determinadas circunstâncias, é imposto um tamanho mínimo de encomenda, para que se tenha quantidades que permitam cumprir uma programação pré-estabelecida ou que o cliente preencha formulários de encomenda de acordo com especificações também pré-determinadas. Estas restrições permitem eliminar alguns gastos desnecessários na distribuição das encomendas. Por exemplo, se as encomendas tiverem o tamanho mínimo e forem feitas de acordo com o cronograma de transporte do produto vão, na maior parte dos casos, contribuir para a redução dos custos e aumentar a rapidez das entregas. Para alguns clientes, o tempo real de ciclo da encomenda pode ser aumentado deste modo. Assim, pode ser possível a oferta do produto a mercados de baixo volume, o que não seria possível, com a mesma frequência e confiabilidade, noutras circunstâncias (Ballou, 2006, p. 101).
+

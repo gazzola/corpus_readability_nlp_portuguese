@@ -1,0 +1,16 @@
+Introdução à física/Termodinâmica/Calor e temperatura
+O calor e a temperatura são suas grandezas distintas e correlacionadas.
+O calor (Q) é uma energia que é fundamentada no grau de vibração das moléculas - a energia térmica (ou calorífera). O calor também interfere na velocidade das moléculas, e faz com que se altere seu estado físico, que são os seguintes:
+Sendo uma energia, a unidade pelo sistema internacional de medidas (SI) é o joule (j). No entanto, é muito comum a utilização de outras unidades, como a caloria (cal). Abaixo, você pode conferir a definição termodinâmica dessas unidades:
+Analogicamente:
+O calor, sendo uma energia, tem as mesmas propriedades que estas:
+No caso das transferências, o calor é transferido do meio mais energético para o menos energético. Podemos definir, em uma transferência energética em que:
+O calor pode ser dividido em dois tipos, que os diferencia da funcionalidade da energia térmica em determinado momento:
+A temperatura (T) é definida pela quantidade de calor para determinado material, produzindo sensações como "quente" e "frio". Tenha em mente que, para elevarmos a temperatura de uma determinada quantidade de água, é necessário menos calor que elevar à mesma temperatura uma chapa de ferro. Assim, calor e temperatura são grandezas diferentes!
+As unidades de temperatura usualmente utilizadas são o grau Celsius (°C) , grau Fahrenheit (°F) e o grau Kelvin (°K). Tais unidades constituem uma escala termométrica.
+A temperatura é o grau de agitação das moléculas ou átomos de um corpo.
+Lei Zero da Termodinâmica: Se um corpo A está em equilíbrio térmico com um corpo B e este por sua vez está em equilíbrio térmico com um corpo C, logo se deduz que A está em equilíbrio térmico com C.
+Como o calor é transferido dos meios quentes aos meios frios, ao misturarmos componentes de diferentes temperaturas, a tendência é que o sistema adquira uma temperatura única. O equilíbrio térmico ocorre quando um sistema térmico encontra-se unicamente em uma determinada temperatura.
+A temperatura absoluta (T) é o conceito de temperatura ligado à quantidade zero de calor e aos graus celsius. A unidade padrão da temperatura absoluta é o kelvin (°K). Pode-se dizer que:
+Tal conceito é denomidado zero absoluto, que constitui a temperatura de qualquer material quando não possui calor. Tal efeito nunca será registrado (ver propriedade da transferência), mas já se simulou temperaturas próximas.
+

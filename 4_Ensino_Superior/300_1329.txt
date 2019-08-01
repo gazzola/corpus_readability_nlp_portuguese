@@ -1,0 +1,58 @@
+Mecânica dos fluidos/Equações básicas em coordenadas cilíndricas para o líquido Newtoniano
+Como vimos anteriormente, a equação da continuidade em um sistema de coordenadas cilíndricas em a forma seguinte:
+formula_1
+Considerando ρ constante, ela se simplifica para
+formula_2
+E assim
+formula_3
+Componente r:
+formula_4
+formula_5
+Componente Θ:
+formula_6
+formula_7
+Componente z:
+formula_8
+formula_9
+
+
+Mecânica dos fluidos/Medidores de área variável
+Esses medidores, dos quais o tipo mais conhecido é o rotâmetro, oferecem uma área de passagem que é função da vazão. Essa variação na área é obtida por meio da inserção de um elemento que funciona como um obturador, cobrindo e descobrindo partes do orifício por onde o fluido vai passar em função da velocidade do fluxo.
+No rotâmetro, esse obturador consiste em um elemento flutuador (também chamado de "bóia" ou "peão") colocado em um tubo vertical de forma cônica, por onde o fluxo passa. O fluido entra por baixo e empurra o flutuador para cima até que a área descoberta para passagem do fluxo seja grande o suficiente e as forças sobre o flutuador se equilibrem. A altura que o fluxo levanta o flutuador é então uma indicação da vazão. Se o líquido não for transparente, pode-se medir a posição do elemento flutuador por meio de um sensor eletrônico.
+As vantagens dos rotâmetros são as seguintes:
+Como desvantagens, figuram a dificuldade de trabalhar em diâmetros muito grandes, o fato de serem mais frágeis, por geralmente possuírem um tubo de vidro, e o fato de requererem a montagem numa posição determinada (vertical, com o fluxo entrando por baixo).
+Os rotâmetros podem ser combinados com a placa de orifício para medir vazão em tubulações maiores. Para evitar a necessidade da montagem vertical, uma mola pode ser incluída de modo a fornecer a força de oposição ao fluxo.
+
+
+Mecânica dos fluidos/Exercícios resolvidos/A4
+um reservatório de volume igual a 70 m³ está sendo enchido de um óleo com densidade de 3500 kg/m³ por uma torneira com vazão de 0,7 kg/s. Em quanto tempo este reservatório estará cheio.
+
+
+Mecânica dos fluidos/Exercícios resolvidos/C3
+Água flui em um canal aberto de 3 m de diâmetro a uma velocidade de 0.5 m/s até atingir uma parede vertical com uma abertura de diâmetro igual a 0.4 m localizada na sua base. Comparar a força exercida pelo líquido sobre a parede nessas condições e quando a abertura está fechada por uma comporta.
+ρ = 1000 kg/m
+Como se trata de um canal livre, é mais fácil usar pressões manométricas. Seja F a força sobre a parede com a comporta fechada e F a força sobre a parede com a comporta aberta. No primeiro caso, apenas forças hidrostáticas estão presentes, e v = v = 0. Assim,
+formula_1
+onde p é a pressão no centro geométrico da parede e h é a profundidade desse centro. Logo,
+formula_2
+Para calcular F, apliquemos a equação da continuidade e a lei de conservação do momento linear sobre o volume de controle escolhido de forma a contornar o canal antes e depois da comporta:
+formula_3
+formula_4
+Como o fluido é incompressível e as velocidades são constantes
+formula_5
+formula_6
+formula_7
+Essa é a força total exercida sobre o fluido; uma parte se deve às forças hidrostáticas e a outra, à ação da parede.
+formula_8
+A maneira mais fácil de calcular a força hidrostática total F é considerar a situação da comporta fechada, calcular a força hidrostática exercida sobre a abertura e a força exercida na parede inteira, e fazer a subtração.
+formula_9
+formula_10
+formula_11
+Assim:
+formula_12
+formula_13
+formula_14
+formula_15
+formula_16
+A força exercida pelo líquido sobre a parede é igual e de sentido contrário: formula_17.
+

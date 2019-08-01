@@ -1,0 +1,14 @@
+ Ao criar uma Apresentação o usuário terá acesso a área exibida ao lado: Tela da Aplicação Impress
+Esta é a configuração padrão do BROffice.org - Apresentação (Impress). Para ter acesso a outras barras de ferramentas basta clicar no menu Exibir -> Barra de Ferramentas -> Clicar na barra desejada. A tela do aplicativo contém áreas importantes conforme descritas abaixo:
+O Impress permite 4 maneiras do usuário inserir um novo slide: 
+entre outras opções a inclusão de um novo slide. O Impress somente permitirá excluir um slide se a apresentação possuir no mínimo 2, conheça algumas maneiras para
+excluir um slide:
+O BROffice não apresentará nenhuma tela para o usuário confirmar a intenção de exclusão do slide. Opções para renomear um slide:
+Qualquer uma das opções apresentará a janela abaixo, para que o usuário efetue a alteração de nome do slide. O BROffice.org - Apresentação (Impress) permite 2 formas para duplicar um slide:
+Muitas vezes é necessário alterar o layout de um slide para inserir outros objetos, como: planilha, figura ou gráfico,
+pois para cada objeto o BROffice.org - Apresentação (Impress) disponibiliza um layout mais adequado dentre diversas 
+opções apresentadas no Painel de Tarefas. Cada botão da barra de ferramentas possui uma função específica. às vezes estas funções divididas em vários modos e funcionamento e,
+estão contidos no mesmo botão. Quando isso ocorre, o botão possui uma seta preta em seu canto superior. mantenha o ponteiro do mouse pressionado sobre
+esses botões para abrir as opções e escolher o modo desejado. A partir da versão 2.0.1 do BROffice.org é possível mover as barras de ferramentas para outra posição ou fixá-las
+em local desejado. Outra novidade é que diversas barras de ferramentas foram incorporadas nesta versão. Para exibir outras barras: clicar no menu exibir -> Barra de Ferramentas -> Selecionar a barra desejada. Para mover: posicionar o cursor do mouse no início da barra de ferramentas desejada até que o cursor do mouse exiba 
+duas setas cruzadas e, então manter o mouse pressionado e arrastar a barra para onde desejar.

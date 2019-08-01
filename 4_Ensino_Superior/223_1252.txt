@@ -1,0 +1,21 @@
+Logística/Movimentação de materiais/Equipamento/Equipamento de movimentação de materiais
+
+
+Logística/Gestão de existências/Introdução/Existências
+Existências são as quantidades armazenadas ou em processo de produção de quaisquer recursos necessários para dar origem a um bem (Filho, 2006, p. 62). Segundo Tersine (1988, p. 3), uma definição a atribuir às existências é a de material disponível num estado inactivo ou incompleto, a aguardar que seja vendido ou utilizado.
+O controlo e a manutenção de existências é um problema comum a todas as organizações em qualquer sector da economia. Os problemas relacionados com as existências não se limitam a instituições com fins lucrativos, uma vez que estão igualmente presentes nas instituições sociais e/ou de índole não lucrativo. Os "stocks" existem transversalmente na sociedade e são uma realidade comum a explorações agrícolas, fábricas, grossistas, comerciantes a retalho, hospitais, igrejas, prisões, jardins zoológicos, universidades, e governos locais, regionais e nacionais. Na verdade, as existências são também relevantes na unidade familiar no que diz respeito à alimentação, vestuário, medicamentos e produtos de higiene pessoal, entre outros.
+Numa base nacional agregada, o investimento total em existências representa uma parcela considerável do produto nacional bruto.
+Apesar deste problema existir desde sempre, o sector fabril privado apenas se começou a focar nos riscos e nos aspectos incertos dos "stocks" após a Segunda Guerra Mundial. Se, teoricamente, a gestão de "stocks" é a área das operações organizacionais mais desenvolvida, a prática mostra precisamente o contrário. Esta diferença diminui à medida que a gestão de materiais vai sendo incorporada na estrutura dos cursos das instituições educacionais (Tersine, 1988, p. 3).
+
+
+Logística/Referências
+
+
+Logística/Técnicas de previsão/Métodos ARIMA de Box-Jenkins
+Os modelos Autorregressivos Integrados de Médias Móveis, "Autoregressive / Integrated / Moving Average" (ARIMA) geram previsões através da informação contida na própria série cronológica (Hanke et al., 2008, p. 399). George Box e Gwilym Jenkins tornaram populares os modelos ARIMA no início dos anos 70, sendo os seus nomes usados, frequentemente, como sinónimos dos modelos ARIMA gerais, aplicados à análise de séries cronológicas e previsões. Os fundamentos teóricos são bastante sofisticados, mas é possível um entendimento claro da essência da metodologia ARIMA por parte de pessoas que não dominem técnicas estatísticas (Makridakis et al., 1998, p. 312).
+Existe uma grande variedade de modelos ARIMA. O modelo geral sem a componente de sazonalidade é conhecido como ARIMA("p,d,q") (Makridakis et al., 1998, p. 336-337):
+Um modelo de ruído branco é classificado como ARIMA(0,0,0) porque não apresenta componente autorregressiva (AR), não envolve nenhuma diferenciação e também não apresenta a componente média móvel.
+Utilizando o mesmo raciocínio, um modelo de passeio aleatório é classificado como ARIMA(0,1,0), pois não apresenta componentes autorregressiva e de média móvel, envolvendo apenas uma diferenciação.
+De realçar que, se "p", "d" ou "q" forem iguais a zero, o modelo pode ser escrito de forma abreviada, ignorando as componentes ausentes. Por exemplo, um modelo ARIMA(2,0,0) pode ser escrito como AR(2) pois não existe diferenciação, nem componente de média móvel.
+A metodologia Box-Jenkins, utiliza uma estratégia de construção de modelo de forma iterativa que consiste na selecção de um modelo inicial, cálculo dos coeficientes do modelo e por fim análise dos resíduos. Caso seja necessário, o modelo inicial é modificado e o processo é repetido até que a análise dos resíduos mostre que não se justifica nova alteração. Neste ponto, o modelo obtido, pode ser usado para previsões (Hanke et al., 2008, p. 407).
+

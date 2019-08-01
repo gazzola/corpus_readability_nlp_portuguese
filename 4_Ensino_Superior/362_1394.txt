@@ -1,0 +1,122 @@
+ As funções hiperbólicas inversas são particularmente interessantes, elas estão ligadas ao logaritmo natural e por este motivo, sua análise é excencialmente exponencial, como a análise das funções hiperbólicas, deste fato nascem novas possibilidades para lidar com problemas relacionados a análises de estruturas não lineares. As funções hiperbólicas são característicamente analisadas de forma semelhante às trigonométricas, o que nos sugere a análise da inversão das variáveis das equações hiperbólicas da forma:
+formula_251,
+Para a forma:
+formula_252
+Isto é particularmente fácil de implementar para funções do tipo formula_253, que são funções monótonas e contínuas, para as demais que restringem sua continuidade em um determinado intervalo, devemos adotar faixas para o domínio de cada uma em particular. É importante notar que, embora as funções hiperbólicas sejam semelhantes às trigonométricas, estas funções se baseiam em ângulos que devem ser analisados de forma diferente dos trigonométricos, lembre-se que o raio de uma função circular é constante, o que não acotece com uma função baseada em uma cônica, neste caso a hipérbole, por isso escolhemos a nomeclatura de "argfunch(x)", pois não podemos classificar os ângulos hiperbólicos como arcos. Agora consideremos a função formula_254, então:
+formula_255
+Podemos fazer formula_256, logo:
+formula_257
+O que resulta na equação:
+formula_258
+cujas raízes são:
+formula_259
+Podemos apenas admitir: formula_260, consequentemente:
+formula_261
+Substituindo as variáveis "x" por "y" e "t" por "x", temos a inversa de formula_253 que é:
+No caso de formula_264, a dedução é similar:
+formula_265
+Podemos fazer formula_256, logo:
+formula_267
+O que resulta na equação:
+formula_268
+cujas raízes são:
+formula_269
+Podemos apenas admitir: formula_260, consequentemente:
+formula_271
+Substituindo as variáveis "x" por "y" e "t" por "x", temos a inversa de formula_272 que é:
+Considerando as fórmulas deduzidas acima, temos:
+formula_275
+de onde deduzimos:
+formula_276
+formula_277
+resultando:
+E para formula_279
+de onde deduzimos:
+formula_280
+formula_281
+e finalmente:
+As integrais destas funções precisam de um tratamento diferenciado, utilizando-se os métodos do próximo capítulo: Técnicas de integração, proponho que o leitor as faça como exercício do mesmo. Considerando formula_284, temos:
+formula_285
+se formula_286:
+formula_287
+o que resulta na equação:
+formula_288
+cujas raízes são:
+formula_289
+Onde apenas podemos admitir formula_290 e formula_291:
+formula_292
+Substituindo "x" por "y" e "t" por "x":
+formula_293
+Que é a inversa da formula_294, portanto:
+Considerando formula_299, temos:
+formula_300
+se formula_286:
+formula_302
+o que resulta na equação:
+formula_303
+Cujas raízes são:
+formula_304
+Onde apenas podemos admitir formula_290 e formula_306:
+formula_307
+Substituindo "x" por "y" e "t" por "x":
+formula_308
+Que é a inversa da formula_309, portanto:
+Seja formula_312 formula_313, formula_314
+Deduzimos que sua derivada é:
+formula_315
+Que, depois de submetida à regra da cadeia e da razão, se torna:
+formula_316
+formula_317
+formula_318
+e, finalmente:
+Note que, devido à limitação do domínio imposto pela variável na função primitiva, a derivada herda a mesma limitação, uma vez que a função não existe fora deste domínio. Seja formula_321 formula_322,
+Deduzimos que sua derivada é:
+formula_323
+Que, depois de submetida à regra da cadeia e da razão, se torna:
+formula_324
+formula_325
+formula_326
+e, finalmente:
+As integrais destas funções precisam de um tratamento diferenciado, utilizando-se os métodos do próximo capítulo: Técnicas de integração, proponho que o leitor as faça como exercício do mesmo. Considerando formula_328, temos:
+formula_329
+se formula_286:
+formula_331
+o que resulta na equação:
+formula_332
+cujas raízes são:
+formula_333
+Onde apenas podemos admitir formula_290 e formula_291:
+formula_336
+Substituindo "x" por "y" e "t" por "x":
+formula_337
+Que é a inversa da formula_338, portanto:
+Considerando formula_343, temos:
+formula_344
+se formula_286:
+formula_346
+o que resulta na equação:
+formula_347
+Cujas raízes são:
+formula_348
+Onde apenas podemos admitir formula_290:
+formula_350
+Substituindo "x" por "y" e "t" por "x":
+formula_351
+Que é a inversa da formula_352, portanto:
+Seja formula_354 formula_355, formula_156
+Deduzimos que sua derivada é:
+formula_357
+Que, depois de submetida à regra da cadeia e da razão, se torna:
+formula_358
+formula_359
+formula_360
+e, finalmente:
+Note que, devido à limitação do domínio imposto pela variável na função primitiva, a derivada herda a mesma limitação, uma vez que a função não exite fora deste domínio. Seja formula_363 formula_364,
+Deduzimos que sua derivada é:
+formula_365
+Que, depois de submetida à regra da cadeia e da razão, se torna:
+formula_366
+formula_367
+formula_368
+e, finalmente:
+As integrais destas funções precisam de um tratamento diferenciado, utilizando-se os métodos do próximo capítulo: Técnicas de integração, proponho que o leitor as faça como exercício do mesmo.

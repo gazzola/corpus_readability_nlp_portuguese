@@ -1,0 +1,20 @@
+Logística/Embalagem/Metal/Vantagens e desvantagens
+As embalagens metálicas têm como principais vantagens (Sustainability, [2008?]):
+As embalagens metálicas têm como principais desvantagens:
+
+
+Logística/Sistemas de informação/Processamento de encomendas/Transmissão da encomenda
+Quando a encomenda já foi efectuada, a primeira actividade a efectuar no ciclo de processamento é a transmissão de informações. Esta actividade passa por transmitir os documentos do ponto de origem da encomenda para o fornecedor. Esta transmissão pode ser realizada manualmente, por serviço postal ou entregue por funcionários; ou electronicamente, por telefone para números gratuitos, por fax, comunicações via satélite, "Electronic Data Interchange" (EDI) e através da Internet.
+O tempo para a transmissão de informações varia conforme o método utilizado, sendo a transmissão via postal o método mais lento e o transmissão electrónica o método mais rápido. As características de desempenho que têm de ser pesadas para a escolha do método a utilizar são a rapidez, a confiabilidade e a precisão, que devem ser comparadas com o seu preço e custo de operação. A relação entre o desempenho e as receitas são ainda o maior desafio.
+Uma grande dúvida é qual é o melhor método a utilizar entre a EDI e a Internet. Se, por um lado, a EDI é o método mais seguro, pois não há risco de fuga de informações, é muito mais dispendioso do que a Internet. Apesar de haver uma grande quantidade de empresas a utilizar o EDI, o aperfeiçoamento e aumento da segurança da Internet tem como consequência a troca de informações via EDI e Internet deixarem de ser diferenciáveis (Ballou, 2006, p. 123).
+
+
+Logística/Gestão de existências
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de movimentação de materiais/Transportadores/Belt conveyor
+Belt conveyor, é como se designa o transporte por correia, que podem ser fabricadas de borracha, plástico, couro ou metal. Usualmente este sistema de transporte de materiais é constituído por uma correia unida a duas roldanas maioritariamente movidas por força mecânica. As duas roldanas rodam no mesmo sentido movendo assim a correia e consequentemente o material a ser transportado. Os produtos ou matérias a transportar são colocados sobre a correia e por meio de energia esta é colocada em movimento efectuando o transporte dos produtos entre dois pontos. Podem ser transportados vários tipos de produtos em forma de embalagem, a granel, ou simplesmente desagregados. (MHIA, [200?]).
+Este é um sistema de transporte contínuo, ou seja não existe paragem na movimentação de material, o que requer que exista dois pontos muito distintos, um de partida, e outro de chegada. 
+A correia é composta por uma ou mais camadas de material tendo em conta os factores e as condições em que vão trabalhar, como o material a transportar ou as condições atmosféricas. Usualmente são compostas por duas camadas. Uma camada inferior para proporcionar tracção entre a correia e as roldanas e uma camada superior devidamente escolhida consoante o material a transportar. 
+Este sistema pode ser aplicado para transportar material já embalado ou a granel como é visível na indústria de extracção de minérios. Nesta indústria, é muitas vezes necessária a extracção de minério de pontos muito altos ou muito baixos relativamente ao ponto de chegada, o que cria acentuadas inclinações, como tal é necessário existir na camada superior sub-camadas com inclinação contrária suficiente para que o material não escorregue nem saia da linha de transporte ao longo da correia. 
+

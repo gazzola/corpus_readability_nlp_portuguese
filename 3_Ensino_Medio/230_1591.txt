@@ -1,0 +1,17 @@
+ formula_11
+formula_22
+Note que cada termo da espansão do trinômio é a combinação de uma das letras de cada fator, por exemplo:
+O termo formula_23 , veio da combinação da letra b do primeiro fator, letra a do segundo e letra c do terceiro
+O termo formula_24 , veio da combinação da letra c do primeiro fator, letra c do segundo e letra a do terceiro. Daí pode-se concluir que para montar um termo você terá obrigatoriamente que escolher n letras, sendo n
+o expoente do trinomio, pois vão ter "n" fatores para um trinomio com potência "n", logo, 
+a soma dos expoentes das letras dos termos sempre vão ser iguais ao expoente do trinômio, por exemplo:
+No termo formula_25, a soma do expoente da letra a e da letra b da 3, que é o expoente do trinômio. Sabendo que cada termo é proveniente da combinação de uma das letras de cada fator vamos buscar agora
+qual é o coeficiente de cada termo procurado. Imagine um trinômio com potência 5, com certeza vai aparecer
+um termo formula_26, quantas são as possibilidades de se obter esse termo quando realiza-se a distribuição? Note que temos ali 5 escolhas, pois o expoente do trinômio agora é 5, formula_27, convencionando o seguinte:
+A primeira letra é proveniente do primeiro fator, a segunda letra é proveniente do segundo fator, e assim
+respectivamente. Pense que dentro do arranjo formula_27 poderíamos ter o seguinte, formula_29, ou formula_30, 
+assim estamos simplesmente mudando qual letra escolher de cada um dos 5 fatores. Por exemplo, em
+formula_29 a letra do segundo fator foi b e em formula_30 a letra do segundo fator foi a, 
+ambos termos são equivalente pela regra de comutação da álgebra. Porém obrigatoriamente vamos ter que escolher duas vezes o a, uma vez o b, e duas vezes o c,
+nao importando de qual fator que você escolha. Deu para notar que os arranjos são permutações de 5 letras com repetição de 2 a s e 2 c s, 
+ou seja, vão existir formula_33 termos com esse arranjo, que por sua vez irá ser o coeficiente de tal termo.

@@ -1,0 +1,11 @@
+ Dois conjuntos "A" e "B" são ditos iguais se, e somente se, têm os mesmos elementos. Ou seja, todo elemento de "A" é elemento de "B" e vice-versa. A simbologia usada é formula_68. Se um conjunto não é igual a outro, utiliza-se o símbolo formula_69. Um conjunto "A" é dito simétrico se, para todo elemento "a" pertencente a ele, houver também um elemento "-a" pertencente a esse conjunto. Os conjuntos numéricos Z, R, Q e C são simétricos. Por exemplo:
+Observar no último exemplo que os elementos repetidos (3,5) não aparecem na união. A intersecção de dois conjuntos formula_33 e formula_52, é o conjunto de elementos que pertencem aos dois conjuntos. Ou então: "Dados dois conjuntos formula_33 e formula_52, pertencentes a um universo "U", chama-se "intersecção de A com B" ao conjunto cujos elementos pertencem tanto a formula_33 quanto a formula_52. Matematicamente:
+Por exemplo:
+Observar no último exemplo que, dado os conjuntos não terem elementos iguais, a intersecção resulta num conjunto vazio. Dado um universo "U" ao qual pertencem dois conjuntos "A" e "B", chama-se "diferença de A menos B" ao conjunto de elementos que pertencem a "A" e não pertencem a "B"; chama-se de "diferença de B menos A" ao conjunto de elementos que pertencem a "B" e não pertencem a "A". Matematicamente:
+Por exemplo, o conjunto definido pela diferença entre os números inteiros e números naturais é igual ao conjunto Z (números inteiros não-positivos):
+Dado um universo "U", diz-se complementar de um conjunto "A", em relação ao universo "U", o conjunto que contém todos os elementos presentes no universo e que não pertençam a "A". Também define-se complementar para dois conjuntos, contanto que um deles seja subconjunto do outro. Nesse caso, diz-se, por exemplo, "complementar de B em relação a A" (sendo "B" um subconjunto de "A") — é o complementar relativo — e usa-se o símbolo formula_98. Matematicamente:
+Exemplo:
+A cardinalidade de um conjunto "A" representa a quantidade de elementos do conjunto, e é 
+Exemplos:
+Se um conjunto tem "n" elementos, onde "n" é um número natural (possivelmente 0), então diz-se que o conjunto é um conjunto finito com uma cardinalidade de n ou número Número cardinal n.
+Mesmo se o conjunto não possui um número finito de elementos, pode-se definir a cardinalidade, graças ao trabalho desenvolvido pelo matemático Georg Cantor.

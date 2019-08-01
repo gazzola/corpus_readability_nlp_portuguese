@@ -1,0 +1,40 @@
+Matemática elementar/Trigonometria/Lei dos senos e dos cossenos
+Em qualquer triângulo, o quadrado de um dos lados é igual à soma dos quadrados dos outros dois lados, menos o dobro do produto desses dois lados pelo cosseno do ângulo formado entre eles. A saber:
+Esta é uma das maneiras de demonstrar a lei dos cossenos.
+Considerando a figura, podemos observar três triângulos: formula_4 
+Destes, pode-se extrair as seguintes relações: formula_5 e formula_6 
+Usando o Teorema de Pitágoras para obter uma relação entre os lados dos triângulos, temos:
+Substituindo formula_11 e formula_12 em formula_13 
+formula_14
+formula_15
+formula_16
+Entretanto, pode-se substituir a relação formula_17 do triângulo formula_18 na equação acima. Dessa maneira, encontra-se uma expressão geral da Lei dos cossenos:
+formula_19
+Da mesma forma, pode-se demonstrar as demais relações:
+formula_20
+formula_3
+A Lei dos Cossenos permite calcular o comprimento de um lado de qualquer triângulo conhecendo o comprimento dos demais lados e a medida do ângulo oposto a esse. Ela também permite calcular todos os ângulos de um triângulo, desde que se saiba o comprimento de todos os lados. 
+O seno de um ângulo de um triângulo qualquer é proporcional à medida do lado oposto a esse ângulo. A saber:
+Para demonstrar a lei dos senos, tomamos um triângulo formula_61 qualquer inscrito em uma circunferência de raio formula_30 A partir do ponto formula_63 pode-se encontrar um ponto diametralmente oposto formula_64 e, ligando formula_65 a formula_66 formamos um novo triângulo formula_67 retângulo em formula_68 
+Da figura, podemos perceber também que formula_69 porque determinam na circunferência uma mesma corda formula_70 Desta forma, podemos relacionar:
+formula_71
+formula_72
+formula_73
+Fazendo todo este mesmo processo para os ângulos formula_74 e formula_75 teremos as relações:
+formula_76 e formula_77 em que formula_78 é a medida do lado formula_79 oposto a formula_74 formula_81 é a medida do lado formula_82 oposto a formula_75 e formula_84 é uma constante.
+Logo, podemos concluir que:
+Seja um triângulo não isósceles e não retângulo formula_61 cujos ângulos internos e medidas dos lados estão indicadas na figura. 
+A lei das tangentes estabelece que, para qualquer triângulo que não seja isósceles nem retângulo, valem as seguintes relações:
+formula_87
+formula_88
+formula_89
+Para demonstrar a Lei das tangentes, podemos partir da Lei dos senos:
+formula_90
+formula_91
+Usando uma propriedade das proporções, temos que:
+formula_92
+Substituindo nessa equação as fórmulas de transformação de soma em produto, temos:
+formula_93
+formula_94
+Analogamente, pode-se provar as outras duas relações.
+

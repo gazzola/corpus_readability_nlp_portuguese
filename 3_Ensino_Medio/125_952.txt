@@ -1,0 +1,17 @@
+Introdução à física/Mudança de fase/Calor latente
+O calor latente é o calor adquirido quando um dos materiais de um sistema atinge o ponto de fusão ou de ebulição e o sistema encontra-se em equilíbrio térmico. Ao absorver determinada quantidade deste calor, tais moléculas têm vibração suficiente para serem aprisionadas ou libertadas - e mudam de estado físico. A quantidade de calor necessária para a mudança de fase pode ser dada por:
+Onde:
+Você deve perceber que é necessário muito mais calor latente para evaporar um grama de água que um quilograma, sendo assim, a massa da substância acaba tornando-se essencial para a fórmula. 
+Abaixo, veja alguns valores para "L" em cal/g:
+Em uma chaleira, encontram-se 300 gramas de água a 25° C. Quanto de calor, em calorias, seria necessário para que toda a água evaporesse, desprezando perdas energéticas com outros meios? Considere o calor específico da água igual a 1 cal.g.°C.
+Devemos considerar o calor sensível para se atingir o ponto de ebulição, juntamente ao calor latente:
+Substituindo-se (como o ponto de ebulição da água é a 100 °C, ΔT = 100 - 25 = 75):
+E então:
+Assim, seria necessário 184.710 calorias para que toda a água evaporasse.
+Em um sistema térmico, pode ocorrer de haver mudanças de estados físicos. Nestes casos, temos pela lei da conservação do calor (Q = calor sensível ou latente, Q calor da fonte):
+Devemos, então, considerar o calor latente e o sensível, se necessário.
+Em um recipiente homogêneo feito de chumbo de massa 1 kg, há 200 gramas de água. Inicialmente, o sistema estava a 25 °C, e atinge o equilíbrio térmico a 100 °C, sendo que é evaporado uma certa quantidade de água. Sabendo que foi fornecido 76.570 calorias ao sistema, e desprezando qualquer perda energética, quanto de água foi evaporado? Considere o calor específico do ferro igual a 0,1 cal.g.°C e o da água igual a 1.
+Substituindo pelo calor sensível e latente:
+Resolvendo:
+E então:
+

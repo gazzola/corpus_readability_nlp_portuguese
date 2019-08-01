@@ -1,0 +1,18 @@
+ Análise real/Continuidade
+Agora que definimos o limite de uma função, estamos prontos para definir o que significa para uma função ser contínua. A noção de Continuidade captura a intuitiva imagem de uma função "sem oscilações bruscas ou saltos". Veremos alguns exemplos de funções descontínuas que ilustram o significado da definição. A idéia de funções contínuas é encontrada em várias áreas da matemática, além de análise real. Seja formula_1; formula_2; formula_3;
+Dizemos que formula_4 é contínua em formula_5 se, e somente se, para todo formula_6, existe um formula_7 tal que:
+Seja formula_9; formula_2; formula_3;. Dizemos que formula_12 é contínua em formula_13 se formula_12 é contínua em formula_15, para todo formula_16. Dizemos que formula_17 em si é contínua, se esta condição vale para todos os pontos em formula_18. Se formula_19 é uma união de intervalos, a declaração é equivalente a dizer que formula_20. Demonstração
+Dado formula_22, e formula_23 real, temos
+Como estamos trabalhando com formula_30 próximo de formula_23, temos
+Definindo formula_34, se
+Portanto formula_12 é contínua em formula_23, para todo formula_23 real. Demonstração
+Fixemos um ponto formula_40 e formula_41, e procedemos com a fatoração da potência:
+Definamos, agora, 
+Por definição, formula_44, portanto, se formula_45, temos:
+Assim:
+Sejam formula_48 funções contínuas e formula_49 um número real, então valem as seguintes propriedades:
+Podemos usar limites seqüenciais para provar que funções são descontínuas da seguinte forma:
+Outro resultado que nos permitirá construir muitos exemplos de funções contínuas é que qualquer composição de funções contínuas em si é contínuo:
+Se formula_60 e formula_61 são contínuas, então a composição formula_62 é contínua sobre A.
+Seja formula_63; formula_16. Uma vez que f é contínua, formula_65. Desde que g é contínua, formula_66. Assim formula_67, por isso formula_68 é contínua sobre A.
+Este é o grande teorema sobre continuidade. Basicamente ele diz que funções contínuas não tem interrupções bruscas ou saltos. Seja f(x) uma função contínua.

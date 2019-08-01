@@ -1,0 +1,16 @@
+ = durações das reparações nesse período, em horas
+Observar que não se consideraram os tempos de espera TE1, TE2, etc., isto é, os tempos que decorrem entre o Pedido de Trabalho e o Início da Reparação, como tempos de não operação. Com rigor, talvez devessem assim ser considerados e, portanto, adicionados dentro do parênteses (TR2 + TR3, etc...), para computar a disponibilidade. De facto, na maioria dos casos, o Pedido de Trabalho é feito quando o equipamento avaria / imobiliza. Porém, preconiza-se não os considerar como imobilização para o cálculo da Disponibilidade tendo em consideração os seguintes factores:
+• É complicado, na prática, ancorar consistentemente a data e hora do Pedido de Trabalho;
+• Nem todas as reparações são alvo de um Pedido de Trabalho
+• O Tempo de Espera está mais ligado às condições de atendimento do serviço de Manutenção do que às características do equipamento;
+• O indicador MWT (Mean Waiting Time), que se aborda mais adiante, caracteriza bem o tempo de espera. • E insistimos: a Disponibilidade é um indicador e o mais importante, em termos de gestão, é ter consistência. Para um conjunto de equipamentos a disponibilidade para determinado período será:
+D = (TT – Σ TRi)/TT
+Em que:
+???? TT = Tempo total do período de análise = número de dias * 24 horas
+???? Σ TRi = somatório das durações das reparações em todos os equipamentos do conjunto nesse período, em horas. Observar-se-á que para um período suficientemente longo a disponibilidade é praticamente igual a:
+D = MTBF / MTBF + MTTR
+Há quem goste de utilizar o conceito de Disponibilidade Prática que difere da anterior (Disponibilidade Teórica) na medida em que, em vez de considerar que a imobilização é o tempo de reparação, considera que é só o tempo de perda de produção. Assim:
+D prática = (TT – Σ TPPi) / TT
+Em que:
+TT = Tempo total do período de análise = número de dias * 24 horas
+Σ TPPi = somatório dos tempos de reparação que invadiram os períodos em que as máquinas deveriam estar a produzir.

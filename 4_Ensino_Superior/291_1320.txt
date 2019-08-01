@@ -1,0 +1,90 @@
+Mecânica dos fluidos/Exercícios resolvidos/B1
+Calcular a pressão no oceano a uma profundidade de 1500 m, considerando a água salgada como um líquido compressível com ε = 21.000 kg/cm e densidade absoluta de 1025 kg/m na superfície.
+ε = 21.000 kg/cm
+Da definição de módulo de elasticidade volumétrica
+formula_1
+Como equação de estado, utilizemos a relação ρV = m = constante. Assim, d(ρV) = ρdV + Vdρ = 0, e
+formula_2
+Integrando, teremos
+formula_3
+Da equação básica
+formula_4
+tiramos que dp = - ρdz = ρdh, pois vamos considerar h como uma profundidade (h = -z). Assim,
+formula_5
+Integrando, teremos
+formula_6
+formula_7
+formula_8
+E assim
+formula_9
+formula_10
+formula_11
+formula_12 (pressão manométrica)
+
+
+Mecânica dos fluidos/Exercícios resolvidos/C11
+Deduza a equação de Bernoulli a partir da forma diferencial da primeira lei da termodinâmica.
+A forma diferencial da primeira lei da termodinâmica é a seguinte:
+formula_1
+Para fluidos incompressíveis e com viscosidade nula, σ = - p, ρ = ρ = ρ. Além disso, a quantidade de calor fornecida ao elemento de volume é, por hipótese, nula. Assim, a diferença na energia interna u - u só poderá dever-se a alguma variação na energia potencial gravitacional (gz - gz). Logo:
+formula_2
+formula_3
+que é a equação procurada.
+Quando houver fluxo de calor para o elemento de volume, a equação continuará sendo válida, contanto que 
+formula_4
+onde δu é a variação da energia térmica do elemento de volume. A função de Gibbs
+formula_5
+onde S é a entropia, é válida para qualquer substância pura, em qualquer processo; para um fluido incompressível, dV = 0. Logo
+formula_6
+formula_7
+A igualdade vale quando o processo é reversível. Assim, a equação de Bernoulli é válida também para a situação em que calor é fornecido ao elemento de volume, contanto que o fluido seja uma substância pura e o processo seja reversível.
+
+
+Mecânica dos fluidos/Exercícios resolvidos/E13
+Calcular a vazão através do tubo do exercício E11, para uma profundidade do reservatório igual a 5 m.
+Do exercício anterior, sabemos que
+formula_1
+Mas o cálculo se torna complicado porque N é função da velocidade. Para resolver a equação, será preciso empregar um processo iterativo.
+No primeiro passo, consideremos fluxo plenamente turbulento; para a rugosidade relativa de 0.0015, o fator de fricção será considerado como igual a 0.022 e
+formula_2
+formula_3
+O que resulta num Número de Reynolds de
+formula_4
+formula_5
+Esse valor de N não corresponde a turbulência plena. Será preciso calcular um novo N pela fórmula de Miller:
+formula_6
+e continuar o processo.
+Com o fator de fricção considerado como igual a 0.023
+formula_7
+O que resulta num Número de Reynolds de
+formula_8
+O novo N pela fórmula de Miller será então:
+formula_9
+E o processo pode ser interrompido. A vazão procurada será
+formula_10
+
+
+Mecânica dos fluidos/Exercícios resolvidos/E17
+Calcular a vazão de saída de água de um reservatório com altura de 10 m, descarregando livremente na atmosfera, considerando 
+Calcular também a pressão na abertura e a velocidade de descarga na atmosfera, após a instalação do difusor. Considerar o valor do coeficiente de recuperação de pressão como 0.3 (um valor baixo).
+Independentemente do formato da embocadura,
+formula_1
+Considerando α = 1,
+formula_2
+O Número de Reynolds será
+formula_3
+o que faz com que a aproximação α = 1 seja bastante razoável. Assim, a vazão será
+formula_4
+formula_5
+formula_6
+formula_7
+O difusor foi ineficaz, devido à grande perda introduzida pela abertura em ângulo reto.
+formula_8
+formula_9
+A vazão aumentou em quase 30%. A pressão na abertura é calculada da seguinte maneira:
+formula_10
+formula_11
+A pressão na abertura cai bem abaixo da pressão atmosférica. Já a velocidade de saída será
+formula_12
+Uma queda muito grande. O exemplo mostra que, mesmo um difusor com um valor baixo de N pode ser bastante eficaz. Um difusor pode ter um N de 0.7 ou ainda maior.
+

@@ -1,0 +1,18 @@
+Logística/Gestão de armazéns/Necessidades de espaço/Dimensionamento baseado nos custos
+A análise prévia do espaço necessário para a armazenagem dedicada foi baseada inteiramente nas considerações do nível de serviço. Sob condições determinísticas, o tamanho do sistema de armazenagem, foi determinado como sendo igual à soma dos requisitos máximos para cada produto. Quando existem condições aleatórias, duas abordagens são consideradas: minimizar a quantidade de espaço necessário para assegurar que a probabilidade de ocorrer uma falta não é maior que a quantidade pré-especificada, e dada a capacidade de armazenagem, repartir o espaço entre os produtos de modo que a probabilidade de falta seja maximizada.
+A dimensão de armazenagem pode ser determinada através de modelos de custos. Esses modelos podem reflectir os custos de propriedade e espaço de operação versus contratação de espaço ou sujeito a falta de espaço. Para motivar a consideração de modelos de dimensionamento baseado nos custos, considere uma situação em que o custo para fornecer Qj posições de armazenagem para o produto j é igual à soma de um custo fixo de construção de posições Qj, o custo variável de armazenagem do produto j por cada período de tempo, e um custo variável que ocorre quando o espaço necessário excede Qj (Francis et al., 1992, p. 265).
+Para se calcular uma situação em condições determinísticas utiliza-se a seguinte formulação:
+Minimizar
+formula_1
+formula_2 Capacidade de armazenagem destinada ao produto j.
+formula_3 Duração do planeamento em períodos de tempo.
+formula_4 Espaço de armazenagem necessário para o produto j durante o periodo t.
+formula_5 Custo total sobre o planeamento como uma função do conjunto de capacidades de armazenagem
+formula_6 Desconto do custo actual por unidade de capacidade de armazenagem destinada durante o planeamento de T períodos de tempo. 
+formula_7 Desconto do custo actual por unidade armazenada no seu espaço destinado durante o período de tempo t. 
+formula_8 Desconto do custo actual por unidade armazenada num espaço alugado ou por unidade de escassez de espaço durante o período de tempo t.
+formula_9 
+formula_10
+formula_11 
+formula_12
+

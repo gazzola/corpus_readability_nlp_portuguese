@@ -1,0 +1,11 @@
+ Agora, basta-nos substituir os valores na equação:
+formula_118
+temos:
+formula_119
+formula_120
+formula_121
+A distância é:
+Superfícies são conjuntos de pontos no espaço cujo comportamento e aparência se assemelham aos planos. Uma superfície tem a aparência de uma folha de material flexível que assume curvas de acordo com a função que a representa, embora a mesma não seja flexível e mantenha a sua forma no espaço aparentemente rígida. De fato, uma superfície é como uma lâmina que mantém a sua forma depois que é moldada. Com o estudo de superfícies simples teremos melhores condições de analisar estruturas de superfícies mais complexas. Cilindro, não é a definição de um elemento de base circular e altura definida, na verdade a noção de cilindro é algo mais universal... Qualquer elemento formado por retas paralelas delimitando uma certa região no espaço pode ser chamado de cilindro. Uma superfície cilíndrica é uma membrana formada por infinitas retas paralelas em torno de uma região do espaço, estas retas são chamadas de geratrizes. Um cilindro circular convencional pode ser algebricamente concebido sob a forma:
+formula_123
+Onde formula_124 são as variáveis e formula_125 é uma constante que define o raio da base do cilindro. Você deve achar estranho que isto se pareça com a equação de uma circunferência, porém, de fato, esta é uma circunferência em um gráfico de duas dimensões e um cilindro circular em outro de três dimensões. Em um sistema de três dimensões definimos três variaveis, visto que a variável formula_73 não está definida na equação acima, temos que admitir que qualquer ponto do eixo formula_73 pertence ao gráfico definido pela equação acima, ou seja, para cada ponto definido no plano formula_128 existe um conjunto de pontos paralelo ao eixo formula_73, o que define uma de reta paralela ao eixo z e, imediatamente, um conjunto de retas paralelas a este eixo, uma para cada ponto do plano formula_128. Por estes motivos, o gráfico gerado pela equação acima é:
+Este também pode ser considerado um cilindro elíptico, uma vez que podemos tomar dois valores de eixos para a abertura do mesmo.

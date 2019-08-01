@@ -1,0 +1,13 @@
+Matemática elementar/Plano de Argand-Gauss
+Observe a seguinte função, em que "i" = :
+Em um plano cartesiano, seria impossível representá-la graficamente, admitindo-se que em tal as variáveis devem ser números reais. Entretanto, admitamos a possibilidade de o gráfico poder ser representado, e façamos o seu contradomínio:
+Observa-se que a função conservou suas características originais, isto é, as características de uma função afim qualquer. Para representá-la no plano, transformaremos o eixo das ordenadas (y) em um "eixo imaginário" ("yi"), fazendo a simples multiplicação por "i" para todo "y". O resultado que teremos é de um plano denominado plano de Argand-Gauss (ou "plano complexo"). Nestes casos, a parte real da função é caracterizado no gráfico pelo "eixo real" ("Re"):
+formula_2
+Este plano é utilizado essencialmente para os números complexos. 
+Seja o número complexo "z = a + bi", "a" é a parte real, e portanto, determina a distância entre o ponto "z" e o eixo imaginário. Já a parte imaginária é determinada por "bi", que fornece a distância entre o ponto "z" e o eixo real. Os seguintes exemplos ilustram as coordenadas de alguns números complexos:
+Neste, você deve notar que:
+O argumento ("arg" ou θ) de um número complexo é o ângulo que a sua função - ao partir da origem -, no plano de Argand-Gauss, forma com o eixo real. Desta forma, podemos dizer que o ângulo de f(x) = axi, considerando que f(0) = 0, é:
+O valor absoluto ou módulo (representado por ρ, |z| ou r) é a distância entre a origem e um ponto do plano de Argand-Gauss. Sendo "z = ax + bi", tal distância é dada pelo teorema de Pitágoras:
+Também, para um número complexo ordinário "z = a + bi", as seguintes relações trigonométricas são verdadeiras:
+Sabendo que a distância entre o ponto do número complexo "z = + bi" e a origem do plano de Argand-Gauss é b + 1, descubra o valor de b e o argumento de z.
+

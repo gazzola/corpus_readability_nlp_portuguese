@@ -1,0 +1,18 @@
+Logística/Gestão de armazéns/Picking/Procedimentos de organização/Picking por onda
+Este procedimento funciona à semelhança do "picking" discreto, ou seja, cada operador é responsável por um pedido e por um tipo de produto de cada vez. A diferença entre os dois está na programação de um certo número de pedidos ao longo do turno. Normalmente este tipo de procedimento é utilizado para coordenar as funções de separação de pedidos e despacho (Medeiros, 1999).
+
+
+Logística/Serviço ao cliente/Fiabilidade
+A qualidade logística representa fiabilidade. Uma questão fundamental de qualidade em logística é a capacidade de cumprir níveis de disponibilidade e performance operacional. Para além dos serviços básicos, a qualidade envolve a capacidade e vontade de fornecer rapidamente informação precisa ao cliente em relação a operações logísticas e o estado da encomenda. Estudos indicam que a capacidade de uma empresa fornecer essa informação é uma das medidas mais importantes na avaliação do cliente em relação à competência do serviço. O comportamento dos clientes têm indicado que a fornecimento de informação detalhada sobre o estado e tempos previstos da encomenda é mais crítico do que o cumprimento integral da ordem. Com essa informação o cliente pode antecipar e adaptar-se a uma quebra de existências.
+Outra característica adicional ao serviço é a melhoria continua da qualidade. Gestores logísticos, à semelhança de outros, têm a preocupação de cumprir objectivos com o menor número de problemas. Uma das técnicas para a melhoria, é estudar os problemas e aperfeiçoar o sistema logístico para prevenir o seu reaparecimento.
+Outro ponto chave da qualidade logística é a medição. A disponibilidade e a performance operacionais são criticas aos olhos dos clientes, mas só podem ser mantidas recolhendo informação correcta. 
+
+
+Logística/Planeamento e projecto de instalações/Automated Layout Design Program (ALDEP)/Funcionamento/Regras de seleção
+A seleção de actividades é baseada numa tabela de REL. É necessário especificar as actividades que necessitam de relacionamentos (actividades dependentes umas das outras). Após selecionar aleatoriamente a primeira actividade, uma segunda actividade é selecionada respeitando as relações, não havendo relação a próxima actividade é selecionada aleatoreamente. 
+Ao escolher aleatoriamente a actividade é escolhida de forma imparcial, ela é vista pelo algoritmo como um número e não como uma actividade. Por exemplo, se tivermos 10 actividades para um lugar, o programa vai gerar um numero aleatório entre 1 e 10 seleccionando assim a actividade com esse número (Francis et al., 1992, p. 158).
+
+
+Logística/Gestão de armazéns/Operação de um armazém/Missões de um armazém
+O armazém tem dentro de uma empresa um papel importante, contribuindo para o bom funcionamento da cadeia logística. A missão de um armazém é expedir produtos com qualquer configuração, para o passo seguinte da cadeia logística, sem os danificar ou modificar de forma indesejável. Para isso há muitos passos a dar e, portanto, algumas oportunidades de melhoria nas operações do armazém, que podem ser aproveitadas. Melhorando os métodos, tem-se melhor desempenho. Se o armazém não conseguir processar as encomendas de forma rápida, eficaz e precisa, então os esforços de melhoria da cadeia logística da empresa irão ser prejudicados. A tecnologia de informação e a distribuição desempenham um papel importante na melhoria das operações do armazém. O melhor sistema de informação, no entanto, não servirá de nada se os sistemas físicos necessários para fazer sair os produtos do armazém tiverem restrições, forem mal utilizados ou estiverem desactualizados (Tompkins et al., 2003, p. 403).
+

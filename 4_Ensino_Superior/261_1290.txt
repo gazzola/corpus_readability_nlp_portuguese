@@ -1,0 +1,23 @@
+Logística/Embalagem/Vidro/Vantagens e desvantagens
+No Reino Unido, 20% do peso das embalagens e 10% de todos os bens são embalados em vidro (Sikora, 2009, p.1075).
+Segundo Sikora (2009, p.1206), garrafas, jarros e ampolas feitos em vidro são muito usados nas embalagens da indústria alimentar e farmacêutica.
+As características das embalagens de vidro são as seguintes (Sikora, 2009, p.1206 e Mariano, 2008, p.3):
+
+
+Logística/Gestão de devoluções/Custos
+O mercado está cada vez mais competitivo e globalizado, isto leva a que a eficiência e a produtividade assumam papéis vitais no sucesso de uma empresa.
+Nestes últimos anos as empresas investiram muito em logística, perceberam que a logística assume um papel muito importante para todo o processo de produção, a pré-transacção, transacção e pós-transacção do produto e que uma boa logística pode fazer com que o custo do produto seja reduzido.
+A isto tudo existe um custo associado. Neste momento os custos de qualidade estão incluídos nos custos logísticos, que são: custos de inspecção, custos de revisão, custos de devolução do produto (despesas com a recepção e substituição do produto não conforme), custos decorrentes da reparação e serviços previstos na garantia do produto, custos decorrentes da investigação de queixas por parte dos clientes, mais outros tipos de custos que podem ser por exemplo: custo de armazenagem e de transporte.
+Todos os custos referenciados no parágrafo anterior são considerados custos de devolução. São muitos os custos associados à devolução se o processo de produção e de pré-transacção não forem bem acompanhados, deverá haver uma boa estratégia de inspecção e revisão antes de entregar os produtos aos clientes.
+Logo, pode-se dizer que as empresas devem fazer todos os possíveis para que a devolução não aconteça.
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de movimentação de materiais/Transportadores/Chain Conveyor
+Chain conveyors, é o transporte derivado do uso de correntes, usualmente utilizado para o transporte de cargas muito pesadas. É um transporte contínuo de material que é accionado por meio motor. Este sistema é utilizado em muitos sectores industriais, tais como indústria automóvel. É um sistema bastante resistente ao desgaste, e é assim a escolha possível para indústrias que necessitam de transportar cargas muito pesadas 
+Os transportadores mecânicos de corrente são uma parte essencial de muitos sistemas de transporte e armazenamento, geralmente são utilizados para a movimentação e distribuição de material em massa. Em geral a maioria dos grãos, flocos e pós de livre fluxo podem ser manuseados com um transportador mecânico de corrente. A selecção do tipo de transportador e da corrente depende das características do material a ser transportado. 
+
+
+Logística/Gestão de existências/Encomendas únicas/Procura e tempo de aprovisionamento variáveis
+Quando ambos a procura e o tempo de aprovisionamento são variáveis, o problema é mais complexo. Uma vez que não se utiliza nenhum produto durante o tempo de aprovisionamento, o atraso numa entrega pode resultar na perda de procura. A procura pode ser determinada independentemente do tempo de aprovisionamento, como no caso em que a procura é variável mas o tempo de aprovisionamento é constante. O tempo de aprovisionamento pode ser fixado no seu nível máximo ou num nível de serviço aceitável. 
+As peculiaridades do problema das encomendas únicas ditam qual a política a seguir, no que se refere à determinação do tempo de aprovisionamento. As estipulações contratuais podem simplificar o problema do tempo de aprovisionamento, quando é utilizada procura vinda do exterior (Tersine, 1988, p. 314). 
+

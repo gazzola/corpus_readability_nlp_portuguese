@@ -1,0 +1,20 @@
+Análise real/Complementar
+
+
+Análise real/Enumerabilidade
+Seja formula_5 um conjunto finito. Seja formula_6 uma bijeção, onde formula_7. Logo f é bijetiva. Portanto X é enumerável.
+Seja formula_8 o conjunto dos números naturais. Seja formula_9 uma bijeção, onde formula_10. Logo f é bijetiva(é fácil mostrar a bijetividade). Portanto formula_11 é enumerável.
+Seja formula_12 o conjunto dos números pares naturais. Seja formula_13 uma bijeção, onde formula_14. Logo f é bijetiva(é fácil mostrar a bijetividade). Portanto formula_15 é enumerável.
+Seja formula_16 o conjunto dos números impares naturais. Seja formula_17 uma bijeção, onde formula_18. Logo f é bijetiva(é fácil mostrar a bijetividade). Portanto formula_19 é enumerável.
+Seja formula_20 uma bijeção, onde formula_21. Logo f é bijetiva(é fácil mostrar a bijetividade). Portanto formula_22 é enumerável.
+É possível provar que os seguintes conjuntos são enumeráveis:
+Ou se dado Y enumerável e formula_23 injetiva, então X é enumerável
+formula_28
+Além disso, é possível provar que formula_29 e formula_30 tem a mesma cardinalidade; uma conjectura interessante neste ponto seria mostrar que todo conjunto infinito é enumerável. Esta conjectura, porém, é falsa.
+formula_31
+formula_32
+Cantor mostrou que o conjunto dos números reais tem mais elementos que o conjunto dos números naturais, no sentido preciso seguinte: existe uma função injetiva formula_33, mas não existe uma função bijetiva formula_33
+Assim, o conjunto dos números reais não é enumerável, assim como qualquer conjunto equipotente a ele (o conjunto dos números complexos, o conjunto das funções contínuas formula_35, o conjunto das sequências de números reais, o conjunto das partes de formula_36, etc), ou conjuntos de maior cardinalidade (o conjunto das partes de formula_29, o conjunto das funções formula_35, etc).
+Existem várias provas de que formula_29 não é enumerável; as provas consistem em supor uma sequência de números reais formula_40 e exibir um número real "x" que não está nesta sequência.
+Uma das provas utiliza o princípio dos intervalos encaixados, que será visto no capítulo Completude; a demonstração está no capítulo Sequências.
+

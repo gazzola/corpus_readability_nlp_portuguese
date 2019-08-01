@@ -1,0 +1,36 @@
+ É preciso utilizar alguma técnica mais sofisticada. Para dar continuidade ao exemplo, considere que o poliedro formula_46 é dado por
+com formula_56 e formula_3. Agora será aplicado o esquema de dualidade. A lagrangiana é
+além disso,
+e a última igualdade vale pois a função é fortemente convexa. Considerando formula_63, se deduz que
+Logo,
+Observe que, sendo os autovalores de formula_50 positivos, o mesmo vale obrigatoriamente para formula_67. Assim, como a expressão de formula_18 envolve formula_69, tal função é fortemente côncava (conforme já era esperado para tal função). Baseado nestas deduções, o problema dual é
+ou seja,
+Usualmente este tipo de problema formula_41 é resolvido por meio do método do gradiente projetado. O método baseia-se na seguinte proposição:
+Este algoritmo é bastante simples. Agora, é interessante observar como se faz para projetar um ponto em formula_78. Seja formula_79. Então a projeção de formula_14 sobre formula_81 é :
+Devido a essa simplicidade ao se fazer a projeção de um ponto, o método do gradiente projetado é muito eficiente para resolver o problema formula_41. Seja formula_84. Como calcular a projeção do ponto formula_85 sobre o conjunto formula_46, formula_87? end{align}</math>
+Fazendo formula_88 tem-se:
+Donde
+Logo,
+Logo, o problema dual é
+ou seja,
+Agora, para a resolução deste problema dual, pode-se usar o método do gradiente projetado. Para isso, note que o gradiente de formula_18 é:
+Seja formula_96 e escolha formula_97. formula_98
+formula_99
+Logo, a solução dual é
+Agora, substituindo tal solução na lagrangiana, obtem-se o problema:
+que é um problema quadrático sem restrições. Neste caso, basta igualar o gradiente a zero para determinar uma solução:
+formula_102
+Donde formula_103 e formula_104. De acordo com a teoria desenvolvida, a solução formula_105 do problema é também solução do problema original, pois o produto é igual a zero (ver condições da proposição). Ao resolver o problema formula_106, poderia ter sido escolhido formula_107 em vez de formula_108. Será que isso influenciaria o resultado final? Acompanhe como ficaria a resolução desta maneira:
+l(x,y,u,v)</math>
+formula_109
+Como a função é quadrática , podemos calcular o gradiente e igualar a zero:
+formula_110 formula_111
+Donde, formula_112 e formula_113
+Substituindo na função formula_18 temos: 
+formula_115
+formula_116
+formula_117
+O problema dual fica então: 
+formula_118
+Que é equivalente a:
+formula_119

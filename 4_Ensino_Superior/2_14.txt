@@ -1,0 +1,32 @@
+Curso de termodinâmica/Capacidade calorífica
+A capacidade calorífica C mede o efeito da adição de calor sobre a temperatura do sistema. Em outros termos, é uma medição da energia térmica que precisamos adicionar ou retirar do sistema para modificar a sua temperatura. Rigorosamente:
+formula_1
+com dimensões [C]=[energia]/[temperatura]. 
+A capacidade calorífica não é, em geral, uma função de estado. Porém, na transformação com volume ou pressão constantes, existe uma ligação entre o calor Q e a mudança de E ou de H. 
+formula_2 a volume constante 
+formula_3 a pressão constante 
+formula_4são funções de estado. 
+A capacidade calorífica dos corpos puros varia com a temperatura. Por este motivo, representamos, as vezes, a capacidade calorífica por uma função mais ou menos complexa de T. Por exemplo, para CO (g) sob uma pressão de 0.1 atm: 
+formula_5
+Das definições das capacidades caloríficas temos : 
+formula_6
+que fica, utilizando a definição de H: 
+formula_7
+ou ainda 
+formula_8
+Para simplificar mais, precisa explicar como E varia com a temperatura a pressão constante. A energia é uma função de estado de P, V e T. Porém P, V e T são ligados pela equação de estado do sistema. Só há então duas variáveis independentes. Podemos expressar E em relação de qualquer par de variáveis escolhidas entre as três. Se nos expressar-mos E em relação a T e V, por exemplo, a diferencial dE se escreve:
+formula_9 
+Porém, a equação de estado permite de expressar V em relação de T e P. Esta função V(T,P) tem uma diferencial total exata: 
+formula_10
+Substituindo dV assim obtido na diferencial dE: 
+formula_11 
+ou ainda: 
+formula_12 
+Este resultado deve ser comparado com a diferencial total de E expressa, esta vez em relação a P e T: 
+formula_13
+Como P e T são, neste caso, as duas variáveis independentes, dV e dT podem tomar qualquer valor (infinitamente pequenas) e precisa então que : 
+formula_14
+o que leva, após rearranjo, a : 
+formula_15
+formula_16que mede a mudança de energia do sistema sob o efeito de uma mudança isoterma de volume , tem as dimensões de uma pressão. Chama se pressão interna do sistema.
+

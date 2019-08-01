@@ -1,0 +1,13 @@
+ De forma a observar a evolução dos valores podemos esboçar as curvas de formula_18 , formula_19 e em relação ao parâmetro e assim teremos uma idéia de como o gráfico será desenvolvido, poderemos então esboçar formula_20, veja abaixo:
+Temos uma circunferência. Isto confirma que a função paramétrica que gera os pontos formula_21 representa uma circunferência. Da mesma forma isto nos fornece uma visualização do que acontece quando analisamos um gráfico de forma parcial, ou seja, temos uma função formula_22, outra formula_23 e, finalmente, formula_24, se acompanharmos o desenvolvimento das funções simples que formam os valores para cada ponto, temos uma idéia do que acontece com a função paramétrica composta pelas mesmas. Como deve estar explícito, fizemos com que a função que determina os valores de formula_25 varie ao longo do eixo formula_26 e que a função que determina os valores de formula_26 varie ao longo do eixo formula_25, o artifício aqui usado permite que usemos os eixos como base temporária para o parâmetro formula_29, ou seja ao analisar a função de formula_25 devemos considerar formula_31, fazendo o oposto com a função que determina formula_26. Algumas funções paramétricas são comumente usadas ou citadas devido a sua excentricidade e sua história... As análises abaixo nos ajudarão a compreender melhor estas funções, além de nos dar uma visão mais detalhada de como esboçar e prever seu comportamento. As equações paramétricas que definem a reta estão relacionadas diretamente à inclinação de um segmento em particular, estas aão:
+formula_33 definida como:
+formula_34
+Onde formula_35 e formula_36, são os pontos que definem a reta. Observe que temos uma progressão linear dos valores de das variáveis da reta a medida que atribuimos valores ao parâmetro, isto nos permite verificar que as relações independentes para cada variável contibuem para uma concordância com a equação da reta que todos já conhecemos, podemos verificar isto aplicando a eliminação do parâmetro nas equações acima, façamos:
+formula_37
+formula_38
+formula_39
+Uma vez que:
+formula_40
+onde formula_41 é o coeficiente angular para dois pontos. Temos:
+formula_42
+Que é a clássica equação da reta, que todos conhecemos.

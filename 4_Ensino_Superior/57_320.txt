@@ -1,0 +1,12 @@
+Logística/Sistemas de informação/Indicadores de desempenho/Taxa de rotação dos stocks
+Segundo Malheiro ([2005], p. 1-2), a taxa de rotação dos "stocks", um dos indicadores de gestão mais eficazes, baseia-se na relação entre o movimento anual e o "stock" médio, ou seja, o número de vezes que o "stock" médio "roda" por ano. Por outras palavras, este indicador traduz as necessidades de "n" meses que o "stock" é capaz de satisfazer. 
+Imagine-se, por exemplo, que a empresa Agape, uma das maiores fabricantes mundiais de impressoras, mantém um "stock" relativo a três meses da produção, ou de venda. Logo, pode afirmar-se que a sua taxa de rotação dos "stocks" é 4.
+O cálculo da taxa de rotação dos "stocks", para uma única referência de produtos, baseia-se na seguinte fórmula (em quantidades):
+"Taxa de rotação dos stocks" = "Consumo médio anual" / "Stock disponível" 
+No caso de existir mais do que uma referência de produtos, o indicador é calculado da seguinte forma (em valor monetário):
+"Taxa de rotação dos stocks" = "Valor do consumo médio anual" / "Valor do stock disponível"
+Considerando agora um conjunto de artigos diferentes ou as suas classificações possíveis, isto é, produtos acabados, produtos em vias de fabrico ou matérias-primas, pode calcular-se a taxa de rotação dos "stocks" do seguinte modo:
+"Taxa de rotação dos stocks" = "Custo das vendas" / "Valor do stock médio agregado"
+Com o valor do "stock" médio agregado relativo às unidades mantidas em "stock", num determinado período de tempo. 
+Apesar de a taxa de rotação dos "stocks" ser muito importante na tomada de decisões relativas ao nível de "stock" a manter num determinado período, não é condição suficiente. É essencial saber prever as eventuais irregularidades de consumo e os atrasos nos prazos de entrega dos fornecedores. Além disso, é importante comparar o capital investido em "stocks" na mesma empresa, ao longo do tempo, ou entre empresas do mesmo sector.
+

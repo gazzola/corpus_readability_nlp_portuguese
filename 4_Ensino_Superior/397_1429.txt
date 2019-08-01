@@ -1,0 +1,48 @@
+ e ainda, quando temos,
+formula_54
+isto é o mesmo que:
+formula_55
+Que só é válida se:
+formula_56
+Que nos revela a tangente vertical. Portanto, para um esboço do gráfico de uma função com representação polar podemos encontrar a derivada:
+formula_57
+Encontrando os pontos onde a derivada tende a valores infinitos ou nulos para encontrar as tangentes verticais e horizontais, depois identificamos os intervalos onde a função é ascendente ou descendente juntamente com a análise da seqüência dos valores dos ângulos para cada ponto. Agora iremos fazer um esboço de um gráfico, para que tenhamos noção dos conceitos apresentados nesta seção. Esboçaremos o gráfico polar da função seno:
+formula_58
+Para isso encontremos a derivada para identificar os ãngulos onde há tangentes verticais e horizontais, calculando os valores da função e identificando as tendências, para que possamos ter uma estimativa do comportamento dos valores que delineiam o gráfico:
+Calculemos as tangentes verticais e horizontais:
+formula_40
+formula_60
+formula_61
+formula_62
+Para as tangentes horizontais:
+formula_64
+Para este caso temos os ângulos:
+formula_65
+Que nos fornece os valores para a função:
+formula_66
+Para as tangentes veticais:
+formula_67
+formula_68
+formula_69
+formula_70
+formula_71
+Para este caso temos os ângulos:
+formula_72
+Podemos utilizar os dados obtidos com as derivadas para facilitar o esboço de gráficos da mesma forma que fizemos no caso das funções paramétricas, as regras são as mesmas, ou seja:
+Consideremos o ângulo como parâmetro, teremos as seguintes equações:
+O que define as equações da seção anterior para que possamos encontrar estes valores, por outro lado também temos outros dados que facilitam o cálculo de tangentes verticais e horizontais:
+Quando temos,
+formula_51
+isto é o mesmo que:
+formula_52
+Que só é válida se:
+formula_53
+Que nos revela a tangente horizontal. e ainda, quando temos,
+formula_54
+isto é o mesmo que:
+formula_55
+Que só é válida se:
+formula_56
+Que nos revela a tangente vertical. Portanto, para um esboço do gráfico de uma função com representação polar podemos encontrar a derivada:
+formula_57
+Encontrando os pontos onde a derivada tende a valores infinitos ou nulos para encontrar as tangentes verticais e horizontais, depois identificamos os intervalos onde a função é ascendente ou descendente juntamente com a análise da seqüência dos valores dos ângulos para cada ponto.

@@ -1,0 +1,16 @@
+ Assim o número de maneiras de obter 44 caras e 36 coroas é: 
+formula_3
+o que é muito maior que o número de maneiras de obter 79 caras e 1 coroa:
+formula_4
+Como todas as maneiras tem a mesma probabilidade, é a situação mais provável ´e aquela que se obtém do maior número de vezes possíveis . É também a situação que aparece como a mais desordenada. Em resumo
+UM SISTEMA TEM A TENDÊNCIA DE SE ENCAMINHAR PARA uma SITUAÇÃO DE DESORDEM MÁXIMA PORQUE É ESTA SITUAÇÃO QUE ACONTECE DO MAIOR NÚMERO DE MANEIRAS POSSÍVEIS
+Como avaliar quantitativamente a desordem de um sistema? Um meio é a avaliação do número de maneiras de arranjar todas as partículas do sistema em todas as posições e os níveis de energia disponíveis. O arranjo mais provável é aquele que pode ser obtido do maior número de maneiras. Consideramos, para simplificar, um sistema isolado, de energia total E, composto de N partículas distribuídas sobre níveis de energia não-degenerados (as partículas postas sobre um certo nível não podem ser distinguidas entre elas). Além disso, suponhamos que os níveis de energia são regularmente separados, seja que a diferença de energia entre dois níveis sucessivos é uma constante formula_5. De quantas maneiras (ou microestados) podemos produzir cada arranjo (ou distribuição) das partículas sobre estes níveis? Exemplo 1: N = 3 ; E = 3formula_5 
+Tem só três distribuições possíveis cuja energia total é 3formula_5:
+A distribuição a pode só ser obtida de uma maneira:
+A distribuição b pode ser obtida de 3 maneiras:
+A distribuição c pode ser obtida de 6 maneiras:
+O número total de maneiras de distribuir as partículas do sistema considerado é 1 + 3 + 6 = 10. O tempo que passa o sistema em cada distribuição é proporcional aos números de maneiras de obtê-lo. É a distribuição c que é observada com mais freqüência, com uma probabilidade de 60%. Exemplo 2: N = 14 ; E = 28 
+Esta vez, temos um grande número de distribuições possíveis entre elas:
+O cálculo do número de permutações w para cada distribuição confirma mais uma vez que são as distribuições muito desordenadas que são as mais prováveis. O número W é uma medição da desordem do sistema. A distribuição a mais provável é aquela que possui o número de permutações W máximo. Matematicamente, podemos demonstrar que W é máximo quando:
+formula_12
+onde n e formula_13 representam a população e a energia do nível i. Esta relação entre as populações dos diversos níveis produz o que chamamos a distribuição de Boltzmann. No nosso caso, temos, formula_14 . k é a constante de Boltzmann, que é ligada à constante dos gases perfeitos por formula_15.

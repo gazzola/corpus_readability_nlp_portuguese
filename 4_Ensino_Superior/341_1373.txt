@@ -1,0 +1,15 @@
+ Considerando que uma função não constante deve ter um valor máximo e outro mínimo em um segmento de seu domínio, quais são as possibilidades de análise que teríamos com as suas derivadas, visto que estas expressam tendências da declividade da função? Vejamos o que podemos extrair das derivadas de uma função, que são expressões da declividade da curva que a representa e nos intui a possibilidade de antever o curso dos valores da função ao longo do domínio. Seja a função formula_17 cujo domínio limitamos em formula_18, a menos que formula_17 seja constante, 
+Definimos por número crítico, o valor assumido pela variável independente, de forma que seu resultante na imagem da função derivada seja nulo ou inexistente, o que na maioria das vezes se apresenta como um limite infinito. Ou seja:
+formula_26 tem derivada formula_27 e "c" é um número crítico da função se:
+Quando temos um número, dentro do intervalo, que obedece as condições acima, dizemos que é um "número crítico"; todas as vezes que uma função contínua tem um número cujo valor correspondente na imagem é maior ou menor que os valores dos outros, temos um máximo ou um mínimo no intervalo, intuitivamente, se a função é contínua e há um valor maior ou menor que os outros no mesmo intervalo é fácil concluir que a função terá que variar sua curva, variando a declividade de um valor positivo para outro negativo, o que nos leva a conclusão que, no limite entre os dois, ela terá que ser zero, fica claro então que quando há um extremo no intervalo, o valor numérico de sua derivada é nulo. Vejamos a demonstração algébrica do teorema:
+Seja os números formula_30, onde "c" é um número crítico do intervalo considerado, inicialmente, observando a derivada de formula_31, quando este valor é o maior no intervalo:
+formula_32
+e da mesma forma:
+formula_33
+O que nos leva a concluir que:
+Por outro lado se formula_31 é o menor valor do intervalo:
+formula_36
+e da mesma forma:
+formula_37
+O que nos leva a concluir que:
+Logo em ambos os casos o limite que nos dá a derivada da função em "c" tem valor nulo. Portanto sempre que temos um valor de uma função que é extremo em um intervalo, seja maior ou menor, este terá sua derivada nula.

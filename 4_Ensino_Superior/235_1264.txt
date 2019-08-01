@@ -1,0 +1,23 @@
+Logística/Sistemas de informação/Processamento de encomendas
+O processamento de encomendas representa várias actividades incluídas no ciclo de encomendas do cliente. Dependendo do tipo de encomenda, estas actividades necessitam de um determinado tempo para serem completadas. Mais concretamente, as actividades são (Ballou, 2006, p. 122):
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de identificação e comunicação automática/Comunicação automática, sem papel/Auscultadores e microfone
+Os auscultadores e microfone são equipamentos relevantes nas operações logísticas, uma vez que são utilizados para que o operador e os sistemas computorizados possam comunicar, entre si (ver Figura 1 e Figura 2).
+Segundo Tompkins et al. (1996, p. 277), os sistemas de comunicação por voz e reconhecimento de voz são sistemas assistidos por computador, que permitem a comunicação entre o operador e os sistemas computorizados. Os sistemas de reconhecimento de voz permitem a conversão da fala humana, para um formato digital, e exigem uma grande base de dados de palavras e frases, de modo a que as ordens dadas pelo utilizador possam ser comparadas e processadas (Tanchoco, [2000]e). Os sistemas de comunicação por voz permitem que o sistema de gestão de armazém ("warehouse management system", WMS) comunique as ordens e operações que o operador terá que realizar, através de sinais de radiofrequência (Frazelle, 2002, p. 305). O operador possui um terminal portátil de radiofrequência colocado à cintura, ou noutra parte do corpo, que irá receber os sinais de radiofrequência, que, posteriormente, serão convertidos e escutados nos auscultadores (ver Figura 3).
+Estes equipamentos são utilizados em situações, onde a visão e as mãos do operador encontram-se ocupadas na realização de outras operações (Tompkins et al., 1996, p. 277). 
+
+
+Logística/Gestão de devoluções
+
+
+Logística/Sistemas de distribuição/Escala de veículos/Meta-heurística para CPEV
+Com o avanço tecnológico dos últimos anos foi possível através da utilização de computadores propor novas e melhores soluções. Em geral são algoritmos que vão buscar a construção de rotas da heurística clássica, utilizando processos melhorados para explorar o espaço de soluções, para identificar boas respostas ao problema.
+A meta-heurística admite deterioração e mesmo soluções impossíveis intermediárias no percurso de procura de soluções. Os melhores processos conhecidos desenvolvidos para PEV, tipicamente identificam um boa solução local do que heurísticas clássicas, contudo tendem a ser mais demoradas.
+Existem seis principais tipos de meta-heurística aplicados a PEV:
+Os três primeiros algoritmos, começam a sua formulação pela solução formula_1 movendo-se a cada iteração formula_2 de formula_3 a uma solução formula_4 na vizinhança formula_5 de formula_3, que a condição seja satisfeita. Se formula_7 for o custo de formula_8, então formula_9 não é necessariamente menos de formula_10. Devendo-se ter especial cuidado para evitar novo ciclo.
+Por outro lado, (4) examina a cada passo o espaço de soluções. Cada amostra é processada pelo anterior, combinando os seus melhores elementos e descartando os piores.
+Optimização da colónia de formigas, por seu lado, é uma abordagem construtiva. Onde a informação adquirida a cada iteração é utilizada para criar várias novas soluções. Assim como (4), como observou Taillard.
+Por seu turno as redes neurais é um mecanismo de aprendizagem, que gradualmente ajusta um conjunto de "pesos" até ser encontrada uma solução ideal. 
+Por fim, de referir que as formas de pesquisa de soluções diferem de problema para problema, tendo de se adaptar o método às características do problema. Assim como experiência e criatividade é necessária na abordagem dos problemas (Toth e Vigo, 2002f, p.129).
+

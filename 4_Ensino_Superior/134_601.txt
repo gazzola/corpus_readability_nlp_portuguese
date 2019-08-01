@@ -1,0 +1,20 @@
+Logística/Localização/Localização em redes/Localização em redes em árvore/Localização mediana
+Quando se fala em localização mediana o objectivo é encontrar um ponto formula_1 que minimiza a soma das distâncias ponderadas entre a nova instalação e os clientes localizados nos nós de uma rede em árvore, formula_2. Ao ponto formula_1 dá-se o nome de mediana absoluta (Francis, 1992, p. 400-403).
+O número de deslocações, o custo de transporte ou o tempo de deslocação por unidade de distância, durante um periodo de tempo, entre o ponto formula_4 e o vértice formula_2 representa-se por formula_6, logo, o objectivo é minimizar:
+formula_7
+Neste problema, apenas os vértices são considerados como localizações potenciais, em que pelo menos um deles é uma localização óptima ou mediana absoluta e a localização mediana depende dos pesos, formula_6, assim como da estrutura da árvore, mas é independente das distâncias entre os nós. Estas distâncias só influenciam o valor de formula_9.
+Este algoritimo é utilizado para determinar o valor da mediana, seguindo os dois passos indicados abaixo:
+1. Escolher um nó formula_10 com peso formula_11 em qualquer um dos extremos da árvore. Se formula_11 for maior que formula_13, onde formula_14 é a soma dos pesos dos nós, esse nó é a mediana, caso contrário executar o passo 2.
+2. Designar por formula_15 o nó adjacente a formula_10. Somar formula_11 a formula_18, de forma a encontrar o novo peso do nó formula_15 e apagar da árvore o arco formula_20, excepto formula_15, e voltar ao passo 1.
+Na Figura 9.12.1.1.1 o peso dos nós está representado nos quadrados, sendo formula_22.
+Figura 9.12.1.1.1 Exemplo de rede em árvore com o peso dos nós dentro dos quadrados
+Para encontrar a mediana da árvore representada na Figura 9.12.1.1.1 escolhe-se, por exemplo, formula_23.
+O peso de formula_23 é 2, como formula_25, formula_23 não é mediana, segue-se, portanto, para o passo 2, ou seja, adiciona-se o peso de formula_23 ao vértice adjacente formula_28, eliminando o caminho que ligava formula_23 a formula_28, dando origem à seguinte rede em árvore (Figura 9.12.1.1.2):
+Figura 9.12.1.1.2 formula_31 
+Seguidamente escolhe-se formula_32. Como o peso de formula_32 é inferior a formula_34, adiciona-se o peso de formula_32 ao vértice adjacente formula_28, eliminando o caminho que ligava formula_32 a formula_28. A rede resultante é apresentada na Figura 9.12.1.1.3.
+Figura 9.12.1.1.3 formula_39 
+De seguida escolhe-se o vértice formula_28. Como formula_41 é menor que formula_34, volta-se a repetir o passo 2, dando origem a outra árvore, representada na Figura 9.12.1.1.4.
+Figura 9.12.1.1.4 formula_43 
+Como formula_44, formula_45 é a localização mediana, sendo o valor óptimo da função objectivo dado por:
+formula_46
+

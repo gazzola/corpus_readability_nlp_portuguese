@@ -1,0 +1,63 @@
+Mecânica dos fluidos/Capa
+Mecânica dos fluidos
+Primeira edição - 
+» Ir para o Índice »
+
+
+Mecânica dos fluidos/Equações para linhas de fluxo
+Como as linhas de corrente são, em cada instante, tangentes à velocidade do fluxo, temos que, para uma linha de corrente λ qualquer
+formula_1
+Introduzindo uma função ψ tal que dψ = vdy - vdx, teremos dψ = 0, ou seja, ψ = constante. Essa função ψ é chamada função corrente (ing. "stream function"). Cada linha de corrente λ corresponde, então, a um valor fixo de ψ. Esse valor é arbitrário, uma vez que é a diferencial dψ que é definida univocamente, não a função em si.
+De acordo com o teorema de Euler sobre as diferenciais exatas, dψ = vdy - vdx = P(x,y)dy + Q(x,y)dx será uma diferencial exata se
+formula_2
+Assim
+formula_3
+Uma propriedade interessante da função corrente é que ela satisfaz a equação de continuidade para um fluido incompressível em escoamento bidimensional:
+formula_4
+A dimensão de ψ é [L.t], o mesmo da vazão volumétrica Φ definida anteriormente. A diferença dos valores de ψ entre duas linhas de corrente ψ e ψ é chamada taxa de vazão volumétrica; a diferença dos valores do produto ρψ entre duas linhas de corrente é chamada taxa de vazão mássica, e sua dimensão é [M.L.t]. 
+O volume de fluido que escoa entre duas linhas de corrente adjacentes (Δψ = 1) é o mesmo. Assim, em regiões onde as linhas de corrente são mais próximas entre si, a velocidade do fluido é maior, uma vez que a área transversal é menor. As linhas de corrente, dessa forma, são um bom indicador visual do comportamento do fluido na região. 
+
+
+Mecânica dos fluidos/Equações de Navier-Stokes
+Conforme visto anteriormente, a equação de conservação do momento linear em forma diferencial, para coordenadas cartesianas, pode ser escrita
+formula_1
+Essa equação só pode ser resolvida depois que os valores das tensões σ e τ são relacionados às componentes da velocidade por meio de equações auxiliares. De acordo com a análise cinemática anterior, as tensões de cisalhamento estão relacionadas com a velocidade da seguinte maneira
+formula_2
+formula_3
+formula_4
+e, de acordo com a análise estática anterior
+formula_5
+formula_6
+formula_7
+Desenvolvendo, teremos um conjunto de três equações que é conhecido como equações de Navier-Stokes. 
+Na direção do eixo X, teremos:
+formula_8
+formula_9
+Na direção do eixo Y, teremos
+formula_10
+formula_11
+E, na direção do eixo Z, teremos
+formula_12
+formula_13
+Essas três equações, mais a equação de continuidade, formam um sistema de quatro equações diferenciais parciais não-lineares acopladas, cuja solução é possível apenas em casos especiais. Exemplos de casos especiais são aqueles onde o fluido é um líquido ideal e a geometria do problema é muito simples.
+
+
+Mecânica dos fluidos/Exercícios resolvidos/E7
+Deduzir a fórmula para a tensão nas paredes de um tubo onde ocorre escoamento turbulento com Número de Reynolds até 100000.
+Neste caso, precisamos de uma fórmula para o fator de atrito, não sendo possível usar o Diagrama de Moody. Como N ≤ 100000, podemos usar a fórmula de Blasius:
+formula_1
+Como 
+formula_2
+formula_3
+Assim, podemos escrever
+formula_4
+Mas a tensão na parede é dada por
+formula_5
+o sinal negativo se justifica porque a tensão na parede tem a mesma intensidade e sentido contrário da tensão no fluido. Em um exercício resolvido, encontramos a fórmula para a tensão cisalhante em fluxo laminar
+formula_6
+Assim,
+formula_7
+formula_8
+Como sabemos, a teoria e a evidência experimental apontam para um escoamento nas paredes muito próximo ao laminar. Assim, a fórmula acima valeria também para o caso de escoamento turbulento examinado. Na prática, a expressão que se usa é ligeiramente diferente
+formula_9
+

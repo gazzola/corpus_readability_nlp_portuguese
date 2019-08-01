@@ -1,0 +1,73 @@
+Mecânica dos fluidos/Exercícios resolvidos/D1
+Derive a equação de Bernoulli a partir das equações de Euler em coordenadas de linhas de corrente.
+Como visto anteriormente, a equação de Bernoulli é válida para escoamento laminar em regime permanente do líquido ideal. A equação de Euler nesse caso se escreve
+formula_1
+Multiplicando por dl,
+formula_2
+Integrando, como ρ é constante,
+formula_3
+formula_4
+
+
+Mecânica dos fluidos/Exercícios resolvidos/A1
+Um cilindro de 12 cm de raio gira no interior de outro, que está fixo, e cujo raio mede 12.6 cm. Os eixos dos cilindros são concêntricos e ambos têm 30 cm de comprimento. É necessário aplicar um torque de 9.0 kg.cm para manter a velocidade de rotação em 60 rpm. Determinar a viscosidade do fluido que preenche o espaço entre os cilindros.
+Como o espaço entre os cilindros é pequeno perante as demais dimensões do problema, vamos considerar valores médios para todas as variáveis. Além disso, aproximaremos dv/dy nesse espaço por Δv/Δy.
+O torque aplicado gera uma tensão na superfície do fluido que está em contato com o cilindro móvel. O torque é dado pelo produto da força aplicada aos cilindros pelo raio vetor; a força, por sua vez, é o produto da tensão pela área de aplicação:
+formula_1
+A velocidade tangencial do cilindro móvel é
+formula_2
+Essa é a velocidade do fluido que está em contato com a superfície do cilindro, onde a tensão τ é aplicada. A velocidade na outra superfície é nula. Essas superfícies distam Δr = r - r uma da outra. A viscosidade do fluido será então dada por
+formula_3
+formula_4
+formula_5
+formula_6
+formula_7
+Para um valor mais preciso, vamos considerar a tensão τ e a velocidade v como funções da posição r:
+formula_8
+formula_9
+Logo
+formula_10
+formula_11
+Assim
+formula_12
+formula_13
+formula_7
+O valor indica que a simplificação considerada na Solução 1 era razoável.
+
+
+Mecânica dos fluidos/Exercícios resolvidos/E9
+Considerando que o duto do exercício anterior está ligado a um reservatório por meio de uma entrada em ângulo reto localizada no fundo e deságua em um segundo reservatório através de uma saída que descarrega livremente na atmosfera, calcule a profundidade mínima de água que precisa ser mantida no primeiro reservatório para que a vazão de 10 l/s seja mantida.
+Usando o Número de Reynolds calculado anteriormente, calculamos a perda de carga na entrada
+formula_1
+formula_2
+formula_3
+A perda de carga na saída será
+formula_4
+formula_5
+formula_6
+A perda de carga total será, portanto
+formula_7
+formula_8
+A altura mínima necessária de líquido no reservatório deve ser suficiente para contrabalançar essa perda
+formula_9
+
+
+Mecânica dos fluidos/Exercícios resolvidos/E10
+Repetir o exercício E8, considerando que o duto é feito de aço forjado, em vez de ferro.
+O Número de Reynolds permanece o mesmo, e o escoamento é turbulento. A rugosidade de um tubo de aço forjado, de acordo com a tabela anexa ao Digrama de Moody, é de 0.025 mm. A rugosidade relativa é
+formula_1
+O fator de fricção, de acordo com a fórmula de Miller, é:
+formula_2
+Para validar a aproximação, joguemos esse valor na fórmula de Colebrook
+formula_3
+formula_4
+formula_5
+ou seja, o erro acarretado pelo uso da fórmula de Miller é pequeno também neste caso.
+De acordo com o Diagrama de Moody, para a rugosidade relativa de 0.00042 e N de 210000, o fator de atrito é realmente próximo de 0.018.
+A perda de carga será dada por
+formula_6
+formula_7
+A perda de pressão será dada por
+formula_8
+A troca do material do tubo diminuiu a rugosidade em 83% com relação ao caso anterior, mas o fator de fricção (e, por conseguinte, as perdas) diminuiu apenas 27%. Em ambos os casos, o regime de escoamento foi turbulento, embora o regime de turbulência completa não tenha sido atingido.
+

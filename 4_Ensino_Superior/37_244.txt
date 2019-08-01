@@ -1,0 +1,15 @@
+Álgebra linear/Espaços vetoriais
+Um "espaço vetorial" é formado por:
+Neste wikilivro, será escrito simplesmente formula_5 para denotar formula_6 
+Normalmente, o corpo "K" é o corpo dos números racionais, dos números reais ou dos números complexos.
+Ou seja, foram definidas as operações de soma de "vetores" e produto de um escalar por um "vetor" em "S". Como exercício, podem-se provar os axiomas, mostrando que "S" é um espaço vetorial. Este espaço vetorial é tão importante que tem um nome: ele é o espaço vetorial das sequências de números reais. 
+Exemplo: Seja formula_29. Provemos que formula_30 é um subespaço vetorial. 
+Note-se que, pela definição, nem os "λ" nem os "v" precisam ser distintos.
+Deve-se notar que a condição "u = 0" é importante para o caso em que "S" seja o conjunto vazio. Equivalentemente, seria possível definir a soma de zero vetores como o vetor nulo (isto é semelhante à definição do fatorial de 0, igual ao produto de zero fatores, ou seja, é o elemento neutro multiplicativo, 1).
+Quando temos um número finito de vetores formula_56 é comum dizer que "os vetores" formula_57 são linearmente dependentes (ou independentes), em vez de dizer que o conjunto formula_58 é linearmente dependente (ou independente).
+Seja "S" um conjunto de vetores de "V". Pode-se perguntar qual é o "menor" subespaço vetorial de "V" que contém "S". Para ser mais preciso, temos o seguinte:
+Ou seja, seja "K" o conjunto (não vazio, porque formula_64) definido por:
+e seja formula_66 definido por:
+Nas condições definidas acima, formula_66 é o subespaço vetorial gerado por "S".
+Seja "V" um espaço vetorial e "B" uma base de "V". Suponha que um vetor formula_69 seja escrito como combinação linear de vetores de "B" de duas formas diferentes: formula_70 O que pode ser dito a respeito dos "λ" e "μ"? O que pode ser dito a respeito dos "u" e "w"? A resposta é que, de certa maneira, eles são únicos.
+

@@ -1,0 +1,12 @@
+Logística/Planeamento e projecto de instalações/Automated Layout Design Program (ALDEP)/Funcionamento
+O ALDEP é usado quando as relações entre actividades são fundamentais para o processo e quando a instabilidade das condicionantes impede a recolha precisa de dados numéricos. O "layout" é desenvolvido localizando as actividades mais relacionadas e progressivamente adicionando outras actividades com base na proximidade desejada (i.e. A ou E) e na dimensão necessária, até que todas as actividades estejam colocadas. Este processo continua até que todos os departamentos estejam colocados, ou nenhum dos departamentos ainda disponíveis para colocação tenha uma taxa de proximidade suficientemente alta em relação aos já colocados. Neste caso, um departamento é seleccionado, aleatoriamente, de entre os disponíveis para ser colocado no "layout". A pontuação para o "layout" é determinada pela soma dos valores numéricos atribuídos às taxas de proximidade dos departamentos. Este processo é repetido um número de vezes especificado.
+O ALDEP usa os seguintes valores
+A = formula_1 = 64; E = formula_2 = 16; I = formula_3 = 4
+O = formula_4 = 1; U = 0; X = formula_5 = -1,024
+A seguinte tabela mostra um exemplo de uma tabela de pontuação do ALDEP:
+O ALDEP tem capacidade para trabalhar com até 63 departamentos ou actividades e pode gerar "layouts" até três andares. É possível colocar restrições na solução de forma a que o layout seja desenhado para contornar corredores, condutas de elevadores, escadas, salas e outros departamentos (Hiregoudar et. al., 2007, p. 94).
+O ALDEP (como a maioria dos algoritmos de construção) funciona da seguinte forma:
+Com acesso aos dados básicos do SLP, seja "n" o número de actividades no "layout". Uma construção genérica do algoritmo será:
+O ALDEP começa por seleccionar a primeira actividade aleatoriamente, seguindo-se uma busca pela tabela de relacionamento para verificar se existe uma actividade A que corresponda com a que foi seleccionada anteriormente, se ela existir, entra para o "layout", se existir mais que uma, uma delas é seleccionada de forma aleatoria. Se não for encontrada uma relação, a segunda actividade é escolhida aleatoriamente. Este processo continua até todas as actividades serem selecionadas. 
+Quando todas as actividades foram escolhidas, o ALDEP verifica a qualidade do "layout" atribuindo valores às ligações entre actividades. De cada vez que se corre o ALDEP é possivel obter 20 "layouts" diferentes, e respectiva qualidade (Francis et al., 1992, p. 157).
+

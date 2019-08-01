@@ -1,0 +1,23 @@
+ Se existem, o supremo e ínfimo de um conjunto formula_9 são indicadas formula_34 e formula_35 respectivamente. Agora estamos finalmente prontos para indicar o último axioma, que é de completude: 
+É de salientar, neste ponto, a fim de evitar possíveis confusões que, geralmente, nos estudo dos conjuntos ordenados, a definição de completude, é que "cada subconjunto" tem a menor cota superior, e não há qualquer condição de que seja não-vazio ou limitado superiormente. No entanto, nós, realmente, desejamos impor estas duas condições neste caso. Existem outros maneiras equivalentes de definir o axioma completude, mas envolvem sequências, então devemos falar sobre elas depois de discutido esse tema. Por causa da existência dessas outras formas, esse axioma é algumas vezes chamado de "axioma do menor das cotas superiores". O significade de completeness: é um axioma relacionado com supremo e ínfimo. Que busca uma completude nesses conceitos. Nós estaremos fazendo muito trabalho com a Menor das cotas superiores, por isso será importante saber como usá-los de forma eficiente nas provas. Aqui estão algumas definições e propriedades que são úteis a este respeito:
+Todo conjunto não vazio que é limitado superiormente têm um único "menor das cotas superiores", ou supremo (dito formula_40). Sejam formula_41 e formula_17 duas "menores cotas superiores" de um conjunto formula_43 
+Se formula_44 então formula_17 é uma cota superior para formula_46 formula_41 não pode ser a menor das cotas superiores. Assim formula_48 Similarmente, formula_49 Assim formula_50 então formula_51 pode ter somente uma menor das cotas superiores. Todo conjunto não vazio S que é limitado inferiormente têm um único "maior das cotas inferiores", ou ínfimo (dito formula_52). Seja S não-vazio e limitado inferiormente. Seja formula_53 
+Como S é não-vazio, formula_54 Assim formula_55 então T é não-vazio. Como S é limitado inferiormente, formula_56 
+Então formula_57 
+Logo T é limitado superiormente por -M, e portanto T têm a menor das cotas superiores, formula_58 
+Como formula_59 formula_60 é uma cota inferior para S.
+Seja formula_61 uma cota inferior para S. 
+Logo formula_62 então formula_63 é uma cota superior para T. 
+Como formula_64 é a menor cota superior para T, formula_65 e assim formula_66 
+Assim toda cota inferior para S é menor ou igual a formula_60 
+Ou seja, formula_60 é a maior cota inferior para S.
+A unicidade segue similarmente ao da maior das cotas superiores. Se formula_69 onde S é não-vazio e T é limitado, então formula_70
+Como S é não-vazio, ele contêm um elemento x. Por definição, formula_71 e formula_72 então formula_73 
+Como T é limitado superiormente, ele têm a maior das cotas superiores, formula_74 
+Como t é em particular uma cota superior para T, formula_75 Como formula_69 formula_77 
+Logo formula_78 é uma cota superior para S, Então formula_40 existe e por definição formula_80 
+Similarmente, formula_81 
+formula_82
+Seja formula_87 não vazio e limitado superiormente por formula_88. Para qualquer formula_89 dado, deve existir pelo menos um formula_90 tal que formula_91. Qualquer que seja formula_89 devemos ter que formula_93. Somando formula_94 dos dois lados da inequação, teremos que formula_95. Como M é o supremo de X, logo formula_96 não pode ser o supremo de X. Assim deve existir formula_97 tal que formula_98. Como formula_99, temos que formula_100. Juntando as duas desigualdades, temos que formula_91. Dois conjuntos, formula_102, não vazios, são de cotas quando:
+Sejam formula_103, conjuntos não-vazios, tal que, formula_104 temos que:
+Sejam formula_103, conjuntos não-vazios, sendo X limitado superiormente e Y limitado inferiormente. Suponha ainda que formula_114. Se formula_115 tais que formula_116, então formula_117

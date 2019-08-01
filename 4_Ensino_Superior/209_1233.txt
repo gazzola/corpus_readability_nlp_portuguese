@@ -1,0 +1,42 @@
+Curso de termodinâmica/Exercícios de termodinâmica/A24
+A massa específica do Hélio é 0,1784 g/l às condições padrão. Se uma certa massa de Hélio às condições padrão se expande 1500 vezes, por mudança de temperatura e de pressão, calcular a massa específica resultante.
+Quaisquer sejam as causas da variação da pressão, temos
+formula_1
+
+
+Curso de termodinâmica/Efeito da pressão sobre a entalpia
+<br><br><br>
+Para calcular a mudança de entalpia com a pressão à temperatura constante, é preciso determinar formula_1
+Usamos, para isso, um método parecido com aquele utilizado para determinar a pressão interna. As relações fundamentais para um processo reversível dão:
+formula_2
+como a diferencial total exata da função H(S,P). Por outro lado,a diferencial total exata de S(P,T) é:
+formula_3
+Substituindo dS na expressão de dH, temos
+formula_4
+formula_5
+formula_6
+Comparando o resultado com a diferencial total de H(P,T), obtemos no fim:
+formula_7
+ou ainda:
+formula_8
+onde formula_9 é o coeficiente de dilatação térmico:
+formula_10
+
+
+Curso de termodinâmica/Exercícios de termodinâmica/A16
+Um gás ocupa 10 m a 60º C e 2,5 atm. Que volume irá ocupar a 300° C e 25 atm?
+Dados do problema:
+formula_1
+
+
+Curso de termodinâmica/Expressão quantitativa do trabalho de expansão
+O trabalho é a energia produzida pelo deslocamento de uma força . Seja o pistão de área A , se deslocando numa distância infinitamente pequena dl sob o efeito da força aplicada f , temos: 
+formula_1
+Porém , se este volume aumentar (dV>0), o sistema perde energia mecânica ( o gás empurra o pistão). Por convenção, define-se o sinal das mudanças de energia em relação ao sistema : qualquer mudança de energia que é um aumento de E para o sistema ( e então diminuição para o seu meio ambiente ) é positiva. No intuito de respeitar esta regra w deve ser negativo se dV for positivo . Como a pressão sempre é positiva , escreveremos :
+formula_2
+Geralmente , simplifica-se a escrita na forma :
+formula_3
+mas devemos, então, nos lembrar que P representa a pressão externa imposta ao gás e não necessariamente a pressão de equilíbrio do gás.
+Cuidado : acha-se , em alguns livros, a expressão w = +PdV. Anotar porém que neste caso , a expressão matemática da primeira lei seria: 
+dE = q - w.
+

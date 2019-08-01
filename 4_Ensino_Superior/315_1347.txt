@@ -1,0 +1,12 @@
+ Curso de termodinâmica/Equação de estado de Van der Waals
+A equação de Van der Waals introduz duas correções na lei dos gases perfeitos:
+N moléculas, postas num recipiente de volume V podem se deslocar no volume total V só se o volume ocupado pelas moléculas for nulo. Em realidade, as moléculas ocupam um volume não nulo e existe, no recipiente, um certo volume excluído, não disponível para o deslocamento das moléculas. Sejam duas moléculas supostamente esféricas e de diâmetro d. O volume excluído para este par de moléculas (ou o volume inaccessível para cada um dos dois centros de gravidade), é uma esfera de raio d:
+formula_1
+formula_2
+formula_3
+formula_4
+Observamos que o volume excluído pelo par de moléculas representa 8 vezes o volume ocupado por uma única mólécula e 4 vezes o volume ocupado pelo par de moléculas. O volume realmente disponível no recipiente de volume V contendo n mols de gás é: 
+formula_5
+A equação de estado, baseada na equação dos gases perfeitos, se escreve então: 
+formula_6
+A pressão P que intervém na equação de estado de um gás é, rigorosamente falando, a pressão que obriga as moléculas a ficar no recipiente de volume V. Na ausência de interações, essa pressão é idêntica à pressão aplicada fora do recipiente, formula_7. As forças de atração entre as moléculas são equivalentes a uma pressão "interna" formula_8, que reduz a pressão externa necessária para manter o gás no volume V. A pressão recebida pelo gás mesmo é formula_9. Para expressar quantitativamente formula_8, escolhem-se dois pequenos elementos de volume formula_11 e formula_12 ao acaso no gás, contendo 1 molécula cada um. A força de atração entre formula_11 e formula_12 é f. Juntando uma segunda molécula a formula_11, a força de atração se torna 2f. Juntando uma terceira molécula a formula_11, a força de atração será 3f, etc. O efeito é o mesmo se juntarem-se moléculas a formula_12.

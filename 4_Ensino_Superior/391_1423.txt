@@ -1,0 +1,16 @@
+ Para verificar como conseguimos as equações paramétricas acima observemos o seguinte gráfico:
+O ciclóide é formado pelos pontos que seguem o contorno da curva formada pelo movimento do disco sobre a superfície, de forma que o ponto (P) esteja fixado a um ponto da circunferência do disco, neste gráfico consideramos o raio unitário. Porém, se o raio é uma constante (c), e observamos o triângulo inscrito no disco, no qual podemos notar a distância do ponto (P) à superfície, que corresponde ao subsegmento da circunferência, veremos que esta é: formula_73, onde formula_67 corresponde ao raio constante, o que nos dá:
+formula_75
+formula_76
+formula_77
+Por outro lado, se observarmos que: 
+formula_78
+formula_79
+Bastanos verificar que formula_80 é o único parâmetro comum às duas equações e nos possibilita fazer a sua substituição por formula_81, depois disso teremos as equações do ciclóide como definido acima. Em homenagem ao estudioso grego Nicomedes, este grupo de funções paramétricas foram chamadas de conchóides de Nicomedes, pois este as chamou de conchóides após estudá-las, ele resolveu nomeá-las desta forma devido a sua semelhança com conchas. De maneira geral os conchóides são definidos pelas equações paramétricas:
+formula_33 onde:
+formula_83
+Sendo c uma constante que é fundamental para as características das curvas. Vejamos algumas das curvas que podemos obter com estas equações:
+Tratemos agora das derivadas para funções paramétricas, uma vez que temos duas variáveis dependentes, temos que ter certos cuidados no tratamento diferencial para estas funções, um trabalho adicional é necessário, uma vez que temos mais variáveis envolvidas na análise. Seja a função formula_84 na qual, os valores formam pares de forma que tenhamos: formula_85, desta forma podemos expressar as diferenciais como:
+No plano cartesiano bidimensional: formula_7 a derivada que estamos acostumados a usar permanece, porém temos mais duas derivadas das funções que definem formula_2 e formula_3 em relação ao parâmetro formula_6. Considerando as seguintes condições:
+Então as derivadas das funções que definem cada variável representam taxas de variação de referência, o que nos permite verificar as seguintes condições:
+Considerando que temos uma função composta por duas variáveis dependentes, como poderemos encontrar a derivada de uma em relação à outra, visto que temos duas equações que a definem?

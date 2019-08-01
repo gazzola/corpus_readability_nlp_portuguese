@@ -1,0 +1,59 @@
+ Sejam os ângulos "p" e "q", a soma dos senos de "p" e de "q" é:
+Comprovação:
+Podemos dizer que:
+formula_143
+substituindo na identidade:
+formula_144
+O que comprova a identidade. Sejam os ângulos "p" e "q", a soma dos cossenos de "p" e de "q" é:
+Comprovação:
+Seguindo a analogia anterior:
+formula_146
+O que comprova a identidade. Sejam os ângulos "p" e "q", a diferença dos senos de "p" e de "q" é:
+Comprovação:
+substituindo "q" por "-q" em:
+formula_148
+O que comprova a identidade. Sejam os ângulos "p" e "q", a diferença dos cossenos de "p" e de "q" é:
+Comprovação:
+substituimos "q" e "q", por formula_150 e formula_151 em:
+formula_152
+O que comprova a identidade. Precisaremos de um limite fundamental nas próximas seções, se trata de um limite que é utilizado na dedução das derivadas do seno e do cosseno, faremos sua dedução nesta seção. Considere o ciclo trigonométrico representado a seguir:
+Figura 7
+A figura 7 mostra a representação de um ângulo formula_153 no ciclo trigonométrico, o nosso propósito é deduzir o seguinte limite:
+Para isto, imagine o triângulo inscrito na circunferência, podemos dizer que o segmento de reta "n" é uma aproximação grosseira do arco formula_155, porém observe que quando o ângulo se aproxima de zero o segmento se torna mais parecido com o respectivo ângulo, algébricamente podemos expressar que:
+formula_156
+Por outro lado façamos o cálculo do valor do "n"; observando o triângulo podemos dizer que:
+formula_157
+formula_158
+Logo:
+formula_159
+formula_160
+Simplificando temos:
+formula_161
+Voltando para o nosso limite, temos que usar as nossas equações anteriores desta forma:
+formula_162
+formula_163
+Substituindo o valor do seno no lado da equação relaciondado ao "n", teremos:
+formula_164
+O que nos leva ao resultado:
+A interpretação desse limite é a seguinte:
+Uma vez que o ângulo diminui até valores próximos de zero e o arco tende a se assemelhar a uma reta em regiões próximas do zero, o valor do seno é igual ao valor do arco no limite, quando o seu valor se aproxima de ser nulo. Agora podemos verificar qual a variação da função seno em relação ao seu ângulo, aplicando a definição da derivada ao seno, temos:
+formula_166
+formula_167
+Aplicando o seno da soma:
+formula_168
+formula_169
+Aplicando os limites:
+formula_170
+Temos, então, o limite fundamental que é igual a "1", logo:
+Também podemos verificar qual a variação da função cosseno em relação ao seu ângulo, aplicando a definição da derivada ao cosseno, temos:
+formula_172
+formula_173
+Aplicando o seno da soma:
+formula_174
+formula_175
+Aplicando os limites:
+formula_176
+Novamente temos o limite fundamental, logo:
+Como conseqüência do resultado da derivada do seno, podemos deduzir que a sua integral, como operação inversa é:
+Cuja constante C é a constante devido a indefinição no processo de antidiferenciação, conforme já estudamos anteriormente. Segundo o mesmo princípio colocado no caso da integral do seno, podemos afirmar que a operação de integração do cosseno é definida por:
+Cuja constante C é a constante devido a indefinição no processo de antidiferenciação

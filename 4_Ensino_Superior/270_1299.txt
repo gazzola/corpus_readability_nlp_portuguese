@@ -1,0 +1,24 @@
+Logística/Planeamento e projecto de instalações/Automated Layout Design Program (ALDEP)/Diagrama de relações
+Para ilustrar o diagrama de relações, consideremos a Tabela 2. O mapa de relações das actividade pode ser consultado na Tabela 3. A informação nesta tabela é convertida num diagrama de relações no formato "worksheet", como pode ser observado na Tabela 4 que vai servir de base à construção do "layout".
+
+
+Logística/Gestão de armazéns/Armazenagem em supermercados
+A armazenagem em supermercados consiste na combinação do método da armazenagem aleatória com o método de armazenagem dedicada.
+Isto é, a separação e preparação de pedidos ("order-picking") tem lugar a partir de locais de armazenagem dedicada e os "stocks" de reserva são armazenados de forma aleatória (Tompkins et al., 2003, p. 437-438).
+Nos supermercados é utilizado o "merchandising" que consiste nas várias técnicas comerciais utilizadas para apresentar os produtos aos clientes, com o principal objectivo de vender, tendo em atenção o local onde o produto é vendido, a superfície de venda atribuída ao produto, a qualidade do produto a apresentar, o modo de apresenta o produto, o material de apresentação utilizado e a publicidade no local de venda (Rocha et al., 2000).
+São utilizadas várias regras para disposição dos produtos (Figura 1): 
+O conhecimento do tipo de cliente que frequenta os supermercados é muito importante, porque vai definir a disposição dos produtos consoante a sua procura, sendo uma das técnicas utilizadas nos supermercados dispor os produtos de maior consumo em locais estratégicos, onde os consumidores, para o adquirirem, têm de percorrer o supermercado, passando por outros produtos, em que de início não estavam interessados, mas que poderão comprar. 
+A localização vertical dos produtos está dividida em três níveis: 
+
+
+Logística/Técnicas de previsão/Intenções
+De acordo com Morwitz (2001, p. 33), intenções são medidas dos objectivos, planos ou expectativas de indivíduos, acerca de acontecimentos futuros. São utilizadas para elaborar previsões devendo ser cumpridos certos princípios, nomeadamente:
+Algumas empresas medem com frequência as intenções de indivíduos de forma a determinar uma previsão do seu comportamento, por exemplo, nos estudos de mercado costuma-se medir as intenções de compra dos clientes, com o objectivo de determinar a previsão das vendas do produto.
+Apesar da investigação sobre as intenções do consumidor terem sido iniciados a partir dos anos 50, ainda existem algumas questões importantes sobre a validade predictiva destas medições que continuam por responder (Morwitz, 2001, p. 52).
+
+
+Logística/Gestão de armazéns/Picking/Sistemas convencionais de picking/Armazenamento estático
+O equipamento de armazenamento mais comum em armazenagem e distribuição selectiva, são as prateleiras de paletes (em inglês, "pallet racks") e as unidades de estantes de aço (em inglês, "clip shelving"). Usado de uma forma adequada, este é um método eficaz para o armazenamento e recolha de produtos em um armazém, sendo crítico o armazenamento por tamanho e popularidade dos respectivos itens (Hudock, 2004).
+Frequentemente, as prateleiras de paletes estão configuradas para fornecer, locais designados de recolha/"picking" nos dois níveis mais baixos, e armazenamento de reserva acima. Isto permite que o operador tenha acessibilidade a partir do chão mas requer uma localização privilegiada de armazenamento para cada SKU (Unidade de Manutenção de Stock), independentemente de sua popularidade.
+Tal como as prateleiras de paletes, as estantes representam um investimento bastante modesto. O verdadeiro custo destes sistemas deve incluir os custos de operação que resultam da excessiva tempo de deslocação durante o processo de separação e preparação de pedidos (Hudock, 2004).
+

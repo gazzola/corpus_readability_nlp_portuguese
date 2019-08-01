@@ -1,0 +1,13 @@
+ Observemos o gráfico:
+O vetor é, simplesmente, a representação de um segmento de reta cujo ponto inicial é a orígem do sistema de coordenadas, se somarmos um segundo vetor ao que temos, isto resultará em um segmento de reta cujo ponto inicial é o segundo vetor que tomamos. Partindo deste pricípio, se temos dois pontos temos dois vetores, ao subtrairmos os dois vetores teremos um vetor na orígem, paralelo ao segmento de reta por onde passam os dois pontos. Uma vez que o primeiro ponto é um vetor, teremos a representação deste segmento de reta se somarmos o primeiro vetor ao vetor paralelo à reta. Algebricamente temos:
+Se formula_1 são dois pontos e formula_2 é o vetor que se origina dos dois pontos...
+formula_3
+Por outro lado, se fizermos com que o lado da equação onde está o vetor formula_2 aumente ou diminua de valor, de acordo com a variação de um parâmetro, teremos um valor variável de formula_5 dentro da mesma reta:
+Então, teremos a equação da referida reta. Como os pontos podem ser representados sob a forma de vetores, podemos definir a reta tal que:
+Três equações paramétricas espaciais podem ser obtidas desta equação vetorial, é notável que cada eixo deverá ter uma definição de sua variável para cada valor do parâmetro, logo façamos a dedução destas equações:
+formula_8
+formula_9
+formula_10
+De onde temos as equações paramétricas:
+Do mesmo modo ao eliminarmos o parâmetro encontramos a relação fundamental entre todos os eixos, o que pode ser bastante útil em certos cálculos onde precisamos estabelecer uma relação entre variáveis sem considerar o parâmetro:
+Uma vez que definimos as equações da reta: vetorial, paramétrica e simétrica... Podemos agora encontrar relações entre duas retas no espaço. De modo geral, temos três condições nas quais podemos relacionar duas retas no espaço, estas podem ser paralelas, reversas ou concorrentes. A definição de um plano no espaço pode ser obtida através de um conceito vetorial da mesma forma que o fizemos quando vimos a reta.

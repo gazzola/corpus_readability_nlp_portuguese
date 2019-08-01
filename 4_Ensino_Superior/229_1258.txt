@@ -1,0 +1,36 @@
+Logística/Técnicas de previsão/Previsão a longo prazo
+
+
+Logística/Localização/Localização minimax/Localização minimax de uma única instalação com distâncias rectilineares
+Nesta divisão, seguem-se problemas de localização minimax de uma única instalação sob a suposição de distâncias rectilíneares.
+Como exemplo de um problema minimax de uma única instalação com distâncias rectilineares, temos o seguinte modelo, admitindo que as instalações existentes estão localizadas nos pontos(formula_1,formula_2), …….., (formula_3, formula_4) e que a nova instalação está localizada nos pontos(x,y). A distancia máxima rectilinear entre a nova instalação e qualquer outra existente é dada pela seguinte expressão:
+O problema de localização minimax é, então, encontrar uma posição (x, y) para a nova instalação que faz o menor formula_6 possível. Ou seja, queremos minimizar a distância entre a nova instalação e as instalações existentes, dai o termo "minimax". É também importante reconhecer que os problemas de localização minimax ocorrem em diferentes contextos físicos em relação aos problemas de localização minimum custo total.
+Generalizando, pode-se afirmar que um problema minimax é um problema local, quando é mais importante fornecer um serviço rápido, ou o acesso conveniente, do que é para minimizar o custo totala longo prazo.
+Temos agora um processo de estado para encontrar todos os pontos (x, y) que minimizam a função definida por (1), uma justifição para o procedimento será dado após a sua declaração. Nas expressões de formula_7 a formula_8 que se seguem, definir todos formula_9 para zero, e calcule:
+formula_101≤t≤m
+formula_111≤t≤m
+formula_121≤t≤m
+formula_131≤t≤m
+formula_14
+Para qualquer ponto (x,y), juntar os pontos sobre o segmento de recta;
+formula_15
+formula_16
+Isto é a localização minimax que minimiza a função defenida por (1), o mínimo valor da função é formula_17. 
+
+
+Logística/Gestão de armazéns
+
+
+Logística/Gestão de existências/Controlo de existências
+As unidades em stock devem ser classificadas em categorias de forma a reduzir as existências. A complexidade do inventário requer que sejam aplicados procedimentos para a gerir e dividir os stocks em categorias. É inevitável que o tipo de controlo de existências seleccionado terá um impacto em toda a organização da empresa (Tersine, 1988, p. 501).
+O ponto de partida no desenvolvimento de um sistema de controlo é uma análise de objectivos do sistema destinado. Este procedimento permite perceber quais são as actividades críticas nas operações em que o controlo pode ser mais eficiente.
+É determinante que o mecanismo satisfaça o serviço e os objectivos operacionais no mínimo custo possível. Por esta razão é da responsabilidade da gestão de topo seleccionar o sistema de controlo e estabelecer níveis de stocks agregados.
+Um sistema de operações deve indicar como as situações devem ser tratadas através de regras pré-determinadas e de procedimentos.
+A análise de custos é a base da política de gestão de stocks. Esta análise terá de ser racional e emotiva. Apesar da sua exactidão o uso de técnicas matemáticas avançadas não resultará necessariamente num sistema efectivo.
+Existem vários tipos de sistemas de controlo de existências. É difícil classifica-los de forma ordenada e separa-los das características que os definem.
+Sistemas de controlo:
+Sistema de procura independente
+Sistemas de procura dependente 
+Os sistemas permanentes e os de dois compartimentos são os dois sistemas que tem quantidade fixa de encomenda. O sistema periódico e o sistema opcional de reabastecimento são ambos sistemas de ordens fixas de encomenda.
+O planeamento das necessidades dos materiais e os sistemas "just-in-time" são derivadas dos sistemas de quantidade de ordem para ambientes de produção. Os sistemas baseados na quantidade são verificados
+

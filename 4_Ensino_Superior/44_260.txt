@@ -1,0 +1,19 @@
+Teoria dos conjuntos/Revendo o axioma da separação
+No texto do axioma da separação:
+Ou, em sua forma mais genérica, qualquer fórmula formula_1 na linguagem da teoria dos conjuntos com variáveis livres entre formula_3:
+Um ponto que pode não ter ficado muito claro é que tipo de fórmula ou propriedade é admissível para Φ.
+Este capítulo tem o objetivo de explorar estas fórmulas.
+Seja Φ a propriedade definida como:
+Em Português, o que esta propriedade afirma?
+Em outras palavras, "Φ(x)" expressa, na linguagem da teoria dos conjuntos, que "x" é um conjunto unitário.
+Por exemplo, podemos demonstrar (exercício) que "Φ(1)", "Φ({1})" e "Φ({2})" são verdadeiros, e que formula_8, "Φ(2)" e "Φ({1,2})" são falsos.
+Como aplicação do esquema de axiomas, seja "A = {1, 2}". Então o conjunto formula_9 é o conjunto "B = {1}".
+Ao aplicar a propriedade "Φ" na formação de subconjuntos, deve-se tomar o cuidado de não repetir os símbolos. Se temos uma demonstração lógica que já utilizou os símbolos "x", "y" ou "z", devemos usar a definição de "Φ" trocando o símbolo por algum outro.
+Note-se que, pelos axiomas até agora apresentados, a expressão formula_10 não denota um conjunto - aliás, é possível mostrar (usando uma variação do paradoxo de Russell) que este conjunto "não existe", ou seja, que para todo conjunto "A" existe um conjunto unitário "B" que não é um elemento de "A".
+A fórmula Φ do axioma deve ser uma , na linguagem da lógica clássica de primeira ordem.
+Isto significa o seguinte:
+Como exemplos, sendo "A", "B" e "C" constantes:
+Agora é um bom ponto para plantar uma "sementinha do mal". O axioma diz explicitamente que para todo conjunto "x" e toda fórmula "φ" existe um subconjunto "y" dos elementos de "x" que satisfazem esta propriedade.
+Uma pergunta interessante é inverter o enunciado do axioma: será que, para todo subconjunto "y" de "x", existe uma fórmula bem formada "φ" (que, obviamente, seja "livre" de "y") de modo que "y" seja definido através dela?
+Esta pergunta aparentemente inocente tem profundas implicações, mas, por enquanto, ainda não temos ferramentas adequadas para explorá-la.
+

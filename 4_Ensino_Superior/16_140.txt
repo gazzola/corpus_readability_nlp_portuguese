@@ -1,0 +1,13 @@
+Topologia/Espaços topológicos
+Seja formula_1 um conjunto não-vazio e formula_2 um conjunto formado por partes de formula_1. Se formula_2 possuir as seguintes propriedades:
+dizemos que formula_2 é uma "topologia" em formula_1 e que o par formula_13 é um "espaço topológico". Chamamos os elementos de formula_2 de "abertos". Sendo formula_15 um aberto, a formula_16 chama-se um "fechado", isto é, F é fechado se formula_17 é um elemento da topologia.
+Como se vê, a intersecção finita de abertos é um aberto e a união arbitrária de abertos é um aberto. Não se garante no entanto que a intersecção infinita de abertos seja um aberto. Como se verá, na maior parte dos casos não é assim.
+Sendo "τ", "τ" duas topologias em "X", diz-se que "τ" é "menor" que "τ" ou que "τ" é "maior" que "τ" se, e somente se, "τ" ⊆ "τ", isto é, um aberto segundo "τ" é também aberto segundo "τ".
+Seja "X" um conjunto. Então:
+Sejam "X" um espaço topológico e "σ" o conjunto dos fechados em "X". Então:
+Como se vê, os fechados seguem regras parecidas às que os abertos seguem, mas tendo em conta a complementação. Na verdade pode-se definir essa espécie de "topologia" começando por definir os fechados e definir mais tarde os abertos como os seus complementares.
+Sendo "X" espaço topológico, às uniões contáveis de fechados chama-se "F" e às intersecções contáveis de abertos chama-se "G". Em geral um "F" não é fechado e um "G" não é aberto, no entanto um fechado é um "F" e um aberto é um "G".
+Note-se que a união contável de "F" 's é um "F", a intersecção arbitrária de "F" 's é um "F", a união arbitrária de "G" 's é um "G" e a intersecção contável de "G" 's é um "G".
+A união finita de fechados é um fechado. Mas se se passar à união numerável, pode já não ser. Aqui não se quis considerar a união arbitrária de fechados. O que sucederia em tal caso? Em Topologia, como se verá, considerar famílias contáveis ou incontáveis de objectos topológicos delineia uma raia muito importante. Quando, para descrever e trabalhar numa topologia, basta apenas considerar famílias contáveis de objectos, tem-se uma topologia na qual é muito fácil trabalhar. Quando famílias contáveis não chegam, depara-se a todo o momento com problemas intratáveis.
+Para aquilo que é a maioria das aplicações da Topologia, na Análise em particular, as topologias que verificam um certo grau de contabilidade são mais do que suficientes.
+

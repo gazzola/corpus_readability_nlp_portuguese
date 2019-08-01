@@ -1,0 +1,11 @@
+ Alfa (formula_1) é o peso relativo dado a cada termo da equação (1). Com alfa igual a 0,4, a previsão representa 40 % do valor real mais recente e 60 % do valor da previsão mais recente. Para atingir o nível da média ou alisamento desejado, assim se escolhe o valor de formula_1. Continuando o exemplo acima, suponha-se que a procura para o período formula_7, foi na realidade de 760. Qual é a previsão para o período formula_8? formula_9 = formula_10 unidades
+E se
+formula_11
+Então,
+formula_12 = formula_13 unidades
+Outra forma igualmente simples de calcular o AES é através da equação:
+De acordo com esta fórmula, a previsão actual é igual à previsão do período anterior mais uma fracção formula_1 do erro na previsão anterior. É de notar, no entanto, que as equações (1) e (2) são a mesma equação escrita com os termos combinados de maneiras diferentes. A utilização do AES requer a escolha de uma constante de alisamento, uma previsão inicial e um valor real. A escolha da constante de alisamento não deve ser arbitrária. A verdade é que em algumas situações a selecção de uma constante de alisamento pode não ser importante, sendo aceitáveis valores entre 0,1 e 0,5​​. Muitas vezes a escolha de formula_1 pode ser muito importante. Com computadores de baixo custo e erros de previsão com custos elevados, não é aconselhável escolher um valor de formula_1 conveniente ou típico. Em vez disso, o melhor formula_1 deve ser escolhido com base no valor mínimo de soma de erros quadráticos. Nos exemplos que se seguem será usado um formula_1 de 0,4. O passo seguinte no processo, após escolher uma constante de alisamento, é escolher um valor de previsão inicial. Normalmente, o primeiro valor real é escolhido como a previsão para o segundo período. Considere-se a seguinte situação:
+Para calcular a previsão para o período 3, supõe-se que o valor inicial previsto para o período 2 é igual ao valor real para o período 1. Então,
+formula_19 = formula_20 
+formula_21 = formula_22 unidades
+Este método é muito comum e eficiente para o AES, embora a previsão inicial possa ser ser obtida por outros métodos.

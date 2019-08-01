@@ -1,0 +1,43 @@
+Curso de termodinâmica/Exercícios de termodinâmica/C2
+Calcular o trabalho executado por 10 moles de gás perfeito, quando submetidos a uma dilatação de 1atm a 0°C até 0,1 atm a 0°C, seguindo o seguinte caminho:
+Trabalho exercido (é energia que sai do sistema → é negativa)
+Total formula_13
+
+
+Curso de termodinâmica/Variação de entropia e de energia de um gás de Van der Waals
+<br><br><br>
+A relação fundamental:
+formula_1
+demonstrada anteriormente permite calcular a variação da entropia com a mudança de volume durante um processo isotermo. Para um gás obedecendo à equação de estado de Van der Waals, temos:
+formula_2
+o que conduz a:
+formula_3
+A diferencial exata total da entropia escreve-se:
+formula_4
+o que, a temperatura constante, pode ser simplificado:
+formula_5
+A integral escreve-se:
+formula_6
+Para calcular a variação de energia E, utilizamos a variação isoterma de E com o volume, determinada anteriormente:
+formula_7
+Para um gás de Van Der Waals, como demonstrado acima:
+formula_8
+portanto
+formula_9
+formula_10
+Assim:
+formula_11
+formula_12
+formula_13
+formula_14
+
+
+Curso de termodinâmica/Tabelas: pressão de vapor de alguns líquidos
+<noinclude>
+Ref. Engineering Toolbox
+
+
+Curso de termodinâmica/Equilíbrio de fases de um corpo puro
+Por definição, qualquer parte homogênea de um sistema constitui uma fase. Entendemos como parte homogênea qualquer parte do sistema que possui as mesmas propriedades físico-químicas macroscópicas (densidade, por exemplo). Assim, nas condições ordinárias, a água pode existir sob três fases: gelo, água líquida e vapor de água. Gelo moído, bem como um iceberg, é um conjunto macroscopicamente homogêneo e constitui, então, uma só fase. Uma mistura de diversos gases, como o ar, ou de diversos líquidos e sólidos dissolvidos, como o chá ou o vinho, constituem também uma fase única.
+A fase na qual um corpo puro se encontra depende da temperatura e da pressão. Por exemplo, um gás pode ser liquefeito aumentando-se a pressão a temperatura constante (capítulo 1). Além disso, um sólido pode fundir-se ao ser aquecido a pressão constante. Representa-se graficamente o estado estável de um corpo puro num diagrama P(T), chamado diagrama de fases. A termodinâmica permite prever qual é a fase estável de um sistema a temperatura e pressão constantes: é a fase com menor energia livre G. Podemos então construir o diagrama de fases de um corpo puro examinando a variação de G com a temperatura e a pressão.
+

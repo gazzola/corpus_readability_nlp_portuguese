@@ -1,0 +1,26 @@
+ Consequentemente, o valor de formula_26 é dado por
+Deste modo, o método consistirá de escolher em cada etapa formula_35 uma direção formula_36, e calcular o coeficiente formula_26 pela fórmula anterior, para gerar o próximo ponto formula_38. Mas como escolher a direção formula_36? Dado formula_40 e escolhido formula_36, defina formula_42 como formula_43, ou seja, formula_44 é a restrição da função formula_12 à reta que passa pelo ponto formula_40 e que tem direção formula_36. Logo, derivando a expressão de formula_44 em relação a formula_49, obtem-se
+Então, no ponto de mínimo, formula_38, tem-se
+Ou seja, a direção formula_36 a ser seguida a partir do ponto formula_40 é ortogonal ao gradiente da função formula_12, no ponto formula_38. Seja formula_58 o minimizador da função formula_12. Tem-se
+Mas formula_61 implica que formula_62, logo
+e consequentemente
+Donde formula_65. Portanto formula_66. Usando o resultado desse exercício, tem-se ainda que formula_67
+Fazendo formula_68, o método do gradiente conjugado escolhe as direções de descida tais que formula_69. Mas quando formula_70, tem-se na expressão apresentada anteriormente apenas formula_71
+Finalmente, tem-se o algoritmo para este método. Primeiro passo: Escolha formula_72
+Pode-se verificar facilmente que formula_85. De fato, como formula_86, tem-se formula_87. Logo, formula_88. Considere formula_89 definida por formula_90. Em outros termos, tomando formula_91, tem-se formula_92, onde formula_93. Pode-se aplicar o método de direções conjugadas ao seguinte problema
+Note, desde já, que o conjunto solução é formula_95. A seguir, verifica-se se o gradiente se anula no novo ponto formula_103:
+Como o gradiente já é nulo, não é preciso fazer a segunda iteração, e o ponto formula_103 é o (único) minimizador global de formula_12. Em um caso mais geral, considerando formula_89 definida por formula_108, tem-se cálculos muito parecidos em cada passo. O conjunto solução continua sendo formula_95. A seguir, verifica-se se o gradiente se anula no novo ponto formula_103:
+Novamente, o gradiente se anula já na primeira iteração, de modo que formula_103 é o minimizador global de formula_12. Um terceiro exemplo pode ser dado tomando formula_121 e formula_89 definida por formula_92. Observe que tal matriz é simétrica e definida positiva:
+Logo, os autovalores de formula_7 são formula_126 e formula_127. Isso também implica que a função é fortemente convexa. Aplicando o método:
+Feitos esses cálculos, o próximo ponto é dado por
+Para saber se será necessária uma nova iteração, ou se o minimizador foi encontrado, calcula-se o gradiente da função no ponto:
+Novamente, será preciso calcular uma nova direção e um novo comprimento de passo:
+onde formula_135, no algoritmo de Hestenes é dado por:
+Portanto
+Além disso, o tamanho do passo é dado por
+Portanto
+Obviamente, este é o minimizador procurado (pois o método tem a propriedade de "convergência quadrática", ou seja utiliza no máximo formula_140 iterações para chegar a solução quando aplicado a funções quadráticas definidas em formula_141)
+Abaixo é apresentada uma implementação deste algoritmo na linguagem de programação utilizada pelo Scilab. Para facilitar a compreensão do método, pode ser útil exibir as curvas de nível da função. Uma forma de implementar uma função com esse propósito é a seguinte:
+Esta versão é na verdade uma extensão do algoritmo anterior, permitindo a aplicação no caso de funções que não são quadráticas. Uma outra versão é a seguinte:
+Para o caso de funções não quadráticas, é preciso usar algum método de busca linear para a implementação do método dos gradientes conjugados, seja a versão de Fletcher-Reeves ou a de Polak-Ribière. Uma possibilidade é a busca de linear de Armijo (ver Izmailov & Solodov (2007), vol 2, pag. 65), cujo algoritmo é esboçado a seguir:
+com:

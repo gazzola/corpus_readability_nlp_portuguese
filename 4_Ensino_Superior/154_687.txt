@@ -1,0 +1,28 @@
+Mecânica dos fluidos/Fluxo laminar do líquido ideal
+Quando o fluido pode ser aproximado pelo modelo do líquido ideal, o fluxo é sempre laminar e as equações de Euler podem ser usadas no lugar das equações de Navier-Stokes. Nessas condições, uma solução analítica pode ser encontrada para diversos problemas.
+Consideremos um duto curvo, de seção retangular h x w e raio interno de curvatura r, em posição horizontal. Se h for suficientemente pequeno, a velocidade v pode ser considerada constante ao longo da seção transversal do duto. O uso da equação de Euler relativa à componente normal à linha de corrente resulta em
+formula_1
+Integrando,
+formula_2
+formula_3
+A equação acima relaciona a velocidade do fluxo com a diferença de pressão nas paredes interna e externa à curva. Essas pressões podem ser medidas, proporcionando uma medida da velocidade do fluxo no duto.
+Consideremos uma comporta de seção retangular de altura h na parte inferior de uma parede vertical, com água até a altura h. A equação de Bernoulii nos dá
+formula_4
+Se escolhermos a linha de corrente que fica na superfície da água, teremos, trabalhando com pressões manométricas,
+formula_5
+Se escolhermos a linha de corrente que fica no fundo da água, teremos
+formula_6
+Ou seja, o resultado independe de qual linha de corrente for escolhida.
+A equação de Bernoulli é válida para fluidos incompressíveis e com viscosidade nula. O caso do fluxo de ar ao redor da asa de um avião pode ser analisado através dessas equações, contanto que a velocidade não seja muito elevada (tipicamente abaixo de mach = 0.3). Neste caso, o ar pode ser considerado incompressível. O referencial mais conveniente a usar não é a terra, e sim o corpo do avião; se a velocidade for constante, esse referencial é inercial. Para um observador no solo, o fluxo não poderia ser considerado como de regime permanente.
+A uma altitude de 1000 m, a temperatura é de cerca de 280 K, e a velocidade do som, 336 m/s. O avião poderia então mover-se, em relação ao ar, a uma velocidade de até 0.3 · 336 m/s = 112 m/s, e a equação de Bernoulli continuaria sendo válida. Tomando como referência uma linha de corrente que ataque frontalmente a asa no ponto A e passe por cima dela, teremos
+formula_7
+onde B é um ponto qualquer na superfície superior da asa. Obviamente, v é a velocidade do avião com relação ao ar. Como v = 0, a pressão p será a pressão de estagnação.
+formula_8
+A pressão estática no ponto B será dada por
+formula_9
+Similarmente, se escolhermos uma linha de corrente que passe por baixo da asa, teremos, num ponto C localizado na superfície inferior
+formula_10
+E a diferença de pressões que atua verticalmente sobre a asa será
+formula_11
+A asa deve ser desenhada de forma que v < v de forma a termos p > p. Assim, a asa sofrerá a ação de uma força ascendente. O desenho mostra que a velocidade do fluxo na parte superior da asa é mais alta, uma vez que as linhas de corrente são mais próximas.
+

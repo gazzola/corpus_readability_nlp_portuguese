@@ -1,0 +1,23 @@
+ Outro exemplo de cilindro, segundo este conceito é o parabólico:
+E, finalmente podemos apresentar um cilindro hiperbólico:
+Uma superfície quadrática é um conjuntos de pontos no espaço gerados por uma equação puramente quadrática, de modo geral uma equação deste tipo é escrita da seguinte forma:
+formula_131
+Onde formula_132 são constantes, e pelo menos um de "A,B,C,D,E e F" não é nulo. As quadráticas são representações tridimensionais das cônicas, a evolução do modelo quadrático para o universo tridimensional é representada sob a forma de novas curvas resultantes da fusão de duas ou mais cônicas. De forma geral, podemos estabelecer um modelo simplificado quando levamos em conta os parâmetros de vértices e centro das cônicas, desta forma podemos substituir a equação acima, através de translações e rotações, pelas formas:
+Como vimos na seção sobre superfícies cilíndricas, logo acima, quando uma das variáveis é eliminada podemos analisar a equação resultante e definir a curva que será projetada sobre o plano formado pelas duas variáveis restantes na equação. Quando analisamos uma equação quadrática, as formas se modificam para cada plano que tomamos, por isto devemos adotar os planos dos eixos para verificar qual a forma que a equação determina sobre os mesmos. Podemos fazer formula_135 e teremos um plano formula_136, por exemplo; ou seja, podemos eliminar cada uma das variáveis da equação e analisar a equação apenas com as restantes. A imagem da projeção da equação em apenas um plano em particular é chamada de traço da curva para o plano. Observemos o gráfico abaixo:
+Os traços podem ser usados para formação das perspectivas das superfícies para valores relevantes da equação, de forma a nos fornecer um esboço de sua aparência... Façamos a análise da equação do hiperbolóide:
+formula_137
+Podemos verificar qual o traço do plano formula_136 fazendo: formula_135, o que nos dá a equação:
+formula_140
+Considerando que temos resultados possíveis quando: 
+formula_141
+O artifício não se mostra eficaz para a análise...
+Podemos substituir a parte formula_142 na equação inicial por uma variável que nos permita analisar em quais condições é possível encontrar raízes para a equação do traço, para isto fazemos:
+formula_143
+Neste caso, teremos que verificar quando:
+formula_144
+formula_145
+formula_146
+formula_147
+O que nos fornece a constatação algébrica sobre o que já é possível observar no gráfico, ou seja, que existe um espaço no eixo formula_73 onde não existem elipses, o que se deve aos pontos de indefinição existentes na hipérbole. As áreas onde as raízes existem nos revelam circunferências se formula_149, ou elipses no caso contrário, isto é o que aparece no traço horizontal da equação. Agora, ao verificar qual o traço do plano formula_150 fazendo: formula_91, temos a equação:
+formula_152
+O que é uma hipérbole. As formas quadráticas mais comuns estão representadas na tabela abaixo, os seis tipos básicos podem ser classificados pela semelhança de suas formas com as cônicas, que já abordamos anteriormente. Dizemos que um sólido obtido pela evolução de uma cônica no espaço recebe o nome da mesma mais o sufixo "óide" para indicar que há parentesco entre estas, facilitando a identificação da família de curvas à qual esta pertence.

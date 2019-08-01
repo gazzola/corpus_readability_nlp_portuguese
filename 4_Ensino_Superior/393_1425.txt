@@ -1,0 +1,66 @@
+ Antes de tudo devemos encontrar as raízes destas equações, tanto para as equações das variáveis como para as equações das derivadas, depois que tivermos conhecimento dos pontos onde as mudanças de sinais ocorrem para cada equação teremos uma idéia do esboço a ser feito, façamos:
+formula_134
+Onde, neste caso, temos:
+formula_135
+formula_136
+formula_137
+Os pontos, para os quais teremos estes valores para o parâmetro são:
+Nas ordenadas:
+formula_140
+formula_141
+Os pontos, para os quais teremos estes valores para o parâmetro são:
+Analisando as derivadas temos:
+Para as abscissas:
+formula_144
+formula_145
+formula_146
+O que nos dá dois pontos com tangentes verticais:
+Para as ordenadas:
+formula_149
+formula_150
+O que nos dá o ponto com tangente horizontal:
+Estes valores nos fornecem informações suficientes para prever a aparência da curva, façamos uma tabela com os valores numéricos aproximados para termos uma idéia de como poderemos esboçar o gráfico:
+Agora considere a função paramétrica definida por um conjunto de pontos tais que:
+formula_152
+da mesma forma que:
+formula_153
+Então, a integral formula_154, pode ser encontrada da seguinte forma:
+formula_155
+formula_156
+formula_157
+formula_158
+temos:
+formula_159
+Inevitavelmente, em alguns casos não poderemos encontrar uma integral de formula_3 em relação ao eixo formula_2 se os seus valores absolutos forem iguais e seus valores reais sejam de sinais diferentes, o que nos fará encontrar um valor nulo, porém poderemos encontrá-lo ao fazer o cálculo em relação ao parâmetro, comprovaremos isso na seção sobre áreas, logo abaixo. De forma geral a equação que define o comprimento de arcos de funções, como foi vista no livro Cálculo (Volume 1) pode ser expressa pela equação que relaciona a integral das diferencias em relação a formula_2, desta forma:
+formula_163
+Portanto, para obter a equação paramétrica correspondente, podemos substituir as diferenciais por suas correspondentes paramétricas:
+formula_164
+formula_165
+formula_166
+Considerando que formula_167 e formula_168 são valores de formula_2, devemos adaptá-los a nova equação, consideremos, portanto, que:
+formula_170
+formula_171
+portanto:
+Temos agora a possibilidade de fazer o cálculo de uma medida bem conhecida, para que tenhamos uma comprovação prática do instrumento algébrico que conseguimos através da análise acima, calcularemos a medida da circunferência utilizando os conceitos abordados. Seja uma circunferência definida pelas equações paramétricas:
+Onde formula_175 é o raio da circunferência. Usando a fórmula do comprimento da curva acima, temos:
+formula_176
+formula_177
+formula_178
+formula_179
+formula_180
+formula_181
+Ou seja:
+O cálculo de áreas em funções paramétricas traz a possibilidade de encontrar a área de formas criadas por curvas fechadas, basicamente o processo é o mesmo que o descrito para as funções definidas num plano cartesiano com dependência nas abscissas, com a diferença que devemos fazer a adaptação do cálculo da integral para que tenhamos uma função com diferenciais bem definidas como vimos nos tópicos acima. Neste exemplo iremos encontrar a área do círculo, cujo valor já é bem conhecido, o que nos possibilitará verificar a eficácia do método. Seja o círculo cuja circunferência que o delimita é descrita tal que:
+Onde formula_175 é o raio do círculo. Então, sua área pode ser calculada se fizermos com que o parâmetro formula_6 varie de formula_59 até formula_188, calculando a integral:
+formula_189
+Considerando que:
+formula_190
+formula_191
+temos:
+formula_192
+formula_193
+formula_194
+formula_195
+formula_196
+O que nos dá:
+Outra aplicação interessante para o cálculo de integrais paramétricas é o cálculo de áreas de superfície, poderemos usar a fórmula de rotação para efetuar o cálculo de superfícies criadas pela rotação de uma curva paramétrica da mesma forma que fizemos antes para o cálculo de diversas funções mais simples.

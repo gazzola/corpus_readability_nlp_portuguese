@@ -1,0 +1,12 @@
+Química inorgânica/Introdução/Estrutura do átomo
+Os átomos não se extinguem ou se criam. Um grama de água, por exemplo, possui aproximadamente cem sextilhões (10) de átomos (3,3 x 10 moléculas). Apesar disso, sabemos como eles são:
+As "bolas" ilustradas são chamadas "partículas atômicas". Elas são:
+Você já deve ter ouvido a famosa lei física das cargas "os opostos se atraem". Esta regra também é aplicada ao átomo. Os prótons exercem uma força sobre os elétrons que os atraem. Além disso, a quantidade de elétrons no átomo é, na maioria dos casos, igual à quantidade de prótons. Já a quantidade de nêutrons, geralmente é próxima à quantidade de prótons. Os átomos podem perder essas partículas por fenômenos que não serão tema deste livro.
+O núcleo do átomo é um aglomerado de prótons e nêutrons. A quantidade de partículas no núcleo denomina-se "massa atômica", - que corresponte a massa total do átomo - pois o nêutron e o próton possuem massa próxima e superior a do elétron (que é praticamente desprezível). Usualmente se utiliza a letra "A". Podemos descrever, então:
+A quantidade de prótons (p) também é conhecida por "número atômico" (Z). Cada elemento possui um determinado número atômico, que pode ser visualizado na tabela periódica e esse número que caracteriza o elemento químico.
+Já o número de nêutrons não altera o elemento, por isso o número de massa também não o altera. Veja, abaixo, alguns exemplos de átomos:
+Observe que, independentemente do número de nêutrons e de massa, os três átomos recebem a designação "H", porque os três tem o número atômico igual a 1. Caso se deseje destacar a massa do átomo, existem duas maneiras de fazê-lo, como você pode notar. Átomos de mesmo número atômico, mas de diferentes massas, como no caso acima, são denominados "isótopos". Neste caso, o deutério e o trítio são isótopos de hidrogênio.
+A eletrosfera é a parte do átomo em que circundam os elétrons. A eletrosfera é dividida em várias camadas, na natureza o maior número de elétrons já encontrado em um átomo foi:
+A camada K é a mais próxima do núcleo, enquanto que a camada Q é a mais distante. Todos os átomos possuem ao menos uma camada. 
+Assim como a quantidade de nêutrons é mutável, a quantidade de elétrons é. Os átomos são considerados "neutros" quando a quantidade de elétrons totais é igual ao número atômico. Veremos com mais detalhes esta característica adiante.
+

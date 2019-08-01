@@ -1,0 +1,28 @@
+Análise real/Unicidade dos números reais
+Existem várias maneira de construir o conjunto formula_1 dos números reais, portanto é importante é descobrir se diferentes maneiras de construir os números reais poderiam resultar em conjuntos com propriedades distintas. Como veremos a seguir, construir os reais usando cortes de Dedeking resultará em um conjunto que será, em essência, o mesmo conjuntos dos reais construídos usando sequências de Cauchy.
+Se pensarmos estritamente, as várias maneira de construir os números reais de fato criam conjuntos muito estranhos e diferentes em sua estrutura, mas isto é irrelevante, pois o importante é o que podemos fazer com os números reais e não o que eles de fato são.
+Como veremos a seguir, é que dois corpos ordenados completos arquimedianos, são iguais, a menos de um isomorfismo. Ou em linguagem mais coloquial, se tivermos dois existe isomorfismo entre eles, isto é, ambos possuem as mesmas propriedades.
+Dizemos que formula_2 é um isomorfismo entre corpos ordenados se:
+Se formula_10 são corpos ordenados completos, então existe um isomorfismo entre eles.
+A demonstração NÃO ESTÁ pronta, tenham paciência.
+A maneira mais simples de provar que existe um isomorfismo é construir uma função formula_8 entre os corpos formula_12 e formula_13 e então provar que essa função é um isomorfismo.
+Vamos começar definindo uma função auxiliar. Sabemos que formula_10 são corpos, então existe formula_15 e formula_16, nada mais natural que definirmos:
+Seja formula_17 definida da seguinte maneira:
+formula_18
+formula_19
+E por indução, para cada formula_20, temos:
+formula_21
+formula_22
+Se formula_23, então sabemos que formula_24, pois como formula_23, então formula_26.
+Portanto podemos definir:
+formula_27.
+Desta forma a função formula_28 mapeia formula_29 em formula_30.
+Vamos mostrar que formula_28 é um isomorfismo de corpos ordenados de formula_32 em formula_33
+Por definição, temos formula_35, para todo n natural.
+Suponha que formula_36, para todo formula_37 tal que formula_38.
+formula_39, pela hipótese de indução.
+Seja formula_2 definida da seguinte maneira:
+Para cada formula_45, sejam, formula_46. Como formula_47, podemos definir formula_48
+Agora vamos provar que formula_8 é de fato um isomorfismo de corpos ordenados.
+Dado formula_55
+

@@ -1,0 +1,10 @@
+ Para inserir setas largas, clicar na barra de ferramentas desenho no ícone correspondente e selecionar o estilo desejado,
+depois clicar na área do slide e arrastar até o tamanho desejado. Um conector é uma linha que une objetos e que permanece anexada quando eles são movidos. Para desenhar uma linha de conexão, clicar em um ponto de conexão do objeto, arrastar até o ponto
+de conexão de outro objeto e, em seguida, liberar o mouse. Para alterar o estilo do conector, clicar com o botão auxiliar do mouse em cima dele e no menu suspenso
+opção Conectores. A caixa de diálogo Conectores será exibida -> abrir a caixa de listagem -> escolher o estilo desejado. Para inserir fluxogramas, clicar na barra de ferramentas desenho no ícone correspondente e selecionar o estilo desejado,
+depois clicar na área do slide e arrastar até o tamanho desejado. Para inserir texto no formato Fontwork:
+No BrOffice.org é possível inserir figuras do tipo gif, jpeg e outras. disponibilizando vária figuras. Inserir uma planilha em branco do Módulo Planilhas (Calc) em um slide, como um objeto OLE. duas vezes no espaço reservado para a planilha e, em seguida, clicar na planilha para inserir os dados. Para redimensionar a planilha sem redimensionar as células, clicar duas vezes na planilha e, em seguida, arrastar
+uma alça de canto. Para redimensionar as células da planilha, clicar na planilha e, em seguida, arrastar uma alça de
+canto. Para sair do modo de edição, clicar fora da área da planilha. Ao inserir uma planilha existente no slide, as alterações que são feitas no arquivo de planilha original não são
+atualizadas no slide. Entretanto, pode-se efetuar alterações na planilha no próprio slide. A planilha inteira é inserida no slide. Para alterar a planilha que está sendo exibida, clicar duas vezes nela. Para criar organograma no BrOffice.org o usuário precisará trabalhar com as formas geométricas retângulos e conectores
+e, inseri-los de forma a modelar um organograma, também poderá inserir texto e atribuir cor para os objetos inseridos. O BrOffice disponibiliza diversos Layout de slide para trabalhar com gráfico.

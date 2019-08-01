@@ -1,0 +1,24 @@
+Logística/Técnicas de previsão/Decomposição de séries temporais/Médias móveis
+As médias móveis têm como objectivo alisar os dados históricos do passado de modo a estimar a componente do ciclo de evolução, traduzindo-se num método de fácil aplicação. De entre os vários métodos simples de média móvel,destacam-se, a média móvel simples, média móvel centrada, e média móvel ponderada. 
+As médias móveis são um elemento fundamental em todos os problemas de decomposição (Makridakis, 1998, p. 89).
+
+
+Logística/Gestão de desperdícios e rejeitados/Resíduos sólidos urbanos/Equipamento de deposição
+Os RSU indiferenciados podem ser depositados com a finalidade de serem removidos em: recipientes de tara perdida (como sacos), papeleiras ou contentores, identificados para essa finalidade e de acordo com as regras e o horário de recolha. No caso dos RSU diferenciados com destino à reciclagem, existem 2 tipos de equipamento de deposição, são eles: o Ecoponto e o Ecocentro.
+Um ecoponto é um conjunto de contentores utilizado para depositar RSU como papel, embalagens, vidro e pilhas. Estão localizados em lugares públicos - por exemplo, feiras e mercados, escolas, complexos desportivos - e outros locais de grande produção de resíduos, incluindo zonas habitacionais. Cada contentor de um ecoponto apresenta cor e sinalética específica, relativa ao tipo de material que pode ser nele depositado. Os símbolos presentes nos contentores podem variar de local para local, pelo que é aconselhável observar com atenção a sinalética colocada nos equipamentos ou consultar a autarquia correspondente.
+O ecocentro consiste num parque amplo com contentores de grandes dimensões destinados a receber e armazenar separadamente resíduos de grandes dimensões com viabilidade de valorização, recuperação e reciclagem, como os entulhos, restos de madeira e electrodomésticos antigos, mas também óleos usados.(Resíduos sólidos, 2004)
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de movimentação de materiais/Transportadores/Tow Line Conveyor
+Tow Line Conveyor, são sistemas de transporte por reboque. É necessária a utilização de um veículo motorizado ou não, para transportar os materiais ou embalagens.
+Um dos exemplos mais frequentes é a utilização de camiões que rebocam semi-reboques. Estes semi-reboques são cheios, convenientemente com as suas dimensões, de material a transportar. 
+Outro exemplo é o da utilização de porta paletes, estes são utilizados para movimentar dentro de espaços relativamente pequenos, como por exemplo somente dentro do armazém. 
+É um sistema de transporte não sincronizado, mas bastante flexível visto que não necessita de uma linha de transporte previamente definida.
+É uma hipótese bastante viável para espaços pequenos, tendo uma grande acessibilidade este sistema torna-se a longo prazo muito mais barato do que instalar outro sistema existente no mercado.
+
+
+Logística/Sistemas de informação/Rastreabilidade/Sistema de rastreabilidade no sector alimentar/Características fundamentais
+Identificação "não" é rastreabilidade. São duas palavras com significados diferentes. A identificação é um óptimo investimento a fazer para implantar um bom sistema de rastreabilidade, no entanto não é o único, ainda que a identificação seja um meio para conseguir a rastreabilidade. Todos os sistemas de rastreabilidade devem ter como componentes essenciais a identificação e os módulos central; distribuído nas instalações; de consulta e administração; e ainda de publicação (RQ LABELS, [200?]).
+A identificação dos produtos/animais é fundamental para o funcionamento do sistema de rastreabilidade, realizando-se através de alguns métodos existentes actualmente:
+Existem alguns tipos de leitores para além da leitura visual, dos quais merecem distinção os seguintes: Módulos de leitura estáticos de chips RFId; módulos de leitura portáteis (permite adicionar dados ao leitor electrónico) e o mais conhecido leitor de código de barras.
+

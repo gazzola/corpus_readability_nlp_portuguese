@@ -1,0 +1,31 @@
+Curso de termodinâmica/Exercícios de termodinâmica/A17
+Um volume de 95 ml de óxido nitroso a 27° C é colocado com mercúrio num tubo graduado. O nível de mercúrio dentro do tubo é de 60 mm em cima do nível do mercurio fora do tubo quando a pressão atmosférica é de 750 mmHg. Calcular o volume da massa de gás às condições padrões.
+Dados do problema:
+formula_1formula_2
+
+
+Curso de termodinâmica/Exercícios de termodinâmica/A22
+A massa volúmica do oxigênio é 1,43 kg/m às condições padrões (P = 760 mmHg e T = 0° C). Determinar a massa volúmica do oxigênio a 17° C e 700 mmHg.
+Por definição, a massa volúmica M é:
+formula_1
+É evidente que, quando a massa é constante, a massa volúmica diminui com um aumento do volume:
+formula_2
+Por outro lado, o volume varia com a temperatura e a pressão segundo a relação:
+formula_3
+Substituindo:
+formula_4
+Dados do problema:
+formula_5
+
+
+Curso de termodinâmica/Exercícios de termodinâmica/B6
+Qual a massa de ar contida numa sala de 10x15x4m se a pressão e a temperatura forem igual a 90kPa e 300K? Admita o ar como gás ideal (R=0,3kJ/kg.K).
+
+
+Curso de termodinâmica/Exercícios de termodinâmica/A38
+A pressão de vapor da água a 80º C é de 355 mmHg. Um recipiente de 100 ml contém oxigênio saturado em água a 80°C, sendo que a pressão total do gás é de 760 mmHg. O conteúdo do recipiente é transferido por bombeamento para um recipiente de 50 ml à mesma temperatura. Qual é a pressão parcial de oxigênio e de vapor de água e qual é a pressão total após o equilíbrio? Negligenciar o volume de qualquer quantidade de água que poderia condensar-se.
+A pressão de vapor é independente da pressão total, só depende da temperatura. Assim, a pressão parcial de vapor de água nas condições finais é de 355 mmHg. 
+Nas condições iniciais, a pressão parcial de oxigênio é de 760 - 355 = 405 mmHg 
+Dividindo por dois o volume, levamos então a pressão de oxigênio a 810 mmHg. 
+A pressão total final será de 355 + 810 = 1165 mmHg
+

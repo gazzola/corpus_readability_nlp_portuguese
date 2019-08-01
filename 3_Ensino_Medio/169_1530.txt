@@ -1,0 +1,24 @@
+ Os polinômios:
+formula_26
+formula_27 
+A sua adição é efetuada como segue:
+formula_28
+Em caso de polinômios compostos por mais de uma variável, tais quais:
+formula_29
+formula_30 
+A sua adição é efetuada como segue:
+formula_31
+Processo:
+Para fazer a soma dos polinômios de uma só variável, identificamos os monômios de mesmo expoente e somamos os fatores dos mesmos, o resultado da soma dos fatores é multiplicado pela parte variável do monômio, repete-se o processo para todos os monômios até que não haja mais fatores. Para fazer a soma dos polinômios de várias variáveis, identificamos os monômios com variáveis iguais de mesmo expoente e somamos os fatores dos mesmos, o resultado da soma dos fatores é multiplicado pela parte variável do monômio, repete-se o processo para todos os monômios até que não haja mais fatores. O sinal de negativo (-)antes dos parêntese exige a troca de todos os sinais que estejam dentro dele. (3x²-2x+5)-(5x-3)=
+(15x² - 10x + 2) • (3x - 2) 
+Nesse caso, multiplica-se todos os termos ou considere:
+donde,
+donde,
+Portanto, o produto da multiplicação indicada será 45x³ - 60x² + 26x -4. Para realizar-se uma divisão de polinômios, utiliza-se um dos teoremas abaixo:
+O resto da divisão do polinômio P(x) por ax + b é dado por P(-b/a)
+Portanto, o resto é 43. Um polinômio formula_40 é divisível pelo polinômio de primeiro grau formula_41 se e somente se, formula_45
+Todo polinômio formula_46 de uma variável com coeficientes complexos e de grau formula_47 tem alguma raiz complexa. Em outras palavras, a equação polinomial formula_48 tem formula_49 soluções, não necessariamente distintas. Apesar do nome pomposo, um estudo mais aprofundado da Álgebra contemporânea mostra que este resultado não é assim "tão fundamental". No entanto, no contexto das equações polinomiais, é ele quem traz a garantia de que existem soluções para esse tipo de equação. Existem várias formas de se fatorar um polinômio, ou seja, escrevê-lo como um produto de expressões mais simples:
+Destacam-se os termos em comum, e coloca-o em evidência, colocando entre parênteses as outras parcelas entre parênteses na forma de produto, multiplicando-o com o número em evidência
+Agrupam-se os termos em comum. Quando agrupamos os termos, fazemos evidência separadamente em cada agrupamento. Esse já é mais complexo, pois, partiremos em etapas explicando através do exemplo. Primeiro verificamos se é um Trinômio do quadrado perfeito:
+Note que 10m é o valor do meio na expressão, isso prova que ela é um Trinômio do quadrado perfeito. Esse é o valor fatorado da expressão inicial. A expressão abaixo se encaixa na fórmula acima. Aplica-se a fórmula da fatoração das equações do segundo grau. Onde,
+Por tanto, a fatoração de tal expressão resulta em:

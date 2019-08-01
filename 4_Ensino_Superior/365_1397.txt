@@ -1,0 +1,78 @@
+ Imagine que temos uma nova variável formula_83 e que:
+formula_84
+Sendo: formula_85
+Podemos dizer que:
+formula_86
+formula_87
+formula_88
+formula_89
+Portanto:
+O exposto acima encontra respaudo no fato de que a expressão é simplesmente a tradução da relação métrica de um triângulo retângulo para definição do cosseno a partir do seno, como segue:
+Se fizermos a comparação entre as funções e o gráfico acima, substituindo as variáveis e constantes de acordo com a função dada, teremos o seguinte:
+O que nos dá as substituições:
+Agora, considere o fato de que a função formula_96 tem como integral a função formula_97, então podemos fazer:
+formula_98
+Uma vez, que pela análise anterior já sabemos que quando fazemos formula_99 temos:
+formula_100
+então:
+formula_101
+Temos que encontrar formula_102:
+formula_103
+formula_104
+O que nos revela algo interessante:
+formula_105
+formula_106
+Ou seja:
+Logo:
+Seja a função: formula_109, calculemos a sua integral por substituição trigonométrica:
+formula_110
+Fazendo a transformação de variáveis:
+formula_111
+formula_112
+A integral será:
+formula_113
+formula_114
+formula_115
+formula_116
+formula_117
+Como:
+formula_118
+formula_119
+Portanto:
+Sendo "C" a constante de antidiferenciação. Seja a função: formula_121, calculemos a sua integral por substituição trigonométrica:
+formula_122
+Introduzimos a variável angular formula_83, de forma que:
+formula_124
+e sua diferencial:
+formula_125
+Substituindo na equação anterior:
+formula_126
+formula_127
+formula_128
+formula_129
+formula_130
+Retornando a função ao domínio da variável "x":
+formula_131
+formula_132
+Portanto:
+Sendo "C" a constante de antidiferenciação. Seja a função: formula_134, calculemos a sua integral por substituição trigonométrica:
+formula_135
+Introduzimos a variável angular formula_83, de forma que:
+formula_137
+e sua diferencial:
+formula_138
+Substituindo na equação anterior:
+formula_139
+formula_140
+formula_141
+formula_129
+formula_130
+Retornando a função ao domínio da variável "x":
+formula_144
+formula_145
+Portanto:
+Sendo "C" a constante de antidiferenciação. Denominadores de segundo grau ou mais são um pouco mais problemáticos quando queremos definir uma integral, por exemplo:
+Seja a função: formula_147
+É possível demonstrar que a função pode ser fatorada da seguinte forma:
+formula_148
+Onde "A" e "B" são os fatores a serem definidos; o processo para definí-los será explicado mais adiante e formula_149 são as raízes da equação formada a partir do denominador quando o igualamos a zero. Porém a demonstração disto está fora do escopo deste livro, deve ser tratado na algebra avançada.

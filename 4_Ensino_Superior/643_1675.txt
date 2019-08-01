@@ -1,0 +1,31 @@
+ Mecânica dos fluidos/Fluxo laminar do líquido Newtoniano
+Quando o fluido não pode ser aproximado pelo modelo do fluido ideal, e sim pelo modelo do líquido Newtoniano, devem ser usadas as as equações de Navier-Stokes. Em algumas situações onde a geometria do problema é simples e o fluxo é laminar, existe uma solução analítica para essas equações. O fluxo laminar é caracterizado pela sua espessura h. 
+A configuração geométrica mais simples possível de um escoamento ocorre quando o líquido flui entre duas placas paralelas infinitas. Por exemplo, em muitas situações práticas, óleo lubrificante flui por um intervalo entre um cilindro e um pistão; como o intervalo de escoamento é muito pequeno, com relação às demais dimensões, o problema pode ser modelado como um fluxo entre duas placas planas infinitas. Nesses casos, h é a espessura do intervalo. A escolha natural é o eixo X na direção do fluxo e o eixo Z na vertical. Como sabemos, a velocidade é nula nas paredes. Assim,
+formula_1
+Além disso, como o escoamento está plenamente desenvolvido, 
+formula_2
+e, por simetria,
+formula_3
+formula_4
+Além disso, o escoamento está em regime estacionário, ou seja, nenhuma propriedade varia no tempo
+formula_5
+A equação da continuidade, nessas condições, se torna
+formula_6
+A equação de Navier-Stokes referente ao eixo X simplifica-se para
+formula_7
+formula_8
+formula_9
+Na igualdade acima, o lado esquerdo é uma função de z, somente, e o lado direito, uma função somente de x. Para que isso seja verdadeiro para todo x e z, é preciso que ambos sejam iguais a uma constante. Assim
+formula_10
+formula_11
+formula_12
+Assim
+formula_13
+As equações para os demais eixos simplificam-se da seguinte forma:
+formula_14
+formula_15
+formula_16
+formula_17
+formula_18
+As equações de Navier-Stokes, uma vez resolvidas, nos informam que:
+A variação da pressão ao longo do eixo X se dá porque a viscosidade do fluido provoca uma perda de carga devido ao atrito com as paredes. Curiosamente, a variação da velocidade ao longo desse eixo não faz com que a pressão varie de forma similar; a variação de pressão nesse sentido deve-se apenas ao efeito da gravidade.

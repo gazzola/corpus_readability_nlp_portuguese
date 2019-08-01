@@ -1,0 +1,12 @@
+Logística/Manutenção de instalações/Manutenção de equipamentos e sistemas eléctricos/Sistemas de protecção eléctrica/Elemento de protecção/Fusível
+Um fusível é um dispositivo de segurança constituído por um fio condutor homogéneo (Matias et al., 2000, p. 11, 13-14 e 17).
+O fusível tem como função, suportar a corrente, interrompendo o circuito por fusão ou volatilização (Efeito de Joule), quando a corrente que o percorre transcende o valor da sua intensidade nominal. O fusível funde tanto ou mais depressa, quanto maior for a intensidade da corrente.
+Quando estamos perante casos de baixa tensão:
+As principais características dos fusíveis são:
+Quando, por meio dos fusíveis, se pretende proteger uma instalação com vários circuitos derivados, é possível garantir uma certa selectividade, desde que as intensidades nominais dos fusíveis sejam convenientemente escolhidas.
+O sistema de protecção deve actuar somente na parte do circuito, onde houve um aumento de corrente, ou seja, deve apenas ser fundido o fusível que se encontra situado na zona do problema, de modo a que o outro circuito parcial não deixe de ser alimentado.
+Para a escolha do fusível, de acordo com as características dos circuitos a proteger, deve-se proceder à análise das respectivas curvas de intensidade de fusão – tempo de fusão, de modo a verificar se há ou não selectividade para determinados valores de corrente.
+Em geral, quando estamos na presença de sobrecargas, é apenas necessário que a intensidade de funcionamento do fusível a montante seja maior do que a do situado a jusante.
+Quando se trata de curto-circuitos, a situação é mais complicada, porque o fusível a montante alimenta outras derivações, encontrando-se a temperatura superior. Por isso, o seu tempo de actuação face ao defeito, irá depender de vários factores, como: valor da corrente do curto-circuito, correntes pedidas pelas várias derivações e dos tipos de fusíveis. 
+Quando se trata de fusíveis do mesmo tipo, em geral, pode-se dizer que há selectividade entre dois fusíveis em série no circuito, se a intensidade nominal do fusível a montante, for pelo menos tripla da do fusível a jusante.
+

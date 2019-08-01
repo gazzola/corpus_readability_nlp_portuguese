@@ -1,0 +1,37 @@
+ Adotando esta notação para as derivadas, temos: 
+formula_96
+formula_97
+queremos formula_98 e sabemos que formula_99 para isso teríamos:
+formula_100
+formula_101
+Quando formula_102 ocorre que formula_103 pois as duas funções são contínuas e "u" depende de "x", logo:
+formula_104
+então:
+formula_105
+Podemos deduzir, a partir das regras comuns e da definição, equações que determinam a derivada para as funções mais comuns, adiante temos uma amostra destas equações e suas demonstrações. Conforme constatamos:
+formula_106
+Façamos o cálculo pela definição:
+Admitindo, inicialmente, que o ponto onde pretendemos encontrar a derivada tem formula_108 e
+formula_109, logo:
+formula_110
+formula_111
+formula_112
+O que nos afirma a validade do teorema. Demonstração:
+Temos pela definição:
+formula_114
+formula_115
+formula_116
+Considerando o limite, temos:
+formula_117
+Como única parte relevante, pois todas as outras terão valores nulos no limite, isto prova o teorema. Considerando que as diferenciais podem ser tratadas separadamente e que temos meios para tratar ambas as variáveis de uma equação, a partir da regra da cadeia, temos instrumentos para diferenciar qualquer equação que represente uma função contínua. O método de diferenciação implícita é muito útil como meio de simplificar a resolução de diferenciais onde a variável dependente é de órdem superior. A idéia mestra deste mecanismo é tornar implícito o conteúdo da variável, sem que seja necessária a sua substituição por equivalente algébrico antes da resolução; Vejamos um exemplo para simplificar a explanação:
+A função formula_118 é realmente complicada para ser diferenciada pelos métodos que vimos até agora, porém podemos esquecer a resolução da equação e considerar que a diferenciação pode, implicitamente, ser operada diretamente na equação inteira, desta forma:
+formula_119
+A partir desta equação podemos operar as diferenciais algebricamente para encontrar o valor da derivada formula_120 
+formula_121
+A equação que representa a função apresenta dois valores possíveis para y:
+formula_122
+O que nos dá duas derivadas, quando substituímos o valor de y na sua derivada:
+formula_123
+Simplificando:
+formula_124
+Desta forma podemos encontrar qualquer diferencial implicitamente, reduzindo a complexidade na aplicação das regras de derivação.

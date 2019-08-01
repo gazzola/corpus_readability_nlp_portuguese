@@ -1,0 +1,53 @@
+ Em todo caso, o teorema é bastante útil para a simplificação de tais funções. As funções racionais do formato: formula_150 têm uma característica bem interessante, os seus denominadores formula_151, quando fatorados em partes lineares e quadráticas permitem que possamos escrever a referida função como uma soma:
+formula_152
+formula_153
+Seja a função formula_154, podemos simplificá-la desta forma:
+Considerando as raízes da equação formula_155, podemos dizer que:
+formula_156
+Os fatores formula_157 são calculados fazendo:
+formula_158 
+formula_159
+logo, as raízes permitem: formula_160, então temos que admitir que ao analisar cada raiz:
+Quando formula_161:
+formula_162
+formula_163
+Quando formula_164:
+formula_165
+formula_166
+então, podemos fazer:
+O artifício de encontrar componentes lineares para substituir os denominadores, como exposto no tópico anterior, permite uma boa simplificação de integrais com denominadores polinomiais de graus superiores, porém ainda depende da determinação das raízes do polinômio dos denominadores, o que limita a nossa capacidade de resolução aos polinômios biquadráticos. Sem levar em conta este fato, podemos simplificar a integral para uma boa parcela de problemas que apresentam estes formatos de expressões. Vejamos o caso anterior:
+A função: 
+formula_168, 
+pode ser substituída por:
+O que nos permite fazer:
+Com "C" Constante. Utilizando a decomposição de funções racionais em funções de denominadores lineares para a simplificação de integrais. Seja a função:
+formula_171
+Encontremos a integral:
+formula_172
+Devemos simplificar a função, para isto podemos efetuar a divisão polinomial, que resulta:
+formula_173
+Ainda resta uma parte fracionária que podemos decompor usando o método que já vimos neste capítulo:
+formula_174
+As raízes nos revelam que:
+formula_175
+logo podemos fazer:
+formula_176
+formula_177
+Analisando os valores da equação quando "x" se iguala as raízes:
+Para formula_178 :
+formula_179
+formula_180
+Para formula_181 :
+formula_182
+formula_183
+Podemos concluir que:
+formula_184
+Desta forma temos a função simplificada:
+formula_185
+Podemos integrá-la:
+formula_186
+formula_187
+formula_188
+formula_189
+Portanto:
+Sendo "C" a constante de antidiferenciação. A segunda categoria de funções racionais às quais temos que nos aplicar são as que dão origem a denominadores quadráticos.

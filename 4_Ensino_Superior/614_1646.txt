@@ -1,0 +1,17 @@
+Uma simplificação vantajosa da fórmula III, cingirá o cálculo do MTBF de determinado período, ao período delimitado pelas avarias extremas ocorridas nesse período: no caso da figura, desde a data da avaria 2 até à data da avaria 5:
+Fórmula IV:
+MTBF = (TF3 + TF4 + TF5) / 3 (horas)
+Da mesma forma, para calcular (TF3 + TF4 + TF5) podemos utilizar:
+Em que:
+TS (horas) = data/hora início da reparação 5 (última avaria do período de análise) – data/hora de início da reparação 2 (primeira avaria no período de análise). Num caso geral, a expressão IV assume a forma:
+Fórmula IV: (n-1)
+MTBF= TS- STRi horas
+Nav -1
+Em que:
+TS = Tempo decorrente entre a data de início da primeira avaria e a data início da última avaria
+TRi = Tempos de reparação no período (soma todos menos o último)
+Nav = Número de avarias no período de análise
+Observar que para um período de análise suficientemente longo o MTBF é aproximadamente igual ao inverso da Taxa de Avarias:
+MTBF ≈ 1/ a 
+Caso o período de análise coincida com a ocorrência de avarias (tenha havido, por exemplo, uma avaria em 15Jan1999 e outra em 27NovV2001, com várias de entremeio, e a análise se fizer entre 15Jan1999 e 27Nov2001) verifica-se a igualdade. 2.3 MTBF de um conjunto de equipamentos
+O MTBF de um conjunto de equipamentos, para um determinado período de tempo, poderá ser definido como o tempo médio entre avarias consecutivas nesse conjunto de equipamentos, nesse período. Isto é, os períodos de bom funcionamento desse conjunto são o somatório dos períodos em que nenhum dos equipamentos está avariado. Se o conjunto de equipamentos for suficientemente significativo já não se verificam as limitações práticas referidas para um único equipamento; isto é, será natural que num conjunto significativo de equipamentos existam várias avarias, mesmo num período de tempo relativamente curto. Este MTBF faz sentido numa gestão de manutenção (o MTBF da linha 4; o MTBF global da fábrica, etc.).

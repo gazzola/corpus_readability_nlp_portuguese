@@ -1,0 +1,21 @@
+Logística/Serviço ao cliente/Valor acrescentado do serviço ao cliente
+Define-se a equação de valor do cliente como a razão entre o que o cliente ganha e percepciona na transacção, e o preço e outros custos que o cliente tem de dispender.
+A logística tem o potencial de criar valor acrescentado, trabalhando tanto no numerador como no denominador da equação de valor. 
+Essa alteração da equação de valor pode ser conseguida através de vários parâmetros:
+
+
+Logística/Planeamento e projecto de instalações/Necessidade de espaços
+A necessidade de espaço é um ponto fundamental para projectar uma instalação. Num "layout" tudo se baseia na noção do espaço e na relação física entre os elementos constituintes da área em questão. Para a determinação do espaço que é necessário analisa-se primeiramente o espaço disponível, a taxa de produção desejada, e equipamentos e trabalhadores imprescindíveis para realizar cada actividade
+Num caso ideal só se seguia para a construção do edifício após a elaboração do "layout", ajustando-o às nossas necessidades. Sendo esta uma visão pouco realista tem-se à partida que projectamos a instalação para um local com limitações a nível de quantidade e configuração do espaço. Algumas das restrições que se pode encontrar a nível de um edifício já existente são:
+O espaço necessário para planear o "layout" é calculado após se saber quantas máquinas serão operadas por cada trabalhador e o número de trabalhadores na montagem. A partir do número de máquinas operadas por cada trabalhador conseguir-se-à calcular o espaço necessário para cada equipamento enquanto que o número de trabalhadores na montagem permitirá a análise do espaço para esta actividade. Existem vários métodos para determinar o espaço necessário para uma instalação, aqui apresenta-se os mais utilizados.
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Armazenagem de unidades de carga/Estante para armazenagem de unidades de carga/Estante dinâmica
+A função de uma estante dinâmica é a mesma que a de uma estante "drive-thru" com diferenças na sua constituição. Numa estante dinâmica as cargas são movimentadas e suportadas por rodas, cilindros ou almofadas de ar ao longo do comprimento da estante. Quando uma unidade de carga é removida, a carga seguinte avança para a posição desta, graças à ligeira inclinação da estante. A principal vantagem desta estante é que possibilita, simultaneamente, um elevado ritmo de carga/descarga e grande densidade de armazenagem, razões pelas quais é utilizada quando a movimentação de cargas é elevada (Tompkins et al., 2003, p. 253).
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Equipamento de armazenagem de pequenas cargas
+O equipamento de armazenagem de pequenas cargas é classificado como "operator to stock" se o operador se deslocar até à zona de armazenagem de material e é classificado como "stock to operator" se o material for transportado mecanicamente até ao operador.
+Os vários tipos de equipamento "stock to operator" proporcionam uma maior produtividade, facilidade na supervisão e maior segurança e protecção dos materiais relativamente ao sistema "operator to stock". Ao mesmo tempo, as opções que o sistema "stock to operator" dispõe são mais caras, mais complicadas de configurar e requerem uma maior manutenção relativamente às opções do sistema "operator to stock".
+Nos sistemas "operator to stock" o desenho e selecção do modelo de armazenagem podem ser distintos do projecto e selecção do mecanismo de "picking". Por esta razão, os equipamentos de armazenagem "operator to stock" e os equipamentos de "picking" podem ser definidos separadamente (Tompkins et al., 2003, p. 264).
+

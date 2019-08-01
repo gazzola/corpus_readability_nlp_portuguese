@@ -1,0 +1,23 @@
+Tábuas Atuariais/Comparação entre tábuas
+Tabela comparativa entre as principais tábuas apresentadas.
+<nowiki>*</nowiki> Também conhecidas como UFRJ2006s-Masculina e UFRJ2006s-Feminina, respectivamente.
+
+
+Tábuas Atuariais/Tábuas intergeracionais
+As Tábuas intergeracionais, também conhecidas por tábuas geracionais e tábuas dinâmicas, são tábuas que apresentam uma taxa de mortalidade especifica às diferentes "gerações", representadas pelo ano de nascimento, criando assim tábuas de vida mais dinâmicas. As tábuas intergeracionais permitem uma melhor avaliação da mortalidade e sobrevivência, antecipando os efeitos do aumento da expectativa de vida, conseqüências dos avanços tecnológicos, especialmente na medicina, da melhoria das condições da vida humana, diminuição do risco laboral, controle sobre os efeitos de catástrofes naturais, entre outros.
+As tábuas intergeracionais apresentam, em relação as tábuas estáticas, um avanço, por levar em conta dois parâmetros para a definição de uma função que expresse o fenômeno da sobrevivência, quais sejam, o tempo físico, representado pela idade, e o tempo biométrico, representado pela idade. 
+Como exemplo de tábuas intergeracionais temos a suíça GRM/F-80 e a espanhola PERM/F-2000.
+
+
+Tábuas Atuariais/Tábua de mortalidade de inválidos
+Uma Tábua de mortalidade de inválidos visa basicamente medir a probabilidade de sobrevida (expectativa de vida), em função da idade, de um indivíduo que tenha entrado em invalidez.
+Essa tábua apresenta as probabilidades de morte de uma pessoa inválida. Por estes dados pode-se estimar por exemplo a quantidade de benefícios que um aposentado por invalidez receberá.
+São exemplos de tábuas de mortalidade de inválidos: IAPC, IAPB-57, Muller, TASA-1927, Winkle, Ibafer.
+
+
+Tábuas Atuariais/Tábuas de invalidez
+Uma Tábuas de invalidez mede as probabilidades relativas à invalidez dos seres humanos. Essa invalidez é caracterizada pela incapacidade de uma pessoa em exercer sua atividade profissional ou qualquer outro tipo de serviço que lhes garanta o sustento. Essa invalidez pode ser decorrente de acidente, de doença ou mesmo de envelhecimento.
+A utilização das tábuas de invalidez ocorre basicamente no cálculo de rendas e pecúlios por invalidez.
+Existem basicamente dois tipos de Tábuas de Invalidez: as de entrada em invalidez e de mortalidade de inválidos.
+Há basicamente sete probabilidades presentes no conjunto de tábuas de invalidez. Essas probabilidades permitem a elaboração de diversas funções e são apresentadas abaixo com suas respectivas simbologias:
+

@@ -1,0 +1,18 @@
+Matemática elementar/Conjuntos numéricos
+Os principais conjuntos numéricos são listados a seguir.
+Os números naturais são usados para contar. O símbolo formula_1 usualmente representa este conjunto.
+O conteudo sobre números naturais oferece informações detalhadas sobre os seguintes assuntos:
+Tópicos:
+O conjunto dos números inteiros aparecem como soluções de equações como x + a = b. O símbolo formula_3 usualmente representa este conjunto (do termo alemão "Zahlen" que significa "Números").
+O conjunto dos números racionais são todos os números que podem ser representados por frações (e são expressos tanto na forma fracionária quanto na forma decimal - por exemplo 3/4 e 0,75). Eles aparecem como soluções de equações como a + b x = c. O símbolo formula_4 usualmente representa este conjunto (da palavra quociente).
+Tópicos
+O conjunto dos números irracionais contém todos os números que não podem ser representados por frações do tipo p/q, onde p e q são números inteiros, com q diferente de zero. Estes números podem, no entanto, ser associados a pontos numa reta, a reta real. O símbolo formula_5 usualmente representa este conjunto.
+O conjunto dos números reais é uma expansão do conjunto dos números racionais que engloba não só os inteiros e os fracionários, positivos e negativos, mas também todos os números irracionais. Os números reais podem ser dispostos ordenadamente em uma reta que é chamada reta real.
+Tópicos
+O conjunto dos números complexos inclui os números, que resultam de qualquer radiciação possível, tendo uma parte imaginária e uma parte real. O símbolo formula_6 usualmente representa este conjunto. 
+Cada número complexo é a soma dos números reais e dos imaginários: formula_7. Aqui tanto r quanto s podem ser iguais a zero; então os conjuntos dos números reais e o dos imaginários são subconjuntos do conjunto dos números complexos.
+Tópicos
+O conjunto dos números imaginários puros inclui os números que aparecem como soluções de equações como x + r = 0 onde r > 0.
+Há outros conjuntos numéricos definidos na matemática, mas que não interessam nesse nível de estudo.
+Exemplo: O conjunto dos números algébricos inclui os números, que aparecem como soluções de equações polinomiais (com coeficientes inteiros) e envolvem raízes e alguns outros números irracionais. O símbolo formula_8 ou formula_9 usualmente representa este conjunto.
+

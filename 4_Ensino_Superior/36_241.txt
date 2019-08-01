@@ -1,0 +1,18 @@
+Medida e integração/Notações
+No decorrer deste texto algumas serão usadas com bastante frequência. Por este motivo, este capítulo é destinado a esclarecer tais notações.
+Os de mais conhecidos serão denotados de maneira usual:
+Adicionalmente, quando for mencionada uma que vale tanto para o corpo formula_7 quanto para o corpo formula_10 será usada a notação formula_11 para não ser necessário mencionar ambos os conjuntos. Sendo assim, sempre que você encontrar formula_11 ao longo do texto, lembre-se que o mesmo pode ser trocado por formula_7 ou por formula_10 sem prejuízo algum.
+Às vezes, ao se um conjunto formula_15 (ou um qualquer formula_15) em termos de uma formula_17, é conveniente abreviar a afirmação "formula_15 é definido como sendo formula_17" denotando-a simplesmente como:
+Em alguns livros, você pode encontrar também as notações formula_21 e formula_22 mas neste texto elas não serão utilizadas.
+Se formula_23 for qualquer um dos conjuntos formula_24 formula_25 formula_26 formula_27 ou formula_10 indica-se que o foi removido de tal conjunto usando-se a notação formula_29 Em , isto se expressa como:
+Se formula_15 e formula_17 são conjuntos, então:
+Se formula_23 e formula_69 são conjuntos não-vazios, então uma família em formula_70 por formula_71 é simplesmente qualquer aplicação formula_72 Os elementos de formula_23 são chamados de índices e conjunto formula_74 é então um conjunto de índices. A família é denotada por formula_75 ou, quando o conjunto de índices ficar claro pelo contexto, simplesmente por formula_76
+Alguns autores preferem usar formula_77 ou formula_78 no lugar de formula_79 Ocasionalmente isto poderá acontecer ao longo deste wikilivro.
+Se formula_23 é , ou seja, se existe uma de formula_23 com formula_24 a família formula_75 é chamada de sequência em formula_70 indexada por formula_71. Se formula_23 é , a família formula_75 é chamada de sequência finita em formula_70 indexada por formula_89
+Se formula_75 é uma família em formula_69 indexada por formula_92 enumerável ou não, então:
+Se formula_101, a união arbitrária dos formula_102 quando formula_103 percorre formula_23 é
+e a intereseção arbitrária dos formula_102 quando formula_103 percorre formula_23 é
+Analogamente, se formula_110, então:
+Do mesmo modo, escreve-se
+Se formula_113 então formula_114 e formula_115
+

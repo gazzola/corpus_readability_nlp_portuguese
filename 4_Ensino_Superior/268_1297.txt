@@ -1,0 +1,25 @@
+Logística/Serviço ao cliente/Atributos básicos do serviço ao cliente
+Existem três dimensões fundamentais do serviço ao cliente: "disponibilidade", "performance operacional" e "fiabilidade".
+Vários estudos têm procurado determinar a importância relativa de cada um dos atributos em diferentes tipos de actividade. Os estudos têm relevado uma equidade dessa importância sendo um parâmetro mais importante do que os outros dependendo da situação de marketing específica.
+
+
+Logística/Gestão de armazéns/Picking/Sistemas convencionais de picking/Armazenamento dinâmico
+Para os produtos mais populares, os "flow racks" apresentam uma oportunidade de melhorar a produtividade do "picking".
+Em geral, os "flow racks" usam esteiras rolantes por gravidade, ou flutuação por ar em carris de modo a apresentar uma unidade de material ao Operador em um local especifico (atribuído) (Hudock, 2004).
+Os mesmos podem vir em duas variedades básicas: "carton flow" e "pallet flow rack" (figura 1 e 2 respectivamente). 
+O "carton flow rack" é usado para casos de "broken-case picking", enquanto que o "pallet flow rack" é usado para "case-picking". No caso de armazenamento dinâmico, a popularidade é medida em termos cúbicos. A vantagem do "flow rack" é que, um grande volume de produtos é apresentado em uma relativamente pequena face/espaço de recolha, uma vez que tanto caixas como paletes são armazenadas em profundidade. 
+Com uma face de recolha pequena reduz-se o tamanho da zona de "picking" e, portanto, a distância de deslocamento para o Operador. 
+O stock armazenado no "flow rack" é considerado stock de recolha primário, com o stock de reserva armazenado de forma aleatória ou mesmo em "pallet racks". Adequadamente aplicado, o investimento adicional e os custos associados à reposição são justificados pela poupança em mão-de-obra na recolha e preparação dos pedidos (Hudock, 2004).
+
+
+Logística/Gestão de armazéns/Picking/Procedimentos de organização
+Para organizar a actividade de "picking" existem cinco procedimentos básicos, procedimentos esses que são caracterizados como “puros”. Usualmente o que se observa é uma composição ou mistura de diferentes procedimentos, originando estratégias mistas de organização do "picking" (Medeiros, 1999).
+É importante que durante a definição da estratégia mais adequada a utilizar, se responda as seguintes perguntas:
+Nos artigos seguintes explicam-se cinco procedimentos básicos da actividade de "picking" (Medeiros, 1999).
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de identificação e comunicação automática/Comunicação automática, sem papel/Terminal de dados por radiofrequência
+Segundo Frazelle et al. (1994, p. 600-601), embora, tecnicamente, não seja um equipamento da família dos sistemas de identificação automática, os terminais de radiofrequência estão a emergir rapidamente como ferramentas de confiança para a gestão dos níveis de existências e de veículos. Os terminais de radiofrequência incorporam um ecrã, teclado e teclas de função especial (ver Figura 1 e Figura 2). Estes equipamentos comunicam através de troca de mensagens numa determinada frequência, entre antenas localizadas estrategicamente e um computador.
+Além da orientação relativamente a um controlo de "stocks" mais rigoroso, o uso destes equipamentos é justificado pelo melhoramento da utilização de recursos. Além disso, a crescente disponibilidade de programas para computador permite a comunicação entre os terminais de radiofrequência e os sistemas de controlo de armazenagem, simplificando, assim, a sua implementação. A maioria dos terminais de radiofrequência implementados em instalações de movimentação de materiais, utilizam um dispositivo móvel ou "scanner" para registar informações, identificar produtos e verificar a sua localização.
+A evolução e integração destas tecnologias proporciona aumentos de produtividade e informações mais rápidas e precisas. Foi em 1989, que as primeiras instalações de terminais de radiofrequência mostraram resultados promissores.
+

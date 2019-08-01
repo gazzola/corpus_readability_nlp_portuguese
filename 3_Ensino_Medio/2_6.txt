@@ -1,0 +1,31 @@
+Matemática elementar/Exponenciais
+Em matemática, potências são valores que representam uma multiplicação sucessiva de um número, ou seja, representam o mesmo número multiplicado algumas vezes por si mesmo. Uma potência é composta por um número, chamado base, que é multiplicado sucessivamente por si mesmo; e por um índice, chamado expoente, que diz o número de vezes que a base é multiplicada por si mesmo. As potências apresentam-se na forma formula_1, onde n é o expoente e "x" é a base.
+A potência formula_2, por exemplo, indica que a base, o número 4, será multiplicada sucessivamente 3 vezes por si mesma, ou seja formula_3. Se o expoente é 1, então o resultado tem o valor da base (formula_4), enquanto que com um expoente 0, devido a regras de operações feitas diretamente com potências, o resultado é sempre igual a 1 (formula_5 = 1).
+A regra para o expoente zero pode parecer estranha. Mas se não fosse assim, todas as propriedades de potências ficariam mais complicadas. Além disto, quem olhar um gráfico de uma função exponencial vai ver que não poderia ser de outra forma. Enfim, tudo induz para que aceitemos esta forma de definir as potências com expoente 0.
+Existem várias regras que visam facilitar a resolução de potências.
+É possível multiplicar e dividir qualquer par de potências que possuam a mesma base, o mesmo expoente, ou os dois iguais.
+(1) - Este caso nos dá mais um motivo para tomarmos qualquer potência com expoente 0 como sendo igual a 1. Como formula_6 e formula_7 então formula_8.
+"Observe que isto não é a prova que " formula_8 "pois foi utilizada uma propriedade para subtrair os expoentes, propriedade esta que, para ser provada, necessita que seja considerado " formula_8 ", logo, não pode ser provada utilizando a equação acima. "
+Equações do tipo
+onde "a" é uma constante são resolvidas simplesmente igualando-se "f(x)" a "g(x)".
+No caso mais geral:
+é preciso, primeiro, converter uma (ou ambas) bases para que as duas bases fiquem iguais.
+O primeiro passo é transformar as bases. No caso, pode-se transformar formula_14 ou formula_15 (exercício), mas é bem mais simples transformar formula_16 e formula_17:
+Aplicando a propriedade formula_19:
+Agora temos uma equação da forma formula_11:
+Verificando:
+As equações do tipo
+são resolvidas de forma análoga à biquadrada. Lembrando: uma biquadrada formula_27 é resolvida pela substituição formula_28. Resolve-se a equação em "y", e, com o(s) valor(es) de "y", resolve-se a equação em "x".
+De novo, como temos bases diferentes, é conveniente reescrever tudo para a mesma base. Como formula_30, temos:
+Usando agora a propriedade formula_32:
+Ainda temos um problema! É preciso transformar formula_34 em uma expressão onde formula_35 esteja isolado. Para isto, vamos usar a propriedade formula_36:
+Então a expressão fica:
+Resolvendo:
+Aplicando a fórmula de Bhaskara:
+Ou seja, as duas raízes são:
+A primeira solução, "y = -3", gera uma equação sem solução em x, porque formula_35 é sempre um valor positivo e não pode ser igual a "-3".
+A segunda solução fornece:
+Ou seja:
+Verificando, temos que:
+81²+81²+81²=
+

@@ -1,0 +1,11 @@
+ Logística/Técnicas de previsão/Regressão simples
+De acordo com Sousa (2009, p. 15), deve-se utilizar a regressão linear simples quando se está perante amostras com duas variáveis, formula_1 e formula_2 cujos valores estão relacionados de forma linear entre si. Exemplos típicos da regressão linear são a relação entre altura e peso de uma pessoa, ou o diâmetro do tronco e a altura de uma árvore. Em ambos os casos tem-se uma variável que depende linearmente da outra. Sousa (2009, p. 15) define regressão linear simples como um modelo de relação entre uma variável aleatória dependente formula_2 e uma variável independente formula_1, com a seguinte expressão:
+formula_5
+Onde:
+Assume-se formula_6
+Os parâmetros da recta de regressão a serem estimados são formula_7 e formula_8. Segundo Ferreira (2010, p. 94) e Sousa (2009, p. 8), pelo método dos mínimos quadrados (Figura 1), as estimativas dos parâmetros formula_7 e formula_8 são dadas por:
+Onde:
+Segundo Henriques (2009, p. 32), a equação de regressão deve ser vista como uma tentativa de explicação das variações da variável dependente, que são resultado de variações na variável independente. Seja formula_13 a média das observações registadas para a variável dependente. Uma previsão baseada no modelo de regressão deve ter mais qualidade do que uma previsão baseada em formula_13. Se a dispersão (ou erro) associado à equação da recta de regressão é muito menor do que a dispersão (ou erro) associada a formula_13, as previsões do modelo de regressão são melhores do que as previsões baseadas na média das observações registadas. Para medir a qualidade do ajustamento da recta de regressão calculada (Sousa, 2009, p. 15) define-se uma quantidade, a que se chama de coeficiente de determinação, que é calculada da seguinte forma:
+formula_16
+Onde:
+Segundo Sousa (2009, p. 15), formula_17 representa a percentagem da variabilidade dos dados observados que é explicada pela recta de regressão e pode tomar qualquer valor no intervalo de 0 a 1. Um valor do coeficiente de determinação igual a (ou próximo de) 1 significa que se tem um ajuste perfeito da recta de regressão calculada aos dados observados.

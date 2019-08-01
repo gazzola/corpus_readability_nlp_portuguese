@@ -1,0 +1,26 @@
+Logística/Localização/Selecção de locais/Selecção do local pela teoria dos conjuntos difusos
+A teoria dos conjuntos difusos, "fuzzy set theory", pode ser aplicada na análise de localizações, tendo como objectivos a maximização da utilização dos recursos e a minimização do custo total. Esta teoria é utilizada na análise da selecção de locais que apresentem atributos subjectivos, normalmente expressos em termos qualitativos. Estes atributos, sendo difíceis de incorporar na análise de selecção do melhor local, devido às avaliações qualitativas que envolvem, são convertidos em avaliações quantitativas, permitindo, assim, medir as suas contribuições (Sule, 2001, p. 21-24).
+Os critérios subjectivos, sendo expressos através de atributos linguísticos, são normalmente definidos em termos de "muito baixo", "baixo", "bom", "muito bom", "médio", "alto", entre outros semelhantes. Estes atributos são convertidos em avaliações quantitativas, que, geralmente, apresentam uma forma triangular ou trapezoidal, com pesos diferentes. Um exemplo pode ser consultado em Sule (2001, p. 22-23).
+Através da teoria dos conjuntos difusos, a selecção do local para um hipermercado pode ser determinada. Assim, considere-se o seguinte exemplo. 
+A direcção de uma empresa de cadeia de hipermercados, composta por quatro gestores, quer escolher uma cidade de entre três alternativas (A, B, C), para a instalação de um novo hipermercado. Para isso, é necessário ter em conta vários critérios. 
+1. Acessibilidade e infra-estruturas urbanas 
+2. Dimensão do comércio local
+3. Necessidade do hipermercado
+4. Poder de compra da população
+5. Condições climatéricas
+6. Investimento necessário para construir o hipermercado e empregar o pessoal necessário
+O primeiro passo na aplicação desta técnica é dividir os critérios, "C", em duas categorias: objectivos e subjectivos. O segundo passo é atribuir um peso linguístico a cada critério local, determinando-se, posteriormente os pesos numéricos dos respectivos atributos. Os dois últimos passos envolvem a avaliação de cada cidade em relação a cada critério subjectivo e a análise do critério objectivo, com o respectivo cálculo dos índices de adequabilidade difusos, obtendo-se assim, a classificação final de cada local (Sule, 2001, p. 23-31).
+Uma vez conhecidos os critérios, estes foram divididos pelos gestores em objectivos e subjectivos da seguinte forma: 
+Critérios subjectivos:
+"C""." Acessibilidade e infra-estruturas urbanas
+"C""." Dimensão do comércio local
+"C""." Necessidade do hipermercado
+"C""." Poder de compra da população
+"C""." Condições climatéricas
+Critérios objectivos:
+"C""." Investimento necessário para construir o hipermercado e empregar o pessoal necessário, incluindo:
+"a." Custo de aquisição de terrenos
+"b." Custo dos equipamento para o hipermercado
+"c." Custo da mão-de-obra
+Uma vez aplicado o primeiro passo da técnica, é necessário proceder-se à análise dos restantes: 
+

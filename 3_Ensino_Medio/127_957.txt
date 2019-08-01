@@ -1,0 +1,12 @@
+Química inorgânica/Introdução/Tabela e propriedades periódicas
+Na tabela periódica, montada por Dmitri Mendeleiev, encontra-se a lista dos elementos. A tabela periódica é organizada de tal maneira para que os elementos com propriedades semelhantes fiquem próximos um dos outros:
+Você pode observar que há a letra designatória (símbolo) de cada átomo, e embaixo o seu nome. À esquerda do símbolo há o número atômico - em ordem crescente -, e em cima o número da massa do isótopo mais estável ou comum. Os números em vermelho da esquerda indicam o período do elemento, que é a quantidade de camadas eletrônicas que tem o átomo. Os números da parte superior correspondem aos grupos, ou famílias, que é a quantidade de elétrons na última camada eletrônica preenchida do átomo estável (camada de valência). Algumas tabelas periódicas podem apresentar mais informações.
+Também, há cores que separam os elementos em três categorias principais, reconhecidas pela IUPAC (União Internacional de Química Pura e Aplicada): 
+Há também sub-classificações, nem todas reconhecidas pela IUPAC:
+É fácil identificar a quantidade de elétrons da camada de valência, que é igual ao algarismo das unidades de cada grupo (não sendo válido somente aos metais de transição).
+Para os metais de transição, os átomos podem apresentar diferentes quantidades de elétrons na camada de valência ("íons"). Apresentaremos as principais quantidades destes metais, ou seja, valores que não constam na tabela podem existir:
+O estanho (Sn) e o chumbo (Pb) podem apresentar 2 ou 4 elétrons na camada de valência.
+Algumas propriedades dos átomos podem ser observados pela tabela periódica:
+Estas propriedades apresentam uma tendência, e por isso, em certos casos, alguns átomos podem ter valores diferentes do esperado. Por exemplo, o irídio (Ir) apresenta eletronegatividade maior que o alumínio (Al), e o mercúrio (Hg) densidade maior que o ródio (Rh).
+Um material, como a própria palavra sugere, é algo formado de matéria. Os materiais têm as seguintes características:
+

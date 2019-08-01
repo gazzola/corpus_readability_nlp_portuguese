@@ -1,0 +1,23 @@
+Logística/Gestão de armazéns/Operação de um armazém
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Equipamento de armazenagem de pequenas cargas/Equipamento stock-to-operator/Dispensador automático
+O modo de funcionamento do dispensador automático é idêntico à das máquinas de venda para pequenos artigos de dimensão semelhante. Os produtos são colocados num dispensador vertical com dimensões aproximadamente entre 0,5 e 1,80 metros de altura. A largura de cada dispensador pode ser facilmente ajustado para armazenar artigos de dimensões variadas.
+O mecanismo de dispensão empurra o item do fundo do dispensador para um tapete que circula entre duas filas de dispensadores configurados ao longo do tapete. Um pequeno mecanismo de vácuo ou "small finger" num sistema em cadeia é usado para dispensar artigos.
+Zonas de "picking" virtuais iniciam-se numa das extremidades do tapete e passam por cada dispensador. Se um item é requerido na zona de "picking" é dispensado para o tapete. Os artigos acumulam-se no final do tapete num recipiente.
+Um dispensador pode dispensar até 6 (artigos/segundo).
+Sistemas automáticos de "picking" são populares em industrias com elevada rotação de pequenos artigos de dimensão uniforme. Cosméticos, cds, vídeos e publicações são alguns exemplos.
+O reabastecimento é feito manualmente pela traseira do equipamento. Esta operação de reabastecimento contrasta com as poupanças em trabalho manual do processo de "picking" que podem chegar a ritmos de 1500 "pickings" por dispensador.
+Uma recente inovação para os sistemas de dispensadores automáticos é o "A-frame" invertido que optimiza o reabastecimento e aumenta a capacidade de armazenagem ao longo da linha de "picking". Outra inovação permite a dispensação automática de artigos reembalados (Tompkins et al., 2003, p. 277).
+
+
+Logística/Reparações e sobressalentes
+
+
+Logística/Serviço ao cliente/Custo do serviço ao cliente
+Durante muito tempo, a preocupação com os custos centrava-se no produto. Os serviços representam uma parcela cada vez mais significativa na economia, o que leva as empresas a quererem rentabilizar ao máximo os clientes.
+O sistema de contabilidade de custos tem como objectivo gerar informações para auxílio ao controle e na ajuda ao processo de tomada de decisão. Muitas vezes as empresas não têm os custos dos serviços de apoio ao cliente, não tendo, desta forma, noção se o serviço que estão a prestar é rentável ou não.
+Um sistema de custos é uma combinação entre princípios e métodos. Os princípios são a informação gerada e a sua relevância para os objectivos da empresa. Os métodos são a forma como a informação é obtida e divulgada pela empresa (Müller, 2003, p. 3-4).
+Nos serviços, podem ser aplicados desde conceitos básicos, tais como a margem, até estruturas mais complexas tais como o custo baseado em actividades, "Activity Based Costing" (ABC).
+A margem é a diferença entre a receita e a soma dos custos e pode ser individualizada, mensalmente, para cada cliente. Nos problemas de rentabilidade variável, a margem não é suficiente para identificar o uso que cada cliente faz dos serviços da empresa nem, portanto, dos custos que tem para a empresa. O método dos centros de custos permite localizar os gastos ocorridos, mas não identifica o que é feito com os recursos. O método das unidades de esforço de produção, apesar de ser uma solução bastante completa, não fornece informações para os processos de apoio das empresas. O método do custo baseado em actividades é o mais completo, pois permite obter informações acerca de custos e resultados (Müller, 2003, p. 8).
+

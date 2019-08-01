@@ -1,0 +1,17 @@
+ Matemática elementar/Expressões algébricas
+Produtos notáveis são expressões matemáticas padronizadas, em que um produto ou uma potência pode ser expressa através de uma soma de monômios. A operação inversa se chama fatoração algébrica, que consiste em expressar um polinômio como o produto de polinômios (usualmente binômios) mais simples. O desenvolvimento dos produtos notáveis é um passo fundamental na simplificação de expressões que envolvem somas ou subtrações, como na resolução de vários tipos de equação. A fatoração, por outro lado, é fundamental na simplificação de expressões que envolvem a divisão de polinômios, e também é importante na resolução de equações polinomiais. formula_1. Exemplos:
+ formula_4 
+Exemplos:
+ formula_7
+Exemplos:
+ formula_10
+Exemplos:
+Considere o polinômio formula_13, seu fator comum em evidência é formula_14, dividindo cada termo do polinômio pelo fator comum em evidência formula_15 e formula_16, a forma fatorada de um polinômio pelo fator comum em evidência é igual ao produto do fator comum em evidência pelo polinômio obtido da divisão de cada termo do polinômio, logo a forma fatorada de formula_17. O fator comum em evidência pode ser aplicado em todos os termos do polinômio. Outros exemplos:
+Observe o polinômio formula_20. Este polinômio não possui um fator comum para ser aplicado em todo o mesmo, a solução é fazer pequenos grupos de polinômios a partir do polinômio principal, veja: 
+formula_21, logo podemos fatorar os pequenos grupos formados do polinômio principal:
+formula_22 
+formula_23, obtemos a fatoração de formula_24, nota-se que os termos entre parênteses são iguais, permitindo uma nova aplicação do fator comum em evidência: formula_25. A forma fatorada de formula_26. Outro exemplo:
+formula_27
+ formula_28
+Considere o polinômio formula_29, que é uma diferença de dois quadrados, para fatorar o mesmo devemos obter a raiz quadrada do primeiro termo formula_30 menos a raiz quadrada do segundo termo formula_31, logo temos formula_32, devemos, agora, multiplicar o polinômio resultante das raízes dos termos iniciais pelo seu oposto: formula_33, logo a fatoração da diferença de dois quadrados é igual à raiz quadrada do primeiro termo menos a raiz quadrada do segundo termo vezes o oposto: formula_34, ou simplesmente formula_35. Outros exemplos:
+Considere o polinômio formula_38, que é um trinômio quadrado perfeito, pois representa formula_39, mas como saber se um trinômio é ou não quadrado perfeito?

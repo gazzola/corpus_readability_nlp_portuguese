@@ -1,0 +1,35 @@
+Topologia/Pontos em conjuntos
+Sejam "X" espaço topológico, "A" parte de "X" e "x" ∈ "X". Então:
+1) Diz-se que "x" é interior a "A" sse "A" é vizinhança de "x".
+2) Diz-se que "x" é exterior a "A" sse "X" − "A" é vizinhança de "x".
+3) Diz-se que "x" é fronteiro a "A" sse "x" não é interior a "A" e "x" não é exterior a "A" sse qualquer vizinhança de "x" tem pontos de "A" e pontos exteriores a "A".
+4) Diz-se que "x" é aderente a "A" sse "x" é interior a "A" ou "x" é fronteiro a "A" sse qualquer vizinhança de "x" intersecta "A".
+5) Ao conjunto de todos os pontos interiores (resp. exteriores, fronteiros, aderentes) a "A" chama-se o interior (resp. exterior, fronteira, fecho) de "A" e denota-se int "A" (resp. ext "A", front "A", fecho "A").
+6) int "A", ext "A", front "A" constituem uma partição de "X".
+7) int "A", ext "A" são abertos e front "A", fecho "A" são fechados.
+8) int "A" é o maior aberto contido em "A" e fecho "A" é o menor fechado que contém "A".
+9) int "A" = ext("X" − "A"), ext "A" = int("X" − "A"), front "A" = front("X" − "A"), fecho "A" = "X" − ext "A" = front "A" ∪ int "A" = front "A" ∪ "A", front "A" = fecho "A" ∩ fecho("X" − "A").
+10) int int "A" = int "A", ext ext "A" = int "A", front int "A" = front ext "A" = front "A", fecho int "A" = fecho "A".
+Num espaço topológico "X":
+1) "A" é aberto sse "A" é vizinhança de todos os seus pontos sse "A" = int "A".
+2) "A" é fechado sse "A" = fecho "A".
+3) int("A" ∩ "B") = int "A" ∩ int "B".
+4) int ∩ "A" ⊆ ∩  int "A".
+5) ext("A" ∪ "B") = ext "A" ∩ ext "B".
+6) ext ∪ "A" ⊆ ∩ ext "A".
+7) fecho("A" ∪ "B") = fecho "A" ∪ fecho "B".
+8) fecho("A" ∩ "B") ⊆ fecho "A" ∩ fecho "B".
+9) fecho ∪ "A" ⊇ ∪ fecho "A".
+10) Sendo "A" aberto, vem que "A" ∩ "B" = Ø sse "A" ∩ fecho "B" = Ø.
+Sejam "X" espaço topológico, "A" parte de "X" e "x" ∈ "X". Então:
+1) Diz-se que "x" é ponto isolado de "A" sse, para alguma "V" vizinhança pontuada de "x", "V" não intersecta "A".
+2) Diz-se que "x" é ponto de acumulação de "A" sse "x" não é ponto isolado de "A" sse "x" ∈ fecho("A" − {"x"}).
+3) O conjunto dos pontos isolados (resp. de acumulação) de "A" denota-se isol "A" (resp. acum "A").
+4) Note-se que pode haver pontos isolados de "A" que pertençam a "A", assim como pode haver pontos de acumulação de "A" que não pertençam a "A".
+5) acum "A" ⊆ fecho "A".
+6) "A" é fechado sse acum "A" ⊆ "A".
+7) Diz-se que "A" é perfeito sse "A" = acum "A".
+8) Diz-se que "A" é puro sse "A" = "A" ∩ isol "A" sse a sub-topologia em "A" é a topologia discreta.
+9) Se "A" é perfeito, então "A" é fechado.
+10) Num espaço de Hausdorff, um conjunto finito é puro.
+

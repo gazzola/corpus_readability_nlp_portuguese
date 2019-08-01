@@ -1,0 +1,22 @@
+Logística/Localização/Selecção de locais
+
+
+Logística/Serviço ao cliente/A importância da logística no serviço ao cliente
+Existe uma tendência para delegar a responsabilidade do serviço ao cliente para departamentos como o marketing ou as vendas, ao invés de integra-lo no sistema logístico. Mas tem se provado a sua importância no comportamento dos clientes às vezes superior ao preço, qualidade e outros elementos do marketing, finanças e produção. Já se provou que o efeito do Marketing Mix (preço, produto, promoção e local) não contribuem de maneira igual na participação do mercado, sendo, para os clientes, os elementos logísticos os mais importantes.
+Já algum tempo que se acredita que os níveis dos serviços tem influência nas vendas. Provada a importância da logística dos serviços ao cliente, esta poderia ser aperfeiçoada e melhorada se houvesse o conhecimento da relação entre vendas e níveis da logística, ou seja, que mudanças existem nas vendas após uma mudança dos níveis logísticos. Existe a necessidade de expressar matematicamente essa relação. Surge, no entanto, um problema para relacionar o comportamento exacto que as vendas têm face a um nível ou a mudanças nos serviços logísticos. Essa relação é difícil de obter porque nem sempre os clientes manifestam de forma clara as suas preferências, nem reagem consistentemente ao nível de oferta dos serviços. 
+Entretanto está explicitamente documentado a sensibilidade dos clientes em relação aos serviços prestados pelos fornecedores. Consequentemente, melhorar os serviços, significa baixar custos de existências para o cliente, partindo do principio que a qualidade do produto e o seu preço não são inflacionados pela melhoria dos serviços. Assim, os compradores são pressionados a fidelizar-se aos fornecedores que oferecem os melhores serviços. 
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Equipamento de armazenagem de pequenas cargas/Equipamento de remoção operator-to-stock/Carrinho de picking
+Existe uma variedade de carrinhos de "picking" disponíveis para facilitar a acumulação, triagem e embalagem de produtos quando o operador percorre a rota de aquisição de produtos.
+O design dos carros permite ao operador preparar várias ordens de aquisição numa única rota, aumentando a produtividade por oposição a realizar uma única aquisição por rota em pequenas quantidades.
+Alguns carros de transporte contêm divisões para separar os diferentes pedidos, um local para guardar os documentos e uma escada incorporada para o operador poder alcançar os materiais que estão fora de alcance.
+Carros de "picking" mais sofisticados e dispendiosos poderão incluir motor, indicação luminosa de apoio à separação de pedidos, terminais móveis incluídos e balança (Tompkins et al., 2003, p. 269).
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Equipamento de armazenagem de pequenas cargas/Equipamento stock-to-operator/Carrosséis/Prateleiras rotativas independentes
+O carrossel de prateleiras rotativas independentes é semelhante a ter vários carrosséis horizontais colocados uns sobre os outros.
+Cada carrossel roda de forma independente, logo, várias localizações de armazenagem podem ser acedidas pelo [[w:Trabalhador|operador] a qualquer momento, por conseguinte o operador está continuamente a realizar [[w:Picking|"picking"]].
+[[w:Picking|Ordens de "picking"]] remotas, montagens ou composição de kits são aplicações comuns deste tipo de equipamento. Nestas aplicações um [[w:Robot|robôt]] é colocado numa das extremidades do [[w:Equipamento|equipamento]] para armazenar ou retirar artigos. Desta forma a [[w:Estante|estante]] rotativa independente é usada simultaneamente para conseguir elevada densidade de armazenamento e conseguir elevadas taxas de "picking".
+Para que cada nível opere de forma independente deverá ter um [[w:Motor|motor]] e comunicações independentes. Estes requisitos elevam o custo da prateleira rotativa independente bastante acima dos carrosséis verticais e horizontais ([[Logística/Referências#refbTOMPKINSC|Tompkins et al., 2003, p. 275]]).
+

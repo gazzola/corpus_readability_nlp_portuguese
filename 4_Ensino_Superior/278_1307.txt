@@ -1,0 +1,22 @@
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Equipamento de armazenagem de pequenas cargas/Equipamento de armazenagem operator-to-stock/Mezanino
+A estante para caixas, os armários com módulos de gavetas e os sistemas de carrósseis podem ser instalados em mezaninos.
+A vantagem do uso de um mezanino é que se pode processar aproximadamente o dobro do material que se conseguiria sem o mesmo, no mesmo espaço e a baixo custo.
+Os principais aspectos que devem ser analisados na construção de um mezanino são a adequação à carga a que irá ser sujeito, as características do projecto do sistema de movimentação de materiais que serve o nível superior do mezanino e a utilização do pé-direito disponível. A altura mínima necessária para se construír um mezanino é de 4,26 metros (Tompkins et al., 2003, p. 268).
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de identificação e comunicação automática/Identificação e reconhecimento automático/Etiqueta de identificação por radiofrequência
+As etiquetas de identificação por radiofrequência e por "onda acústica superficial" (etiquetas SAW, "surface acoustic wave") são utilizadas para armazenar e codificar dados, num pequeno "chip" incorporado na etiqueta (Tompkins et al. 2003, p. 284). Quando a etiqueta se aproxima do leitor, o "chip" é descodificado. As etiquetas de identificação por radiofrequência podem ser programáveis, ou codificadas, e lidas até 30 metros de distância do leitor. Já as etiquetas de onda acústica superficial são codificadas e só podem ser lidas num raio de 6 metros. 
+As etiquetas de identificação por radiofrequência e por onda acústica superficial são usualmente utilizadas para a identificação permanente de contentores, uma vez que estes equipamentos são duradouros, podendo substituir outras tecnologias de identificação automática que, em ambientes críticos, podem-se deteriorar e tornarem-se ilegíveis, com o passar do tempo.
+
+
+Logística/Serviço ao cliente/Valor acrescentado do serviço ao cliente
+Define-se a equação de valor do cliente como a razão entre o que o cliente ganha e percepciona na transacção, e o preço e outros custos que o cliente tem de dispender.
+A logística tem o potencial de criar valor acrescentado, trabalhando tanto no numerador como no denominador da equação de valor. 
+Essa alteração da equação de valor pode ser conseguida através de vários parâmetros:
+
+
+Logística/Planeamento e projecto de instalações/Necessidade de espaços
+A necessidade de espaço é um ponto fundamental para projectar uma instalação. Num "layout" tudo se baseia na noção do espaço e na relação física entre os elementos constituintes da área em questão. Para a determinação do espaço que é necessário analisa-se primeiramente o espaço disponível, a taxa de produção desejada, e equipamentos e trabalhadores imprescindíveis para realizar cada actividade
+Num caso ideal só se seguia para a construção do edifício após a elaboração do "layout", ajustando-o às nossas necessidades. Sendo esta uma visão pouco realista tem-se à partida que projectamos a instalação para um local com limitações a nível de quantidade e configuração do espaço. Algumas das restrições que se pode encontrar a nível de um edifício já existente são:
+O espaço necessário para planear o "layout" é calculado após se saber quantas máquinas serão operadas por cada trabalhador e o número de trabalhadores na montagem. A partir do número de máquinas operadas por cada trabalhador conseguir-se-à calcular o espaço necessário para cada equipamento enquanto que o número de trabalhadores na montagem permitirá a análise do espaço para esta actividade. Existem vários métodos para determinar o espaço necessário para uma instalação, aqui apresenta-se os mais utilizados.
+

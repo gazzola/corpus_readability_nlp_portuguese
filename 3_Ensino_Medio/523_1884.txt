@@ -1,0 +1,12 @@
+ forma nova barra de ferramentas Formatação será exibida para que o usuário possa
+efetuar as alterações no gráfico. Função dos ícones da barra de ferramentas Formatação:
+Através da barra de ferramentas ‘’’Formatação -> Ícone Tipo de Gráfico’’’ ou do menu Formatar -> Tipo de gráfico o usuário poderá alterar o modelo de gráfico. Para exibir os valores no gráfico, clicar com o botão direito do mouse em cima do Ponto de dados e selecionar Inserir/Formatar Rótulo de Dados no menu suspenso, este procedimento ativará a caixa de diálogo Rótulo de Dados para Série de Dados. Um slide principal, conhecido também como slide mestre, determina o estilo de formatação de texto do título e da estrutura de tópicos, bem como o design de plano de fundo de slides. As formatações de tipo, cor, tamanho da fonte, plano de fundo, inserção de figuras, cabeçalho e rodapé aplicadas no slide mestre, irão repetir em todos os slides. No BrOffice.org é possível criar 2 tipos de slide mestre: Slide Mestre e Notas Mestre. Em uma única apresentação pode-se criar e definir vários estilos de Slide Mestre e alterar entre os diferentes design de slides criados. Para inserir rodapé em todos os slides:
+Para que uma figura ou logo de uma empresa apareça em todos os slides, insira-a no slide-mestre. Após aplicar um plano de fundo no slide mestre, todos os slides inseridos na apresentação serão baseados neste modelo,
+entretanto o usuário poderá modificar o plano de fundo nos slides que desejar. Na janela Configuração de Página executar os passos abaixo:
+Outra maneira de ocultar os elementos ou plano de fundo do slide é clicar com o botão direito do mouse em cima do slide
+desejado e no menu suspenso selecionar a opção Slide e desabilitar a(s) opção(ões): Exibir plano de fundo do mestre/
+Exibir objetos do mestre. Ao inserir um slide na apresentação será possível escolher entre os vários estilos mestres:
+Por padrão a página de Notas Mestre vem configurada no modo retrato, mas se desejar poderá alterá-la para o modo
+paisagem:
+Para criar apresentações personalizadas e criativas o BrOffice.org nos disponibiliza uma série de efeitos especiais
+para serem reproduzidos durante uma apresentação.

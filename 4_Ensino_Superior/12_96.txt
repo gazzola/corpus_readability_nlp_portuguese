@@ -1,0 +1,29 @@
+Cálculo (Volume 1)/Conceitos básicos (funções)
+Para uma melhor compreensão do conteúdo subseqüente, sugerimos observar o tópico: Funções, no livro: Matemática elementar, pois o estudo completo de funções foge do escopo deste livro. Neste capítulo iremos destacar princípios e notações que nos serão úteis ao longo deste livro.
+Seja um conjunto de pontos A, cujos membros são os números em formula_1, então tomamos
+formula_2 e denominamo-la variável independente, visto que, arbitrariamente, lhe podemos atribuir qualquer valor em formula_3 e portanto 
+dizemos que:
+Da mesma forma, admitamos um conjunto de pontos B, cujos membros são números que são obtidos única e exclusivamente por um conjunto de 
+regras matemáticas formula_5, quando números arbitrários em A lhe são transferidos; visto que há um único valor assumido para cada valor arbitrário transferido a formula_5, dizemos que:
+Sendo B obtido através das regras de formula_7 :
+Da mesma forma, como B é restrito aos valores definidos por A e às regras definidas por formula_7, os seus elementos espelham estas condições, 
+portanto, podemos dizer que:
+Observemos a expressão: formula_11
+Note que assim que atribuirmos valores a formula_12 , a mesma assumirá valores 
+inválidos, valores de raízes quadradas de números negativos, para sanar este problema, poderemos atribuir uma faixa de valores válidos para o domínio de formula_12 , então teremos:
+Assim, teremos um domínio restrito a valores iguais ou menores que 12, portanto, incluindo-o, este extremo ao qual pertence o valor 12 chamamos de extremo fechado.
+Temos uma situação semelhante, porém com uma sutil diferença, quando temos que fazer: formula_15 , neste caso, temos que restringir o valor 0 e todos os números abaixo dele, desta forma:
+Poderemos atribuir apenas valores maiores que 0, uma vez que este valor não pertence ao conjunto de números que podem ser atribuídos à variável, chamamos este de extremo aberto.
+O conjunto de números B formula_17 dos quais formula_18 dependem do conjunto 
+A formula_19 de onde temos formula_20, estabelecemos o par de números formula_21,
+ou simplesmente:
+Este é chamado de par ordenado.
+Sendo também formula_5 a representação dos valores de formula_22, então podemos dizer que:
+Sendo formula_26 o valor de formula_27 quando definido pelas operações em formula_7.
+Faixas de valores que delimitam os domínios podem ser representados com desigualdades, como nos exemplos abaixo:
+Porém, os extremos podem ser colocados em um par entre delimitadores de forma que, para os extremos fechados usamos os delimitadores [ ou ], para os extremos 
+abertos usamos ( ou ), habilitando-nos a identificar os extremos mais claramente, desta forma podemos identificar os domínios do exemplo acima desta forma:
+Também é comum usar colchetes invertidos para extremos abertos:
+Consideremos duas funções "f" e "g"; admitindo que as duas são, intuitivamente, expressões que se traduzem em valores, podemos dizer que:
+Sendo "D(f)" o domínio da função "f" e "D(g)" o domínio da função "g", o domínio da função resultante das operações acima é sempre:
+

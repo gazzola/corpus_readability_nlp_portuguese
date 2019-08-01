@@ -1,0 +1,10 @@
+ Química inorgânica/Introdução/Íons e a regra do octeto/Nomenclatura de cátions e ânions
+Imagine se toda vez que nos referíssimos a cum composto tivéssemos que falar sua fórmula química. Ou pior, se tivéssemos de desenhá-lo! Felizmente, todos os compostos possuem um nome. Apesar de estes nomes nem sempre serem simples, eles auxiliam bastante na identificação de um composto. Os nomes dos compostos são formados pelo nome do cátion e do ânion:
+Entre os ametais, o que define o ânion é a eletronegatividade, e o cátion a eletropositividade. Linus Paulling calculou a eletronegatividade dos elementos, que é a seguinte:
+Para nomear um ânion, basta acrescentar o sufixo -eto ao elemento. Em alguns casos, deve-se retirar algumas sílabas do elemento. Exemplo:
+As exceções são O (óxido) e S (sulfeto). O C pode se chamar carbeto ou carboneto. Um ânion poliatômico é aquele formado por vários átomos. Nestes casos, deve-se calcular a carga do ânion (pelo método mais conveniente). Exemplo:
+O íon acima possui, então, carga -1. Para dar o nome para ânions poliatômicos, basta acrescentar o prefixo de quantidade a cada elemento ("di, tri, tetra, penta", etc). O prefixo "mono" não deve ser utilizado nestes casos. Após o primeiro elemento põe-se "ido", e após o segundoo, o sufixo é "ato". O átomo central do ânion é o primeiro da fórmula e o segundo do nome. Exemplo:
+Muitos ânions aparecem oxigenados (acompanhados de oxigênio). Estes podem seguir a nomeclatura geral, mas também possuem uma segunda nomenclatura própria de oxiânions (que normalmente é utilizada). A tabela abaixo apresenta a nomenclatura dos oxiânions, em que X é um elemento da respectiva familia:
+Os prefixos e sufixos devem ser acrescentados ao nome do elemento. Exemplos:
+Observe que, independentemente da quantidade de átomos oxigênio no ânion, a carga permanece sempre a mesma nos halogênios. Veja que falta uma ligação simples em todos os casos, e por isso a carga é a mesma em todos os casos:
+Como todos os halogênios tem 7 elétrons de valência, se comportam da mesma maneira. Os oxiânions de calcogênios são bastante diferentes dos demais devido às ligações dativas que estes estabelecem.

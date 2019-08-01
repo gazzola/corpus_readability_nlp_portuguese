@@ -1,0 +1,15 @@
+Logística/Sistemas de distribuição/Escala de veículos/Métodos de melhoramento
+As heurísticas de melhoramento para PEV operam em cada rota separadamente, ou em várias rotas ao mesmo tempo, como descreve (Toth e Vigo, 2002e, p.121 e 122).
+"Melhoramento em rota simples:"
+A grande maioria dos processos de melhoramento de PCV (problema do caixeiro viajante) pode ser descrito em "λ-opt mechanism " por "Lin". Onde as bordas λ são removidas do circuito e os λ que sobram são conectados novamente de todas as maneiras possíveis. Se alguma nova conexão lucrativa, for identificada (a primeira ou a melhor), é implementada. O processo termina num mínimo local, quando não se consegue melhorar mais. Verificar se λ é solução óptima pode ser alcançado em formula_1 tempo. Várias modificações do esquema inicial foram propostas.
+"Or" propôs outro modelo denominado "Or-opt", que consiste na deslocação de fios de 3,2 ou 1 vértices consecutivos para outro local. O que equivale a executar uma forma restrita de intercâmbios "3-opt". Verificar se "Or" é óptimo requer formula_1 tempo.
+Por outro lado Renaud, Boctor e Laporte elaboraram um método, onde se propõe um subconjunto de re-conexões promissoras entre a cadeiade no máximo formula_3 bordas e outra cadeia de duas bordas. Verificar se este método denominado algoritmo "4-opt" requer formula_4 operações.
+"Melhoramento multi-rota:"
+Thompson e Psaraftis descreveram no seu estudo um esquema geral b-cíclico, k-transferência, onde é sugerido uma permutação cíclica de formula_5 rotas e formula_6 clientes de cada rota são deslocados para a rota seguinte do ciclo de permutação. Aplicando sequências específicas do ciclo formula_5, as trocas formula_6-transferências (com formula_9 ou variável formula_5 e formula_11 ou formula_12) dão resultados interessantes.
+"Van Breedam" Classificou as operações de melhoramento como:
+Dois fios de vértices são deslocados, cruzando duas bordas de duas rotas distintas.
+Dois fios de no máximo formula_6 vértices é trocado entre duas rotas.
+Dois fios de no máximo formula_6 vértices é movido de uma rota para outra, tipicamente com formula_15 ou formula_12.
+A melhor deslocação entre FT e FD é seleccionada.
+Que podem ser vistos como casos especiais de 2 ciclos de trocas. Este processo é utilizado em PEV com janela de tempo.
+

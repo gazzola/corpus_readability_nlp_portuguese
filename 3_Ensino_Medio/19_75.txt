@@ -1,0 +1,13 @@
+Introdução à física/Propriedades elétricas dos materiais
+O que caracteriza o material bom condutor é o fato de os elétrons de valência (por exemplo, o cobre possui um elétron na última camada) estarem fracamente ligados ao átomo, podendo ser facilmente deslocados do mesmo. Ora, consideremos, por exemplo, uma barra de cobre que possui um número extremamente elevado de átomos de cobre e apliquemos uma diferença de potencial entre os extremos desta barra. Os elétrons da camada de valência de todos os átomos facilmente se deslocarão sob a ação do campo elétrico produzido pela diferença de potencial aplicada, originando-se uma corrente elétrica no material.
+Outros materiais que possuem uma constituição semelhante à do cobre, com um único eletron na camada de valência, são o ouro e a prata, dois outros excelentes condutores de eletricidade.
+A resistividade da maioria dos materiais depende fortemente da temperatura. No caso
+dos sólidos metálicos a resistividade aumenta com a elevação de temperatura. Esta
+dependência, apesar de não ser exatamente linear para uma grande variação de temperatura, pode ser descrita com suficiente aproximação por uma relação linear num intervalo restrito
+em torno de uma temperatura de referência To.
+Resistividade nada mais é de que a resistência especifica de cada material.
+Resistência específica é a resistência oferecida por um material com 1 metro de comprimento, 1 mm² de secção transversal e estando a 20ºC de temperatura.
+Os valores da resistividade variam de acordo com 4 fatores:
+Materiais isolantes são materiais que apresentam de 5 a 8 elétrons na camada de valência, sendo que o material com 5 elétrons será menos isolante que um material de 8 elétrons na ultima camada, quanto mais camada o elemento tiver, menos isolante ele será.
+Materiais condutores, possuem de 1 a 3 elétrons em sua camada de valência, sendo que o elemento que tiver 1 elétron na camada de valência será mais condutor que um elemento que possuir 3 elétrons, quanto mais camadas o elemento tiver, mais condutor ele será.
+

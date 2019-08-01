@@ -1,0 +1,14 @@
+ Um ciclo parabólico pode ser conseguido usando-se funções trigonométricas quadráticas, vejamos como fazê-lo:
+Seja a função:
+formula_33 definida como:
+formula_44
+formula_45
+Em termos gerais nos atemos ao fato de que a variável parâmetro formula_29 deve ser usada como referência de nossas análises, diante disto desenvolvemos gráficos auxiliares que nos permitam esboçar o comportamento da função paramétrica. Traçando o gráfico de formula_26 em função de formula_29 usamos o eixo formula_25 como eixo da variável independente, quando traçamos a função formula_25 usamos o eixo formula_26 para isto. O que temos agora é um panorama geral do comportamento das variáveis que nos permite visualizar a tendência dos valores da função paramétrica. Observemos o gráfico:
+Nesta representação:
+Veja que os valores das funções se combinam perfeitamente, determinando o ponto exato do encontro dos dois valores que o definem. O recurso do uso de eixos virtuais sobrepostos aos eixos do gráfico para representar as funções isoladamente, permite que tenhamos uma noção de como estes valores se desenvolvem em relação ao parâmetro, facilitando o esboço da função paramétrica. Quando traçamos as linhas de referência:
+Os valores de formula_2 jamais serão menores que zero e a função refletirá indefinidamente os valores quadráticos entre formula_59 e formula_60, da mesma forma podemos ver que os valores de formula_3 jamais sairão da faixa: formula_62. Se acompanharmos os valores das funções dos eixos e seu reflexo na função paramétrica perceberemos que teremos sobre a mesma um ponto que se desloca sobre a parábola, indo de formula_63 a formula_64 e depois voltando. O ciclóide é uma forma paramétrica conseguida através das coordenadas de um ponto fixado em uma circunferência, que se desloca sobre um eixo. As equações paramétricas que definem a função do cilóide podem ser generalizadas da seguinte forma:
+formula_33 onde:
+formula_66
+Adotamos um valor formula_67 para cada função ciclóide. Esta constante está ligada a amplitude do raio do ciclóide. A ilustração abaixo representa um ciclóide com formula_68:
+Nesta representação:
+Note que temos um desenvolvimento dos valores das abscissas de forma ascendente, ou seja temos sempre valores positivos para a tendência de crescimento em formula_72, para as ordenadas temos valores sempre positivos do cosseno sobre um valor fixo e uma característica cíclica para os valores, na representação paramétrica temos, como conseqüência, uma forma cíclica semicircular.

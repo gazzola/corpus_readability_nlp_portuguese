@@ -1,0 +1,43 @@
+ A vazão volumétrica será
+formula_49
+onde W é a largura do plano. Assim,
+formula_50
+formula_51
+Podemos calcular também a velocidade média
+formula_52
+Quanto à segunda equação
+formula_53
+Ela nos fornece informação a respeito do campo de pressões, informação esta que coincide com aquela derivável da análise estática. Consideremos agora dois cilindros verticais concêntricos, com o cilindro exterior girando a uma velocidade constante ω e com um fluido Newtoniano no espaço entre eles. Dessa maneira, o fluido se movimenta em relação ao cilindro exterior. Chamemos R ao raio do cilindro interior e R + h ao raio do cilindro exterior. A geometria do problema pede o uso de coordenadas colindricas; para que o eixo Z aponte para baixo, a regra da mão direita exige que o ângulo T seja medido no sentido horário. Suponhamos que o giro do cilindro maior esteja nesse mesmo sentido, o que fará com que ω seja positiva. Como vimos anteriormente, as equações básicas em coordenadas cilíndricas são as seguintes:
+formula_54
+formula_55
+formula_56
+formula_57
+formula_58
+formula_59
+formula_60
+A geometria do problema implica em
+formula_61
+para qualquer propriedade n. O movimento é unidimensional, portanto v = v = 0. Como v = f(r), teremos
+formula_62
+Assim, as equações se simplificam para
+formula_63
+formula_64
+formula_65
+formula_66
+Novamente, a última equação traz informação a respeito da variação de pressão que coincide com a proporcionada pela análise estática. A equação de continuidade nos diz simplesmente que a velocidade deve ser constante ao longo do fluxo. Resolvendo a segunda equação:
+formula_67
+formula_68
+No ponto adjacente ao cilindro menor (r = R), vT = 0, portanto
+formula_69
+No ponto adjacente ao cilindro maior (r = R + h), vΘ = ωr , portanto
+formula_70
+formula_71
+E assim
+formula_72
+Logo, a expressão para a velocidade vT é a seguinte:
+formula_73
+A partir dessa expressão, podemos encontrar o valor da tensão cisalhante.
+formula_74
+formula_75
+o valor positivo indicando uma tensão na direção do movimento (o cilindro externo arrasta o fluido). Sabemos que a tensão será máxima quando r = R (velocidade nula).
+formula_76

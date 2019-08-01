@@ -1,0 +1,17 @@
+Introdução à Química/Ligação iônica
+Substâncias iônicas são formadas por átomos que se unem por ligação iônica. Ligação iônica ocorre com átomos que formam íons, ou seja um átomo tem facilidade de perder elétrons ( baixo potencial de ionização) e outro facilidade para receber elétrons (alta afinidade eletrônica).
+Devido a essa complementaridade os átomos com 1, 2 ou 3 elétrons na última camada tendem a perdê–los para átomos com 5, 6 ou 7 elétrons na última camada. Os átomos com 1, 2 ou 3 elétrons na última camada, nas ligações iônicas, perdem todos os elétrons nestas, enquanto os átomos que possuem 5, 6 ou 7 elétrons na última camada recebem elétrons até completar 8 nesta camada.
+Os elementos à esquerda (metais) da tabela periódica (formam cátions, átomos que perdem elétrons) se combinam com aqueles à direita (não metais, que formam ânions , que são átomos que ganharam elétrons) formando compostos iônicos.
+Visto que os elétrons representam negatividade (eletronegatividade), átomos que ganham elétrons ficam mais eletronegativos, adquirem carga negativa, por isso cada elétron ganho na ligação é representado pelo sinal -. Já os átomos que perdem elétrons, por sua eletronegatividade reduzir e seu número atômico depois da ligação tornar-se maior que a quantidade de elétrons (isto é, ter mais carga positiva que negativa), a quantidade de elétrons perdida é representada pelo sinal +. Pode haver diversos átomos na ligação.
+Para sabermos a quantidade de elétrons dos cátions que serão doados aos ânions e a quantidade de cátions e de ânions na ligação, olhamos a seguinte tabela:
+formula_1
+Resultado:
+Veja que Na (que é um metal) pode doar apenas 1 elétron porque só possui 1 na última camada. Já que Cl (que não é um metal) possui 7 elétrons + 1 doado por Na, totaliza-se 8 elétrons na última camada de Cl, estabilizando-se.
+formula_2
+Resultado:
+Aqui, P (que não é um metal) precisa de mais 3 elétrons para se estabilizar. Já que K (que é um metal) pode doar apenas 1 elétron, são necessários 3 K para estabilizar P.
+formula_3
+Resultado:
+Perceba que o somatório dos elétrons doados sempre resulta em zero, posto que nenhum elétron sobra, eles simplesmente são dados, a única coisa que muda é que o número de cátions e ânions nem sempre é igual:
+Ligação Ca - P:
+

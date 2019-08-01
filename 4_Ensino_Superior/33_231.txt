@@ -1,0 +1,13 @@
+Eletrônica Digital/Multiplexadores
+Multiplexador, multiplexer, mux ou multiplex é um tipo de circuito combinacional dedicado que possui diversas entradas e uma única saída, e variáveis de seleção que permitem conectar uma das entradas à saída. Em um Mux o número de entradas está relacionado com o número de variáveis de seleção. Desta forma sabemos que: n=2, onde n é o número de canais de entrada e m o número de variáveis de seleção.
+Um Mux de dois canais ou entradas é um Mux que conta apenas com uma variável de seleção : n = 2 = 2 = 2. A seleção de entradas não depende do nível lógico e desta forma na coluna de saída em vez de serem representados os valores lógicos são apresentadas as variáveis de entrada.
+Desta forma chegamos a seguinte equação booleana: 
+Z=S'.E+S.E 
+Um Mux de quatro canais ou entradas é um Mux que conta com duas variáveis de seleção : n = 2 = 2 = 4. A seleção de entradas não depende do nível lógico e desta forma na coluna de saída em vez de serem representados os valores lógicos são apresentadas as variáveis de entrada.
+Desta forma chegamos a seguinte equação booleana: 
+Z = S'.S'.E + S'.S.E + S.S.E + S.S.E 
+Um Mux de oito canais ou entradas é um Mux que conta com três variáveis de seleção : n = 2 = 2 = 8. A seleção de entradas não depende do nível lógico e desta forma na coluna de saída em vez de serem representados os valores lógicos são apresentadas as variáveis de entrada.
+Um Mux de dezesseis canais ou entradas é um Mux que conta com quatro variáveis de seleção : n = 2 = 2= 16. A seleção de entradas não depende do nível lógico e desta forma na coluna de saída em vez de serem representados os valores lógicos são apresentadas as variáveis de entrada.
+Um Mux de trinta e dois canais ou entradas é um Mux que conta com cinco variáveis de seleção : n = 2 = 2= 32. A seleção de entradas não depende do nível lógico e desta forma na coluna de saída em vez de serem representados os valores lógicos são apresentadas as variáveis de entrada.
+Os números de entradas em cada CI são limitados e pode-se existir a necessidade de uso de uma quantidade de canais de entrada maior, pode-se associar Muxs em uma única saída.
+

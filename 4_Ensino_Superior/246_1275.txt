@@ -1,0 +1,42 @@
+Logística/Gestão de armazéns/Funções e objectivos da armazenagem
+As funções básicas da armazenagem são as seguintes (Tompkins et al., 2003, p. 405-406):
+Na concepção de sistemas de armazenagem é essencial que se maximize a (Tompkins et al., 2003, p. 431):
+
+
+Logística/Gestão de armazéns/Configuração discreta de armazéns/Formulação como um problema de transportes
+Para a formulação de um problema de armazenagem dedicada como um problema de transportes, considere-se (Francis et al., 1992, p. 270-272):
+formula_1 número de locais de armazenagem
+formula_2 número de produtos para serem armazenados
+formula_3 número de pontos de entrada/saída (I/O)
+formula_4 espaço de armazenagem necessário para o produto formula_5, expresso em número de locais de armazenagem 
+formula_6 necessidades de movimentação ou nível de actividade do produto formula_5, expresso pelo número de armazenagens/remoções realizadas por unidade de tempo
+formula_8 percentagem das movimentações de armazenagem/remoção do produto formula_5 que são do ponto de entrada/saída (I/O) formula_10 
+formula_11 tempo necessário para a movimentação entre o ponto de entrada/saída (I/O) formula_10 e o local de armazenagem/remoção formula_13 
+formula_14, se o produto formula_5 é atribuído à localização de armazenagem/remoção formula_13 
+formula_17 no caso contrário
+formula_18 tempo médio esperado necessário para satisfazer as necessidades de produção do sistema
+A formulação do problema de armazenagem dedicada é:
+Minimizar   formula_19
+Sujeito a:
+formula_20   para formula_21
+formula_22   para formula_23
+formula_24   para todos os formula_5 e formula_13
+A função objectivo pode ser escrita da seguinte forma:
+formula_27
+O termo entre parênteses representa o tempo médio necessário para movimentar o produto formula_5 entre os locais de armazenagem/remoção formula_13 e os formula_30 pontos I/O. Fazendo
+formula_31 
+A função objectivo pode ser escrita como:
+formula_32 
+Onde   formula_33
+Assim, o problema de armazenagem dedicada pode ser formulado como um problema de transportes.
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Armazenagem de unidades de carga/Estante para armazenagem de unidades de carga/Armação para empilhamento
+Uma armação para empilhamento é uma estrutura ou estante portátil para armazenar material que normalmente está em forma de paletes. Em geral estas armações são utilizadas para empilhar unidades de carga com formatos diferentes, ou seja, unidades de carga não compatíveis para empilhamento umas sobre as outras. Tal como estas armações são facilmente ligadas umas às outras de forma a criar a dimensão desejada, elas são desmontadas e guardadas umas em cima das outras de modo a ocupar o mínimo de espaço possível (Tompkins et al., 2003, p. 251). 
+
+
+Logística/Sistemas de informação/Custo logístico/Impacto do desenvolvimento de novas tecnologias no custo logístico
+O desenvolvimento de novas tecnologias influencia o sector da logística.
+No início dos anos 90, o desenvolvimento de microprocessadores revolucionou a logística. Os processadores de dados de baixo custo foram particularmente significativos para as operações logísticas. Mais tarde, através da combinação de "software" avançado com "hardware" a baixo custo, o gestor logístico passou a ter um auxiliar de grande poder para efectuar as transacções, controlar o desempenho e apoio às decisões. Os recursos informáticos possibilitaram um nível de desempenho logístico nunca antes alcançado. Permitiram a gestão da logística como um processo integrado, desde o momento da procura, por parte do cliente, até à distribuição do produto acabado.
+O desenvolvimento de microprocessadores foi acompanhado por um desenvolvimento de tecnologias de informação, tal como o EDI e o fax. Esta melhoria na troca de informação originou novas estratégias para atingir um melhor desempenho logístico (JIT, QR e CR, entre outros) e permitiu uma redução do custo logístico (Bowersox et al., 1996, p. 15-16).
+

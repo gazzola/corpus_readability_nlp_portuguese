@@ -1,0 +1,27 @@
+ A força de atração entre formula_11 e formula_12 é, então, proporcional a formula_20, a concentração de moléculas em formula_11, e a formula_22, a concentração de moléculas em formula_12. Em média, a concentração de moléculas no gás é c, idêntica em todo volume. Em conseqüência, a força entre os dois elementos de volume formula_11 e formula_12 é proporcional a formula_22. Da mesma maneira, formula_8 é proporcional a formula_22. O coeficiente de proporcionalidade, anotado a, depende da natureza química do gás estudado. A equação de Van der Waals se obtém substituindo P por formula_29: 
+formula_30
+Na prática, escreveremos P no lugar de formula_31, mas lembrando que P representa a pressão externa imposta ao gás, tal que um experimentador possa medi-la por meio de um pistão, por exemplo. Escreveremos igualmente V no lugar de formula_32 para representar o volume total do recipiente. formula_33
+ou, dividindo-se ambos os lados da equação por formula_34 e introduzindo-se formula_35 (volume por mol do gás):
+formula_36
+O termo "ponto crítico" denota especificamente o ponto limite acima do qual não existem fases distintas líquido e gás em uma substância. O estado do fluido nessas condições é chamado de "supercrítico". O calor de vaporização para um fluido nesse estado é, por consequência, igual a zero. Acima da temperatura crítica (T), um aumento na pressão não provoca liquefação; um aumento suficientemente grande resultará na formação de um sólido. As curvas P(V) para o CO (página anterior) mostram o efeito da variação de P e T sobre o estado do gás. Por exemplo, um aumento da pressão aplicada sobre o CO a 13°C (abaixo da temperatura crítica) leva inevitavelmente à liquefação. No aparecimento da primeira gota de líquido, o volume molar diminui muito. A pressão fica constante durante a permanência simultânea do gás e do líquido em equilíbrio, apesar da diminuição do volume, que passa paulatinamente do volume molar (elevado) do gás ao volume (menor) do líquido. Durante todo esse processo, portanto, temos:
+formula_37
+É também o caso à temperatura crítica T, apesar de, nesse momento, termos volumes molares iguais para o gás e o líquido. Observa-se também que P(V) apresenta um ponto de inflexão à temperatura T, ou seja,
+formula_38 se formula_39 ou formula_40
+por consequência,
+formula_41
+De acordo com a equação de Van der Waals,
+formula_42
+logo
+formula_43
+formula_44
+Para calcular-se o ponto crítico, é preciso então achar a temperatura T, a pressão P e o volume V tais que:
+formula_45
+formula_46
+As soluções dessas equações são:
+formula_47
+Isso conduz a um valor constante de Z, a compressibilididade no ponto crítico, de
+formula_48
+Inversamente, podemos calcular, por meio dessas equações, os valores dos parâmetros "a", "b" e "R" a partir dos parâmetros críticos:
+formula_49
+Na equação de estado de Van der Waals, "R " não é mais, portanto, uma constante, mas depende do gás. Na prática, porém, conservamos frequentemente "R" como constante e calculamos apenas "a" e "b" a partir das condições críticas. Podemos calcular, para cada gás, os parâmetros "a" e "b" da equação de Van der Waals que melhor reproduzem as observações experimentais de P e V em relação a T. Alguns valores são dados nas primeira e na segunda colunas da seguinte tabela:
+Podemos , a partir de b , calcular o volume de uma molécula de gás e assim estimar o diâmetro da molécula ( supondo que esta molécula seja esférica ).

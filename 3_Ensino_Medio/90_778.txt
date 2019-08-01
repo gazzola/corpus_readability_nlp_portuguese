@@ -1,0 +1,20 @@
+Matemática elementar/Função afim
+Funções afim são as funções com domínio real e contradomínio real do tipo
+formula_1, sendo que "a" e "b" são constantes. É uma função de primeiro grau, pois sobre a variável há o expoente 1 (implícito). Observe o exemplo abaixo:
+Este exemplo pode ser resolvido por uma regra de três simples:
+E facilmente descobre-se que o tempo necessário é igual a 3 horas e 30 minutos. Neste exemplo, observa-se que a produção está em função das horas, sendo que o tempo é proporcional à produção de sapatos. Assim, observa-se uma progressão aritmética de razão 4:
+formula_3
+A mesma pode ser representada em um gráfico no primeiro quadrante:
+formula_4
+Quando estes pontos são ligados, eles originam uma reta. A função da reta é bijetora e consequentemente é ímpar. Isto significa que para cada valor "x" haverá um valor "y". 
+A equação pode estar em duas formas:
+Deve-se observar que é possível toda equação desenvolvida tornar-se uma equação reduzida.
+A reta é classificada em:
+Sendo a expressão geral "f(x) = ax + b", dizemos que "a" é o coeficiente angular, e "b" o coeficiente linear.
+O coeficiente angular, como se descreve, determina o ângulo entre a reta e o eixo das abcissas (α):
+Já o coeficiente linear é o ponto em "y" em que a reta intercepta o eixo das ordenadas.
+Dados dois pontos quaisquer, há apenas uma função afim que passa por estes. Sendo (x; y) e (x; y) estes pontos, esta função pode ser determinada por um sistema de equações ou pelo determinante de uma matriz:
+Independentemente da forma em que for calculado, o resultado é a função "x + 1 = y".
+Toda função afim tem uma raiz (zero) real. A raiz é obtida quando f(x) = 0. Para uma função afim qualquer, sua raiz "x" é o ponto (x, 0) do plano cartesiano, ou seja, o ponto "x" em que a reta cruza o eixo das abcissas. Exemplo:
+Assim, a raiz de f(x) = 2x + 4 é -2.
+

@@ -1,0 +1,12 @@
+ Química inorgânica/Introdução/Íons e a regra do octeto/Número de oxidação
+O número de oxidação (NOX) é a quantidade de elétrons que um átomo necessita para atingir sua estabilidade, aliado à eletronegatividade dos átomos que o estabiliza. Além disto, o número de oxidação indica a presença de polos em moléculas. Matematicamente, o número de oxidação pode ser descrito:
+Considerando:
+Considere também:
+Além disto, podemos considerar que em compostos estáveis, não devem faltar (nos ametais) ou sobrar (nos metais) elétrons. Logo:
+Senão, não ocorre estabilidade. Para determinar o número de oxidação dos átomos de um composto, deve-se inciar pelos átomos mais eletronegativos e pelos metais se estiver explicita sua valência. Para calcular o NOX, deve-se ter em mente a eletronegatividade dos ametais, que cresce no sentido da seta:
+formula_3
+Iniciaremos pelo átomo mais eletronegativo, o flúor. Como não há elemento mais eletronegativo que este último, este não possuirá valor para e. Assim, NOX = e - e = 7 - 8 = -1. O segundo átomo mais eletronegativo é o oxigênio. O oxigênio forma uma ligação covalente simples com um átomo que é mais eletronegativo que ele mesmo (o flúor), então, NOX = 6 - 8 + 2 x 1 = 0:
+Por fim, o átomo de hidrogênio faz uma ligação covalente simples com um átomo mais eletronegativo (o oxigênio). Assim, NOX = 1 - 2 + 2 x 1 = 1:
+Observe que a soma dos NOX resulta em zero, o que prova a estabilidade do FOH. Como há um metal, o sódio, seu NOX será 1 - 0 = 1. O oxigênio, que é o mais eletronegativo, tem seu NOX = 6 - 8 = -2:
+E por último, o átomo de cloro faz uma ligação simples com um átomo que é mais eletronegativo (o oxigênio). Então, seu NOX = 7 - 8 + 2 x 1 = 1:
+Analisando a fórmula estrutural do trióxidano, vemos que o átomo de oxigênio central liga-se a outros átomos de oxigênio, portanto devemos somar a quantidade de ligações que ele faz com os demais oxigênios ao NOX. Então, NOX = 6 - 8 + 2 = 0.

@@ -1,0 +1,33 @@
+Teoria dos conjuntos/O conjunto dos números naturais
+O objetivo deste capítulo é mostrar que o conjunto dos números naturais existe, é único, e provar algumas de suas propriedades básicas.
+Um capítulo anterior (../Explorando os axiomas da extensão, separação, par e união/) definiu o que um conjunto deve satisfazer para ser chamado de um "número natural".
+O ../Axioma do infinito/ diz que existe um conjunto que inclui o conjunto vazio e, para cada elemento seu, inclui o seu sucessor (definido no capítulo ../Axioma da união/). Assim, para cada conjunto que o axioma do infinito provém, podemos definir, pelo ../Axioma da extensão/, um "conjunto dos números naturais" - o que prova a existência.
+Nosso primeiro objetivo é mostrar que todo número natural é elemento de qualquer conjunto dos números naturais; com isto mostramos que este conjunto é único.
+Devemos provar o seguinte:
+Como vimos antes, "n" é um número natural quando:
+Nos capítulos anteriores, mostramos vários teoremas a respeito dos números naturais. Em particular, no capítulo sobre o ../Axioma da regularidade/, mostramos que para todo número natural "n" e todo subconjunto "K" de "n" satisfazendo:
+temos que "K = n".
+É óbvio como provaremos que todo número natural "n" é elemento de "A": basta formar o subconjunto formula_3 e mostrar que formula_4.
+É imediato que:
+O que completa a prova.
+Assim, sendo "A" e "B" dois conjuntos que satisfazem ao ../Axioma do infinito/, pelo ../Axioma da separação/, podemos definir:
+é imediato que formula_12, ou seja, temos que o conjunto dos números naturais existe e é único, o que justifica a definição:
+A unicidade de formula_14 permite imediatamente demonstrar vários fatos.
+Por exemplo, seja "K" um subconjunto de formula_14 satisfazendo:
+Então, obviamente, "K" é um conjunto que satisfaz ao ../Axioma do infinito/, então formula_18, completando a prova.
+Esta propriedade costuma ser apresentada como um esquema de teoremas: seja "P(x)" uma propriedade escrita na linguagem formal da teoria dos conjuntos.
+Então se:
+então
+A demonstração parte da construção do conjunto formula_22, e aplicando-se o resultado anterior para provar que formula_23.
+A indução finita torna muito simples várias propriedades dos números naturais. 
+Por exemplo, podemos provar que todo número natural é um número ordinal (ver a definição de ordinal segundo von Neumann em ../Explorando os axiomas da extensão, separação, par e união/). Isto porque formula_24 é um número ordinal, e o sucessor de todo número ordinal também é um número ordinal (ver prova em ../Axioma da potência/) - logo, por indução, todo número natural é um número ordinal.
+O estudo de várias estruturas algébricas complexas parte, quase sempre, do estudo da estrutura mais elementar, que é o conjunto dos números naturais com sua relação de ordem e as operações binárias de soma e produto de números naturais.
+Veremos aqui como é possível construir esta estrutura algébrica de forma axiomática.
+Uma forma é partir do conjunto formula_14 e definí-las.
+Mas uma forma mais elegante é partir dos .
+, em 1889, propôs nove axiomas que servem como fundamentos da aritmética - na verdade, estes axiomas são tão completos, que servem como fundamentos para quase toda a matemática. Destes axiomas, os quatro primeiros são sobre lógica, e os cinco últimos supõem a existência de um conjunto "N" satisfazendo:
+Em palavras:
+Mostremos agora que formula_31, formula_32 e formula_33 é um "modelo" dos axiomas de Peano.
+Então falta mostrar que se dois números tem o mesmo sucessor então eles são iguais. Mas isto segue do axioma da separação, porque se "s(n) = s(m)" temos que formula_39 e formula_40 e, dos quatro casos seguintes, apenas um deles não viola o axioma da separação:
+que é o caso "n = m".
+

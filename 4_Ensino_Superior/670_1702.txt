@@ -1,0 +1,12 @@
+ Mecânica dos fluidos/Fluxo turbulento do líquido Newtoniano
+Infelizmente, na maioria dos casos práticos, o escoamento é turbulento, e não laminar. Quando o fluxo é turbulento, as equações de Navier-Stokes não podem ser simplificadas como feito na seção anterior, e a solução analítica se torna impossível. Muito trabalho experimental faz-se necessário na resolução desse tipo de problema. Observando-se o escoamento turbulento, verifica-se que, próximo às paredes, a velocidade é progressivamente reduzida, assim como acontece com o escoamento laminar. Nessa região, a teoria da camada limite pode ser aplicada com sucesso. A velocidade de um elemento de volume em fluxo turbulento pode ser decomposta em duas componentes: uma igual à velocidade média do elemento de volume naquele ponto, e outra que representa uma flutuação local no tempo:
+formula_1
+Essa expressão é conhecida como separação de Reynolds. A flutuação local caracteriza-se pela variação rápida e aleatória de direção e magnitude. Se o escoamento fosse laminar, a velocidade não variaria na direção do fluxo, e teríamos, considerando escoamento na direção do eixo X,
+formula_2
+A tensão sobre um elemento de volume δV, área δA e comprimento δl, será, evidentemente, dada por equações como a seguinte
+formula_3
+onde v é a velocidade de uma face com relação à outra. Por exemplo,
+formula_4
+e assim por diante. Mas podemos também considerar a tensão τ como composta por duas componentes: a primeira é aquela que apareceria se o fluxo fosse laminar e a velocidade naquele ponto fosse exatamente formula_5, e a segunda, aquela que aparece devido ao caráter turbulento do fluxo:
+formula_6
+Essa segunda componente é chamada de tensão de Reynolds. A tensão de Reynolds é desprezível em locais próximos às paredes, onde o fluxo pode, com boa aproximação, ser considerado laminar. O efeito das flutuações de velocidade é a transferência de momento linear de um ponto do fluxo para outro adjacente. Assim, a tensão de Reynolds pode também ser entendida como a taxa de transferência de momento através da superfície do elemento de volume δV, área δA e comprimento δl, devida à componente flutuante da velocidade.

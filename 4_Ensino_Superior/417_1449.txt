@@ -1,0 +1,23 @@
+ Procede-se a análise individual para verificação da condição de existência em todas as funções membro, no referido domínio, antes de definir sua existência ou não. Seja a função vetorial: formula_14, encontre o limite da função quando formula_15. O limite da função vetorial é conseguido fazendo-se o limite de cada função membro:
+formula_16
+Imediatamente, temos os limites:
+formula_17
+formula_18
+Porém, temos uma indefinição no limite:
+formula_19
+Que tende a forma indeterminada formula_20. Devemos aplicar a regra de LHôpital:
+formula_21
+formula_22
+formula_23
+Portanto, o limite é:
+A condição de contiuidade da função vetorial é aplicada segundo o mesmo princípio que utilizamos na definição do limite, ou seja, a função vetorial é contínua se as suas funções membro forem contínuas, mais precisamente, analisamos os valores do limite e da função em cada membro e definimos se a função vetorial resultante é contínua. Segundo o critério de continuidade de uma função, a função será contínua caso o limite e a função no ponto em questão existam e sejam iguais. A clássica definição de derivada de uma função também se aplica a funções vetorais, verifiquemos as razões para que o modelo de análise de uma função escalar também pode ser usada em funções de valor vetorial:
+Observemos o gráfico abaixo:
+Este é um gráfico de uma curva bidimensional, como já vimos antes. Nossa meta é definir uma relação equivalente para curvas vetoriais, neste caso adotemos formula_25, uma função vetorial que define a curva, então teremos:
+formula_26
+Sendo:
+formula_27
+formula_28
+Quando fazemos a análise sob uma óptica vetorial devemos observar o efeito desta sobre as curvas que são representadas pelas funções componentes que temos na curva vetorial, observemos o gráfico abaixo:
+Um vetor componente em uma curva vetorial é a representação puntual da mesma, a derivada desta função neste ponto é a representação da tendência de evolução da curva em relação ao parâmetro neste ponto. Podemos verificar quais as regras básicas para operar estas funções vetoras na tabela logo abaixo:
+Sejam as funções vetoriais formula_29, considerando o escalar formula_30 e a função real formula_31,
+Estas regras são facilmente verificadas se observarmos que são conseqüentes das propriedades das derivadas e dos vetores, as quais já conhecemos, fica como exercício a prova das mesmas.

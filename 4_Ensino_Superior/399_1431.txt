@@ -1,0 +1,50 @@
+ As funções polares são, basicamente, criadas sob a óptica de um sistema circular, ou seja, como os 
+valores se expandem de forma radial temos valores expressos em raios variáveis, o que nos inspira a
+imaginar que devemos fazer o cálculo de suas áreas com base no estudo da integração de setores circulares
+infinitesimais. A medida de áreas em setores circulares é proporcional ao ângulo, em setores de raio unitário corresponde
+ao próprio ângulo. Para calcular a medida da área em setores circulares temos:
+formula_103
+Em uma curva polar, se tivermos que calcular a área dentro dos limites estabelecidos por ângulos, podemos
+secionar a curva em diversos setores circulares infinitesimais e fazer a sua somatória, o que nos dá o 
+valor da área para aquele intervalo de ângulos no gráfico polar, considerando que:
+formula_12
+Podemos admitir que cada setor seja:
+formula_105
+Sendo a área total aproximadamente:
+formula_106
+Admitindo valores de setores circulares cada vez menores:
+formula_107
+Uma vez que podemos admitir uma partição e fazer:
+formula_108
+formula_109
+é o mesmo que:
+formula_110
+logo:
+formula_111
+Ou seja:
+Onde formula_113 e formula_114 são os ângulos que delimitam o setor da curva onde 
+queremos encontrar a área. Dada a função polar:
+formula_115
+Calcular a área da curva compreendida entre os ângulos formula_116 e formula_117. formula_118
+formula_119
+formula_120
+Calcular o comprimento de uma curva descrita por uma função em forma polar não é algo tão difícil, uma vez que devemos vê-la como uma função que pode ser facilmente transformada para a forma paramétrica, devemos utilizar a equação do cálculo do comprimento de curva que deduzimos no capítulo anterior:
+formula_122
+Do cálculo das derivadas temos que:
+formula_36
+formula_39
+Dos quais, devemos obter os quadrados:
+Logo podemos dizer que a fórmula do comprimento de arco da curva é:
+formula_125
+Calculemos o comprimento da curva do cosseno na representação polar entre os ângulos formula_126 e formula_127 :
+Temos:
+formula_128
+formula_129
+O que nos dá:
+formula_130
+formula_131
+formula_132
+formula_133
+formula_134
+formula_135
+Logo:

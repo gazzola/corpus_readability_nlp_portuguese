@@ -1,0 +1,18 @@
+Teoria dos conjuntos/Axioma da substituição
+Axioma da substituição
+Vimos até agora várias definições que pegam um conjunto e formam outro conjunto, único, a partir daquele conjunto.
+Por exemplo, temos (sendo "x" o conjunto sobre o qual vamos operar, e "C" um conjunto fixo):
+Parece natural perguntar se, sendo "A" um conjunto fixo, se é possível construir uma "função"
+cujo gráfico seja precisamente os pares de valores definidos por estas propriedades, ou seja, aquilo que, intuitivamente (e tradicionalmente) escrevemos como:
+Infelizmente, os axiomas até agora apresentados (mesmo com a inclusão do axioma da potência) não permitem a construção desta função - porque não conseguimos definir que o conjunto "B" existe!
+O axioma da substituição vem preencher esta lacuna. Seu nome é devido ao esquema de substituição, ou seja, se existe alguma regra que associa a cada conjunto "x" que é elemento de "A" um único conjunto "y" (ou seja, esta regra faz o papel de uma "função") então existe um conjunto "B" (único, pelo axioma da extensão) cujos elementos são estes "y".
+Assim, se existe alguma "lei" que, para cada conjunto "x" gera um único conjunto "y = f(x)", então existem "f(A)" e a função formula_9 cujo gráfico são os pares "(x, f(x))".
+Este axioma é, assim como o axioma da separação, um esquema de axiomas. Seja "A" um conjunto, e "Φ(x, y)" uma fórmula bem formada em "x" e "y" com a propriedade de:
+ou seja, para todo "x", existe um "y" que satisfaz "Φ(x, y)" e este "y" é único.
+Com estas condições:
+Uma fórmula "Φ(x, y)" que tem esta propriedade de unicidade do "y" costuma ser representada por "y = φ(x)". Assim, o que o axioma diz é que, se "y = φ(x)" está definido para todo elemento "x" de um conjunto "A", então existe (e é único) o conjunto:
+Aplicando várias vezes o axioma da substituição, podemos justificar a notação tão comum para funções da forma:
+em que são explicitamente exibidos apenas o conjunto "A" e a lei "y = φ(x)".
+O que esta notação significa é o seguinte:
+Segue direto da definição que esta função é sobrejetiva.
+

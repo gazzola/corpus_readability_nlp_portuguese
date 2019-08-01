@@ -1,0 +1,17 @@
+Logística/Técnicas de previsão/Redes neuronais
+As redes neuronais artificiais são baseadas em modelos matemáticos simples da forma expectável do funcionamento do cérebro humano. Quando aplicadas a séries cronológicas, permitem criar um modelo de previsão não linear. A previsão por redes neuronais apesar de requerer,geralmente, um número de observações mais elevado do que outros métodos, permite o ajuste de modelos mais flexíveis e complicados. Os analistas que usam este método adoptam uma terminologia bastante diferente da usada por outros métodos em técnicas de previsão, o que conduz a alguma confusão. Por exemplo, em vez de modelo, parâmetros e cálculo de parâmetros tem-se rede, pesos e treino da rede, respectivamente.
+Uma rede neuronal pode ser vista como uma rede de unidades parecidas com os neurónios organizada por camadas. A camada inferior consiste num conjunto de unidades de "input" enquanto que, a camada superior consiste num conjunto de unidades de "output". As unidades de cada camada estão ligadas às unidades das camadas superiores(Makridakis et al., 1998, p. 435-439).
+A especificação de uma rede neuronal é feita através dos seguintes componentes: 
+O poder desta ferramenta pode ser visto quando se adicionam camadas intermédias que consistem em unidades não lineares
+escondidas entre os "inputs" e os "outputs". 
+A resposta de uma unidade é denominada de "valor de activação". A escolha da função de activação não linear recai, normalmente,
+numa combinação de uma função linear dos "inputs" seguida de uma função "squashing" não linear denominada "sigmoid".
+Por exemplo, os "inputs" de uma unidade escondida, podem ser combinados linearmente para dar:
+formula_1
+que, por sua vez, é um "input" de uma função não linear:
+formula_2
+Um benefício da função "sigmoid" é o facto de reduzir o efeito de valores extremos de "input", conferindo, desta forma, 
+um certo grau de robusteza à rede. 
+A camada de "input" de uma rede consiste, normalmente, em tantas variáveis explicativas quanto razoavelmente possível em adição a valores desfasados da série cronológica. Para dados sazonais, é prática geral ter tantos "inputs" desfasados quantos os períodos da sazonalidade. O número de unidades na camada de "output" corresponde ao número de variáveis a prever.
+Uma desvantagem dos métodos de redes neuronais é o facto de não permitirem muita compreensão dos dados uma vez que não existe um modelo explícito. Permitem uma abordagem "black box" à previsão. Por outro lado, pode funcionar em situações onde uma abordagem baseada num modelo explícito falhe. De facto, as redes neuronais são encaradas como uma esperança em adaptar irregularidades e características incomuns na série cronológica em estudo.
+

@@ -1,0 +1,27 @@
+Otimização/Estilo
+Nesta página estarão indicadas as convenções adotadas neste wikilivro sobre otimização, no que diz respeito a sua formatação.
+Recomenda-se a leitura do mesmo, por todos que pretendem contribuir com a melhoria desde texto.
+
+
+Otimização/Conjuntos convexos
+Sejam formula_1 conjuntos convexos, onde formula_2
+Sejam formula_5, conjuntos convexos e fechados. Um deles é limitado.
+Um conjunto formula_7 é convexo se, e somente se, a combinação convexa formula_8, formula_9, 
+Sejam formula_10 um conjunto convexo e formula_11 uma função convexa, formula_12
+Seja formula_14 uma combinação convexa de pontos do conjunto formula_10.
+Se formula_10
+Seja formula_10 compacto
+
+
+Otimização/Bibliografia
+
+
+Otimização/Uso da matriz hessiana para caracterizar pontos críticos
+Dada a função formula_1, a condição necessária para que um determinado ponto formula_2 seja um ponto crítico é que todas as derivadas parciais, calculadas naquele ponto específico, sejam iguais a zero. No entanto, para definir se este ponto crítico é um ponto de máximo, mínimo ou de sela, é preciso calcular o determinante da matriz hessiana e seus menores principais. Para isso, pode-se seguir os seguintes passos:
+Calcular as "n" derivadas de primeira ordem da função f. O resultado serão "n" funções das variáveis do vetor nX1 formula_3.
+Igualar cada uma das "n" funções do passo 1 a zero. Com isso, serão descobertos valores para cada uma das variáveis formula_4. Chamaremos estes valores, cujas coordenadas compõem o ponto crítico, de formula_5. Igualmente, o vetor nX1 destes valores (números) será chamado de formula_6. Reservar este ponto crítico.
+A partir das derivadas de primeira ordem calculadas no item 1, calcular as derivadas de segunda ordem da função f e montar a matriz hessiana nXn. Notar que é possível que muitos elementos desta matriz sejam função das variáveis formula_7. 
+Substitua as variáveis formula_8, presentes na matriz hessiana montada no item 3, pelos valores correspondentes do ponto crítico, ou seja, pelos valores do vetor formula_9. A matriz resultante não terá mais variáveis, somente números. Por exemplo, a derivada da função f em relação à variável formula_10, por sua vez derivada em relação à variável formula_11, calculada para o vetor formula_12, será representado por formula_13 e significa um número.
+A partir da matriz resultante do item 4, calcular os menores principais. Os resultados serão números.
+Verificar o sinal dos menores principais do item 5: 
+

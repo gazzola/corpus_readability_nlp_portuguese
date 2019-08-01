@@ -1,0 +1,61 @@
+Curso de termodinâmica/Segunda lei da termodinâmica
+Aumentamos a energia do sistema dando-lhe um calor Q escolhida como igual a formula_1 tal que uma partícula passa do nível j ao nível imediatamente superior k. Levando em conta o número elevado de partículas, esta adição de calor representa um aumento infinitesimal e podemos considerar que a adição de Q é reversível e que o sistema fica no equilíbrio. Temos:
+formula_2
+formula_3
+O número de permutações
+formula_4
+fica:
+formula_5
+Podemos expressar a mudança de W por :
+formula_6formula_7
+visto que qualquer seja o nível da população, formula_8 (cuidado: formula_9, mas formula_10). Qualquer população se expressa em relação da população de nível fundamental:
+formula_11formula_12
+Como formula_13 a mudança da desordem no sistema sob efeito da adição de um calor Q se escreve :
+formula_14
+Chamamos a função k ln W a entropia (símbolo S) do sistema:
+formula_15
+Podemos mostrar que, apesar de Q não ser uma função de estado, Q/T é uma função de estado e , em conseqüência :
+A ENTROPIA É UMA FUNÇÃO DE ESTADO.
+Durante qualquer processo espontâneo, aumenta a desordem do universo .
+Chamamos universo o sistema e seu meio ambiente. Como a entropia é a medição da desordem, a segunda lei da termodinâmica pode se escrever também:
+formula_16 
+No equilíbrio, a entropia do universo tem seu valor máximo, constante, e 
+formula_17
+Num sistema isolado, um fenômeno espontâneo vem sempre junto com um aumento da desordem e prossegue até o equilíbrio onde a desordem é máxima.
+O resultado obtido para o conjunto das partículas acima estabelece uma ligação entre a entropia e a transferência de energia térmica durante um processo reversível. Este resultado, é , como podemos mostrar, válido neste caso totalmente geral. Em conseqüência:
+formula_18
+Geralmente, utilizamos a segunda lei da termodinâmica sob a forma:
+formula_19
+para que uma transformação pudesse prosseguir
+o que se decompõe em :
+formula_20 :o processo é reversivel(= no equilibro)
+formula_21O processo é irreversível ( = espontâneo)
+formula_22 o processo é não espontâneo( só ocorre a custas de trabalho)
+"Exemplos de transformações espontâneas" (então irreversível):
+"Exemplos de transformações reversíveis" (seja quando o sistema fica a qualquer momento no equilíbrio):
+formula_23
+Mas:
+formula_24
+Então:
+formula_25<br>
+formula_26<br>
+formula_27<br>
+formula_28<br>
+Definimos uma nova função, notada G e chamada energia livre de Gibbs ou entalpia livre, tal que:
+formula_29
+É uma função de estado, pois H, T e S são funções de estado.
+Em termo de energia livre, a segunda lei é expressa por:
+Em outros termos, a energia livre diminuí durante uma transformação espontânea (dG < 0) até um valor mínimo de G (dG = 0) onde o equilíbrio é atingido. As expressões acima explicam porque podemos observar processos espontâneos tendo mudanças de entalpia positivas bem como negativas. A temperatura e pressão constantes, nem a entalpia nem a entropia dirigem sozinhas o sentido espontâneo de um fenômeno. É a compensação eltalpia - entropia, expressa na função energia livre G, que é o fator essencial. Um processo onde H > 0 pode ser espontâneo mesmo se a entalpia contribuir a aumentar G, a condição que este processo seja acompanhado de um aumento suficiente da desordem (quer dizer, que S seja suficientemente positivo).
+Esta função fornece um critério de equilíbrio e de espontaneidade útil para os processos isotérmicos e isobáricos.
+A volume e temperatura constantes:
+formula_30
+Mas:
+formula_31
+Então:
+formula_32
+formula_33
+formula_34
+Definimos uma nova função de estado, notada F (ou ás vezes A) e chamada energia livre de Helmholtz tal que :
+formula_35
+Esta função fornece um critério de equilíbrio e de espontaneidade útil para os processos isotérmicos e isocóricos.
+

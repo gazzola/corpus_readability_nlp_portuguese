@@ -1,0 +1,10 @@
+ Estes oxiânions também formam ligações dativas, e por isso têm estruturas diferenciadas. <nowiki>*</nowiki>Geralmente se nomeia o ânion (HPO) como fosfito, no entanto, pelas normas da IUPAC, o ânion (HPO) chama-se "fosfanato". Veja que não é apresentado o hiponitrito. Isto ocorre porque a fórmula esperada (NO) é uma fórmula estável, e não um ânion. No monóxido de nitrogênio (NO), o nitrogênio faz ligação dupla com o oxigênio e uma ligação dativa, formando o octeto. Existem outros ânions oxigenados:
+Já que o oxigênio está no grupo 16, necessita de dois elétrons e tem carga -2. O enxofre, selênio e telúrio também são ametais e estão no grupo 16, logo, se comportam como o oxigênio. Abaixo, estão prefixos que substituem um átomo de oxigênio por outro elemento de sua família:
+Pela grande variabilidade de calcogenetos, eles possuem nomenclaturas próprias:
+formula_7
+Exemplos:
+Os carbetos são ânions constituídos de um átomo de carbono. Os ânions em que há mais de um átomo de carbono são alvos de estudo da química orgânica. Os carbetos seguem a regra geral dos ânions. Muitos carbetos têm uma nomenclatura alternativa. Veja alguns exemplos:
+A nomenclatura que os cátions recebem é o nome do próprio elemento. Caso se trate de um elemento polivalente, ou de um íon incomum, é importante expôr a carga. Outro método de nomear cátions de átomos polivalentes é pelo acrescimo dos sufixos -oso (para o de menor valência) e -ico (para o de maior valência) ao elemento. Normalmente, os sufixos somente são acrescentados aos cátions ferro, cobalto e cobre. Assim:
+Se houver mais de um átomo no cátion, acrescenta-se os prefixos "di, tri, tetra, penta", etc:
+No caso de ser poliatômico, a mesma regra dos ânions é válida (no entanto, não acrescenta-se "ato"). Tratando-se de hidrogênio, a raiz é "hidrido". No caso de haver cátions iguais, mas de cargas diferentes, exibe-se a carga:
+Às vezes um cátion se une a um ânion e forma um novo íon. A nomenclatura é a mesma. Exemplo:

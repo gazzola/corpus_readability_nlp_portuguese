@@ -1,0 +1,10 @@
+ Resumo das rotinas de limpeza:
+Máquinas ventiladas - retirar toda a sujidade e pó por extracção ou sopro;
+Máquinas totalmente fechadas - limpar as superfícies externas;
+Remover qualquer óleo ou gordura proveniente dos rolamentos e lubrificar de acordo com as instruções do fabricante;
+Inspeccionar e limpar as escovas, anéis deslizantes e comutadores;
+Limpar os extractores de poeira, blindagens e filtros ou substitui-los, se necessário;
+Além disso, um engenheiro de manutenção deve estar atento a qualquer tipo de vibração ou ruído anormal de qualquer motor, ou equipamento accionado. Deste modo pode ser capaz de detectar o desenvolvimento de uma avaria e tomando medidas imediatas evitar uma avaria mais grave. Revisão
+Os motores que exigem revisão devem ser transportados sempre que possível para a oficina de manutenção ou outra área com instalações adequadas para executar o serviço. Se o motor for muito grande, ou as condições locais impedirem o seu transporte, a área ao redor do motor deve estar limpa e o mais livre possível de obstáculos. "Segurança"
+Antes de se começar a trabalhar em qualquer motor, dever-se-á proceder à identificação do equipamento e garantir que este está isolado de todos os pontos de fornecimento de energia, isto principalmente se existirem motores idênticos nesse local. "Desligar e remover"
+Tendo identificado o motor e confirmado que é seguro começar o serviço, primeiro remova a caixa de ligação e desligue os cabos de alimentação, com o cuidado de marcar claramente todas as conexões para evitar qualquer tipo de confusão quando chegar a hora de voltar a ligar o motor. Em máquinas de alta tensão, quando o motor for para reparação, isole a ponta dos cabos de modo a deixá-los protegidos. Retire os parafusos de acoplamento, correias, correntes ou qualquer outro componente que seja utilizado para alimentar a unidade. Remova os parafusos ou porcas que prendem o motor a sua base. Ao levantar o motor assegure-se que quaisquer calços existentes por baixo são amarrados aos pés ou aos pernos respectivos.

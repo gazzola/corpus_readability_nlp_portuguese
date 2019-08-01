@@ -1,0 +1,26 @@
+Matemática elementar/Conjuntos/Números reais
+Em matemática, potências são valores que representam uma multiplicação sucessiva de um número, ou seja, representam o mesmo número multiplicado algumas vezes por si mesmo. Uma potência é composta por um número, chamado base, que é multiplicado sucessivamente por si mesmo; e por um índice, chamado expoente, que diz o número de vezes que a base é multiplicada por si mesma. As potências apresentam-se na forma formula_1 onde n é o expoente e "x" é a base.
+A potência formula_2 por exemplo, indica que a base, o número 4, será multiplicada sucessivamente 3 vezes por si mesma, ou seja formula_3 Se o expoente é 1, então o resultado tem o valor da base (formula_4), enquanto que com um expoente 0, devido a regras de operações feitas diretamente com potências, o resultado é sempre igual a 1 (formula_5 = 1).
+Ao multiplicar potências de mesma base, repetimos a base e somamos os expoentes.
+formula_6
+Ao dividir potências de mesma base, repetimos a base e subtraímos os expoentes.
+formula_7
+Ao elevar uma potência a um outro expoente, repetimos a base e multiplicamos os expoentes.
+formula_8
+Ao elevar um produto ou um quociente a um expoente, elevamos cada um dos fatores a esse expoente ou, no caso do quociente, elevamos o dividendo e também o divisor ao mesmo expoente.
+formula_9
+É importante perceber que, mesmo com bases diferentes, podemos torná-las iguais para efetuar uma operação. Exemplo:
+Podemos substituir 4 por 2:
+Quando temos um número elevado a "n" em que n < 0, podemos dizer que:
+Observe que a fração foi invertida e o sinal negativo do expoente desapareceu. Exemplo:
+Tópicos
+"Ver: Matemática elementar/Exponenciais/Exercícios"
+"Ver: Matemática elementar/Números reais/Exercícios"
+Intuitivamente, um "intervalo real" é um subconjunto dos números reais que não tem nenhum buraco. Ou seja, se "I" é um intervalo, "a" e "b" são elementos deste intervalo com "a < b", então todo número "entre" "a" e "b" também pertence ao intervalo.
+Os intervalos são classificados de acordo com seus extremos (o extremo superior e o extremo inferior). Cada extremo pode ser ilimitados, limitado e aberto ou limitado e fechado.
+Representa-se o intervalo através do seu limite inferior, seguido da vírgula (ou ponto-e-vírgula) e o limite superior.
+Costuma-se representar o limite inferior por:
+Sendo o limite superior representado por:
+Por exemplo:
+"Ver: Matemática elementar/Números reais/Intervalos reais/Exercícios"
+

@@ -1,0 +1,21 @@
+Mecânica dos fluidos/Exercícios resolvidos/C5
+Um sprinkler é composto por uma haste oca de 30 cm de comprimento, suportada na horizontal por um pivô fixo no ponto central, e com um furo lateral de 4 mm de diâmtro em cada extremidade. Os furos são orientados em direções opostas no plano horizontal. Quando água é bombeada para dentro da haste através de um tubo conectado ao pivô, ela é expulsa através dos furos a uma taxa de 7.5 litros por minuto, o que faz o conjunto girar a 30 rpm. Calcular a velocidade do jato e a frição no pivô.
+O jato de água, ao ser forçado a mudar de direção em 90° nas pontas da haste, exerce uma força sobre ela. Uma componente dessa força é radial, e a outra, tangencial ao sprinkler. Como cada tubo aponta para uma direção, aparece um binário de forças, que faz o sprinkler girar.
+A velocidade do fluxo pode ser obtida diretamente a partir da vazão e da área de cada furo
+formula_1
+formula_2
+formula_3
+Essa velocidade é medida em relação ao sprinkler, não em relação ao referencial fixo. Para encontrar a velocidade relativa a esse referencial, é preciso subtrair a velocidade tangencial do furo, que gira junto com o sprinkler na direção oposta. Assim, v = v - ωR.
+A componente tangencial da força exerciada pelo jato de água sobre a haste só é contraposta pelo atrito no pivô. Isso porque a pressão atmosférica, a pressão da água no pivô de entrada e o peso do conjunto não produzem momento angular, devido à simetria do problema. Assim, podemos escolher um volume de controle que envolva o sprinkler e escrever a equação de conservação do momento angular
+formula_4
+formula_5
+onde A é a área transversal da haste. Assim
+formula_6
+Ou seja, o momento angular do sprinkler não varia no tempo. Por outro lado,
+formula_7
+porque apenas nas extremidades existe fluxo através da superfície de controle. A velocidade para o cálculo do momento angular precisa ser medida em relação ao sistema de referência fixo, por isso deve-se usar v em lugar de v. Além disso, a integral de superfície é muito difícil de ser calculada, pois a velocidade v muda continuamente de direção em relação à superfície do volume de controle, e por isso o fluido escapa por uma área que é maior que A_f; no entanto, sabemos que essa integral deve ser igual à vazão total Φ, de acordo com a equação de continuidade. Assim
+formula_8
+Então
+formula_9
+formula_10
+

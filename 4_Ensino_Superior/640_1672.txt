@@ -1,0 +1,13 @@
+ Mecânica dos fluidos/Cinemática de um elemento de volume diferencial
+Como preparação para obter as equações básicas em forma diferencial, é preciso em primeiro lugar desenvolver formas de descrever o comportamento de um elemento de volume diferencial, ou microscópico, em oposição ao elemento de volume macroscópico usado quando se aplicam as equações em sua forma integral. Descrevem-se abaixo os efeitos de translação, rotação e deformação a que um tal volume está sujeito. Em oposição, o elemento de volume macroscópico é escolhido cuidadosamente de forma que esses efeitos estejam ausentes ou que pelo menos possam ser descritos muito facilmente. Um elemento de volume δV imerso em um campo de velocidades está sujeito, evidentemente, em primeiro lugar a uma translação ao longo desse campo. A aceleração linear será dada por
+formula_1
+A velocidade do volume δV (v) não coincide, em geral, com a velocidade v do fluxo. Por isso, é preciso escrever (escolhendo coordenadas cartesianas)
+formula_2
+formula_3
+onde u, u e u são os vetores unitários nas direções dos eixos coordenados (X,Y e Z) e x, y e z, a posição do elemento de volume em um tempo t. Essa equação é chamada de derivada substancial ou derivada material da velocidade, por referir-se a um corpo físico e não ao campo em si, e escrita
+formula_4
+O operador
+formula_5
+é chamado de derivada direcional de formula_6 ao longo do vetor formula_7. O termo 
+formula_8
+que, em termos matemáticos, é a derivada direcional de formula_9 ao longo do vetor formula_10, é chamado de aceleração convectiva; é a componente da aceleração do corpo devida ao movimento deste em relação ao fluxo, em oposição ao termo formula_11, que é a aceleração que o próprio fluxo está sofrendo naquele local. O elemento de volume δV, não sendo um corpo rígido, deforma-se ao mover-se no campo de velocidades. Assim, além do movimento de translação, que pode ser entendido como o movimento linear de seu centro de massa, é preciso analisar a deformação sofrida ao longo do tempo.

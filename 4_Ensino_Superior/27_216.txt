@@ -1,0 +1,28 @@
+Otimização/Métodos de região de confiança
+Considere o seguinte problema de programação diferenciável não linear sem restrições:
+onde formula_2 é de classe formula_3.
+Observação: Como formula_4 não é necessariamente convexa, a matriz formula_5 pode não ser definida positiva, apesar de ser simétrica. Neste caso, o método de Newton ou suas variantes (direções conjugadas, quase Newton, etc) não servem.
+O primeiro método de região de confiança (em inglês, "Trust region method"), foi introduzido por Powel em 1970 (qual artigo?) mas oficialmente introduzido por Dennis em 1978 (artigo?). Ele consiste no seguinte:
+este princípio pode ser considerado como uma extensão da busca de Armijo unidimensional.
+Para entender a geometria do método de região de confiança, é bom lembrar a geometria da busca de Armijo unidimensional.
+Seja formula_6 uma direção de descida de uma função formula_4 a partir do ponto formula_8. Então formula_9.
+Agora, considerando formula_10, definida por formula_11, tem-se:
+A busca de Armijo consiste em tomar formula_16.
+Se formula_17
+Mas como formula_18, então existe algum formula_16 tal que vale formula_20. A tal ponto, chama-se ponto de Armijo.
+Introduzindo as seguinte notação
+a pergunta é:
+Tem-se:
+Logo, se formula_23 segue que formula_21 é um ponto de Armijo.
+Observações: Note que a essência da busca linear de Armijo é construir um modelo linear e um intervalo compacto formula_25, sendo formula_16 e o ponto inicial da busca e logo procurar o ponto de Armijo em formula_25.
+O método de região de confiança será uma generalização da busca de Armijo, consistindo da construção de um modelo quadrático e uma região formula_28, chamada de região de confiança, e nessa região calcular o novo iterando.
+ Primeiro passo: Escolha formula_29, formula_30, formula_14, formula_32 e formula_33.
+Comentários: No algoritmo anterior, quando se tem um passo falho, a região de confiança sempre diminui. Seria bom incluir casos bons, onde a região deve crescer.
+ Primeiro passo: Escolha formula_29, formula_30, formula_48, formula_32, formula_50, formula_51 e formula_33.
+Conforme foi explicado, o método das regiões de confiança constrói um modelo quadrático da forma:
+onde, no método, formula_66 e formula_67. Em tal modelo, tem-se
+O problema quadrático é 
+com formula_30.
+Este é o problema que será tratado a seguir.
+O exercício anterior garante que o método está bem definido, quer dizer, todas as etapas podem ser realizadas.
+

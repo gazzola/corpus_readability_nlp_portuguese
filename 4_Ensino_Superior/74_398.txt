@@ -1,0 +1,23 @@
+Teoria dos conjuntos/Funções e relações
+Já vimos em um capítulo anterior (../Explorando os axiomas da extensão, separação, par e união/) como definir funções e relações.
+Recapitulando, e atualizando com os novos conceitos:
+Sejam "A" e "B" dois conjuntos quaisquer. Uma correspondência que associe a todo elemento pertencente a "A" um e apenas um elemento "y" do conjunto "B". Essa correspondência entre os elementos de "A" e os elementos de "B" recebe o nome de "aplicação de "A" em "B"". Diz-se também "função" como sinônimo para aplicação.
+Para dizer que "f" é uma função de "A" em "B", escreve-se:
+formula_3
+Ou simplesmente "f": "A" → "B".
+A letra "x", que representa um elemento qualquer de "A", chama-se "variável" e o elemento correspondente "f"("x") chama-se "valor de "f" em "x" ou imagem de "x" por "f"".
+Um cuidado que se deve ter, em um texto rigoroso, é na hora de definirmos funções.
+O leitor deve estar familiarizado com os paradoxos numéricos que são gerados ao se usar expressões como formula_4 e formula_5, sem tomar cuidado com o domínio destas funções. Como exemplo, temos seguinte prova de que "1 = -1": formula_6, logo formula_7, etc.
+Em Teoria dos conjuntos não é diferente; definindo-se funções de forma descuidada também é possível gerar paradoxos.
+A formas de se definir uma função são:
+Em que o gráfico, aqui, é o conjunto dos pontos "(x, y)" em que "y = f(x)". O cuidado que se deve tomar é:
+Exemplo: seja "G = {(1, 2), (3, 4), (5, 2)}". Uma função definida por este gráfico poderia ser formula_8, em que "f(1) = f(5) = 2" e "f(3) = 4".
+Esta definição é consequência do ../Axioma da substituição/. Se "φ(x)" for uma expressão (escrita através de símbolos já definidos) que sempre está definida para valores de um conjunto "X", então existe uma (única) função sobrejetiva formula_9 em que formula_10.
+Muitas vezes "φ(x)" está definida implicitamente, através de uma fórmula "Φ(x, y)" que se comporta analogamente ao gráfico de uma função. Nestes casos, é preciso mostrar que para todo formula_11, a fórmula "Φ(x, y)" é satisfeita por um, e apenas um, "y".
+Exemplo: sejam "X" e "a" conjuntos. Então existe uma única função sobrejetiva formula_9 em que formula_13.
+Definições por composição de funções, por inversão de funções bijetivas, etc.
+Este é o caso em que aparecem expressões da forma:
+Obviamente, temos que formula_15 e formula_16 são funções anteriormente definidas (ou expressões bem definidas), e formula_17.
+O ../Axioma da escolha/ diz que existe uma "função escolha" em todo conjunto que não tem o conjunto vazio como seu elemento. Quando necessário, podemos invocar o axioma e dizer que tal função existe.
+Este axioma é controverso porque, ao contrário dos demais axiomas, ele não dá a menor ideia de "como" esta função possa ser construída.
+

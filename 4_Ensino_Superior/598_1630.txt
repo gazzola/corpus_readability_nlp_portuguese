@@ -1,0 +1,22 @@
+ (Arantes, 2005)
+Just in time, JIT, é uma filosofia de fazer negócios. Visa a identificação e a eliminação de desperdícios ao longo do sistema produtivo. Sendo assim, o processo de melhoria contínua é facilmente aplicável com esta filosofia, tornando-se até, a parte central de toda a gestão. A implementação do JIT serve para produzir para uma procura conhecida, denomina-se a esta prática de "pull" de produção. JIT traz certos benefícios como:
+(Arantes, 2005)
+Por sua vez, o sistema JIT está também muito dependente da qualidade e serviço do fornecedor. O esforço na redução de desperdícios inclui o fornecedor em toda a cadeia de abastecimento. Este sistema dificulta a escolha do fornecedor devido a complicações inerentes, tais como:
+(Arantes, 2005)
+A seleção do fornecedor passa a ter em conta métodos de controlo de qualidade, proximidade física do fornecedor, flexibilidade e consistência no tempo de resposta. A implementação de um ambiente JIT é facilitado pela existência de um único plano mestre de produção. Este é enviado ao fornecedor de modo a saber quais as componentes necessárias. Um acordo de fornecimento JIT não permite variabilidade. A quantidade que o cliente espera será a quantidade exata que vai receber. Por esse motivo a existência de um contrato é necessário, poupando tempo em negociações e garantindo que a linha não pára! (Arantes, 2005)
+Na negociação trata-se de todos os aspectos burocráticos inerentes à aquisição. Neste processo iremos averiguar:
+(Sapo, 2004)
+Por negociação entende-se qualquer forma de comunicação através da qual os participantes procuram explorar as sua forças relativas com vista a atingir fins específicos. Na área de aprovisionamentos o “que se negocia” não é mais do que um conjunto de tópicos relacionados com a compra:
+(Sapo, 2004)
+Como se negocia
+A negociação compreende, geralmente, três fases: pré-negociação, negociação propriamente dita e pós-negociação. A pré-negociação compreende todas as ações preliminares à negociação propriamente dita, designadamente:
+(Sapo, 2004)
+Para a negociação propriamente dita, algumas técnicas podem ser utilizadas, tais como:
+(Sapo, 2004)
+A curva de aprendizagem ilustra o fenômeno da redução de horas de produção acumuladas à medida que aumenta o número de unidades produzidas (redução da hora de trabalho por unidade produzida). A utilização das curvas de aprendizagem no processo de negociação pode ser importante (prazos de entrega e custo global de encomendas), sendo de evitar nos seguintes casos:
+(Sapo, 2004)
+Parcerias podem ser eficazes, eficientes e lucrativas em certos casos. Recorrer a uma pareceria depende de vários factores como a procura do cliente, consistência no fornecimento, continuidade na entrega e a posição do fornecedor no mercado. Uma parceria é um relacionamento de negócio feito à medida, baseado na confiança mútua, na partilha do risco e na partilha do valor gerado que resulta numa vantagem competitiva. Esta cooperação pode levar a resultados significativos devido a um melhor desempenho pelas duas empresas juntas. Este desempenho será superior ao obtido pelas firmas individualmente. (Arantes, 2005)
+As parcerias com os fornecedores surgem devido a vários factores como:
+As organizações, cada vez mais, não se aventuram sozinhas, o risco de se atrasarem perante o mercado é tão grande e perigoso, que uma boa parceria pode beneficiar ambos os lados. (Arantes, 2005)
+Existem vários tipos de relacionamento entre a empresa e o fornecedor. Dependendo da posição do fornecedor ou da empresa no mercado, das funções de cada uma, marketing, etc., as parcerias têm condições específicas:
+são de longo prazo;

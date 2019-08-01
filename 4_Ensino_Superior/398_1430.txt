@@ -1,0 +1,41 @@
+ Agora iremos fazer um esboço de um gráfico, para que tenhamos noção dos conceitos apresentados nesta seção. Esboçaremos o gráfico polar da função seno:
+formula_58
+Para isso encontremos a derivada para identificar os ãngulos onde há tangentes verticais e horizontais, calculando os valores da função e identificando as tendências, para que possamos ter uma estimativa do comportamento dos valores que delineiam o gráfico:
+Calculemos as tangentes verticais e horizontais:
+formula_40
+formula_60
+formula_85
+formula_86
+Para as tangentes horizontais:
+formula_64
+Para este caso temos os ângulos:
+formula_89
+Que nos fornece os valores para a função:
+formula_66
+Para as tangentes veticais:
+formula_67
+formula_68
+formula_69
+formula_70
+formula_71
+Para este caso temos os ângulos:
+formula_96
+Que nos fornece os valores para a função:
+formula_97
+A integração de funções polares é feita da mesma forma que a de funções cartesianas, porém algumas
+considerações acerca do comportamento dos valores e sua interpretação são necessárias para uma 
+melhor compreesão dos efeitos do processo de integração formal. Considerando que temos basicamente uma categoria de funções: formula_98, sendo que o 
+cálculo da integral da mesma parece simples, a princípio, visto que basta fazer a substituição das
+variáveis e depois adaptar os valores, porém devemos ter em mente que a integral de uma função com
+representação polar não nos dá o valor da área da curva polar sob o eixo formula_20, na 
+verdade temos:
+De fato, se tivermos que considerar o valor da integral da função polar e de sua correspondente 
+paramétrica teremos valores discordantes o que nos chama a atenção para que não usemos a integral
+simples sobre formula_102 para avaliações sobre a curva, visto que os valores não são
+coerentes para os casos onde temos valores que alternam entre positivos e negativos. Com a análise algébrica
+de sinais é possível notar que os valores das funções polares, onde temos sinais negativos, anulam 
+parte das áreas onde o sinal da função é positivo, descaracterizando a avaliação da integral destas
+funções nestes casos. Para o cálculo de áreas, comprimento de curvas e avaliações numéricas devemos adotar uma forma de 
+cálculo próprio para funções polares, que viabilize uma avaliação correta dos valores, sem que as 
+características circulares interfiram no resultado final, na verdade, devemos levar em conta estas
+caracteísticas para efetuar o cálculo de forma correta.

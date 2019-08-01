@@ -1,0 +1,38 @@
+Análise real/Propriedades-Funções
+Uma função formula_1 é dita sobrejetiva se formula_2, ou seja, se formula_3.
+Uma função formula_1 é dita injetiva se ocorre uma destas:
+Uma função formula_1 é dita bijetiva ou bijeção se ela é injetiva e sobrejetiva.
+ Dado A um conjunto e P(A), o conjunto das partes de A, não existe uma função formula_23 que seja sobrejetiva.
+
+
+Análise real/Espaços métricos
+Um espaço métrico (X,d) é um conjunto X dotado de uma função formula_1 chamada métrica ou distância que associa a cada par de elementos de X uma distância entre eles. Esta distância deve satisfazer os seguintes axiomas:
+Diz-se que uma sequência de pontos formula_14 converge para um ponto formula_15 se e somente se:
+Diz-se que uma sequência de pontos formula_14 é de Cauchy se para todo formula_18, existe um "N" tal que
+Proposição: toda sequência convergente é de Cauchy.
+Um espaço métrico é dito completo se todo sequência de Cauchy é convergente.
+Teorema: Um subconjunto fechado de um espaço métrico completo é um espaço métrico completo.
+Espaço métrico (topologia)
+
+
+Análise real/Propriedades
+Sejam formula_1.
+Considere formula_36.
+Determine a relação entre as condições P, Q e R, onde
+
+
+Análise real/Série
+Série de uma sequência é a soma de todos os elementos de uma sequência infinita. Como uma sequência formula_1, têm infinitos termos, assim podemos dizer mais formalmente que:
+Dada uma sequência formula_1, como somaremos todos os seus termos?
+vamos tomar formula_3 como uma sequência de soma dos termos de formula_4. Assim:
+Proposição: é condição necessária para convergência de uma série que seu termo geral tenda para 0.
+Se formula_8 é uma série convergente então formula_10
+tomando limites, temos:
+A recíproca é, no entanto, falsa. Um contraexemplo simples é dado pela formula_13 que não é convergente, apesar de seu termo geral convergir para zero .
+Seja formula_14 convergentes. Pelas propriedades de soma e produto
+Da teoria das progressões geométricas, temos que:
+É facil ver que se formula_22 então esta série é convergente e sua soma é dada por:
+Por outro lado, se formula_24, esta série não pode ser convergente pelo teste do termo geral, demonstrado logo acima.
+De maneira geral, para qualquer série geométrica, cujo valor da razão r seja menor que 1, sua soma é dada por:
+Onde "a" é o termo inicial da série. 
+

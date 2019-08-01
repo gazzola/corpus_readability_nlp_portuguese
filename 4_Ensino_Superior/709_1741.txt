@@ -1,0 +1,31 @@
+ Logística/Técnicas de previsão/Estatísticas univariadas, bivariadas e autocorrelação
+Considera-se uma "estatística" o resumo numérico de um determinado conjunto de dados. (Makridakis, 1998, p. 28-29). As estatísticas descritivas mais usadas tanto para conjuntos de dados univariados únicos, como séries temporais únicas são a média, o desvio padrão e a variância. No caso de existirem dados bivariados (par de variáveis aleatórias), as estatísticas mais usadas para descrever a relação entre os dois conjuntos de dados são a covariância e a correlação. Finalmente, as estatísticas mais comuns para efectuar a comparação entre as observações de uma única série temporal em dois períodos de tempo distintos são a autocovariância e a autocorrelação. "Estatísticas univariadas"
+A medição do valor em relação ao qual 50 por cento dos desvios estão acima e 50 por cento dos desvios estão abaixo é dada pela "média" (ou média aritmética), ou seja, a soma dos desvios em torno desta é zero. Por exemplo (DeLurgio, 1998, p. 41):
+onde formula_1, na Tabela 1, é o valor de vendas de um determinado produto nos últimos nove meses. A média das vendas é dada por:
+formula_2
+onde formula_3 é o somatório de formula_4 = 1 até formula_4 = 9. "Desvios"
+Um "desvio médio" (formula_6) é definido pela subtracção da média a um valor observado (formula_1) e é dado por:
+formula_8
+formula_9 
+Como a soma dos desvios é sempre igual a zero, é útil desenvolver uma estatística descritiva para estes desvios, que, ou são elevados ao quadrado, ou, ocasionalmente, toma-se o seu valor absoluto. O "desvio médio absoluto" é denominado de DMA e é dado por:
+formula_10 
+Neste caso:
+formula_11
+formula_12 
+Por seu lado, o "desvio médio quadrado", é designado por DMQ e é dado por:
+formula_13 
+Neste caso:
+formula_14
+formula_15 
+Intimamente relacionado com o desvio médio quadrado (DMQ), está a "variância". Esta é definida da seguinte maneira:
+formula_16 
+Neste caso:
+formula_17
+formula_18 
+onde formula_19 representa os «graus de liberdade», que podem ser definidos como o número de observações a subtrair pelo número de parâmetros estimados (Makridakis, 1998, p. 31-32). A variância é menos intuitiva que o DMQ mas possui propriedades matemáticas desejáveis, porque, ao contrário do DMQ não é uma estimativa tendenciosa. Tanto a variância como o desvio médio absoluto fornecem medidas de dispersão. Medem aproximadamente o desvio médio das observações em relação à sua média. Se as observações estiverem muito dispersas, estarão longe da média (acima e abaixo). Neste caso tanto o desvio médio absoluto como a variância terão um valor elevado. Quando as observações estão próximas entre si, o desvio médio absoluto e a variância terão valores pequenos. Ambos têm a mesma unidade que as observações. O "desvio padrão" é a raiz quadrada do desvio médio quadrado (DMQ) e é dado por (DeLurgio, 1998, p. 43):
+formula_20 
+Neste caso:
+formula_21
+formula_22 
+Muitos conjuntos de dados verificam as seguintes regras empíricas (Makridakis, 1998, p. 32):
+Quando se ordena o número de observações por ordem crescente, como acontece na Tabela 2, e este for ímpar, a "mediana" é o valor em relação ao qual 50 por cento dos valores são maiores e 50 por cento são menores, ou seja, a mediana é a observação a meio. Nos casos em que o número de observações for par, a mediana é igual à média entre os valores das duas observações centrais. Para as nove observações da Tabela 2, quatro estão acima de 10 e quatro estão abaixo de 10. A mediana é, portanto, 10. A média e a mediana providenciam uma medida numérica do centro do conjunto de dados, bem como a medição da sua dispersão, de modo a saber se estes estão fortemente agrupados ou espalhados por uma vasta gama de valores (Makridakis, 1998, p. 29-30). O número, ou conjunto de números, que ocorre mais vezes dá pelo nome de "moda". Nos dados da Tabela 2, o número que aparece com maior frequência é 8, logo é a moda(DeLurgio, 1998, p. 41).

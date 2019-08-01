@@ -1,0 +1,22 @@
+Teoria dos conjuntos/Números ordinais
+Nos capítulos anteriores foram apresentados os "ordinais segundo von Neumann", e foram exibidas e demonstradas várias propriedades. Este capítulo sintetiza os resultados anteriores e apresenta novos resultados. 
+Conforme visto no capítulo ../Explorando os axiomas da extensão, separação, par e união/, um ordinal segundo von Neumann é um conjunto α satisfazendo:
+Vimos até agora dois tipos de ordinal:
+Um terceiro tipo de ordinal, ordinal limite, é definido como um ordinal que não é nem o conjunto vazio nem o sucessor de outro ordinal. Ainda não vimos se existe, mas, se existir, este ordinal tem uma propriedade notável:
+Prova: já vimos anteriormente que formula_5 é um ordinal (ver ../Explorando os axiomas da extensão, separação, par e união/). É imediato verificar que formula_6. Suponha, portanto, que formula_7, então mostraremos que "α" é um ordinal sucessor, o que completa a prova.
+Mas se formula_7, então temos que existe um elemento formula_9 tal que formula_10. Mas vimos anteriormente (ver ../Axioma da potência/) que formula_11, Neste caso, formula_12 não pode ser elemento de "α", portanto "α = s(β)".
+A recíproca é obviamente verdadeira: se temos um ordinal "α" em que formula_4, então obviamente "α" não é um ordinal sucessor (é imediato verificar que formula_14, pois "α" é um elemento de "s(α)" mas não é um elemento de algum elemento de "s(α)"), então este ordinal é o conjunto vazio ou um ordinal limite.
+O que foi visto até agora permite escrever as seguintes propriedades:
+Por definição, se "S" for um conjunto não-vazio de ordinais contido em algum outro ordinal, 
+então "S" possui elemento mínimo (considerando a relação de ordem total definida por formula_17).
+Este fato pode ser generalizado: se "S" for um conjunto não-vazio de ordinais, então "S" tem um elemento mínimo.
+Na verdade, podemos generalizar ainda mais: se "Φ(x) for uma propriedade escrita na linguagem formal da teoria dos conjuntos através de uma fórmula bem formada, e existir algum ordinal "α" que satisfaça "Φ(α)", então existe um ordinal "μ" que é mínimo para "Φ(x)", ou seja, que, qualquer que seja "x" satisfazendo "Φ(x)" temos que "x = μ" ou formula_18.
+Informalmente, costuma-se dizer que uma propriedade "Φ(x)" que pode valer ou não valer conforme o conjunto "x" define uma "classe"; existem outras apresentações da teoria dos conjuntos em que o conceito de classe faz parte da teoria. Este teorema, então, diz que uma classe não-vazia de ordinais tem um elemento mínimo.
+Note-se que este não é apenas um teorema: é um esquema de teoremas, e para cada fórmula "Φ(x)" temos uma nova versão do teorema.
+Prova: suponha que a fórmula "Φ(x)" seja satisfeita para os ordinais "α" e "β".
+Então vamos formar os conjuntos (bem definidos, pelo ../Axioma da extensão/):
+Estes conjuntos são subconjuntos não-vazios de ordinais (por exemplo, formula_21), logo podemos tomar seus mínimos
+Afirmação: "a = b".
+Prova: sem perda de generalidade, se "a ≠ b", suponhamos que formula_24. Neste caso, como formula_25, pela transitividade, formula_26, ou seja, formula_27, contradizendo o fato de "b" ser mínimo.
+Ou seja, se a fórmula "Φ(x)" é satisfeita por qualquer ordinal, então o mínimo de "Φ(x)" existe e não depende do ordinal escolhido, ou seja, ele existe e é único.
+

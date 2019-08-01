@@ -1,0 +1,58 @@
+ As funções seno e cosseno estão relacionadas pela equação:
+Comprovação:
+Observando o ciclo trigonométrico, temos um triângulo cujos catetos são: formula_99 e formula_100 e sua hipotenusa é 1, portanto a identidade é conseqüente do conhecido teorema de Pitágoras. Sejam os ângulos "a" e "b", o cosseno de sua soma é:
+Comprovação:
+Nos pontos "A" e "B" do ciclo trigonométrico, temos os arcos para os ângulos "a" e "b":
+Figura 6
+A distância entre os pontos P e (A+B) é igual à distância entre -A e B, o quadrado das duas é:
+formula_102
+Da identidade básica:
+formula_103
+formula_104
+formula_105
+formula_106
+formula_107
+formula_108
+Como formula_109 e formula_110 :
+formula_101
+O que comprova a identidade. Sejam os ângulos "a" e "b", o cosseno de sua diferença é:
+Comprovação:
+Do cosseno da soma:
+formula_101
+Substituindo "b" por "-b":
+formula_114
+formula_115
+O que comprova a identidade. Se o ângulo a é formula_116 e b é x, então:
+formula_117
+formula_118
+logo:
+Por outro lado, se:
+formula_120 e
+formula_121, obtemos:
+Sejam os ângulos "a" e "b", o seno de sua soma é:
+Comprovação:
+Sendo formula_101 e formula_125, temos:
+formula_126
+formula_127
+formula_128
+formula_123
+O que comprova a identidade. Sejam os ângulos "a" e "b", o seno de sua diferença é:
+Comprovação:
+Se formula_123,
+Substituindo "b" por "-b", temos:
+formula_132
+e formula_133 enquanto que formula_134, logo:
+formula_130
+O que comprova a identidade. Sejam os ângulos "a" e "b", o produto de seus senos é:
+Comprovação:
+Considerando a identidade do cosseno da diferença de dois ângulos e subtraindo de cada um de seus membros os membros correspondentes da identidade do cosseno da soma de dois ângulos:
+formula_137
+O que comprova a identidade. Sejam os ângulos "a" e "b", o produto de seus cossenos é:
+Comprovação:
+Considerando a identidade do cosseno da soma de dois ângulos e somando a cada um de seus membros os membros correspondentes da identidade do cosseno da diferença de dois ângulos:
+formula_139
+O que comprova a identidade. Sejam os ângulos "a" e "b", o produto do seno de "a" pelo cosseno de "b" é:
+Comprovação:
+Considerando a identidade do seno da soma de dois ângulos e somando a cada um de seus membros os membros correspondentes da identidade do seno da diferença de dois ângulos:
+formula_141
+O que comprova a identidade.

@@ -1,0 +1,25 @@
+ Curso de termodinâmica/Aplicação aos gases perfeitos
+Ao invés dos líquidos e dos sólidos, o volume dos gases varia muito sob o efeito de uma mudança de pressão. Por esta razão utilizamos gases para ilustrar as leis da termodinâmica. Também, máquinas desenvolvidas durante a revolução industrial usavam movimentos de gases e transformações trabalho-calor em sistemas gasosos (numa locomotiva a vapor por exemplo) que o estudo da termodinâmica permitiu de entender e controlar. Deixando um gás se descomprimindo num recipiente vazio, não observamos, na maioria dos casos, mudança de temperatura. O trabalho executado é nulo, visto que a descompressão se faz contra uma pressão externa nula (o segundo recipiente é vazio). Como não observamos nenhuma mudança de temperatura do banho , a expansão se faz sem modificação da energia térmica do sistema. Em conseqüência, a energia do gás não muda durante uma descompressão. Numerosas medições mostraram que é verdade nas condições onde o gás obedece também à lei dos gases perfeitos. Como E não muda quando P ou V mudam, esta experiência mostra que: 
+a energia de um gás perfeito depende só da temperatura. formula_1       durante qualquer processo isotermo
+Matematicamente, o resultado de Joule se escreve:
+formula_2
+A diferencial total exata 
+formula_3
+fica:
+formula_4
+No tocante da energia, podemos escrever: 
+formula_5
+formula_6
+Porém, o produto PV e energia E são ambos constantes para um gás perfeito mantido a temperatura constante. Então:
+formula_7      (gás perfeito)
+e, da mesma maneira:
+formula_8    (gás perfeito)
+Em resumo , para um gás perfeito:
+  formula_9   qualquer seja o processo (mesmo se V e P não são constantes). A relação entre formula_10 e formula_11:
+formula_12
+formula_13
+<BR>
+formula_14
+onde formula_15 e formula_11 representam a capacidade calorífica do sistema. Se anotamos formula_17 e formula_18 a capacidade por mol dos gases,
+formula_19    (gás perfeito)
+PV e formula_20 são constantes. A primeira lei se escreve: q + w = 0. A pressão externa aplicada é igual à pressão de equilíbrio do gás.

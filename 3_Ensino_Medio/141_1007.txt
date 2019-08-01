@@ -1,0 +1,37 @@
+Introdução à física/Cinemática/Velocidade
+O movimento com velocidade constante
+A parte da física que estuda o movimento é chamada cinemática.
+O movimento é relativo
+Você, em sua casa, sentado confortavelmente e no seu computador, está parado ou em movimento? E quando está sentado dentro de um ônibus que acaba de ultrapassar um carro?
+A resposta é simples: depende.
+No primeiro caso, você está parado em relação à Terra (em física se costuma dizer que o corpo está em repouso em vez de parado. Mas, como a Terra gira em torno do Sol, em relação a ele você está se movendo a uma velocidade de cerca de 30Km/s: essa é a velocidade de translação da Terra em torno do Sol.
+No segundo caso, em relação a uma pessoa parada na rua, você está em movimento, com a velocidade do ônibus. Mas, em relação ao motorista, aos outros passageiros do ônibus e ao próprio ônibus, você está em repouso.
+É por isso que o movimento é relativo. Para saber se um corpo está em movimento ou em repouso precisamos de um referencial.
+Trabalhando com a velocidade
+Velocidade, distância e tempo são grandezas físicas diferentes. Mas há uma relação entre elas, como você vai ver. Vamos supor que um guepardo tenha corrido 300 metros, em linha reta, direto até sua presa. E que ele tenha percorrido esses 300 metros em 10 segundos. Com esses números, podemos calcular o que se chama de velocidade média do guepardo. Mas porque estamos falando de Velocidade Média?
+Porque ele não deve ter mantido a mesma velocidade o tempo todo.
+A velocidade média é calculada dividindo o deslocamento do guepardo pelo tempo gasto nele. Como o guepardo percorreu 300 metros em 10 segundos, o cálculo é fácil:
+Vm = ΔS/ΔT → 300m/10s = 30m/s
+Você acaba de conhecer a unidade de medida de velocidade: o metro por segundo (m/s). Outra unidade muito usada para medir velocidade é o quilômetro por hora (Km/h).
+Para transformar metros por segundo para quilômetro por hora basta multiplicar 3,6.
+Para transformar quilômetros por hora para metros por segundo basta dividir por 3,6.
+Fórmulas usadas em física
+Vm = ΔS/ΔT
+Usada para calcular velocidade média de um móvel. Divide-se o deslocamento pelo tempo gasto.
+ΔS = Vm X Δt
+Usada para medir o deslocamento do móvel. Multiplica-se a velocidade média pelo tempo gasto.
+ΔT = ΔS/Vm
+Usada para medir o intervalo de tempo gasto no deslocamento. Dividi-se o deslocamento pela Velocidade Média.
+Transformação de unidades
+Para transformar unidade menor em uma maior por exemplo: centímetros em metros.
+Exemplos: 50 centimetros em metros = 50/100 = 0,5 metros
+Para transformar a unidade maior pela menor se multiplica exemplo: horas em segundos
+Exemplos: 2 horas em segundos = 2 X 3600 = 7200 segundos
+Porque em 1 hora existe 3600 segundos.
+Porque em 1 quilômetro existe 1000 metros.
+Lista de grandezas
+1 Km = 1.000 m = 100.000 cm = 1.000.000 mm
+1 M = 100 cm = 1000 mm
+1 h = 60 min = 3600 s
+1 min = 60 s
+

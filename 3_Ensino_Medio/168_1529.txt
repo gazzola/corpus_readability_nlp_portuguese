@@ -1,0 +1,17 @@
+ Matemática elementar/Polinômios
+Polinômios em uma variável são séries de monômios (ou termos) em uma variável, que por sua vez são expressões matemáticas na forma formula_1 (que, no caso de "n = 0", torna-se a constante "a"). Cada monômio é caracterizado por:
+Assim, um polinômio é um conjunto de monômios, devidamente normalizados. A expressão mais correta é "função polinomial", mas o uso de "polinômio" é consagrado. A função polinomial ou polinômio assume a forma:
+A função constante, formula_5 é um exemplo de função polinomial, bem como a função linear formula_6
+Define-se o grau de um polinômio como igual ao expoente mais alto entre as variáveis de seus monômios não-nulos. Por exemplo, no polinômio formula_7 o grau é 3, correspondente ao expoente mais alto entre as variáveis nos monômios (formula_8). É o valor que se resulta a expressão quando determina-se um valor para as variáveis. Exemplo
+Raiz ou zero é um valor tal que, atribuído à variável da função polinomial, faz com que a função resulte em 0. Ou seja, se "a" é dito raiz do polinômio "P(x)", então formula_9 
+Exemplos de raízes:
+Um polinômio de grau "n" terá "n" raízes, sempre. Algumas vezes uma mesma raiz se repete, sendo por isso chamada raiz dupla, tripla, quádrupla, etc. Por exemplo:
+Num gráfico representativo da função polinomial, as raízes sempre ocorrem nos pontos em que a curva cruza o eixo das abcissas. Dois polinômios são ditos idênticos se tiverem o mesmo grau e os monômios correspondentes idênticos, por exemplo:
+Como o desenvolvimento de "B(x)" resultou num polinômio de termos correspondentes idênticos a "A(x)", então os polinômios são idênticos ou equivalentes; indica-se: formula_18 
+Um polinômio é dito nulo quando todos os seus coeficientes são iguais a 0. Diz-se que os polinômios formula_19 e formula_20 são iguais quando formula_21 para todo formula_22
+Consideremos que tenhamos os fatores:
+formula_23 e 
+formula_24
+Todos constantes e com valores diferentes de zero. Ainda temos:
+formula_25
+que são variáveis.

@@ -1,0 +1,30 @@
+Mecânica dos fluidos/Exercícios resolvidos/F5
+Para estimar a força de arrasto a que um transdutor de sonar estará sujeito, foi construído um modelo de forma esférica de 10 cm de diâmetro para ensaios em um túnel de vento. Considerando que o transdutor tem 50 cm de diâmetro e será mergulhado em água do mar a 5 °C, fluindo à velocidade média de 8 km/h, determine a velocidade necessária do vento. Calcule a força de arrasto sobre o transdutor, considerando que a força exercida pelo vento sobre o modelo foi de 30 N.
+<noinclude>
+Dados adicionais:
+Velocidade do som no ar = 330 m/s
+Para usar um gás como meio físico, é preciso que duas condições sejam cumpridas:
+Como a velocidade de arrasto é relativamente baixa e a pressão esperada é relativamente elevada, porque o transdutor trabalhará a grandes profundidades, o número de cavitação no original
+formula_1
+será alto e a probabilidade de ocorrência de cavitação, por conseguinte, será pequena.
+Para que os efeitos de compressibilidade sejam desprezíveis, é preciso que o número de Mach no modelo
+formula_2
+(onde v é a velocidade do som no ar) não seja maior que 0.3.
+Similitude dinâmica, neste caso, é exigida, porque o problema envolve predição de magnitudes de forças. Assim, os grupos adimensionais importantes devem possuir o mesmo valor no original e no modelo. Como visto, os grupos Π obtidos a partir do teorema de Buckingham são os seguintes:
+formula_3
+Além disso, é preciso que o escoamento em ambos os casos tenha as mesmas características, por isso o número de Reynolds deve ter o mesmo valor em ambos os casos. Mas pode-se ver que o número de Reynolds é justamente o inverso do segundo grupo Π. Assim, as equações que devem ser atendidas são as seguintes:
+(1)formula_4
+(2)formula_5
+(3)formula_6
+(4)formula_7
+A condição (3) siginifa que as superfícies do modelo e do original devem apresentar a mesma rugosidade relativa, ou seja, a altura das rugas deve ser proporcional ao diâmetro. Essa condição implica que o modelo não pode ser construído com o mesmo material que o original, e sim com outro 5 vezes mais liso. Sendo o transdutor de aço, é preciso que o modelo seja de aço polido, por exemplo.
+De (2), temos que
+formula_8
+formula_9
+A condição (4)
+formula_10
+é, portanto, satisfeita. No limite, devido ao fato de a razão densidade/viscosidade ser cerca de 10 vezes maior para a água do que para o ar. Se a velocidade do fluido no original fosse maior, seria necessário usar um fator de escalamento menor, ou seja, construir um modelo um pouco maior.
+Tomando agora a equação (1), calculamos a força de arrasto sobre o transdutor
+formula_11
+formula_12
+

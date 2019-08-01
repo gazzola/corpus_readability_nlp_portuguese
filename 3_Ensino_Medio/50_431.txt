@@ -1,0 +1,22 @@
+Português/Concordância/Concordância nominal
+A concordância nominal é a forma em que os artigos, adjetivos e todas as outras palavras concordam com o substantivo. Os termos concordam com o substantivo em gênero e número, diferente da concordância verbal que é em pessoa e número. Os termos que integram e modificam o substantivo podem ser chamados, na maioria das vezes, de adjuntos adnominais e por modificarem em gênero e número, possuem papel adjetivo.
+Como já foi visto antes, os artigos concordam com o substantivo em número e gênero. Veja alguns exemplos:
+Como você viu, em geral, os substantivos possuem o mesmo final que os artigos, exceção do artigo "um", já que "um" significa qualquer. Isso ocorrerá na maioria dos casos, apenas não ocorrera quando o substantivo for de dois gêneros ou dois números:
+Nesses casos o artigo determina o gênero ou número.
+Veja que o adjetivo concorda com o substantivo do mesmo modo em que o artigo concorda, em gênero e número. Mas como no primeiro caso, também existem exceções, é quando o adjetivo é de dois gêneros ou número:
+Nesses casos o artigo e o substantivo determina o gênero ou número.
+Diversos pronomes podem concordar com o substantivo, os chamamos de variáveis, os que não concordam, invariáveis:
+Como você sabe, as contrações são nada mais do que a junção de palavras. Quando nestas junções existir um artigo, novamente haverá concordância:
+No caso de existirem vocábulos de gêneros diferentes, quando certo adjetivo concorda com ambos, tal adjetivo deverá estar no gênero masculino e no plural:
+Quando o adjetivo que concorda com ambos vocábulos está ante de tais vocábulos, o mesmo ocorre, porém, é obrigatório que o vocábulo masculino esteja antes do feminino:
+Se o adjetivo referir-se a apenas um vocábulo, tal vocábulo deverá estar o mais próximo possível do adjetivo e concordar com tal em número:
+Com um vocábulo no plural e gêneros diferentes, o adjetivo vai ao plural e ao masculino. Para se evitar ambiguidade, deixa-se depois do vocábulo feminino:
+Se o vocábulo masculino estiver no singular e o feminino no plural, o adjetivo estará no masculino e no plural. Nestes casos, é impossível haver ambiguidade:
+Com todos vocábulos no plural e gêneros diferentes, o adjetivo deve estar o mais próximo possível do vocábulo masculino. O adjetivo flexionar-se-á no plural masculino. Nestes casos, é impossível não haver ambiguidade:
+Com dois vocábulos no feminino e no plural, o adjetivo estará no feminino e no plural. É impossível não haver ambiguidade nestes casos:
+Se existir um vocábulo feminino no plural e outro no singular, o adjetivo deverá ser flexionado no plural feminino. Para evitar ambiguidade, o adjetivo deve ser posto depois do vocábulo no singular:
+Se o adjetivo concordar com apenas um vocábulo, o adjetivo deverá ser posto o mais próximo possível de tal vocábulo. Existem diversos casos de ambiguidade, e para evitá-la, o adjetivo deve ser posto entre os vocábulos, separando-os com conjunção aditiva:
+Há casos que não ocorre a concordância, chamamos esses casos de silepse:
+Observe que "na" e "bela" não concordam com "São Paulo" em gênero, mas concordam com "cidade de São Paulo".
+Para que substantivos, artigos, pronomes e adjetivos concordem em si em número, é necessário flexioná-los. O Resultado desta flexão é o Plural.
+

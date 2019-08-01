@@ -1,0 +1,23 @@
+Teoria dos conjuntos/Axioma da escolha
+Axioma da escolha
+Este é, sem dúvida, o mais controverso dos axiomas. Os demais axiomas, ao dizerem que determinado conjunto existe (ou não existe), sempre exibem como este conjunto é formado, e, usando-se o axioma da extensão, quase sempre chega-se a um conjunto único.
+O axioma da escolha é diferente. Ele diz que determinado conjunto existe, mas não dá nenhuma pista sobre como este conjunto pode ser construído. Vários matemáticos importantes rejeitaram este axioma, e, para consubstanciar a rejeição, apresentaram resultados aparentemente paradoxais para justificar a rejeição.
+Um dos argumentos mais interessantes é o , que, usando uma construção baseada no axioma da escolha, divide uma esfera em um número finito de partes, aplica translações e rotações a estas partes, e remonta duas esferas idênticas à primeira.
+O axioma é apresentado sob várias formas equivalentes. Estas formas serão apresentadas abaixo:
+Uma "função escolha" em um conjunto "A" é uma função:
+em que formula_2. Por exemplo, no conjunto "A = {1, 2, 3}", uma função escolha poderia ser dada pelo gráfico "{(1,0), (2,1), (3,2)}". Obviamente, outras funções-escolha são possíveis neste conjunto, como, por exemplo, a função constante "f(x) = 0".
+Note-se que se formula_3, então "A" não pode ter função escolha, porque não há como satisfazer formula_4.
+O axioma da escolha diz que este é o único caso em que não existe função-escolha. Ou seja:
+Já vimos o que é uma relação bem-ordenada em um conjunto "A": ela é definida por "((A, A), <)", em que "<" é um conjunto de pares ordenados de elementos de "A" com:
+O axioma da bem-ordenação diz que para todo conjunto "A" existe uma relação bem-ordenada em "A".
+Em resumo, uma relação de equivalência em um conjunto "A" é uma relação formula_10 satisfazendo:
+Uma relação de equivalência permite particionar o conjunto "A" em classes de equivalência, que é construir o conjunto formula_14 definido como um subconjunto do conjunto das partes de "A" por:
+É fácil mostrar que para todo elemento "x" de "A", existe uma (e apenas uma) classe de equivalência formula_16 com formula_17.
+Temos também que se duas classes de equivalência são diferentes, então elas são disjuntas.
+A versão do axioma da escolha diz que se um conjunto tem a propriedade acima, então podemos escolher um representante de cada classe, de forma que a interseção de qualquer classe com o conjunto de representantes seja um conjunto unitário.
+Na linguagem formal:
+Uma relação de ordem parcial em um conjunto é uma relação "((A, A), <)" satisfazendo:
+Uma relação de ordem total em um conjunto é uma relação de ordem parcial com a propriedade de totalidade:
+Fixando uma determinada relação de ordem parcial em "A", temos:
+O Lema de Zorn diz que, se toda cadeia tem uma quota superior, então existe um elemento maximal.
+

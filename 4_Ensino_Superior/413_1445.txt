@@ -1,0 +1,51 @@
+ Para os casos onde a hipérbole tem focos na vertical a equação é definida como:
+O que define os coeficientes formula_128 e formula_129 comuns às duas formas de hipérboles, definindo a posição das variáveis como determinante da direção onde a cônica irá ser apresentada no gráfico. No gráfico podemos verificar duas retas diagonais que se interceptam na orígem, estas retas são as assíntotas das hipérboles, a sua inclinação é característicamente expressa por:
+formula_130
+Podemos demonstrar isto implicitamente a partir da equação da hipérbole; vejamos:
+formula_131 (eq.1)
+logo:
+formula_132
+formula_133
+formula_134
+Eliminemos a variável dependente a partir da equação original:
+formula_135 Retirada da equação da hipérbole (eq.1). Substituimos na derivada logo acima, obtendo:
+formula_136
+Uma vez que estas assintotas, são tangentes da curva da hipérbole quando seu valor tende a infinito, devemos encontrar o limite deste valor no infinito:
+formula_137
+formula_138
+Ou seja:
+O que nos permite verificar que a equação das assintotas, tomando a orígem como ponto inicial, define-se como:
+Encontrar os parâmetros da hipérbole formula_141. O processo é basicamente o mesmo no caso da elipse, façamos a adaptação da equação para que torne-se semelhante a da definição:
+formula_142
+formula_143
+formula_144
+formula_145
+formula_146
+formula_147
+Agora podemos avaliar a equação e verificar que:
+formula_150
+formula_151
+O coeficiente angular é formula_153
+Que nos fornece as assíntotas:
+Encontrar uma equação para representar a hipérbole cujos focos são formula_156, que contém o ponto formula_157
+Mais uma vez, devemos encontrar o centro da cônica, que fica no ponto médio do eixo onde os valores variam... Como podemos observar, devemos fazer a média do eixo formula_158, o que nos dá o ponto:
+Como centro da cônica. Depois podemos encontrar a distância focal, subtraindo os valores de formula_158 nos pontos dos focos pelos do centro:
+Da definição, temos que:
+formula_162
+Logo:
+formula_163
+formula_164
+formula_165
+Como formula_166, temos o sistema:
+formula_167
+Utilizemos a substituição: 
+formula_168
+Na segunda equação:
+formula_169
+formula_170
+formula_171
+Para a qual temos as raízes: formula_172 e formula_173
+Para a raiz mais simples, temos:
+formula_174
+formula_175
+Portanto, a equação é:

@@ -1,0 +1,12 @@
+ Matemática elementar/Geometria plana/Polígonos
+Polígonos são figuras geométricas planas das formadas por segmentos de reta interligados entre si fechados (linha poligonal fechada). Um polígono possui os seguintes elementos:
+Os polígonos são classificados:
+Em termos das medidas de seus ângulos, um polígono pode ser:
+Não há restrições quanto ao número de lados n de um polígono desde que n ≥ 3. Embora apenas alguns possuam nomenclatura própria, segue uma tabela com alguns destes nomes:
+A título de curiosidade, são mostrados a seguir os nomes de alguns polígonos cujos números de lados são potências de 10:
+Veja as páginas "triângulos", pontos, linhas e círculos associados a um triângulo" e "triângulo retângulo". Quadriláteros são as figuras geométricas planas formadas por quatro lados. Eles são classificados em seis tipos, dependendo da proporção entre seus lados e ângulos:
+São quadriláteros em que todos os ângulos são iguais (a 90°) e todos os lados têm a mesma medida. Portanto, todos os quadrados apresentam semelhança de ângulos e lados. Pelo fato de o quadrado possuir quatro lados "l" idênticos, o perímetro "P" pode ser facilmente deduzido por
+Também, para todos os quadrados, pode-se deduzir através do teorema de Pitágoras a sua diagonal "d", ora, pois, o quadrado é formado pela união de dois triângulos retângulos idênticos:
+Conclui-se que a diagonal de qualquer quadrado é igual ao produto de seu lado por . Um retângulo é um paralelogramo, cujos lados formam ângulos retos entre si e que, por isso, possui dois lados paralelos verticalmente e os outros dois paralelos horizontalmente. Todos os ângulos internos no retângulo são iguais a 90°, mas seus lados podem ser diferentes. Pode-se considerar o quadrado como um caso particular de um retângulo em que todos os lados têm o mesmo comprimento. O perímetro do retângulo, pode, então, ser deduzido por
+Em que "a" e "b" são os lados do retângulo. Igual ao quadrado, a diagonal "d" do retângulo é dada pelo teorema de Pitágoras:
+São quadriláteros em que todos os lados possuem a mesma medida, assim como o quadrado.

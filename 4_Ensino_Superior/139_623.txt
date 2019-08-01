@@ -1,0 +1,11 @@
+Logística/Sistemas de distribuição/Escala de veículos/Janela de Tempo PEV
+Problema de escala de veículos com janela de tempo (JTPEV), é na sua génese um problema onde cada consumidor deve ser abastecido num determinado tempo e o veículo que presta o serviço deve permanecer na localização do cliente durante o serviço.
+Existem dois tipos de janelas, janelas flexíveis que podem ser ultrapassadas pagando um custo. Janelas rígidas que não permitem que que o veículo chegue ao cliente após o último tempo para iniciar o serviço, se chegar antes do cliente estar pronto, tem de aguardar (Toth e Vigo, 2002g, p.157).
+Segundo Dorronsoro (2007f), JTPEV é o mesmo problema que PEV com a mesma notação, assim como, formulação. Apenas com algumas restrições adicionais. Onde uma janela de tempo é associada a cada cliente (como acima referido), formula_1∈formula_2 definindo um intervalo [formula_3] onde o cliente tem de ser atendido. O intervalo [formula_4] no depósito é chamado de horizonte temporal de abastecimento.
+Irá ser formulado JTPEV com as características acima referidas de uma janela de tempo rígida.
+O objectivo é minimizar a frota de veículos e a soma do tempo de viagem, bem como do tempo de espera necessário para abastecer todos os clientes no sei intervalo de tempo.
+Seja formula_5 o inicio do serviço a um cliente formula_1. Para que a rota formula_7 seja viável é essencial que formula_8 e formula_9. Desde que o veículo viaje para o cliente seguinte, logo que tenha terminado o serviço ao cliente actual formula_10 pode ser repetidamente calculado como formula_11 , com formula_12 e formula_13.
+Por conseguinte, o tempo de espera formula_14, pode ser incluído no cliente formula_15. O custo da rota formula_16 é dado por formula_17. Para uma solução formula_18 com rotas formula_19, o custo de formula_20 é dado por formula_21, onde formula_22 é uma grande constante.
+A constante formula_22 é adicionada, pois umas das premissas de JTPEV é diminuir o tamanho da frota. formula_18 é viável caso todas as suas rotas sejam possíveis e todos os clientes forem abastecidos por uma única rota.
+Assumindo que todos os veículos saem do depósito, no tempo mais cedo possivel formula_25. Eliminando tempos de espera desnecessários.
+

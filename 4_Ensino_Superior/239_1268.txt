@@ -1,0 +1,20 @@
+Logística/Gestão de armazéns/Armazenagem dedicada baseada em famílias de produtos
+Na armazenagem dedicada baseada em famílias de produtos, os produtos que são encomendados juntos devem ser armazenados juntos (Tompkins et al., 2003, p. 434-435).
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Armazenagem de unidades de carga/Estante para armazenagem de unidades de carga/Armazenagem por empilhamento
+A armazenagem por empilhamento é um processo de armazenagem onde as unidades de carga são colocadas umas em cima das outras e armazenadas no pavimento, em filas.
+Quando se fala em armazenagem por empilhamento obviamente que não se trata de um equipamento. Contudo, é importante falar da armazenagem por empilhamento por este ser um processo de referência. Ou seja, o conhecimento das características deste processo permite avaliar a eficácia e a rentabilidade daqueles que são efectivamente equipamentos de armazenagem.
+É um processo fácil de implementar, dado que não é necessário investir em estantes.
+As filas de armazenagem têm geralmente uma profundidade de 2 a 10 unidades de carga. Em termos de altura, o limite é definido pela segurança. Em alguns casos, a altura das filas pode ir mesmo até à altura livre do próprio armazém. A armazenagem por empilhamento é um processo muito eficaz quando existem várias paletes do mesmo artigo ou quando são movimentadas várias paletes do mesmo artigo de cada vez. 
+Neste processo é muito importante calcular a profundidade desejada para cada fila de armazenagem, de modo a que se possa ter um acesso fácil e rápido a todas as unidades de carga, caso contrário propícia-se a ocorrência de espaços vazios o que reduz a eficácia do processo (Tompkins et al., 2003, p. 250). 
+
+
+Logística/Serviço ao cliente/Variabilidade do serviço ao cliente
+O serviço ao cliente está relacionado com o valor médio da variável serviço ao cliente, no entanto, a variabilidade de desempenho dos serviços ao cliente tem uma importância mais significativa do que o desempenho médio. Os clientes pretendem saber qual a variabilidade do serviço que lhes está a ser prestado, embora esta seja incerta. Por causa desta incerteza, os clientes têm custos elevados devido a "stocks" elevados, custos de transporte e custos administrativos. Se não se conseguir controlar a variabilidade, deve usar-se a informação disponível para fazer uma estimativa e diminuir os efeitos da incerteza (Ballou, p. 108-109).
+
+
+Logística/Sistemas de informação/Indicadores de desempenho/Indicadores de utilização de recursos: pessoas
+De acordo com White Jr. (1985, p. 323), se a produtividade for definida como a produção por homem-hora, o único recurso tido em conta são as pessoas. Os dois métodos tradicionais usados no aumento da produtividade são a substituição do trabalho por capital ou tecnologia e o desenvolvimento de métodos de trabalho mais eficientes. Enquanto o aperfeiçoamento dos métodos e das tecnologias contribuiu para a melhoria da produtividade na produção, há uma oportunidade considerável para melhorias nas áreas da movimentação de materiais e armazenagem. Poucas organizações têm desenvolvido novos métodos e padrões de trabalho para a movimentação de materiais e armazenagem, apesar de ambas utilizarem mão de obra intensivamente. Além desses dois métodos para melhorar a produtividade, esta pode ser também aumentada por melhorias na "gestão". Estar "ocupado" não significa, necessariamente, ser "produtivo", logo é necessária uma boa gestão que garanta que as pessoas estão a ser produtivas.
+As medidas que são utilizadas para avaliar a utilização de pessoas na movimentação de materiais são a: 
+

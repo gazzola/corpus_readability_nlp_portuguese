@@ -1,0 +1,38 @@
+Logística/Gestão de existências/Encomendas únicas/Procura e tempo de aprovisionamento conhecidos
+Quando se conhece a procura e o tempo de aprovisionamento, não existem problemas de existências relacionados com encomendas únicas, o que raramente ocorre na prática. Para esta condição existir, toda a procura deve resultar em reservas vindas de clientes pacientes, ou todo o planeamento deve ser perfeito, sem ocorrências anormais nem atrasos(Tersine, 1988, p. 302-303).
+
+
+Logística/Localização/Localização minisoma de múltiplas instalações/Localização minisoma de múltiplas instalações com distâncias rectilineares
+Quando o objectivo é minimizar a soma das distâncias rectilineares o problema pode ser formulado como se segue (Love et al., 1988, p. 80):
+formula_1
+Onde:
+formula_2 é o número de novas instalações a localizar;
+formula_3 é o número de instalações já existentes;
+formula_4 é a conversão da grandeza distância entre uma nova instalação formula_5 e uma instalação já existente formula_6 em valores de custos, com formula_7;
+formula_8 é a conversão da grandeza distância entre uma nova instalação formula_5 e outra nova instalação formula_10 em valores de custos, com formula_11;
+formula_12 é a da nova instalação formula_5;
+formula_14 é a localização da instalação já existente formula_6;
+A minimização de formula_16 pode ser traduzida por duas funções:
+formula_17 que diz respeito a formula_18 e formula_19 que diz respeito a formula_20.
+Genericamente:
+formula_21
+Para calcular a solução óptima para um problema de múltiplas instalações de diferentes tipos com distâncias rectilineares pode-se recorrer à programação linear. Se as instalações a localizar forem do mesmo tipo, o problema não se pode resolver através de programação linear. Neste caso tem de se determinar os pontos de procura (clientes) que devem ser atribuídos a cada instalação e depois decidir a localização destas, de forma a minimizar os custos totais de transporte (Sule, 2001, p. 123).
+
+
+Logística/Planeamento e projecto de instalações/Automated Layout Design Program (ALDEP)/Vantagens e limitações
+1. Consegue reparar locais específicos em espaços pequenos.
+2. A solução corresponde à área especificada.
+3. Apresenta várias alternativas como resultado.
+4. Apresenta a maior parte das inter-relações.
+5. Têm capacidade para vários níveis (Hiregoudar et. al., 2007, p. 95).
+1. Não calcula os custos de movimentação.
+2. Relações em «x» não são tidas em consideração.
+3. Método de avaliação questionável.
+4. Dificuldade em avaliar o processo de produção.
+5. A configuração do espaço obrigatória não é tida em consideração.
+6. Limite de 63 departamentos ou actividades (Hiregoudar et. al., 2007, p. 95).
+
+
+Logística/Gestão de armazéns/Distâncias percorridas/Método de armazenagem
+Segundo a profundidade de armazenagem pode-se constituir algumas regras da colocação de mercadorias: caso as mercadorias entrem e saiam pela mesmo local do armazém então deve-se colocar as mercadorias com mais procura o mais perto possível deste local. Outro caso será se as mercadorias entram e saem da zona de armazenamento por diferentes locais e são recebidos e enviados na mesma quantidade então os produtos de maior popularidade deverão ser colocados no caminho mais direto entre o local de entrada e partida. Também se os produtos entram e saem do armazém por locais e diferentes e são recebidos e enviados em quantidade diferentes, então os artigos mais procurados e com a razão de recepção e expedição menores deverão ser colocados perto do local de envio do caminho mais direto entre as zonas de recepção e expedição. Por último, os artigos mais procurados e com a razão de recepção e expedição maior deverão ser colocados perto da zona de recepção no caminho mais direto entre as zonas de recepção e expedição (Tompkins et al., 2003, p. 442).
+

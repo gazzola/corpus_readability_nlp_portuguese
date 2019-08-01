@@ -1,0 +1,35 @@
+O cálculo deste MTBF é também dado pela fórmula III, só que os termos TF2, TF3, etc. utilizados na fórmula são os tempos de bom funcionamento do conjunto de equipamentos objecto de análise, a começar pela última avaria anterior ao período de análise, em qualquer equipamento desse conjunto. O MTBF de um conjunto de equipamentos calculado com a simplificação introduzida na expressão V vem:
+Fórmula V: (n-1)
+MTBF= TS- STRi horas
+Nav -1
+em que:
+TS = Tempo decorrente entre a data de início da primeira avaria ocorrida no conjunto de equipamentos e a data início da última avaria nesse conjunto
+TRi = Tempos de reparação de todos os equipamentos do conjunto no período (menos o último)
+Nav = Número de avarias em todos os equipamentos no período de análise
+2.4 MTTR 
+O MTTR deriva do inglês Mean Time to Repair, ou seja, é o tempo médio de reparação de avarias, ou se preferirmos, a média dos tempos de intervenção (TDI). Para um único equipamento tem as limitações apontadas para o MTBF, isto é, se não existirem avarias, logo, reparações, não há indicador. Se existirem só uma ou duas, é pouco expressivo. Para o mês 3 ao mês 12 (4 avarias) virá:
+MTTR = (TR2 + TR3 + TR4 + TR5)/Nav (horas)
+Em que:
+TR2, TR3, etc. = tempos de reparação (horas) das avarias verificadas no período;
+Nav = Número de avarias do equipamento nesse período. Para um conjunto de Ne equipamentos, de forma idêntica ao feito para o MTBF, virá:
+Fórmula VII: (n)
+MTBF= STRi horas
+em que:
+TRi = Tempos de reparação de todos os equipamentos do conjunto no período
+Nav = Número de avarias em todos os equipamentos no período de análise
+O MTTR de um conjunto de equipamentos também é dado por:
+MTTR =  MTTR / Ne
+Em que:
+MTTR = somatório dos MTTRs de todos os equipamentos incluídos no conjunto, calculados como se indicou acima;
+Ne = Número de equipamentos do conjunto
+2.6 Disponibilidade
+A disponibilidade, para um determinado período de tempo, mede a percentagem de tempo de bom funcionamento em relação ao tempo total. Adoptando a base de tempo de calendário (24 horas/dia)
+D = (TF / TT) * 100 %
+Em que:
+TF = tempo de bom funcionamento no período (= total de horas no período em que não esteve a reparar avarias)
+TT = tempo total do período (= total de horas do período de análise)
+Para um equipamento, para o período do mês 3 ao mês 12 (4 avarias) a formulação poderá ser:
+D = (TT – (TR2+TR3+TR4+TR5))/TT
+Em que:
+TT = Tempo total do período em análise = número de dias * 24 horas
+TR2, TR3, etc.

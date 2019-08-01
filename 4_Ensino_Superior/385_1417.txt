@@ -1,0 +1,41 @@
+ A diferença entre os valores de formula_7 e formula_53 quando levada ao limite próximo de zero, também é chamada de diferencial formula_54 e a diferença entre os valores de formula_55 e formula_56 quando o diferencial formula_54 é levado ao limite, é chamada de diferencial formula_58:
+formula_59
+Por este motivo, esta operação é chamada de diferenciação, pois se refere à criação de variáveis diferenciais (usando as diferenças entre formula_39 e formula_26), neste caso formula_62 e formula_63 
+Para que as diferenciais e por consequência, a derivada de uma função em um determinado ponto possam existir, certas condições devem ser cumpridas pela função. Verifica-se a partir da definição de formula_64 que:
+Isso nos lembra a definição de continuidade. De fato, as condições acima significam que quando a função é diferenciável em um ponto, ela é também contínua no ponto. O fato de funções derivadas serem contínuas se deve a existência do limite e do valor da função no ponto, uma vez que torna-se possível a existência do formula_65 nestes casos. Portanto, podemos em primeiro lugar verificar a continuidade de uma função para sabermos se há possibilidade da mesma ser diferenciável: se esta não for contínua temos condições de afirmar que a mesma não é diferenciável. Para simplificar os métodos de derivação algumas regras básicas são universalmente utilizadas, todas são consequências da definição e podem ser facilmente demonstradas através do limite que aparece na definição e dos teoremas sobre limites de funções. Demonstração:
+Pela definição temos:
+formula_66
+formula_67
+formula_68
+e portanto:
+formula_69
+Demonstração:
+Pela definição temos:
+formula_70
+Somamos e subtraímos formula_71 na equação anterior:
+formula_72
+formula_73
+formula_74
+formula_75
+e portanto:
+formula_76
+Demonstração:
+Pela definição temos:
+formula_77
+formula_78
+Podemos lançar mão de mais um artifício algébrico e somar e subtrair formula_79 o que nos dá:
+formula_80
+formula_81
+formula_82
+Depois que aplicamos os limites, resulta em:
+formula_83
+Seja formula_84 e formula_85 as diferenciais de formula_86 quando sua derivada é formula_87 Então:
+Demonstração:
+Pelo teorema da razão do limite:
+formula_88 
+O que nos dá a possibilidade de fazer:
+formula_89
+formula_90
+Desta forma, os operadores formula_84 e formula_85 são limites e podem ser operados como tal, de forma que, obedecendo às regras das operações algébricas dos limites, podem ser separados. A função composta formula_93 nos dá a possibilidade de generalizar diversas funções, permitindo a sua simplificação, a sua derivada pode ser conseguida pela relação formula_94
+Que pode ser verificada quase que imediatamente através das propriedades algébricas das diferenciais, de qualquer forma podemos demonstrá-la como segue:
+Para simplificar a interpretação do conteúdo, usaremos a notação de derivada em relação à variável dependente; nesta notação colocamos um D e um sobescrito da variável dependente, ou seja, o símbolo formula_95 indica a derivada de "z" em relação a sua variável "t".

@@ -1,0 +1,10 @@
+ n(P(A)) = formula_27
+Pelo , com a soma das linhas:
+formula_28
+→ n(P(A)) = formula_29
+Mas, formula_30
+→ n(P(A))formula_31
+Provando, portanto, que o número de elementos do conjunto de partes de A é dois elevado ao número de elementos distintos de A.
+Nota: O conjunto das partes é uma álgebra booleana sobre as operações de união e interseção. O Teorema de Cantor estabelece que formula_32. Em certos problemas da teoria dos conjuntos, é preciso que se defina um conjunto que contenha todos os conjuntos considerados. Assim, todos os conjuntos trabalhados no problema seriam subconjuntos de um conjunto maior, que é conhecido como conjunto universo, ou simplesmente "universo". Por exemplo: em um problema envolvendo conjuntos de números inteiros, o conjunto dos números inteiros Z é o conjunto universo; em um problema envolvendo palavras (consideradas como conjuntos de letras), o universo é o alfabeto. Para relacionar um conjunto com outro conjunto(ou subconjunto) utilizamos a relação de inclusão. Exemplo: Se considerarmos o conjunto formula_33 formado por todas as "letras do alfabeto" e o conjunto formula_34 formado pelas "vogais", podemos dizer que formula_35 (A contém V) ou formula_36 (V está contido em A)
+Se formula_37 é um elemento de formula_33, nós podemos dizer que o elemento formula_39 pertence ao conjunto formula_33 e podemos escrever formula_41. Se formula_39 não é um elemento de formula_33, nós podemos dizer que o elemento formula_39 não pertence ao conjunto formula_33 e podemos escrever formula_46. Exemplos:
+Se formula_33 e formula_52 são conjuntos e todo o elemento formula_53 pertencente a formula_33 também pertence a formula_52, então o conjunto formula_33 é dito um subconjunto do conjunto formula_52, denotado por formula_58. Note que esta definição inclui o caso em que formula_33 e formula_52 possuem os mesmos elementos, isto é, são o mesmo conjunto (formula_61). Se formula_58 e ao menos um elemento pertencente a formula_52 não pertence a formula_33, então formula_33 é chamado de subconjunto próprio de formula_52, denotado por formula_14. Todo conjunto é subconjunto dele próprio, chamado de "subconjunto impróprio".

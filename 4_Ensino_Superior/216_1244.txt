@@ -1,0 +1,31 @@
+Eletrônica Digital/Funções lógicas
+Função Negação,NOT
+A função negação é também conhecida como complemento ou função Não(NOT)
+.Esta operação é representada por uma abarra supério (-),em outras palavras ela endica o valor contrário. A sua expressaão matemática é a senguinte ( e sua tabela usando bit 0 e 1) 
+f(a)= ā 
+NOT 
+Função União OR
+Na álgebra de Boole, o significado do nsinal + será a conjunção OU.Esta função é também conhecida como função reunião,soma lógica ou OU(OR em inglês).Esta operação é representada pelo sinal + e sua expressão matemática para duas variáveis será:
+f(a,b)=a+b 
+Função Intersecção AND
+Na álgebra de Boole o significado do sinal x será equivalente à conjunção E.
+Esta função é geralmente representada por um ponto (.)por vezes o ponto é omitido entre duas variáveis booleanas, tal como na álgebra tradicional o sinal de multiplicação pode ser omitido . A função intersecção também conhecida como multiplicação lógica ou função E(AND em inglês. A sua expressão matemática para duas variáveis será:
+f(a,b)=a.b=ab
+Para além destas três funções básicas existem outras quatros funções também elas são muito importantes : a função NÃO-OU(NOR em inglês),a função NÃO-E (NAND em inlgês ), a função OU-exclusivo (XOR em inglês )e a função NÂO-OU- exclusivo(XOR em iunglê)."apoio Guilherme Jaime e Adelino Quintas (electrónico do IMT 17 de Dezembro)
+
+
+Eletrônica Digital/Funções lógicas
+Função Negação,NOT
+A função negação é também conhecida como complemento ou função Não(NOT)
+.Esta operação é representada por uma abarra supério (-),em outras palavras ela endica o valor contrário. A sua expressaão matemática é a senguinte ( e sua tabela usando bit 0 e 1) 
+f(a)= ā 
+NOT 
+Função União OR
+Na álgebra de Boole, o significado do nsinal + será a conjunção OU.Esta função é também conhecida como função reunião,soma lógica ou OU(OR em inglês).Esta operação é representada pelo sinal + e sua expressão matemática para duas variáveis será:
+f(a,b)=a+b 
+Função Intersecção AND
+Na álgebra de Boole o significado do sinal x será equivalente à conjunção E.
+Esta função é geralmente representada por um ponto (.)por vezes o ponto é omitido entre duas variáveis booleanas, tal como na álgebra tradicional o sinal de multiplicação pode ser omitido . A função intersecção também conhecida como multiplicação lógica ou função E(AND em inglês. A sua expressão matemática para duas variáveis será:
+f(a,b)=a.b=ab
+Para além destas três funções básicas existem outras quatros funções também elas são muito importantes : a função NÃO-OU(NOR em inglês),a função NÃO-E (NAND em inlgês ), a função OU-exclusivo (XOR em inglês )e a função NÂO-OU- exclusivo(XOR em iunglê)."apoio Guilherme Jaime e Adelino Quintas (electrónico do IMT 17 de Dezembro)
+

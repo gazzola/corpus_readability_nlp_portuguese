@@ -1,0 +1,19 @@
+ Cálculo (Volume 1)/Indeterminação e integrais impróprias
+Nos deparamos constantemente com situações onde é necessário que algum grau de indeterminação seja considerado e analisado, na matemática elementar temos as formas indeterminadas que por séculos intrigou matemáticos e filósofos famosos, uma das mais comuns é a raiz formula_1, porém lidar com esta indefinição em matemática elementar já sabemos, um estudo sobre números complexos será aplicado ao Cálculo nos livros subseqüentes. Para o presente estudo faremos a análise do cálculo em funções que geram valores indefinidos, mas que podem ser reavaliados por um limite infinitesimal. O artifício de analisar a função sob um limite pode nos revelar resultados bastante conclusivos, que podem sanar boa parte dos problemas que encontramos no uso do cálculo. Que esteja bem claro que a análise dos valores aqui sugerida não traz um argumento definitivo para a indeterminação, apenas traz meios capazes de solucionar questões que passam pela indeterminação, mas que podem ser solucionados quando as tendências são suficientes para uma conclusão a respeito do problema dependente e não da indeterminação em si. Basicamente analisaremos as formas indeterminadas geradas pelo denominador nulo, das quais destacamos os seguintes casos:
+Ainda temos:
+Na maioria dos casos temos a indeterminação em um ponto do domínio, onde o valor de um denominador é nulo para uma determinada função, desta forma podemos definir a razão como uma função composta da seguinte forma:
+formula_7
+De onde podemos fazer as seguintes considerações:
+Dado um ponto formula_8 onde:
+Podemos dizer que formula_12 apresenta uma forma indeterminada em formula_13, porém o limite: formula_14 pode ser determinado. Podemos fazer:
+formula_15
+A segunda forma de indeterminação acontece quando, dado um ponto formula_8, onde:
+Na terceira forma de indeterminação acontece quando, dado um ponto formula_8, onde:
+Demonstração
+Considere que em dois extremos (máximos ou mínimos) do intervalo tenhamos pontos definidos em ambas as funções, então poderemos traçar uma reta para cada par de extremos em cada função no intervalo. Assim, temos duas retas que nos possibilitam afirmar que, definidos apropriadamente os pontos que determinam as retas, há pelo menos um ponto de cada função neste intervalo com derivada igual a inclinação destas retas, por outro lado podemos criar condições para que a relação destas retas obedeçam as condições do teorema de Rolle e conseqüentemente o teorema do valor médio para derivadas, uma nova função que traz esta possibilidade é esta:
+formula_24
+onde:
+formula_25
+Define-se tal função pois: 
+formula_26
+Fato que torna válida a aplicação do teorema de Rolle.

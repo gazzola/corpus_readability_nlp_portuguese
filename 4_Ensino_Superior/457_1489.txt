@@ -1,0 +1,25 @@
+ segue da segunda desigualdade que
+e calculando o ínfimo sobre todos os formula_95 tem-se:
+Por outro lado, da inequação sobre ínfimos e supremos, tem-se formula_97, então formula_98. Logo, todos os membros das desigualdades acima coincidem, ou seja, 
+Mas da definição de formula_100 tem-se:
+Portanto, formula_102 é solução do problema formula_72 enquanto formula_73 significa que formula_105 é solução de formula_71
+Reciprocamente, supondo que formula_105 é solução do problema formula_71, tem-se:
+e admitindo que formula_102 é solução do problema formula_72, segue:
+Além disso, usando como hipótese que formula_113, segue da definição que:
+Em particular, tomando formula_116, formula_117 e formula_118, resulta:
+formula_120
+Logo, pela definição de formula_121 tem-se:
+Portanto, formula_124 é um ponto de sela da lagrangiana formula_82. Considere novamente o problema de otimização dado por:
+Verificar se a lagrangiana associada à formula_7 tem ponto de sela. Considerando formula_7, formula_71, formula_72 e formula_82, se formula_102 é uma solução do problema dual, considere o seguinte problema:
+que no caso do exemplo reduz-se a
+A solução deste problema é obtida resolvendo formula_135, sendo portanto formula_136. Note que esta é a solução do problema primal formula_71 (e consequentemente do problema original formula_7). Será apenas uma coincidência? Ou ainda, em que situações a solução deste último problema será também solução do problema original? A resposta será dada pelo próximo teorema. Acompanhe. )</math>, onde
+que também são as soluções de formula_7. Antes da demonstração, vale a pena imaginar a seguinte aplicação da segunda parte do teorema: Se por alguma razão não se sabe resolver o problema original formula_7, pode-se optar por resolver formula_72 (um problema concavo em um poliedro), e depois resolver formula_143 (que é um problema convexo sem restrições). Em outras palavras, é possível trocar um problema difícil por dois problemas mais fáceis, formula_72 e formula_143. Agora a demonstração do teorema:
+A seguir será apresentada uma proposição que responde a uma pergunta deixada anteriormente:
+Tal proposição fornece um roteiro para quem precisa resolver o problema formula_7 relativamente difícil:
+ eta(u, v)</math>
+Como formula_105 é solução de formula_143, então:
+ou seja, 
+Portanto, 
+Por outro lado, como formula_41, tem-se formula_158 e formula_159. Por hipótese, formula_160, então
+Logo, 
+Então para formula_163 tem-se que formula_164 e formula_165.

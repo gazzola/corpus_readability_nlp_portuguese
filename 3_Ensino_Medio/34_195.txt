@@ -1,0 +1,19 @@
+Introdução à física/Espelhos esféricos
+Os espelhos esféricos podem ser: 
+Espelhos esféricos gaussianos que obedecem as concondiçoes gerais de Gauss:
+ Todo espelho esférico, ou circular, deve (regra geral) ter um foco. Esse foco é uma base para que a imagem possa ser formada. Toda imagem, seja num espelho côncavo ou convexo, tem suas retas traçadas com passagem pelo foco; ou seja se um objeto estiver precisamente "em cima" do foco a imagem não pode ser formada, nem pelo tracejamento de suas retas.
+O foco "f" de um espelho esférico é dado por "f" = formula_1; onde r é o raio do espelho; logo o raio do mesmo é o dobro do foco.
+Para espelhos côncavos, "f" é um número positivo, mas para espelhos convexos, "f" é um número negativo.
+A relação acima descrita é um tanto simples, porém muito útil em determinadas questões; mesmo assim há uma outra equação que tem como resultado o foco de um espelho circular; é a "Equação de Gauss" que pode ser nomeada por: o inverso do foco é igual à soma dos inversos da distância da imagem e da distância do objeto. Assim: 
+em que "p", "p' " e "f" devem ser interpretados "algebricamente", sendo números positivos quando estiverem do lado "real" do espelho e negativos quando estiverem do lado "virtual" do espelho.
+"p" é sempre um número positivo.
+"f" é positivo em espelhos côncavos e negativo em espelhos convexos.
+"p' " é positivo em imagens reais e negativo em imagens virtuais.
+Neste caso, "p" é um número positivo, "f" é um número negativo, o que permite imediatamente concluir que formula_3 é um número negativo (inverso da soma de dois números negativos) e de módulo menor que "p". Portanto, a imagem e' sempre:
+Neste caso, "p" e "f" são números positivos, portanto formula_3 pode assumir qualquer valor diferente de zero.
+A imagem é:
+A imagem é:
+A imagem é:
+A imagem estará no infinito
+A imagem é:
+

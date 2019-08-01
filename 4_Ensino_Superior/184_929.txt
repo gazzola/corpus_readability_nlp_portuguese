@@ -1,0 +1,29 @@
+Análise real/Imprimir
+
+
+Análise real/Convergência uniforme
+A convergência uniforme é um conceito mais forte que o de convergêcia pontual. 
+Uma seqüência de funções formula_1 definida em um conjunto formula_2 é dita convergir uniformemente se existe uma função formula_3 tal que:
+Observe que a desigualdade é válida para todo ponto do domínio.
+Como comparação, uma sequência de funções formula_7 converge pontualmente para uma função formula_8 se, e somente se:
+A sequência converge uniformemente quando:
+Essa diferença é importante: para provar a convergência pontual, basta escolher um "N" para cada formula_11 e cada "x". Para provar a convergência uniforme, é preciso escolher, para cada formula_11 um "N" que se aplica a todo "x".
+Considere a seqüência:
+A convergência uniforme é válida com formula_14.
+Considere o conjunto formula_15 e a seguinte seqüência de funções definidas em formula_2:
+Observa-se que para cada formula_18 fixo formula_19 converge para 0 mas a convergência não é uniforme pois para cada n e cada formula_20 existe um x suficiente próximo à origem tal que:
+Teorema Seja formula_19 uma seqüência de funções contínuas definidas um conjunto formula_23. Suponha que formula_24 converge uniformemente para uma função formula_25 então f é uma função contínua.
+Demonstração Seja formula_4 e formula_27, devemos mostrar que existe um formula_28 tal que:
+Da convergência uniforme, temos a existência de um N tal que
+Da continuidade de formula_31, temos que existe um formula_28 tal que:
+Agora, basta estimar usando a desigualdade triangular:
+E das desigualdades formula_35 e formula_36, vale que se formula_37:
+Teorema Seja formula_39 uma seqüência de funções integráveis a Riemann convergindo uniformemente para uma função formula_40, então formula_41 é integrável a Riemann e vale a igualdade:
+Demonstração Da definição de convergência uniforma, para todo formula_4, exite um formula_5 tal que:
+Como formula_24 é integrável, vale que:
+Assim, valem as desigualdades:
+E, portanto:
+Tomando o limite formula_51, temos:
+Como formula_4 é arbitrário e a integral superior é sempre maior ou igual à integral inferior vale a igualdade:
+E o resultado segue.
+

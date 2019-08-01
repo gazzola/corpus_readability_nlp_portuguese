@@ -1,0 +1,38 @@
+Análise real/Operação
+É comum definirmos um conjunto usando alguma propriedade:
+A união de dois conjuntos é a reunião dos seus elementos, se algum elemento estiver repetido na inclusão, será contado uma única vez, assim:
+Propriedades Básicas:
+A intersecção de dois conjuntos é a reunião dos elementos que estão em ambos, assim:
+Exemplos:
+A diferença de dois conjuntos é o conjunto dos elementos do primeiro com a exclusão dos elementos do segundo conjunto, assim:
+ Teorema: Mostrar que formula_77
+Prova:
+Existe duas importantes propriedades usando união e intersecção, são elas:
+
+
+Análise real/Capa
+
+
+Análise real/Cardinalidade
+Um subconjunto importante dos naturais é o formula_2 para algum formula_3.
+Um conjunto A é finito quando assume uma das opções abaixo:
+Concluímos que:
+ Definição: Sejam A e B dois conjuntos não vazios. Dizemos que A e B têm a mesma cardinalidade ou que a cardinalidade de A é igual à de B e escrevemos formula_14, se existe uma bijeção formula_15.
+ Prove que o conjunto dos Naturais e dos Pares Naturais têm a mesma cardinalidade.
+Prova:
+ Prove que um conjunto X com n elementos pode ser ordenado de n! modos.
+Prova(Por indução):
+ Proposição: Se um conjunto X tem n elementos e possui t subconjuntos, o conjunto formula_44 tem n+1 elementos e possui 2t subconjuntos.
+Prova(indução sobre n):
+Prova (Triângulo de Pascal)
+ Uma função formula_92 é injetiva se, e somente se, existe uma função formula_93 que seja sobrejetiva.”
+ Tomemos por hipótese que formula_92 é injetiva. Vamos provar que formula_95 que é sobrejetiva.
+ Prove que uma função formula_92 é invertível se, e somente se, f é bijetiva.”
+Prova:
+Seja formula_137. Se existir uma bijeção formula_138 então formula_139.
+Se existir uma bijeção formula_144 então formula_145. Consequentemente, se existem duas bijeções formula_146 e formula_147, logo formula_145.
+Não pode existir uma formula_151 de um conjunto finito sobre uma parte própria formula_152
+Se formula_153 é um conjunto finito então todo subconjunto formula_152 é finito. O número de elementos de Y não excede o de X e só é igual quando Y = X.
+Seja formula_155 uma função injetora. Se Y for finito então X também será. Além disso, o número de elementos de X não excede o de Y.
+ Seja X e Y conjuntos finitos, então formula_156 é finito e tem-se que formula_157
+

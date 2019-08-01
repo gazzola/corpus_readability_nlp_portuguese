@@ -1,0 +1,37 @@
+Logística/Movimentação de materiais/Equipamento/Equipamento de movimentação de materiais/Monocarris, guinchos e gruas
+
+
+Logística/Gestão de armazéns/Picking/Procedimentos de organização/Picking por lote
+Neste procedimento um Operador escolhe um grupo de pedidos, ao mesmo tempo, uma linha de cada vez.
+Quando um produto aparece em mais que um pedido, a quantidade total necessária para todos os pedidos combinados é recolhida de uma só vez, e em seguida separada por pedido. A segregação pode ter lugar enquanto se faz a recolha em totes (pequenas peças em pequenas quantidades) ou a quando do transporte para uma área designada, onde são classificados e agrupados por pedido individual (Hudock, 2004).
+Recolher mais que um pedido de uma vez, tem um efeito significativo sobre a produtividade do "picking" para os casos de "case" e "broken case picking". De facto, quantos mais pedidos um Operador conseguir gerir eficazmente de uma só vez, maior é o ganho de produtividade (Hudock, 2004). 
+Este tipo de procedimento permite um ganho de produtividade em relação aos outros, visto trabalhar-se com diversos pedidos por recolha. No entanto, é indicado apenas quando os produtos são recolhidos maioritariamente em quantidades fraccionadas (não em caixas), e quando os pedidos possuem pouca variedade de produtos e pequenos volumes (Medeiros, 1999).
+O ganho de produtividade obtido, ocorre devido à diminuição de tempo de deslocamento dos operadores. Um ponto negativo deste procedimento é a sua maior complexidade e maior necessidade de utilizar severas medidas de modo a minimizar os riscos de erros, medidas essas que podem passar pelo uso de soluções tecnológicas actuais (Medeiros, 1999).
+
+
+Logística/Capa
+
+
+Logística/Sistemas de distribuição/Escala de veículos/Formulação e notação básica
+O problema de escala de veículos (PEV) pode ser definido num gráfico formula_1 (Dorronsoro, 2007b), como o que se pode observar na Figura 1.
+A notação utilizada é:
+formula_2 é um conjunto de vértices, onde:
+formula_6 é um conjunto de arcos.
+formula_7 é uma matriz de custos ou distâncias não-negativas formula_8 entre os clientes formula_9 e formula_10 .
+formula_11 é vector das encomendas dos clientes.
+formula_12 é a rota do veiculo formula_13 .
+formula_14 é o número de veículos (todos idênticos), em que a cada veículo é afectada uma rota.
+Quando formula_15 para todos os formula_16 o problema é simétrico e é comum substituir formula_17 por
+formula_18 .
+A cada vértice formula_9 em formula_20 está associada uma quantidade formula_21 de alguns produtos a entregar por um veículo.
+O PEV consiste em determinar um conjunto de formula_14 rotas de veículos com o custo total mínimo, começando e terminando no centro de distribuição, tais que cada vértice de formula_20 seja visitado exactamente uma vez por um veículo.
+Para um cálculo mais fácil em computador, pode-se definir formula_24 , um limite inferior do número de veículos necessários para atender os clientes do conjunto formula_25 . 
+Considerando formula_26 o tempo necessário para descarregar a quantidade formula_21 do veículo em formula_9 , a duração total de qualquer rota (deslocação mais tempo de serviço) não pode ultrapassar um limite formula_29 . Neste contexto, o custo formula_8 representa o tempo de deslocação entre cidades. 
+Uma solução viável é dada por:
+O custo de uma dada rota (formula_36), onde formula_37 e formula_38  (formula_39 denomina o centro de distribuição), é dado por: 
+formula_40 .
+A rota formula_12 é viável se o veículo parar uma única vez em cada cliente e a duração total da rota não exceder um limite pré definido formula_29 :
+formula_43 .
+O custo da solução formula_44 do problema é:
+formula_45 .
+

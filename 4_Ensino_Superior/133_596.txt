@@ -1,0 +1,27 @@
+Logística/Gestão de armazéns/Configuração discreta de armazéns/Armazenagem dedicada baseada na actividade
+Para determinar os melhores locais para guardar vários produtos num armazém pode-se usar um modelo quantitativo de configuração de armazéns. A abordagem seguinte permite obter a armazenagem dedicada óptima. Assumindo que as deslocações são rectilineares, o problema de configuração de um armazém tem como resultado a atribuição dos produtos aos locais onde serão guardados num armazém. Utiliza-se a seguinte notação (Tompkins et al., 2003, p. 550-551):
+formula_1 número de locais de armazenagem
+formula_2 número de produtos
+formula_3 número de pontos (cais) de entrada/saída, "input/output" (I/O) 
+formula_4 número de locais de armazenagem necessários para o produto formula_5
+formula_6 número de viagens de entrada/saída do armazém para o produto formula_5, isto é, a movimentação do produto formula_5 
+formula_9 percentagem das viagens de entrada/saída do armazém de/para o ponto I/O formula_10
+formula_11 distância (ou tempo) necessária para a movimentação entre o ponto I/O formula_10 e o local de armazenagem formula_13
+formula_14 se ao produto formula_5 for atribuído o local de armazenagem formula_13; formula_17 no caso contrário
+formula_18 distância (ou tempo) média percorrida
+O problema de configuração do armazém pode ser formulado como se segue:
+Minimizar   formula_19
+Sujeito a 
+formula_20   para formula_21
+formula_22   para formula_23
+Com formula_24   para todos os formula_5 e formula_13
+Supõe-se que cada produto tem igual probabilidade de ser movimentado entre o ponto I/O ou cais formula_10 e qualquer local de armazenagem atribuído ao produto formula_5. Nestas condições, o valor de formula_29 é a probabilidade de um determinado local de armazenagem atribuído ao produto formula_5 ser seleccionado para a movimentação de/para um cais. Para maior facilidade, faça-se
+formula_31
+Ou seja, formula_32 é a distância média percorrida entre o local de armazenagem formula_13 e os cais.
+Para minimizar o total da distância média percorrida, procede-se do seguinte modo:
+1) Numeram-se os produtos de acordo com o valor de formula_34, de tal maneira que 
+formula_35
+2) Calculam-se os valores de formula_36 para todos os locais de armazenagem.
+3) Atribui-se o produto 1 aos formula_37 locais de armazenagem com os menores valores de formula_36; atribui-se o produto 2 aos formula_39 locais de armazenagem com os menores valores de formula_36 seguintes; e assim em diante.
+É importante frizar que a configuração do armazém obtida não é, necessariamente, a configuração final. Há outras considerações, para além da distância média percorrida que não foram incorporadas no modelo; a utilização desta abordagem à armazenagem dedicada deve ser ponderada para cada aplicação em particular. A configuração obtida serve, todavia, como termo de comparação para avaliar outras configurações (Tompkins et al., 2003, p. 550-551). 
+

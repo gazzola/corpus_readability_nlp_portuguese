@@ -1,0 +1,21 @@
+Introdução à física/Cinemática/Movimento
+Em física, movimento é a variação da posição de um objeto ou ponto material no decorrer do tempo em relação a um referencial inercial, suas características são descritas pela cinemática.
+Em Física, movimento é a variação da posição de um objeto ou ponto material no decorrer do tempo, suas características são descritas pela Mecânica
+O movimento é sempre relativo. Se não tomar-se um referencial, não poder-se-á dizer se algo está em movimento ou parado. A essencialidade do referencial pode ser entendida a partir do seguinte exemplo:
+Imagine um pombo descansando sobre uma árvore. Aparentemente ele está parado. Porém a Terra continua girando em torno de seu eixo, e ao redor do sol, e, portanto, tudo que está sobre a superfície terrestre também se move. Logo, em relação ao sol, o pombo está se deslocando conforme o tempo passa: em movimento.
+A partir da constatação da expansão do universo, há um consenso na Física em aceitar que nada está em repouso absoluto.
+O deslocamento de um corpo é definido como a variação de sua posição dentro de uma trajetória determinada. O deslocamento representa a porção da trajetória pela qual o móvel se deslocou; pode ser expresso na forma escalar ou na forma vetorial. (Os respectivos símbolos são formula_1 e formula_2).
+A velocidade (símbolo v) é a razão entre um deslocamento e o intervalo de tempo levado para efetuar esse deslocamento. Pode ser considerada sob o aspecto vetorial (formula_3 - tem direção, sentido e módulo) ou escalar, e é matematicamente expressa por:
+O que chamamos de velocidade escalar também é cotidianamente conhecido como rapidez.
+A velocidade instantânea é definida como o espaço percorrido em um intervalo de tempo que tende a zero. É a velocidade do corpo naquele instante. Matematicamente:
+Quando se considera um intervalo de tempo que não tende a 0, a velocidade é considerada média. 
+A velocidade depende do referencial. Um objeto pode mesmo estar parado (imóvel) em relação a outro, sendo que ambos estejam se deslocando em relação a um terceiro com a mesma velocidade.
+A velocidade pode ser expressa em inúmeras unidades de medida, que relacionem o espaço (L) e o tempo (T) na forma v = (L) (T). O SI tem como unidade padrão para velocidade o metro por segundo (m/s), mas unidades comumente usadas incluem o quilômetro por hora (km/h), centímetro por segundo (cm/s), milhas por hora (mph - no Sistema Imperial), etc.
+A aceleração (símbolo a) é a taxa de variação da velocidade. Acelerar um corpo é variar sua velocidade em um período de tempo. 
+A aceleração é uma grandeza vetorial de dimensão comprimento/tempo, ou (L)(T). No SI, é quantificada em metros por segundo quadrado. 
+A aceleração pode ter valores positivos ou negativos, respectivamente chamados aceleração e desaceleração, bem como direção e sentido. 
+Onde
+No SI, a equação fornece a na unidade m/(s · s) ou m/s
+Uma equação alternativa é:
+onde 
+

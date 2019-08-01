@@ -1,0 +1,31 @@
+Logística/Gestão de existências/Avaliação e medição de existências/Fluxo de custos ou de capital
+Os métodos do fluxo de existências referem-se à forma como os artigos entram e saiem do "stock" existente, onde a escolha deste método por parte da gestão irá determinar o fluxo de custos (Tersine, 1988, p. 448).
+
+
+Logística/Gestão de armazéns/Configuração de áreas de armazenagem contínuas
+O conjunto de locais de armazenagem podem ser representados como uma região plana contínua e por um conjunto de áreas positivas. Existem algumas vantagens em estudar a configuração de armazenagem contínua. Os resultados da formulação contínua podem facilitar a compreensão dos problemas discretos; muitos problemas de armazenagem envolvem um número tão grande de locais de armazenamento que pode ser apropriada uma representação contínua e por fim, os problemas contínuos podem ser mais fáceis de resolver do que os problemas discretos.
+Uma curva de nível envolve todos os pontos com uma distância percorrida esperada inferior ou igual ao valor da curva de nível, o conjunto de pontos chama-se um conjunto de nível. A construção de conjuntos de nível numa determinada área definem as regiões de armazenagem para serem usadas num armazém.
+Uma região de armazenagem definida por um conjunto de nível com área formula_1, terá uma distância média igual ou inferior à distância média de qualquer outro conjunto de área igual.
+Os problemas com representação de curvas de nível para definir as regiões de armazenagem, determinam-se facilmente usando problemas de geometria.
+O projecto da região de armazenagem deve ser adequado de maneira a que a distância percorrida entre armazenagem e os pontos de entrada/saída seja a mínima possível (Francis et al., 1992, p. 294-296). 
+
+
+Logística/Gestão de armazéns/Operação de um armazém/Fluxos num armazém
+Todos os armazéns têm fluxos de entrada, fluxos de saída e fluxos entre as diferentes áreas que constituem um armazém.
+Com base na Figura 7.2 do livro de Tompkins et al. (2003, p. 405) pode-se dizer que um armazém genérico é composto por cinco grandes áreas, entre as quais circulam vários fluxos. As cinco áreas já faladas são então:
+É de notar que em qualquer zona do armazém e em qualquer percurso possam existir outros fluxos, nomeadamente de produtos extraviados e danificados.
+
+
+Logística/Planeamento e projecto de instalações/Automated Layout Design Program (ALDEP)/Dados necessários
+1. Comprimento, largura e área de cada piso da fábrica;
+2. Escala da configuração a imprimir;
+3. Número de departamentos ou actividades da configuração;
+4. Número de configurações a gerar;
+5. Pontuação mínima para uma configuração ser aceite;
+6. Relação inter-departamental mínima;
+7. Tabela de relações (REL) entre os departamentos;
+8. Localização e dimensão das áreas restritas para cada piso;
+9. Formato do perímetro do edifício.
+O ALDEP avalia os "layouts" gerados e compara o resultado com o valor mínimo aceitável. No inicio, esse valor é zero. O programa gera um certo número aceitável de "layouts". Na segunda execução do programa, a pontuação máxima da primeira é usada como valor mínimo. Este processo continua até nenhum dos "layouts" gerados ter uma pontuação acima do mínimo.
+Quando um departamento ou actividade é colocada no "layout", todos os outros são candidatos ao lugar seguinte. Se um deles tem a relação inter-departamental mínima (i.e. um valor de E) com um departamento já colocado, entra para o "layout", caso contrário, é escolhido um departamento aleatoriamente. A relação mínima entre departamentos tem um valor de A ou E (Hiregoudar et. al., 2007, p. 94-95).
+

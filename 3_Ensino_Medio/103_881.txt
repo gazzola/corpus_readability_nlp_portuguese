@@ -1,0 +1,21 @@
+Introdução à física/Estática/Equilíbrio dos corpos rígidos
+Quando as forças que agem num corpo são nulas, diz-se que o corpo está equilibrado. Nesses casos, há ausência de aceleração, e consequentemente, o corpo não gira em torno de si. Logo, corpos em equilíbrio satisfazem a seguinte equação:
+Onde M é a soma das forças que empurram o corpo para o sentido horário (momento horário) e M, as que empurram para o sentido anti-horário (momento anti-horário). Para calcular cada força individualmente, deve-se desenvolver a equação acima:
+Onde:
+Em que:
+Quando há duas forças atuando sobre um corpo que está em equilíbrio, deve-se fazer a decomposição de vetores, considerando a soma dos momentos igual a zero. Quando há três forças, o melhor método é o teorema de Lammy. Quando há mais de três forças, deve-se fazer a decomposição por fórmulas conjuntas (neste último, R = 0).
+a) Um objeto de 1kg encontra-se em equilíbrio em uma rampa que forma ângulo de 30° com a superfície. Qual o coeficiente de atrito que há na rampa? Considere a aceleração gravitacional no local igual a 10 m/s.
+b) Duas cordas ideais (A e B) presas a um teto plano, dispostas 75° uma da outra, prendem uma luminária L, de 2kg, que se encontra em equilíbrio. A luminária e a corda A formam ângulo de 135°. Qual a tração imposta em cada corda, considerando g = 10 m/s? 
+Nesses casos, o(s) corpo(s) está(ão) em equilíbrio sobre um apoio.
+a) Uma gangorra de quatro metros, homogênea e de massa despresível, é sustentada por um apoio, exatamente a dois metros das extremidades. Uma criança A de massa 30kg está sentada a 2 metros do apoio da gangorra, e uma criança B de massa 40kg está sentada há 1,5 metros do apoio. A gangorra está em equilíbrio, considerando a aceleração gravitacional 10 m/s?
+Logo, a gangorra está em equilíbrio.
+b) Em um salão de festas, há uma mesa de seis metros, sustentada por um apoio localizado exatamente a 3,5 metros da extremidade esquerda, homogênea e de massa A. À esquerda do apoio, há vários objetos: um objeto B de 2kg, localizado a 1,5 metro do apoio e um objeto C de 1kg, a 2 metros. A 1,5 metro do apoio, à direita, está localizado um objeto D, de massa 10kg. Qual a massa da mesa (A), considerando que a mesa está em equilíbrio? Considere g = 10 m/s. Observe que o centro de gravidade da mesa, está situado à esquerda do apoio, logo, as forças A, B e C são do momento da esquerda, e a força D da direita:
+Nestes casos, o corpo é sustentado por dois apoios. Para o sistema estar em equilíbrio, as forças seguem e satisfazem duas fórmulas, a primeira, a do equilíbrio vertical, já explicada anteriormente:
+Onde:
+E a do equilíbrio de rotação, em que a soma dos momentos é equivalente entre a distância d dos apoios multiplicado pela força F do apoio. Todavia, as distâncias entre as forças e o apoio 1 é igual à distância multiplicada pela força do apoio 2:
+Onde:
+Em uma cidade do interior do estado do Mato Grosso, pretende-se construir uma ponte. Os engenheiros decidiram que a carga mínima (P) que a ponte deveria sustentar é de trinta toneladas. A ponte é sustentada por duas pilastras, A e B. Qual a carga sustentada por cada pilastra, sendo que a ponte tem cinco metros, sendo distância de um do outro exatamente cinco metros? Considere g = 10 m/s.
+formula_17
+formula_18
+Ou seja, cada pilastra sustenta, no mínimo, 150.000 N.
+

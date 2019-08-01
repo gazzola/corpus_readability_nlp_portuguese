@@ -1,0 +1,24 @@
+Logística/Manutenção de instalações/Manutenção de equipamentos e sistemas eléctricos/Organização de um sistema de protecção
+Para se projectar adequadamente um sistema de protecção, devem ser escolhidos de forma correcta os componentes eléctricos e mecânicos necessários à função. Deve-se também ter em conta uma boa coordenação, de forma a colocar fora de serviço apenas a parte de instalação que apresenta anomalias (Matias et al., 2000, p. 9-10).
+Um sistema de protecção é normalmente constituído por:
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de movimentação de materiais/Monocarris, guinchos e gruas/Monocarril
+Monocarris industriais estão disponíveis em cinco tipos básicos, cada um com as suas características, devem ser consideradas na escolha do sistema monocarril que permita satisfazer as necessidades para o qual vai ser aplicado.
+Meat track – Este sistema acolhe este nome porque é o sistema mais utilizado na industria de embalamento de carne. Consiste numa barra de aço plana nas bordas, onde na qual é acoplado carrinhos com rodas que permite o movimento dos mesmos ao longo da barra.
+Linha tubular – Esta pista é geralmente rectangular na sua forma, formada por uma folha ou chapa de aço, o carrinho de transporte irá circular no interior da barra, como tal é necessário existir uma fenda contínua ao longo da barra com dimensão suficiente para permitir que o gancho existente no carrinho, circule sem sofrer atrito por parte da barra.
+Patended track – Este sistema consiste num grupo de secções monocarris que variam nas suas configurações. Contudo as variações ocorrem nas secções de cruzamento, que partilham de certas características em comum. As dimensões das barras têm de ser idênticas ao longo das varias secções para possibilitar que os carros de transporte possam circular livremente entre elas. 
+
+
+Logística/Gestão de armazéns/Necessidades de espaço/Armazenagem dedicada
+A armazenagem dedicada é utilizada quando um "SKU" é atribuído a um local de armazenagem específico. Sendo o termo posição fixa utilizado para descrever a armazenagem dedicada. (Tompkins et al., 1996, p. 420). 
+Existem duas variações da armazenagem dedicada:
+Ao nível dos requisitos de espaço na armazenagem dedicada, os produtos são atribuídos a localizações específicas, em que um e apenas um produto é atribuído a um local de armazenagem. (Francis et al., 1992, p. 259). 
+
+
+Logística/Manutenção de instalações/Estrutura organizacional/Manutenção preventiva
+A "manutenção preventiva" é realizada com o objectivo de reduzir e evitar a ocorrência de avarias. É portanto, considerada um investimento futuro pois actua antes dos problemas ocorrerem. A sua intervenção é feita com base "em intervalos de tempo predeterminados ou de acordo com critérios prescritos com o objectivo de manter a probabilidade de avaria" de um equipamento ou instalação (Cabral, 1998, p. 21, 55).
+Existem dois tipos de manutenção preventiva:
+A manutenção preventiva é adoptada em sistemas complexos ou de operação contínua, quando não é possível aplicar a "manutenção predictiva". Tal como a manutenção predictiva, obedece a um plano previamente elaborado, com intervalos de tempo definidos e actua em equipamentos ou estruturas bem definidas e identificadas, tendo em conta a segurança do pessoal e da instalação, equipamentos críticos e os riscos de agressão ao meio ambiente (Silva, 2004, p. 31).
+É também da responsabilidade da manutenção preventiva as inspecções e as actividades de manutenção regular, como lubrificação, limpeza de linhas e mudança de filtros, que são planeadas a fim de evitar falhas súbitas de equipamentos e garantir o funcionamento do equipamento dentro dos limites de especificidade (Niebel, 1994, p. 146).
+

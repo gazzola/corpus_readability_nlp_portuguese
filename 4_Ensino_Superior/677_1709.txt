@@ -1,0 +1,13 @@
+ Em uma tubulação horizontal de diâmetro constante, isso significa que o fator de atrito diminui com o aumento da velocidade, tanto para escoamento laminar quanto para escoamento turbulento. No primeiro caso, entretanto, o fator de atrito independe da rugosidade do material; no segundo caso, o fator de atrito depende tanto da rugosidade quanto do Número de Reynolds. Para valores muito grandes da velocidade, a tendência é que o fator de atrito dependa quase que apenas da rugosidade. O Diagrama de Moody também mostra que, na transição do escoamento laminar para o turbulento, o fator de atrito, que vinha diminuindo com a velocidade, aumenta bruscamente, voltando a diminuir com o aumento da velocidade a partir daí. Como a perda de carga é proporcional também ao quadrado da velocidade média, o resultado é que ela aumenta monotonamente com o aumento da velocidade. Podemos escrever que formula_11; quando o fluxo é laminar, α = 1; quando é turbulento, 1 ≤ α ≥ 2, sendo que, para valores muito altos de v, podemos considerar α = 2. Algumas fórmulas foram desenvolvidas com o objetivo de evitar a necessidade de consulta ao Diagrama de Moody. A mais usada é a equação de Colebrook (ou equação de Colebrook-White):
+formula_12
+Miller sugere a seguinte aproximação para a equação de Colebrook, que evita as dificuldades decorrentes do fator de atrito estar implícito na fórmula original:
+formula_13
+Para escoamento turbulento em tubos lisos e 3000 ≤ N ≤ 100000, Blasius propôs a fórmula
+formula_14
+Outra aproximação é a de von Karman e Prandtl, válida para tubos lisos e N até 3000000):
+formula_15
+Existe também uma fórmula para uso com tubos rugosos
+formula_16
+A fórmula de Hazen-Williams
+formula_17
+é uma relação obtida empiricamente entre a velocidade do escoamento e a perda de carga, que apresenta boa precisão na maioria dos casos de interesse. Muitas vezes é mais fácil empregá-la nos cálculos do que a fórmula de Darcy-Weisbach.

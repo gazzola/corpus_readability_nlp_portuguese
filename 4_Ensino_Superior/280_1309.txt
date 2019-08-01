@@ -1,0 +1,20 @@
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Armazenagem de unidades de carga/Equipamento para armazenagem de unidades de carga/Condutor a bordo/Corredores estreitos
+As empilhadoras de corredores estreitos operam em corredores com um aproveitamento de espaço muito eficiente, o que significa entre 1,5 a 2,7 metros em termos de largura e entre 7,6 a 18,3 metros em termos de altura (Tompkins et al., 2003, p. 257).
+
+
+Logística/Gestão de desperdícios e rejeitados/Resíduos agrícolas
+Cada vez mais os agricultores, têm vindo a tomar consciência dos problemas ambientais provenientes das práticas de queima a céu aberto, abandono ou enterramento dos resíduos das suas explorações, práticas que são actualmente punidas por lei (Decreto-Lei nº 239/97), no entanto, devido a algumas indefinições na regulamentação da eliminação dos resíduos, nomeadamente ao nível dos locais de deposição, os agricultores têm tido dificuldade em cumprir a legislação, facto que motivou a emissão pelo Gabinete do Ministro da Agricultura, Desenvolvimento Rural e Pescas dos despachos n.º 25297/2002 e n.º 10977/2003 que têm por objectivo estabelecer medidas que promovam a eliminação das práticas de deposição e descarga de toda a espécie de resíduos no espaço rural, identificando, para esta finalidade, destinos apropriados para a descarga e deposição de todos os tipos de resíduos produzidos nas explorações agrícolas.
+Sendo a denominação de resíduo atribuída a quaisquer substâncias ou objectos dos quais o detentor se desfaz ou tem intenção ou obrigação de se desfazer (Decreto-Lei nº 239/97), os resíduos agrícolas são objectos e materiais que resultam de operações agrícolas ou que após terem sido utilizados na exploração agrícola deixam de ter utilidade para o agricultor, tanto no presente quanto no futuro, mostrando este vontade de se desfazer dos mesmos. (Resíduos de exploração)
+
+
+Logística/Gestão de armazéns/Configuração discreta de armazéns/Modelo de afectação generalizada
+O modelo de afectação generalizada é utilizado para resolver problemas de "layout" do armazém. Que consiste em descobrir locais de armazenagem para os produtos, com o objectivo de descobrir o "layout" do armazém que permita uma minimização total dos custos. Em que um problema de modelo de afectação generalizada é considerado um caso especial de um problema de transportes (Francis et al., 1974, p. 251-254). 
+
+
+Logística/Sistemas de informação/Indicadores de desempenho/Indicadores de utilização de recursos: equipamentos/Utilização de equipamento
+De acordo com White Jr. (1985, p. 327-328), o indicador de utilização de um equipamento fornece uma indicação da medida em que o equipamento está a ser utilizado em relação ao seu potencial máximo. Saber a utilização do equipamento é essencial para que se possam tomar decisões sobre a necessidade de desenvolver melhores sistemas de movimentação, de modo a aumentar a utilização dos equipamentos.
+Na maioria dos casos, o objectivo adequado consiste no aumento da utilização de um equipamento de produção até um valor de pelo menos 90%. Contudo, se a capacidade de produção de uma máquina for muito superior aos requisitos de produção de qualquer ordem de produção individual, são preferíveis produções curtas e setups frequentes, em vez da produção de grandes quantidades de produtos.
+Os registos de produção disponíveis e de preferência precisos, estudos de amostragem de trabalho ou estudos de tempos podem determinar a utilização de equipamentos. Este indicador deve de ser utilizado para determinar se as medidas adicionais para aumentar a produção se justificam.
+Portanto, o indicador de utilização do equipamento de produção é dado por:
+"Utilização do equipamento de produção" = ("Produção real" / "Capacidade teórica")
+

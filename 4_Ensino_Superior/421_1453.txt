@@ -1,0 +1,16 @@
+ Em um sistema bidimensional temos a distância entre dois pontos definida como:
+formula_23
+Para um sistema tridimensional a analogia segue o mesmo raciocínio, o que nos revela a seguinte fórmula:
+Comprovação:
+No plano formula_25 a distância entre os dois pontos do subplano formula_26 é formula_27, para obter a distância no espaço, precisamos encontrar a distância formula_28., mais precisamente a distância do ponto extremo, resultante do encontro dos valores de formula_3 e formula_4, com o valor em formula_2. Esta distância formula_25 corresponde a formula_27, logo:
+formula_34
+O que define o seu valor após a substituição de formula_27, resultando na fórmula definida anteriormente. Por definição, a esfera é o conjunto de todos os pontos no espaço que estão equidistantes de um ponto específico, ao qual denominamos centro. Considerando que as coordenadas de qualquer ponto são formula_1 e que podemos especificar um ponto de coordenadas formula_37, a distância entre os pontos é:
+formula_38
+Definimos formula_39, que é o raio da esfera, conseqüentemente:
+Quaisquer conjuntos de pontos que constituem uma esfera também são delimitadores de um espaço no interior da mesma que gera um volume, o qual pode ser calculado pelo cálculo de volumes com a técnica de secionamento por lâminas paralelas que vimos no livro Cálculo (Volume 1). O sistema de coordenadas cilíndricas será importantes nos estudos adiante, ele pode ser usado para simplificar os nossos estudos sobre integração múltipla. Este sistema foi concebido a partir da definição das coordenadas polares, em segunda instância, pode-se pensar nele como uma evolução do modelo polar adaptado para o espaço tridimensional. Basicamente o sistema é composto por um subsistema polar na base de um cilindro circular, as coordenada são: 
+formula_41
+Definimos um ponto no espaço através da relação polar da base do cilindro, o que nos fornece as duas primeiras ordenadas, depois adicionamos a altura do ponto em relação a base que é a terceira ordenada. O sentido de rotação do ângulo na base é o mesmo usado para coordenadas polares, o que determina o sinal do ângulo. Podemos fazer a transformação de uma coordenada retangular em cilindrica através das relações:
+Da mesma forma, podemos definir as relações inversas, que nos dão os parâmetros de uma coordenada retangular a partir de uma coordenada cilíndrica:
+Mais uma versão adaptada do modelo de coordenadas polares, definido em termos mais globais como a medida de um raio de uma esfera e dos ângulos internos deste raio em relação aos eixos. As coordenadas são compostas pela tripla ordenada formula_48
+O espaço pode ser visto como um conjunto de esferas concêntricas, onde o raio serve como delimitador máximo da superfície de cada esfera e os ângulos determinam a localização exata dos pontos sobre a superfície. A regra de transformação de coordenadas esféricas em retangulares pode ser descrita desta forma:
+Para encontrar as coordenadas esféricas a partir das suas correspondentes retangulares usamos as seguintes fórmulas:

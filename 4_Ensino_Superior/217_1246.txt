@@ -1,0 +1,33 @@
+Logística/Gestão de desperdícios e rejeitados/Sistemas de tratamento e destino final
+
+
+Logística/Gestão de armazéns/Modelos de armazenagem
+Nesta secção vão ser analisados quatro modelos de armazenagem: por empilhamento, em profundidade e armazenagem em estantes com profundidade dupla e simples.
+É usada a seguinte notação (Tompkins et al., 2003, p. 556-558):
+formula_1 = quantidade de área no necessária durante a permanência de um lote no ;
+formula_2 = quantidade média de área no chão necessária, com empilhamento e sem "stock" de segurança;
+formula_3 = tamanho do lote a armazenar, em unidades de carga;
+formula_4 = largura de uma unidade de carga;
+formula_5 = comprimento ou profundidade de uma unidade de carga;
+formula_6 = afastamento lateral entre unidades de carga ou entre uma unidade de carga e uma estante vertical;
+formula_7 = largura da prumada das estantes;
+formula_8 = largura do corredor de armazenagem;
+formula_9 = profundidade do espaço de ventilação entre as traseiras das estantes de armazenagem;
+formula_10 = profundidade de uma fila de armazenagem, em unidades de carga;
+formula_11 = altura da pilha ou níveis de armazenagem, em unidades de carga;
+formula_12 = número de filas de armazenagem necessárias para conterem formula_3 unidades de carga com empilhamento ou menor inteiro, maior ou igual a formula_14;
+formula_15 = número de filas de armazenagem em profundidade necessárias para formula_3 unidades de carga ou menor inteiro, maior ou igual a formula_17;
+formula_18 = número médio de filas de armazenagem necessárias durante a permanência de um lote no armazém, com empilhamento;
+formula_19 = número médio de filas de armazenagem em profundidade necessárias durante a permanência de um lote no armazém.
+
+
+Logística/Glossário
+
+
+Logística/Gestão de desperdícios e rejeitados/Sistemas de tratamento e destino final/Aterros sanitários
+Lobato Faria et al. (Cit. por Martinho et al., 2000, p. 189) define aterro sanitário (AS) como um tipo de confinamento no solo onde os resíduos são colocados ordenadamente e resguardado com terra, ou outro material semelhante; onde há controlo dos gases produzidos e das águas lixiviantes; e onde existe monitorização do impacte ambiental durante a utilização e após o encerramento.
+Para classificar um lugar como AS é necessário ter condições técnicas, tais como: vedação total; impermeabilização dos taludes e fundo; drenagem, recolha, tratamento e posterior rejeição de águas lixiviantes; drenagem de biogás; cobertura diária de resíduos; plano de monitorização durante as fases de operação e pós-encerramento; plano de recuperação pós-encerramento (Martinho et al., 2000, p. 189-190). Assim, de acordo com Lobato Faria et al. (Cit. por Martinho et al., 2000, p. 190), não existia no Continente, em 1994, nenhum sistema de deposição no solo classificado como AS.
+Segundo a Comissão Europeia (Cit. por Williams, 2005, p. 171), em alguns países europeus, os aterros sanitários são a via dominante para a eliminação de resíduos. Países como Portugal, segundo a Eunomia (Cit. por Williams, 2005, p. 171), tendem a diminuir o número de AS de grandes dimensões, devido ao aumento dos custos de deposição, impostos pela Directiva da CE de Aterros Sanitários (EC Waste Landfill Directive). Segundo a Comissão Europeia, Agência Europeia do Ambiente e DEFRA (Cit. por Williams, 2005, p. 172), para resíduos perigosos e industriais, os AS são importantes, se não a via dominante de eliminação. 
+Os aterros sanitários são classificados tendo em conta a dimensão, tipos de resíduos que são depositados, topografia e tecnologia de exploração (Martinho et al., 2000, p. 194).
+<br>Figura 1. Etapas de concepção e operação de um aterro. (Fonte: Levy et al., 2006, p. 173) 
+

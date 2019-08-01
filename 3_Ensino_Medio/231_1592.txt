@@ -1,0 +1,24 @@
+ Sendo
+formula_34
+proveniente da análise combinatória. Perceba que o número 5 veio do expoente
+do trinômio (o número de escolhas que teremos que realizar para formar o termo) e os números 2s
+vieram do expoente de cada letra, a letra c também tem seu expoente, sendo 1, já que 1! e 0! ambos
+são iguais a 1 podemos colocar eles na repetição:
+formula_35. Agora temos argumentos suficientes para podermos generalizar o coeficiente de cada termo da espansão
+do trinômio formula_10. Se termo qualquer formula_37 é proveniente da espansão do trinômio acima, ou seja formula_38, então
+seu coeficiente será de formula_39 (permutação de n termos como repetição do a x vezes, do b, y vezes e
+do c z vezes), onde
+formula_40. Para toda a solução da equação formula_38 em com variáveis em x, y e z, o termo formula_37, vai com certeza
+vai existir na espansão de formula_10. Então quantos termos diferentes existem na expansão do triômio? É uma pergunta simples, basta saber quantas soluções tem a equação formula_38. Brincando de análise combinatória:
+Considere a equação, formula_45, quantas soluções em x, y e z ela terá? para formula_46, formula_47, formula_48 temos uma solução, note que a propriedade comum das soluções é
+justamente o que afirma a equação a soma delas tem que obrigatóriamente ser 10, então vamos
+representar o 10 como se fossem 10 bolas (representados por 0s)
+0000000000
+Temos que dividir essas 10 bolas em 3 variáveis(x, y e z). As 10 bolas foram divididas em 3 partes com duas divisórias". Observe os arranjos:
+00|0000|0000 (x=2, y=4, z=4)
+00|000000|00 (x=2, y=6, z=2)
+0000|000|000 (x=4, y=3, z=3)
+000|000|0000 (x=3, y=3, z=4)
+Todos arranjos são soluções da equação formula_38, o que tem em comum neles? Eles são permutações de um arranjo com 10 bolas iguais e 2 divisórias iguais, sendo que
+se você permutar duas bolas ou duas divisórias você continuará na mesma solução. Então a quantidade de soluções existentes é uma Permutação de 12 elementos com repetição
+de 10 bolas e 2 divisórias.

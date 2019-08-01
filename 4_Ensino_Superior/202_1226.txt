@@ -1,0 +1,51 @@
+Cálculo (Volume 3)/Séries alternadas
+São séries da forma:
+formula_1 <br>
+ou <br>
+formula_2
+Seja a série alternada formula_3, formula_4 > formula_5. Se formula_6 e formula_7 > formula_8, então a série converge e a sua soma não ultrapassa o primeiro termo.
+Uma série numérica formula_9 é absolutamente convergente se a série dos
+módulos, formula_10, converge.
+Teorema: Se uma série numérica formula_9 é absolutamente convergente, então é
+convergente.
+Uma série formula_9 convergente, mas não absolutamente convergente, é
+chamada de "condicionalmente convergente".
+Seja formula_13 uma série numérica. Então
+formula_14
+Seja formula_13 uma série numérica. Então
+formula_16
+
+
+Cálculo (Volume 3)/Série geométrica
+A série geométrica é uma muito importante para a matemática e para o estudo do cálculo já que a partir dela pode-se expressar várias funções em séries de potência infinitas. Essa série também é chamada de progressão geométrica ou simplesmente PG (veja alguns exemplos no livro de matemática elementar). Referências a esta série podem ser encontradas no trabalho de e em várias formas da natureza como em .
+Termo geral
+formula_1
+Onde c é uma constante qualquer.
+Soma dos formula_2 primeiros termos:
+formula_3
+
+
+Cálculo (Volume 3)/Aplicação de séries alternadas no cálculo numérico
+Definição: Dada uma série formula_1 que converge, cuja soma é S, a diferença entre S e a sua soma parcial de ordem n é chamada de resto.
+Notação: formula_2
+Teorema: Seja formula_3 > formula_4, uma série
+alternada convergente. Então o módulo do erro, formula_5, cometido ao aproximarmos
+a soma da série S pela soma parcial formula_6, é numericamente inferior ao elemento
+formula_7, ou seja, formula_8 < formula_7
+
+
+Cálculo (Volume 3)/Séries de termos positivos
+formula_1
+Seja formula_2 uma série de termos positivos.
+Seja formula_3 uma função positiva, contínua e decrescente para formula_4,
+e tal que formula_5, para formula_6. Então a série
+formula_7:
+Sejam formula_2 e formula_11, formula_12 > formula_13, tais que formula_14. Então:
+Sejam formula_2 e formula_11, formula_12 > formula_13, tais que formula_14. Se:
+Uma série do tipo formula_31 converge se "p" > 1 e diverge se formula_32.
+Essas séries são conhecidas como "p-séries", e são comumente usadas em testes de comparação.
+Seja formula_2 uma série, onde formula_34 > formula_13. Então:
+formula_36
+Seja formula_2 uma série, onde formula_34 > formula_13. Então:
+formula_40
+

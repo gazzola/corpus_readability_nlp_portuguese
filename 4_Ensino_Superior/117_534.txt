@@ -1,0 +1,30 @@
+Logística/Gestão de armazéns/Configuração de áreas de armazenagem contínuas/Um produto/Armazém com duas portas em lados diferentes
+Supõe-se que existe um armazém com duas portas, uma porta para entregas rodoviárias e outra para entregas ferroviárias, como é representado nas figuras 1 e 2. Atribui-se a cada porta um peso de 0,5. 
+A área da região de armazenagem pode ser expressa em função das curvas de nível, através da seguinte função, para formula_1 (Francis et al., 1992, p. 300):
+formula_2 
+1) formula_3, formula_4
+2) formula_5, formula_6
+3) formula_7, formula_8
+Resolvendo formula_9 em função de formula_10, para formula_11 e com formula_12, tem-se a seguinte expressão: 
+formula_13 
+1) formula_14, formula_15
+2) formula_16, formula_17 
+Se formula_10 é igual a formula_19, formula_9 é aproximadamente formula_21 e formula_22 é igual a formula_23, como representado na figura 1.
+Se formula_10 é igual a formula_25, formula_9 é aproximadamente formula_27 e formula_22 é igual a formula_29, como representado na figura 2. 
+Define-se uma região de armazenagem no primeiro quadrante, onde existem dois pontos de entrada/saída com coordenadas (c,0) e (0,c). O transporte de/para o armazém é rectilíneo e igualmente dividido entre os dois pontos de entrada/saída. Neste caso, existe uma região de distância mínima em vez de um ponto de distância mínima. Portanto todos os pontos na região quadrada têm a mesma distância, c, a partir dos pontos de entrada/saída. As curvas de nível no exterior da zona quadrada estão representadas na figura 3. O valor das curvas de nível delimitam uma área superior a formula_30 e são definidas por (Francis et al., 1992, p. 309-310),
+formula_31
+formula_32
+portanto, 
+formula_33
+A área delimitada pela curva de nível é, para formula_34,
+formula_35
+formula_36
+Portanto, resolvendo em ordem a formula_22,
+formula_38 , com formula_39.
+Para um determinado formula_40, a distância esperada a percorrer vai ser dada por,
+formula_41 = formula_42 (1)
+formula_43
+com 
+formula_44
+Na equação (1) o primeiro termo representa o valor da curva de nível sobre a região quadrada formula_45, aplicada a uma região com área formula_30. O segundo termo representa a contribuição dada pela área formula_47. O valor da curva de nível varia entre formula_45 e o valor formula_49. Com isto, se formula_50, formula_51 e formula_52, então formula_53. Neste caso formula_54 e o valor máximo de formula_55 é formula_56. O resultado da região de armazenagem tem quase as dimensões da região quadrada (formula_57), excepto para a remoção da área com formula_58 a partir do canto superior direito do quadrado. 
+

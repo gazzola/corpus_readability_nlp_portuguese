@@ -1,0 +1,12 @@
+ Matemática elementar/Conjuntos/Números racionais
+Fração é um número que exprime uma ou mais partes iguais que divida uma unidade ou um inteiro. Assim, por exemplo, se tivermos uma pizza inteira e a dividirmos em quatro partes iguais, cada parte representará uma fração da pizza. Na matemática, um número racional (ou, vulgarmente, fração) é uma razão entre dois inteiros, geralmente escrita na forma formula_1 onde formula_2 é um número inteiro diferente de Zero. Exemplos:
+A adição e multiplicação de racionais é dada da seguinte forma:
+Exemplo:
+Dois números racionais "a"/"b" e "c"/"d" são iguais apenas se "ad" = "bc". O conjunto de todos os números racionais é Q, ou:
+Cada número racional pode ser escrito de diversas formas, como, por exemplo, 3/6 = 2/4 = 1/2. A forma mais simples é quando a e b não possuem divisores em comum, e todo racional tem uma forma como esta. A expansão decimal de um racional é finita ou periódica, propriedade que caracteriza os números racionais. De modo simples, pode-se dizer que uma fração de um número, representada de modo genérico como formula_13 designa este número formula_14 dividido em formula_15 partes iguais. Neste caso, formula_14 corresponde ao numerador, enquanto formula_15 corresponde ao denominador. Por exemplo, a fração formula_18 designa o quociente de formula_19 por formula_20 Ela é igual a formula_21 pois formula_22 x formula_23 = formula_24 
+Nota: A divisão é a operação inversa da multiplicação. Os números expressos em frações são chamados de números racionais. O conjunto dos racionais é representado por formula_25 
+formula_11 = formula_34 
+formula_35 = formula_36
+formula_37 = formula_38 (a) 
+formula_39 = formula_40 (b)
+Os decimais periódicos são denominados dízimas periódicas. As dízimas periódicas podem ser simples como no exemplo (a) ou compostas como no exemplo (b). A fração que originou a dízima periódica é denominada de fração geratriz e a parte que repete na dízima é denominada período. A fração geratriz é obtida usando-se como numerador o período e como denominador um número formado por tantos noves quantos forem os algarismos do período.

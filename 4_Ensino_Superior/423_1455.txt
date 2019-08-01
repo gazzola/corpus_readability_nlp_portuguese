@@ -1,0 +1,17 @@
+ Cálculo (Volume 2)/Funções de várias variáveis/Funções
+Funções de duas variáveis são muito comuns em nosso cotidiano, em termos gerais os sistemas físicos reais raramente dependem de uma só variável, na verdade nós tendemos a simplificar nossas análises para o universo limitado de nossos conhecimentos. Veremos neste sub-capítulo as diversas formas de representação de funções que usam duas ou mais variáveis e um estudo completo destas formas. Uma função de duas variáveis é a representação de um valor resultante de operações sobre estas variáveis, basicamente representa-se por:
+formula_1
+Em termos gerais uma função de duas variáveis é o resultado de um conjunto de regras que operam dois valores independentes o qual resulta na imagem representada por uma variável dependente. Da mesma forma que temos em funções de uma variável independente, estas funções possuem um conjunto de valores admitidos como válidos para que suas variáveis independentes não induzam a mesma a produzir valores inválidos, definimos o domínio como um conjunto de valores cujo produto cartesiano é expresso como:
+formula_2
+Se formula_3 é o domínio de formula_4 podemos admitir que os valores que resultam das operações da função sobre este domínio produzem uma imagem formula_5, a qual é representação do conjunto de todos os valores que resultam da função sobre os pares em formula_3
+formula_7
+Seja a função: 
+formula_8
+cujo domínio é formula_9, calcule os valores da imagem para os pares de domínio: formula_10. Façamos:
+formula_11
+formula_12
+formula_13
+formula_14
+formula_15
+formula_16
+Existem diversas maneiras de representar funções com mais de uma variável independente sob a forma de gráficos, Para o nosso entendimento inicial veremos os gráficos cartesianos, que trazem uma representação bastante apropriada para a maioria dos estudos que precisamos fazer. Uma função de duas variáveis pode ser traçada sob um gráfico tridimensional, tal que os eixos formula_17 e formula_18 sejam representações das variáveis independentes e o eixo formula_19 seja representação dos valores da função. Sob a óptica comum, este tipo de representação forma um conjunto de pontos que se assemelham a uma película que cobre o plano formula_20 a uma certa distância média.

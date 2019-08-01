@@ -1,0 +1,22 @@
+Introdução à Química/Propriedades da matéria
+Essa propriedade se relaciona com o tamanho do átomo e para comparar esta medida é preciso levar em conta dois fatores:
+Energia necessária para remover um ou mais elétrons de um átomo isolado no estado gasoso: quanto maior o átomo, menor será a energia de ionização.
+É a energia liberada quando um átomo isolado, no estado gasoso, "captura" um elétron.
+Quanto menor o tamanho do átomo, maior será sua afinidade eletrônica.Infelizmente, a medida experimental de afinidade eletrônica é muito difícil e, por isso, seus valores são conhecidos apenas para alguns elementos químicos. Além disso essa propriedade não é definida para os gases nobres.
+Designa o volume ocupado por um mol átomos de um elemento numa fase condensada (líquida ou sólida). É expresso em cm3/mol. Assim, o volume atômico sempre se refere ao volume ocupado por 6,02 . 10²³ átomos e pode ser calculado relacionando-se a massa desse número de átomos com sua densidade. Assim temos:
+Volume Atômico = massa de 6,02 . 10²³ átomos do elemento x densidade do elemento no estado sólido
+Para os gases usa-se a densidade da fase líquida no ponto de ebulição.
+Por meio de medidas experimentais, verifica-se que: numa mesma família, o volume atômico será aumentado com o aumento do raio atômico; num mesmo período, o volume atômico cresce do centro para as extremidades.
+Densidade:
+Assim, os elementos de maior densidade estão situados na parte central e inferior da tabela, sendo o Ósmio (Os) o elemento mais denso (22,5 g/cm3).
+O ponto de fusão designa a temperatura à qual uma substância passa do estado sólido ao estado líquido.Ponto de fusão é a temperatura na qual a substância sólida está em equilíbrio com a substância que dela se obtêm por fusão. Nos períodos, de maneira geral, os PF crescem da extremidades para o centro da tabela.
+É temperatura na qual uma substância passa do estado líquido para o estado gasoso.
+Os elementos de maior ponto de ponto de ebulição (PE) estão situados na parte superior da tabela.
+PE crescem da extremidades para o centro da tabela.
+Eletronegatividade
+É a forca de atração exercida sobre os elétrons de uma ligação.
+A eletronegatividade dos elementos não é uma grandeza absoluta, mas, sim, relativa. Ao estudá-la, na verdade estamos comparando estamos comparando a força de atração exercida pelos átomos sobre os elétrons de uma ligação. Essa força de atração tem uma relação com o RAIO ATÔMICO: Quanto menor o tamanho de um átomo, maior será a força de atração, pois a distância núcleo-elétron da ligação é menor. Também não é definida para os gases nobres.
+Eletropositividade é a capacidade de um átomo perder elétrons, originando cátions.
+Os metais apresentam elevadas eletropositividades, pois uma de suas características é a grande capacidade de perder elétrons. Entre o tamanho do átomo e sua eletropositividade, há uma relação genérica, uma vez que quanto maior o tamanho do átomo, menor a atração núcleo-elétron e, portanto, maior a sua facilidade em perder elétrons. Também não está definida para os gases nobres.
+A reatividade de um elemento químico está associada à sua maior ou menor facilidade em ganhar ou perder elétrons. Assim, os elementos mais reativos serão tantos os metais que perdem elétrons com maior facilidade, quanto os ametais que ganham elétrons com maior facilidade.
+

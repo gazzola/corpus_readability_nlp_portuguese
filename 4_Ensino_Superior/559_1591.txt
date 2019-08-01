@@ -1,0 +1,31 @@
+ Logística/Gestão de existências/Encomendas únicas/Procura variável, tempo de aprovisionamento conhecido
+De acordo com Tersine (1988, p.304-305) , quando e procura é variável e o tempo de aprovisionamento é conhecido, o problema de existências relacionado com as encomendas únicas consiste na definição do tamanho da encomenda. Se a procura não é conhecida, mas se disponibiliza de uma distribuição da probabilidade da procura, o problema pode ser resolvido com uma tomada de decisão sob risco. É seleccionado o tamanho da encomenda com maior lucro ou com o menor custo esperados. O procedimento, para a tomada de decisão sob risco, é determinar a estratégia da procura que conduza a um valor óptimo esperado. A probabilidade da procura ser menor ou igual à quantidade única de encomenda, para uma distribuição discreta, é a seguinte:
+formula_1,
+onde
+"Q" = quantidade da encomenda única, em unidades,
+"M" = procura em unidades (uma variável aleatória),
+"P(M)" = probabilidade de uma procura de "M" unidades,
+"formula_2" = procura máxima, em unidades. A probabilidade da procura exceder a quantidade de encomenda única, é:
+formula_3. O procedimento, para calcular o valor esperado para cada estratégia de procura discreta, formula_4, é:
+formula_5
+formula_6
+formula_7,
+onde F(Q_iM_j) é o resultado da estratégica da procura, formula_4, quando a procura actual está no estado de natureza formula_9. A determinação dos resultados pode assumir duas formas, consoante a quantidade encomendada (formula_4), é menor ou maior do que o nível da procura (formula_9). Quando os resultados são expressos em termos de lucro ou benefício, aplicam-se as seguintes relações: 
+formula_12
+formula_13 para formula_14 (condição de ruptura de "stock"),
+formula_12
+formula_16 para formula_17 (condição de excesso de "stock"),
+onde
+"J" = lucro ou benefício unitário,
+"l" = perda por disponibilidade de "stock" não utilizado, 
+"formula_4" = quantidade única de encomenda de "i" unidades,
+"formula_9" = nível de procura de "j" unidades,
+"formula_20" = número de unidades em excesso de "stock". Quando os resultados são expressos em termos de custo ou sacrifício, aplicam-se as seguintes relações:
+formula_12
+formula_22 para formula_23 (condição de excesso de produção),
+formula_12
+formula_25 para formula_26 (condição de subprodução),
+onde
+"P" = custo unitário,
+"A" = custo de ruptura de "stock", por unidade,
+"formula_27" = tamanho da ruptura de "stock", em unidades.

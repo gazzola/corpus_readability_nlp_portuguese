@@ -1,0 +1,103 @@
+Mecânica dos fluidos/Exercícios resolvidos/E15
+Deduzir a expressão para o valor do coeficiente de energia cinética para um escoamento turbulento a partir da Lei da Potência.
+De acordo com a definição de coeficiente de energia cinética
+formula_1
+De acordo com a Lei da Potência, 
+formula_2
+Como deduzido no exercício E5, a relação entre a velocidade média e a velocidade do escoamento no centro do tubo é
+formula_3
+e a vazão será
+formula_4
+Assim,
+formula_5
+formula_6
+formula_7
+formula_8
+formula_9
+formula_10
+formula_11
+formula_12
+formula_13
+Para escoamentos plenamente turbulentos,
+formula_14
+
+
+Mecânica dos fluidos/Exercícios resolvidos/F4
+Obter grupos adimensionais Π necessários para a determinação experimental da ascensão capilar h que ocorre quando um tubo de diâmetro D é inserido em um líquido de densidade ρ e tensão superficial γ. 
+As variáveis originais serão:
+As k = 3 dimensões envolvidas, como se vê, são [M], [L] e [t].
+Como são 4 as variáveis originais, apenas um grupo adimensional será necessário. A equação dimensional será:
+formula_1
+formula_2
+formula_3
+formula_4
+formula_5
+O que leva a
+formula_6
+que claramente não atende às necessidades do problema. Isso podia ser verificado logo de início, porque o teorema de Buckingham indica que h e D, possuindo a mesma dimensão, precisam formar um grupo Π; como são apenas 4 variáveis, esse grupo é o único. Ora, isso impede que as demais dimensões básicas, M e t, sejam adequadamente tratadas.
+O que aconteceu, neste caso, é que faltaram uma ou mais variáveis na lista. Vamos tentar novamente, acrescentando a aceleração da gravidade, g (dimensão [Lt]. Escolhendo ρ, D e g como variáveis repetidas, teremos
+formula_7
+formula_8
+formula_3
+formula_10
+formula_11
+formula_12
+formula_13
+formula_14
+O que resulta em
+formula_15
+Esse problema mostra que a aceleração da gravidade, g, mesmo sendo uma constante, precisa ser levada em conta, para garantir a homogeneidade dimensional da solução.
+
+
+Mecânica dos fluidos/Exercícios resolvidos/E11
+Repetir o exercício E8, considerando que o diâmetro do duto é de 100 mm.
+O Número de Reynolds será
+formula_1
+O escoamento é turbulento. A rugosidade relativa será agora
+formula_2
+O fator de fricção, de acordo com a fórmula de Miller, é:
+formula_3
+Para validar a aproximação, joguemos esse valor na fórmula de Colebrook
+formula_4
+formula_5
+formula_6
+ou seja, o erro acarretado pelo uso da fórmula de Miller é pequeno também neste caso.
+De acordo com o Diagrama de Moody, para a rugosidade relativa de 0.0015 e N de 130000, o fator de atrito estaria abaixo de 0.025.
+A perda de carga será dada por
+formula_7
+formula_8
+A perda de pressão será dada por
+formula_9
+O aumento do diâmetro do tubo em 67% diminuiu a perda em mais de 10 vezes, apesar de o fator de fricção ter permanecido mais ou menos o mesmo.
+
+
+Mecânica dos fluidos/Equações básicas para o líquido Newtoniano
+Um líquido Newtoniano é um fluido incompressível com viscosidade constante. Muitos líquidos de interesse são líquidos Newtonianos. As equações básicas apresentam uma forma muito simplificada quando comparadas às equações gerais, embora não tanto quanto no caso do líquido ideal.
+Portanto, para um líquido Netoniano, teremos
+formula_1
+Vamos aplicar essa simplificação às equações básicas em suas diversas formas (para sistemas, integral e diferencial) e obter as equações resultantes.
+A equação de continuidade em forma diferencial
+formula_2
+quando aplicada a um líquido Newtoniano, simplifica-se para
+formula_3
+a mesma forma assumida no caso do líquido ideal. 
+Conforme visto anteriormente, as equações de Navier-Stokes 
+formula_4
+formula_5
+formula_6
+formula_7
+formula_8
+formula_9
+derivadas do princípio de conservação do momento linear, descrevem a dinâmica de um volume diferencial de fluido, juntamente com a equação de continuidade, mas são extremamente difíceis de resolver. No caso de um líquido Newtoniano, considerando-se a viscosidade constante e lançando mão da equação de continuidade
+formula_10
+e da igualdade
+formula_11
+formula_12
+a equação de Navier-Stokes referente ao eixo X se reduz a
+formula_13
+formula_14
+formula_15
+Similarmente, para os outros eixos
+formula_16
+formula_17
+

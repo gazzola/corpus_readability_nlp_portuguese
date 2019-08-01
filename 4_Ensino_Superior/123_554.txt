@@ -1,0 +1,11 @@
+Logística/Serviço ao cliente/Variabilidade do serviço ao cliente/Função perda
+A qualidade da logística do serviço ao cliente pode ser avaliada através da eficiência dos seus processos, tais como, prazos de entrega, frequência de existências disponíves, atendimento e outras variáveis do serviço. A qualidade tem de estar sempre presente no serviço ao cliente. A função perda de Genichi Taguchi ajuda a gerir os processos que produzem os níveis de serviço ao cliente. Taguchi diz que se o serviço ao cliente não tiver a qualidade desejada, vai conduzir a custos imprevistos, desperdicios, redução da fidelidade dos clientes e perda de oportunidades. No passado, o serviço ao cliente era considerado de qualidade desde que estivesse dentro de determinados parâmetros considerados satisfatórios. Taguchi afirma que as perdas aumentam a um ritmo crescentemente acelerado à medida que os níveis da qualidade do serviço ao cliente se afastam do alvo, de acordo com a seguinte fórmula: 
+formula_1 
+em que formula_2 é a perda em UM por unidade, formula_3 o valor da variável qualidade, formula_4 o valor-alvo da variável qualidade a atingir, e formula_5 uma constante que depende da importância financeira da variável qualidade.
+A função perda, depois de conhecida, dá um valor à distância que o serviço prestado ficou da meta pretendida. Esta função, em conjunto com os custos de ajustamento, permite a optimização de um determinado serviço, reduzindo o nível de variabilidade da qualidade.
+Um serviço de entrega de encomendas é um bom exemplo neste caso. A empresa tem de fazer a entrega até às 10h do dia seguinte em que a encomenda fica pronta e cada atraso superior a 2 horas tem um custo de 10 UM, na forma de desconto para o cliente. Convertendo esta penalidade numa função custo pode-se calcular a variável formula_5:
+formula_7 
+formula_8 
+formula_9 
+O custo da entrega diminui à medida que o desvio do prazo de entrega aumenta. Os custos do processo são mais elevados quando não é permitido desvio do valor-alvo. A soma do custo do processo e do custo da penalidade é o custo total que a empresa dispende pelo serviço prestado (Ballou, p. 109-110).
+

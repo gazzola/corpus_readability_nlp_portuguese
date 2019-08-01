@@ -1,0 +1,19 @@
+Logística/Gestão de desperdícios e rejeitados/Resíduos agrícolas/Classificação dos resíduos
+Numa exploração agrícola são produzidos diversos resíduos de diferentes naturezas que são classificados em diversas categorias, são deles exemplo:
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de movimentação de materiais/Veículos Industriais/Automated
+Em geral, este sistema pode ser dividido em três categorias básicas: o sistema padrão com controlos electrónicos básicos, o sistema avançado com microprocessadores ou controlos electrónicos sofisticados, e o sistema com microprocessadores e interface com outros sistemas para possibilitar a total automação do transporte de materiais.
+Sistema padrão com controlos electrónicos básicos – Esta classe do sistema é simples no seu conceito e operação. Pode envolver três ou quatro estações de paragem e apenas um ou dois veículos associados a reboques.
+Sistema avançado com microprocessadores ou controlos electrónicos sofisticados – Onde um determinado número de veículos é necessário e as linhas são mais longas e as rotas mais complexas. A sua enorme sofisticação permite o uso autónomo e automático de estações de carga/descarga e controlo remoto ou automático dos veículos. Como existem mais controlos a bordo dos veículos este sistema torna-se mais dispendioso. O aumento do número de balizas de bloqueio em zonas do chão, a complexidade da linha de guia, tal como a alimentação da mesma torna todo o sistema mais caro também.
+Sistema com microprocessadores e interface com outros sistemas – Criar a ligação entre vários sistemas e sistemas autónomos dentro do mesmo local de trabalho permite e oferece inúmeras vantagens. Contudo o aumento da complexidade do sistema requer mais engenharia, software, e uma despesa adicional no planeamento do sistema mais o custo dos controlos sofisticados.
+
+
+Logística/Sistemas de distribuição
+
+
+Logística/Sistemas de distribuição/Problema do caixeiro viajante/Problema do caixeiro viajante: Aplicações
+Muitos dos dos primeiros trabalhos do Problema do Caixeiro Viajante, foram motivados por aplicações directas, por exemplo Flood considerou o planeamento de uma rede Autocarros escolares através de inquéritos. Contudo, o melhor argumento para o continuo interesse no PCV é o seu enorme sucesso como motor de descobertas, e o seu crescente número de novas aplicações. O que faz com que os matemáticos se mantenham concentrados nos aspectos computacionais do problema.
+Uma das aplicações mais comuns do problema do caixeiro viajante (PCV) é o movimento de pessoas, materiais e veículos, no seu dia a dia. Uma dessas aplicações tá ligada a vendedores e turismo, onde os pacotes de pesquisa de viagens pessoais incluem um método de resolução do PCV. Outra aplicação pode-se verificar nos autocarros escolares, que tem como problema agendar e organizar um percurso para recolher os alunos, que conseguem optimizar essa recolha através duma solução do CPV. Temos também os correios que é um "caso vital" da aplicação do PCV, que hoje em dia é muitas vezes modelado para fazer o carteiro atravessar um determinado número de ruas numa cidade. E mostrou ser bastante eficaz quando o conjunto de ruas estão ligadas, não obstante o PCV efectua um importante papel nos problemas de correio no geral onde as as casa ou ruas estão afastadas entre si. 
+Em 1940, Mahalanobis e Jessen nos estudos de vistorias culturais, são dos primeiros exemplos de PCV no planeamento de inspeções a locais remotos. Estes casos de aplicações logicas acontecem em muitos outros contextos, como por exemplo para uma empresa de petróleo que tinha de inspecionar um conjunto de 47 plataformas, entre outros.
+

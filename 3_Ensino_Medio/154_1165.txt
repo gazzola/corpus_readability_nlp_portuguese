@@ -1,0 +1,16 @@
+Coding for noobs - Aprenda Lógica de Programação/Manifesto
+Livros sobre informática normalmente são muito conceituais. Há uma linguagem carregada de termos técnicos e conceitos aparentemente sem sentido. Nós tentamos ir pelo caminho contrário. Acreditamos que a curva de aprendizado deve ser tênue e não uma função exponencial, como ocorre na maioria dos cursos de Tecnologia da Informação. A ideia deste livro é introduzir você, leitor, nos conceitos iniciais que envolvem a Lógica de Programação. Para isso:
+Você sabia que a garantia de que o aluno aprendeu é quando ele é capaz de ensinar a outra pessoa ? Ao decorrer deste livro, incentivaremos a curiosidade e a contribuição de todos nos capítulos e nos exercícios. Não queremos ser chatos, queremos que todos os nossos leitores possam perpetuar o conhecimento que obtiveram por aqui. Caso você se sinta a vontade a contribuir com o nosso projeto, por favor, siga as regras acima. 
+Boa leitura :D
+
+
+Coding for noobs - Aprenda Lógica de Programação/Lista
+Agora, imagine a seguinte situação:
+"Roberto precisa guardar 100 valores na memória do computador"
+Com o que você já aprendeu, você saberia resolver esse problema ?
+ÉÉrr.. Seria meio complicado criar 100 variáveis, uma para cada valor que Roberto precisa alocar, certo ? É aí que entra um outro conceito muito importante na computação, a Lista(Array, Vetor, Matriz..). Uma Lista constitui um nome que damos para um conjunto de espaços na memória do computador. Ou seja, no problema de Roberto, não precisaríamos criar 100 variáveis para guardar cada valor que ele precisa. Bastaria criar apenas uma Lista que conteria todos os 100 valores que Roberto quer guardar.
+Para acessar cada valor da lista, usamos um índice, que nada mais é do que um número que representa a posição do valor que queremos manipular. Ou seja, se quisermos acessar o primeiro valor de uma lista de cem valores chamada "lst", usamos essa notação:
+codice_1
+Em algumas linguagens de programação, o conceito de Lista, ou de Array, possui algumas complicações:
+Com base no conceito de variáveis e de Listas, aprendemos duas coisas:
+

@@ -1,0 +1,18 @@
+ Logística/Localização/Localização em redes/Localização em redes em árvore/Localização central
+O objectivo é localizar uma nova instalação num ponto formula_1,de uma rede em árvore, que minimize o máximo das distâncias ponderadas entre a nova instalação e as instalações existentes localizadas nos nós da árvore, formula_2. Este ponto designa-se por centro absoluto (Francis, 1992, p. 405-411). A nova instalação deve ser localizada de modo a minimizar um tempo, custo ou perda: a preocupação é com o pior caso que se quer tornar no menor mal possível. Se formula_3 for o máximo das distâncias ponderadas entre formula_4 e os nós da árvore, tem-se:
+formula_5
+O centro absoluto formula_1 é um ponto na árvore que minimiza formula_3. O centro absoluto não ponderado localiza-se a meio do caminho mais longo da árvore, de onde se poder usar o algoritmo particularmente simples, seguinte, para resolver o problema. Algoritmo para Determinar o Centro Absoluto Não-Ponderado
+1. Escolher um nó qualquer, formula_8
+2. Encontrar uma ponta da árvore, formula_9, que esteja mais afastada de formula_8
+3. Encontrar uma ponta da árvore formula_11, que esteja mais afastada de formula_9. O ponto a meio do caminho que liga formula_9 a formula_11 é o único centro absoluto. Figura 9.12.1.2.1 Rede em árvore 
+Para determinar a localização central de um centro de distribuição, na árvore da Figura 9.12.1.2.1, escolhe-se por exemplo formula_15. formula_16 é a ponta da árvore mais afastada de formula_15. formula_15 é a ponta da árvore mais afastada de formula_16. Então o centro absoluto formula_1,localiza-se o no arco formula_21. O valor óptimo da função objectivo é:
+formula_22
+Procedimento para Determinar o Centro Absoluto Ponderado
+Primeiro calcule-se formula_23. Então formula_24 é o ponto único no caminho que liga os nós formula_25 e formula_26 que satisfaz as seguintes equações:
+formula_27
+formula_28
+formula_29
+formula_30
+Portanto, formula_31 é o menor valor de formula_32, que, por sua vez, é o menor valor da função objectivo do problema do centro absoluto. formula_33
+Para calcular formula_23, o maior valor da matriz formula_35, o procedimento é o seguinte:
+1.

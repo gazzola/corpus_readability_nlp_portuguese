@@ -1,0 +1,82 @@
+Mecânica dos fluidos/Tabela: viscosidade de algumas substâncias
+<noinclude>
+<noinclude>
+obs: 1 cP = 1 centiPoise = 0.01 Poise = 0.001 Poiseuille
+Ref. Medição de nível, interface e viscosidade de líquidos
+
+
+Mecânica dos fluidos/Exercícios resolvidos/C6
+Ar ingressa num compressor a uma velocidade de 0.01 m/s, pressão de 1 atm e temperatura de 25 °C e deixa-o a pressão de 3 atm e a uma temperatura de 50 °C, através de uma abertura de 30 cm. Calcular a taxa de transferência de calor se a vazão mássica é de 10 kg/s e a potência do compressor é de 600 HP.
+c = 1000 J.kg.K
+R = 290 J.kg.K
+Como neste problema temos um eixo que realiza trabalho, deve-se usar a seguinte forma da equação da primeira lei da termodinâmica:
+formula_1
+Escolhendo-se o volume de controle em torno do compressor, com a superfície de controle perpendicular ao fluxo, desprezando-se os efeitos da viscosidade e considerando que a energia se distribui uniformemente pelo compressor, teremos
+formula_2
+formula_3
+o que mostra por que essa forma da equação é a mais conveniente no caso presente.
+A energia interna u é em parte termodinâmica e em parte gravitacional (u = u + gz). Introduzindo a grandeza entalpia específica
+formula_4
+podemos escrever
+formula_5
+formula_6
+formula_7
+Mas, da equação de continuidade
+formula_8
+formula_9
+Assim
+formula_10
+formula_11
+Assumindo que o ar obedece à equação de estado do gás ideal, ΔH = C ΔT, onde C é a capacidade calorífica a pressão constante, e Δh = c ΔT, onde c é a capacidade calorífica específica a pressão constante
+formula_12
+A equação de estado do gás ideal diz que
+formula_13
+onde m é o peso molecular do gás e R = R/m é a constante específica para o gás.
+Assim, podemos calcular a velocidade v:
+formula_14
+formula_15
+formula_16
+formula_17
+formula_18
+O valor é negativo porque o calor deixa o volume de controle.
+
+
+Mecânica dos fluidos/Exercícios resolvidos/E7
+Deduzir a fórmula para a tensão nas paredes de um tubo onde ocorre escoamento turbulento com Número de Reynolds até 100000.
+Neste caso, precisamos de uma fórmula para o fator de atrito, não sendo possível usar o Diagrama de Moody. Como N ≤ 100000, podemos usar a fórmula de Blasius:
+formula_1
+Como 
+formula_2
+formula_3
+Assim, podemos escrever
+formula_4
+Mas a tensão na parede é dada por
+formula_5
+o sinal negativo se justifica porque a tensão na parede tem a mesma intensidade e sentido contrário da tensão no fluido. Em um exercício resolvido, encontramos a fórmula para a tensão cisalhante em fluxo laminar
+formula_6
+Assim,
+formula_7
+formula_8
+Como sabemos, a teoria e a evidência experimental apontam para um escoamento nas paredes muito próximo ao laminar. Assim, a fórmula acima valeria também para o caso de escoamento turbulento examinado. Na prática, a expressão que se usa é ligeiramente diferente
+formula_9
+
+
+Mecânica dos fluidos/Exercícios resolvidos/C10
+Um pistão move-se horizontalmente dentro de um cilindro cheio de gás, atingindo a velocidade de 12 m/s quando distante 0.15 m da parede lateral. Neste momento, a densidade do gás é de 18 kg/m e uniforme dentro do cilindro. A velocidade do gás varia linearmente a partir do repouso para pontos adjacentes à parede lateral até v para pontos adjacentes ao pistão. Derive uma expressão para o valor da densidade média no cilindro e calcule taxa de variação da densidade nesse instante.
+Escolhamos a origem dos eixos coordenados sobre a parede lateral do cilindro. Do enunciado, a velocidade do gás é dada por
+formula_1
+Assim
+formula_2
+Além disso, podemos escrever formula_3
+Logo
+formula_4
+De acordo com a equação de continuidade
+formula_5
+pois v = v = 0. Assim
+formula_6
+pois, de acordo com o enunciado, a densidade não varia com a posição x dentro do cilindro, apenas com o tempo. Logo,
+formula_7
+formula_8
+formula_9
+formula_10
+

@@ -1,0 +1,84 @@
+ Cálculo (Volume 2)/Aplicações de funções vetoriais
+Costumeiramente, desenvolvemos um método para calcular o comprimento de arco de curvas, nesta seção veremos um método que visa generalizar as disposições anteriores unificando-as em uma fórmula comum. Conforme já vimos anteriormente, uma função paramétrica em um plano tem como comprimento de arco, a resultante da seguinte fórmula:
+formula_1
+Coincidentemente, a função vetorial: formula_2, terá derivada igual a: formula_3, que representa um vetor de módulo igual a:
+formula_4
+Ocorre que, da mesma forma observada no caso anterior, uma curva no espaço tem o seu comprimento de arco definido pela equação que também já conhecemos:
+formula_5
+Que nos revela uma característica comum para todas as famílias de curvas, aparentemente, em todas as dimensões, de apresentarem o comprimento de arco, no caso das mesmas serem contínuas, igual à integral do módulo da derivada da função vetorial que as define em relação ao parâmetro: 
+formula_6
+Não é raro o uso do comprimento de arco de uma curva para defini-la segundo um parâmetro independente do sistema de coordenadas, isto é possível porque quando nos referenciamos ao comprimento de arco da curva, qualquer sistema de coordenadas será excluído da definição da função que resulta na curva. Este artifício possibilita que façamos o estudo das características de uma curva sem que nos preocupemos com o sistema de eixos na qual a mesma foi definida. A definição de uma curva em termos de seu comprimento de arco baseia-se na parametrização da mesma, onde o parâmetro é o comprimento da curva. Fazemos uso da fórmula:
+formula_7
+Para definir uma função comprimento de curva; a mesma é composta da integral definida de formula_8, que aqui comparamos com a equação anterior e podemos deduzir ser igual a formula_9 quando substituimos os parâmetros. Devemos considerar a curva formula_10 contínua no intervalo formula_11 cuja variável independente passa a ser formula_12, donde temos:
+formula_13
+Como comprimento de arco da mesma entre os pontos onde o parâmetro está definido em: formula_14
+Podemos encontrar uma função formula_15, tal que: 
+formula_16
+depois encontrar a inversa da fução que define o comprimento:
+formula_17
+formula_18
+De fato, agora t é função do comprimento da curva, portanto temos:
+formula_19
+Se formula_20 é uma curva definida em termos de formula_21, podemos substituir o parâmetro pelo comprimento de curva, tal que tenhamos:
+formula_22
+Calcular o comprimento de arco da curva formula_23 entre os pontos formula_24 e formula_25. Primeiro encontremos a derivada da função:
+formula_26
+Cujo módulo é:
+formula_27
+formula_28
+Ainda, devemos verificar os valores do parâmetro para os pontos dados:
+Logo, o comprimento de arco é:
+formula_31
+formula_32
+Definir a curva formula_34 em função de seu comprimento de arco, para o domínio do parâmetro a partir de zero com crescimento de valores positivos. Encontremos o comprimento de arco da curva em relação ao parâmetro:
+A derivada da função é,
+formula_35
+Da qual substituimos a variável e calculamos o comprimento de arco:
+formula_36
+formula_37
+formula_38
+formula_39
+formula_40
+Logo, a sua inversa é:
+formula_41
+O que nos fornece a função vetorial com relação ao comprimento de arco:
+formula_42
+Consideremos a curva formula_43 contínua em todo o seu domínio, cujas variações podem ser percebidas com mudanças dos valores de seu versor tangente formula_44. Dizemos que a medida da variação da direção da curva em relação ao comprimento de arco da mesma é chamada de curvatura, a qual podemos representar por:
+formula_45
+A medida da curvatura é um valor independente do sistema de coordenadas que define a curva, visto que o mesmo é calculado com base no comprimento de arco da mesma, porém seu cálculo, como definido acima, traz diversos inconvenientes quando temos que definir o comprimento de arco da curva para ter condições de calculá-la. Este teorema simplifica o cálculo da curvatura de uma função vetorial. Demonstração:
+Temos, pela definição:
+Que para qualquer curva que tenha seu versor tangente: formula_46 e seu comprimento de curva: formula_47 a curvatura será:
+formula_48
+onde formula_49
+Por outro lado, se:
+formula_50
+Então:
+formula_51
+Também temos:
+formula_52
+Notemos que:
+formula_53
+formula_54
+formula_55
+Derivando a função mais uma vez, temos:
+formula_56
+Façamos o produto vetorial:
+formula_57
+formula_58
+Este resultado parcial admite duas simplificações:
+Implicando em:
+Sendo T um versor:
+formula_63
+formula_64
+formula_65
+Calculemos o vetor normal ao plano que contém a partícula em movimento:
+formula_67
+formula_68
+Cujo versor é:
+formula_69
+Podemos encontrar o versor formula_70:
+formula_71
+formula_72
+Sendo formula_74, temos:
+formula_75
+E temos definidos todos os componentes.

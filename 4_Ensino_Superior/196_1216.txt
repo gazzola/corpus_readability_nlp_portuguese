@@ -1,0 +1,30 @@
+Análise real/Créditos
+Este livro é resultado do conhecimento, do empenho e da dedicação de várias pessoas, que acreditam que o conhecimento deve ser de todos os que aspiram obtê-lo, sendo a doação um ato que é recompensado pela satisfação em difundir o saber.
+Wikilivristas que cooperaram com o desenvolvimento e manutenção deste wikilivro:
+
+
+Análise real/Desigualdades
+Um número "m" é menor que o outro "n", se existe um natural "p" tal que o maior "n" é igual ao menor "m" adicionado a esse natural "p":
+É considerada uma definição, mesmo que possamos provar. Pois o "p" indica que se somarmos 1 p-vezes ao menor número, teremos o maior. Dessa maneira "m" é dito menor que "n".
+ Teorema: formula_5. Pela definição da Relação de ordem, formula_6.
+Prova:
+ Mostre que formula_9
+ Mostre que formula_16
+Dados dois naturais, a relação de ordem não se perde somando ou multiplicando um natural qualquer por ambos os membros.
+Prova:
+Dados formula_28. Das três possibilidades, somente uma é verdadeira:
+Sejam formula_43
+Dados m,n,p naturais, de forma que formula_53 ou que formula_54, então ocorre em ambas que m < n.
+
+
+Análise real/Bibliografia
+163p.]
+Este wikilivro está sendo feito em maior parte pela tradução dos livros-virtuais:(1),(2); e procurando não estar muito longe dos conceitos apresentados pelos livro-textos usados nas melhores universidades
+
+
+Análise real/Objetivo
+O objetivo principal deste livro é que qualquer pessoa que tenha feito um bom curso de cálculo, e que esteja interessado em aprender análise, fique satisfeito depois de uma longa leitura desses textos. É claro que, às vezes, uma única leitura é insuficiente, pois se trata de conceitos abstratos. Abaixo temos o que chamamos de requisitos básicos. O que temos que saber primeiro para que entendamos tudo quanto está escrito no livro de análise.
+Existe um grande pulo entre fazer um simples curso de cálculo (na licenciatura ou áreas práticas, como engenharias, física, ...) e fazer um rigoroso curso de cálculo no bacharelado nos livros rigorosos como Guidorizzi.
+Assim em vez de fazermos um livro só para desfazer essa diferença, no final do livro de análise, estaremos colocando certos conceitos que o leitor tem que ter em mãos, esta que é a diferença citada acima.
+Talvez algum dia, esses conceitos possam ser separados num novo livro.
+

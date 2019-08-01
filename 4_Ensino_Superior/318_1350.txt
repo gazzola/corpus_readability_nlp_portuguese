@@ -1,0 +1,32 @@
+ formula_21
+formula_22
+Como não há nenhuma troca de calor com o meio ambiente (q = 0), a primeira lei se escreve:
+formula_23
+Porém, para qualquer processo com um gás perfeito, temos: 
+formula_24
+Em conseqüência:
+formula_25
+que fica, para um processo reversível:
+formula_26
+Integrando entre o estado inicial 1 e o estado final 2:
+formula_27
+</Br>
+formula_28
+definindo:
+formula_29
+e sabendo que, para um gás perfeito,:formula_30
+As relações em cima mostram que a dilatação adiabática reversível de um gás perfeito provoca o resfriamento do gás. Por exemplo, num diagrama P(V):
+ou ainda num diagramo a três dimensões P(V,T):
+Para que a dilatação seja isotérmica, é preciso que o processo ocorra muito devagar, de forma que as moléculas do gás tenham tempo para trocar energia entre si e com o exterior de forma a manter a temperatura interna constante; para que a dilatação seja adiabática, é preciso, ao contrário, que ela ocorra muito depressa, de forma que a troca de energia com o exterior seja desprezível. Na prática, a maioria dos processos ocorre numa velocidade intermediária, não se encaixando perfeitamente nem em um caso nem no outro caso. Esses processos são chamados de politrópicos. A dilatação politrópica é governada pela expressão
+formula_31
+com 1 < k < γ. A relação entre a mudança de entalpia formula_32 e a mudança de energia formula_33 de um sistema durante um processo qualquer se escreve: 
+formula_34
+que fica, para um sistema constituído de gases perfeitos: 
+formula_35
+Para um processo isotermo com mudança do número de mols de gás no sistema (T = constante; nformula_360), uma reação química isoterma entre gases perfeitos por exemplo, a relação entre formula_37 e formula_38 fica: 
+formula_39 
+Se a reação química entre gases perfeitos é conduzida á temperatura e pressão constantes, a mudança de entalpia do sistema formula_40 é igual ao calor formula_41. Se esta reação química entre gases perfeitos é conduzida a temperatura e volume constantes, é a mudança de energia do sistema formula_42 que é igual ao calor formula_43 e 
+formula_44
+Estas expressões poderão também ser utilizadas, em primeira aproximação, quando na reação química temos não só gases perfeitos mas também sólidos e líquidos. Em efeito, estes últimos recebem variações de volume que são negligenciáveis em relação à mudança de volume de gás. Poderemos então negligenciar a contribuição dos líquidos e sólidos sobre o termo PV:
+formula_45
+onde formula_46 representa a mudança do número de mols de gás durante a reação.

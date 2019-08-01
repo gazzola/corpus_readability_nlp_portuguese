@@ -1,0 +1,10 @@
+ Logística/Técnicas de previsão/Transformações e ajustamentos
+O ajuste de dados históricos leva, por vezes, a modelos de previsão mais simples e facilmente interpretáveis. Existem três tipos de ajuste (Makridakis, 1998, p. 63):
+"Transformações matemáticas"
+À aplicação de uma alteração matemática nos valores de uma variável dá-se o nome de transformação de dados. Existe uma grande variedade de transformações possíveis, como a adição ou multiplicação de constantes, elevação a uma potência, conversão para escalas logarítmicas, tomar o inverso, simétrico ou a raiz quadrada dos valores ou aplicação de transformações trigonométricas tais como o seno. (Osbourne, [2002])
+A raiz quadrada e o logaritmo são as transformações mais úteis. A função raiz quadrada ajuda a reduzir a variação do tamanho dos ciclos anuais, facilitando assim, a previsão dos dados, enquanto que os logaritmos são mais fáceis de interpretar (alterações no valor do logaritmo levam a alterações percentuais na escala original). Uma lista das transformações mais úteis é apresentada na tabela seguinte (Makridakis, 1998, p. 63-70):
+Onde formula_1 são as observações originais e formula_2 as observações transformadas. Cada uma destas transformações pertence à família das transformações de potência:
+formula_3
+formula_4
+formula_5
+Para formula_6 a transformação é simplesmente formula_7, para formula_8 é a raiz quadrada e para formula_9 é o simétrico do inverso. Para formula_10 a transformação está definida como o logaritmo porque formula_11 comporta-se como tal para valores de formula_12 próximos de formula_13. Para formula_14, o sinal negativo na transformação de potência é usado para que todas as transformações resultem em funções crescentes (a variável transformada aumenta com o aumento de formula_15). O parâmetro formula_12 pode ser qualquer número se os dados forem positivos, superior a zero se estes tiverem zeros e se forem negativos não é possível utilizar transformações de potência a não ser que estas sejam ajustadas primeiro através da adição de uma constante a todos os valores. As previsões são calculadas nos dados transformados em vez de nos originais.

@@ -1,0 +1,38 @@
+ Da mesma forma o ciclo se repete para valores de ângulos positivos fechando a curva como vemos no gráfico. Agora façamos a conversão de uma função cartesiana para polar... O exemplo será uma simples reta, para que tenhamos noção de como funciona a conversão que vimos na seção anterior. Seja a reta: formula_21. Calculemos a forma polar para a mesma, conforme as equações de conversão apresentadas anteriormente:
+formula_22
+formula_23
+formula_24
+Por outro lado:
+formula_9
+Onde substituimos os valores das variáveis cartesianas:
+formula_26
+formula_27
+formula_28
+formula_29
+formula_30
+formula_31
+O que resulta em:
+Basicamente, o processo para derivação de funções polares é o mesmo usado para funções com representação cartesiana, a derivada primeira é obtida através da diferenciação de formula_18 em relação a formula_11, o que representa apenas uma mudança na nomenclatura das variáveis. porém podemos estender os dados a serem obtidos com a análise destes valores fazendo a derivação da função parametrizada. Considerando que a representação de valores polares são mais apropriados de serem analisados em uma perspectiva paramétrica, podemos definir as derivadas a partir das equações paramétricas da curva polar:
+formula_35
+formula_36
+para formula_17 temos:
+formula_38
+formula_39
+Uma vez que queremos a derivada da função para as coordenada cartesianas temos:
+formula_40
+Com estas derivadas podemos extrair mais informações das funções polares e obter mais recursos para analisá-las, podemos, por exemplo, encontrar as tangentes verticais:
+formula_41
+formula_42
+Portanto, se quisermos encontrar os pontos da curva onde existem tangentes verticais devemos encontrar a derivada da função polar em relação ao ângulo e depois substituí-la junto com a própria função, que define formula_18, na equação acima, obtendo o ângulo no gráfico onde a tangente vertical estará definida. Procedimento semelhante fazemos para o caso das tangentes horizontais, usando a equação que define a derivada de formula_17 em relação ao ângulo:
+formula_46
+formula_47
+O que define o mesmo procedimento anterior para obtenção dos dados e a equação acima em substituição da anterior para a obtenção das tangentes horizontais. Podemos utilizar os dados obtidos com as derivadas para facilitar o esboço de gráficos da mesma forma que fizemos no caso das funções paramétricas, as regras são as mesmas, ou seja:
+Consideremos o ângulo como parâmetro, teremos as seguintes equações:
+O que define as equações da seção anterior para que possamos encontrar estes valores, por outro lado também temos outros dados que facilitam o cálculo de tangentes verticais e horizontais:
+Quando temos,
+formula_51
+isto é o mesmo que:
+formula_52
+Que só é válida se:
+formula_53
+Que nos revela a tangente horizontal.

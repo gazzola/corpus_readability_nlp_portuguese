@@ -1,0 +1,14 @@
+Matemática elementar/Glossário
+O seguinte glossário contém palavras usadas neste livro, em suas diferentes acepções quando for o caso. Procurou-se especificar também palavras sinônimas e com grafias diferentes. 
+Álgebra (algebra). Parte da matemática que não trata especificamente com geometria. Esta é uma definição antiga. Hoje a álgebra pode ser dividida em clássica e moderna. A álgebra clássica é a parte que trata de manipulação simbólica e da solução de equações algébricas. A álgebra moderna ou abstrata lida com um ramo da matemática conhecido como estruturas discretas (corpos, grupos, anéis, etc.).
+Álgebra de Boole (Boolean algebra). Tanto na Matemática quanto na Ciência Computacional uma álgebra Booleana ou de Boole ou ainda um reticulado (lattice) Booleano é uma estrutura algébrica que lida com as operações lógicas E, OU e NÃO de mesma forma que lida com as operações sobre conjuntos correspondentes UNIÃO, INTERSECÇÃO e COMPLEMENTAÇÃO. Esta estrutura foi nomeada em homenagem ao matemático Inglês George Boole. A álgebra Booleana é uma tentativa de se utilizar técnicas algébricas para lidar com expressões do cálculo proposicional.
+Algoritmo (algorithm). Um algoritmo é um conjunto definido de operações e passos ou procedimentos que objetivam levar a um particular resultado. Por exemplo, com algumas exceções, os programas computacionais, as fórmulas matemáticas e (de forma ideal) receitas médicas e culinárias são algoritmos.
+Análise (analysis). Parte da matemática que lida com a aproximação de objetos matemáticos (como número e funções) por outros que são mais fáceis de entender e manejar.
+Análise funcional (functional analysis). Parte da matemática que estuda espaços vetoriais de infinitas dimensões e bijeções entre eles. Os elementos destes espaços são muitas vezes funções, como, por exemplo, o espaço das funções contínuas sobre um intervalo.
+Análise harmônica (harmonic analysis.) Veja teoria do potencial.
+Anel (ring). É um conjunto munido de duas operações (normalmente denominadas de adição e multiplicação) que satisfazem certas propriedades (ou axiomas). Alguns anéis mais conhecidos são: dos reais, dos números complexos, dos polinômios, das matrizes. Muitos anéis são associativos, mas alguns podem não ser como os anéis de Lie.
+Aproximação Diofantina (Diophantine approximation). Uma aproximação Diofantina é aproximar um número real através de um racional (razão entre inteiros).
+Assíntota (assyntota). Reta cuja distância em relação a uma curva diminui indefinidamente sem nunca cortar a curva.
+Axioma (axioma). Proposição que se aceita verdadeira sem demonstração.
+Bijeção-Relação onde cada elemento corresponde um e somente um elemento
+

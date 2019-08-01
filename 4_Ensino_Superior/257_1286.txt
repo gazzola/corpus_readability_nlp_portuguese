@@ -1,0 +1,29 @@
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Armazenagem de unidades de carga/Equipamento para armazenagem de unidades de carga/Condutor a bordo/Corredores largos/Porta paletes motorizado
+O porta paletes motorizado simplesmente eleva a capacidade de transporte de um porta paletes normal. Este veículo pode ser conduzido a pé ou a motor. Normalmente o porta paletes motorizado é utilizado quando não faz sentido percorrer uma certa distância a pé (Tompkins et al., 2003, p. 236).
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Equipamento de armazenagem de pequenas cargas/Equipamento stock-to-operator
+A pergunta que responde à diferença entre os equipamentos do sistema "stock-to-operator" e "operator-to-stock" é: É o técnico logístico que se movimenta para a localização onde estão as existências, ou são as existências que se movimentam até ao técnico logístico?
+Quando as existências se movimenta até ao técnico logístico, o equipamento é classificado como "stock-to-operator". Nos equipamentos "stock-to-operator", o tempo de percurso de realização de todas as ordens de "picking" é transferido do técnico logístico para um equipamento que traz as localizações até ao técnico logístico. A componente de tempo de procura relativa às ordens de "picking" também é significativamente reduzida dado que a localização correcta é automaticamente fornecida ao operador.
+Em sistemas bem concebidos, o resultado tem um grande impacto na produtividade. Nos sistemas que não são tão eficazes, as melhorias podem ser irrelevantes se o técnico logístico tiver de aguardar até o dispositivo apresentar as existências. 
+Os dois tipos de equipamentos mais populares de "stock-to-operator" são os carrosséis e as máquinas de armazenagem automática para pequenas cargas. Mais caros, mas mais produtivos são os os dispensadores automáticos. Cada tipo de equipamento é descrito a seguir (Tompkins et al., 2003, p. 271). 
+
+
+Logística/Localização/Localização minisoma de múltiplas instalações/Localização minisoma de múltiplas instalações com distâncias euclideanas ao quadrado
+Quando o objectivo é minimizar a soma das distâncias euclideanas ao quadrado (Francis et al., 1974, p. 224):
+formula_1
+Onde:
+"m" é o número de novas instalações;
+"n" é o número de instalações já existentes;
+formula_2 é a conversão da grandeza distância entre uma nova instalação formula_3 e uma instalação já existente formula_4 em valores de custos, com formula_5;
+formula_6 é a conversão da grandeza distância entre uma nova instalação formula_3 e outra nova instalação formula_8 em valores de custos, com formula_9;
+formula_10 é a localização da nova instalação formula_3;
+formula_12 é a localização da instalação já existente formula_4;
+As soluções dão as únicas coordenadas formula_14 e as únicas coordenadas formula_15 das novas instalações que minimizam a expressão do custo das distâncias euclideanas ao quadrado.
+
+
+Logística/Gestão de existências/Avaliação e medição de existências/Protecção de Existências
+Os requisitos de segurança variam amplamente entre as organizações e dependem da natureza do material, o seu valor, tamanho, peso, aplicação, utilidade e capacidade de re-venda. Geralmente, quanto mais valioso o produto em questão, maior a necessidade de segurança. Entretanto, alguns produtos caros exigem relativamente pouca protecção devido ao seu tamanho, peso e utilidade limitada (grandes peças, moldes especiais).
+Os materiais podem ser salvaguardados através do estabelecimento e aplicação de normas de armazenagem. Auditorias periódicas, de operações de armazenagem pode revelar problemas de segurança existentes ou potenciais. As seguintes medidas devem ser aplicadas às operações de armazenagem:
+O esforço, tempo e dinheiro gasto com a segurança de existências devem ser repartidos entre os produtos, proporcionalmente à sua importância relativa. Em nenhum momento o custo da segurança deve exceder os benefícios que se obtêm a partir dele (Tersine, 1994, p. 498).
+

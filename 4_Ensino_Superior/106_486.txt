@@ -1,0 +1,26 @@
+Logística/Gestão de armazéns/Modelos de Armazenagem/Armazenagem por empilhamento
+A armazenagem por empilhamento consiste em colocar unidades de carga em pilhas nas filas de armazenagem. É frequentemente utilizado quando grandes quantidades de alguns produtos têm que ser armazenados e o produto pode ser empilhado, até uma altura razoável, sem que haja esmagamento da carga. Normalmente, as unidades de carga são empilhadas em filas de três unidades de altura, em filas com 10 ou mais unidades em profundidade. É bastante utilizada no armazenamento de , , e produtos de , entre outros.
+Nesta área, uma questão importante a ter em conta é profundidade das linhas de armazenagem, pois este de armazenagem implica uma grande utilização de , ainda que, em contrapartida, não envolva grande . Neste caso, é frequente que as linhas de armazenagem sejam usadas com de 15,20,30 ou mais cargas. 
+Quando se procede à retirada de um lote de produto, durante um ciclo, podem surgir vagas nas filas de armazenagem, não devendo essas vagas serem preenchidas por outros lotes, até que todas as cargas tenham sido retiradas da fila, de modo a conseguir-se uma rotação .
+A configuração da armazenagem por empilhamento caracteriza-se pela profundidade da fila de armazenagem, pelo número de filas de armazenagem necessárias para um dado lote de produto e pela altura da pilha. Sendo a altura da pilha fixa, a variável de decisão mais importante é a profundidade da fila de armazenagem. Os factores que podem influenciar a profundidade ideal da fila de um só produto incluem o tamanho do lote, as dimensões da carga, a largura do corredor, as folgas da fila, a altura do empilhamento, os tempos de armazenamento / recuperação, o armazenamento e a distribuição / recuperação. (Tompkins et al., 2003, p. 556-561).
+Para calcular um modelo que dê a quantidade média de área de chão necessária para empilhamento sem "stock" de segurança, verifica-se que essa quantidade é igual à área ocupada no chão por uma fila de armazenagem (incluindo metade do corredor e do afastamento lateral) multiplicada pelo número médio de filas de armazenagem necessárias durante a permanência de um lote de um produto no armazém,ou seja:
+formula_1; (1)
+em que
+formula_2; (2)
+substituindo (2) em (1), obtém-se 
+formula_3
+Como formula_4 não é uma função convexa de formula_5, para obter o mínimo é necessário enumerar formula_4, em função de formula_5. Sublinhe-se que o valor óptimo de formula_5 não depende de formula_9 ou formula_10.
+Para valores elevados de formula_11, pode-se utilizar a aproximação contínua de formula_4, fazendo formula_13. Substituindo formula_14 por formula_15 e formula_16 por formula_11, tem-se:
+formula_18
+Derivando formula_19 em relação a formula_5, igualando o resultado a zero e resolvendo em ordem a formula_5, obtém-se a aproximação contínua do valor óptimo de formula_5:
+formula_23
+O "stock" de segurança de um produto específico obtém-se quando se recebe um lote de substituição antes desse produto estar esgotado. Neste caso, o modelo de armazenagem por empilhamento pode ter características próprias, uma vez que não vai ser retirada nenhuma palete desse produto durante algum tempo.
+O modelo de armazenagem por empilhamento pode incluir o "stock" de segurança (formula_24) identificando as condições em que tal se verifica. Nestas condições, o número médio de filas de armazenagem é:
+formula_25
+assim, a área média necessária durante a existência de um lote com "stock" de segurança formula_26 é dada por:
+formula_27
+Verifica-se que o denominador é o dobro do tempo de ciclo e não duas vezes o tamanho do lote.
+A aproximação contínua em condições de "stock" de segurança obtém-se substituindo, formula_11 por formula_29 e substituindo formula_30 por formula_14, na equação de formula_26. Resultam as seguintes expressões para a quantidade média de espaço e da profundidade óptima da fila:
+formula_33
+formula_34
+

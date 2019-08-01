@@ -1,0 +1,18 @@
+Topologia/Axiomas de separação
+Axiomas de separação são uma série de axiomas que descrevem de que forma um espaço topológico pode ser separado em partes menores; ou, mais precisamente, de que forma pontos e subconjuntos de um espaço topológico podem ser distinguidos através de propriedades topológicas.
+O conceito básico dos axiomas de separação é que pontos e conjuntos do espaço possam ser "distintos topologicamente", em outras palavras, que haja alguma propriedade topológica que permita distinguir estes elementos.
+Por exemplo, dois pontos "p" e "q", formula_1 são topologicamente distintos quando existe um aberto "A" que contém um deles mas não contém o outro.
+Na topologia grosseira, em que há apenas dois abertos (o conjunto vazio e o conjunto total), dois pontos quaisquer não são topologicamente distintos. Por outro lado, na topologia discreta, em que todos subconjuntos do espaço são abertos, dois pontos quaisquer são topologicamente distintos. Nos espaços métricos, igualmente, dois pontos quaisquer são topologicamente distintos. Assim, chama-se a esta propriedade o axioma T quando, para todos pontos "x" e "y", existe um aberto "A" tal que formula_2
+Em palavras, dados dois pontos, existe um aberto que contém um deles mas não contém o outro.
+Exemplo: espaços métricos são Kolmogorov, a topologia discreta é Kolmogorov, a topologia grosseira, em um espaço com dois ou mais pontos, não é Kolmogorov.
+Em um espaço que não é Kolmogorov, é possível definir uma relação de equivalência, formula_3 como sendo "x e y são topologicamente indistinguíveis", ou, mais precisamente:
+Em outras palavras:
+É fácil verificar, nesta relação, a propriedade reflexiva e simétrica; a propriedade transitiva pode ser vista quebrando-se nos quatro casos: sejam formula_3 e formula_9, e um aberto qualquer "A", então temos:
+Em outras palavras, se um espaço tem pontos topologicamente indistinguíveis, é como se estes pontos pudessem ser agrupados como se fossem um só. Ou seja, é possível ver a projeção canônica do espaço nas classes de equivalência como uma forma de colapsar pontos indistinguíveis.
+Mais tecnicamente, seja "K" um espaço qualquer, e formula_20 a relação de equivalência definida acima.
+Seja:
+a projeção canônica que leva cada ponto em sua classe de equivalência, e tomemos em formula_22 a topologia induzida pela projeção, ou seja, um conjunto "U" é aberto em formula_22 se, e somente se, sua imagem inversa formula_24 é um aberto em "K".
+Então:
+Prova: exercício.
+Este espaço construído a partir de um espaço qualquer e da relação de equivalência entre pontos indistinguíveis se chama Quociente de Kolmogorov. Várias das propriedades topológicas estão presentes no espaço se, e somente se, estão presentes no seu quociente de Kolmogorov, mas há exceções (obviamente, as propriedades associadas aos axiomas de separação, além de outras).
+

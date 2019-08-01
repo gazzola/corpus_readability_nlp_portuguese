@@ -1,0 +1,22 @@
+Análise real/AplicaçãodeFunções
+A projeção de um plano cartesiano é o conjunto de pontos retirando uma das coordenadas.
+Consideremos um Retângulo de vértices formula_11. Assim sua área é dada pela função formula_12
+Consideremos um Triângulo de vértices formula_16. Assim sua área é dada pela função formula_17
+Consideremos um Triângulo de vértices formula_21. Assim sua área é dada pela função formula_22
+
+
+Análise real/Seqüência de funções
+Nesta seção, introduzimos um importante conceito da análise real, a ideia de sequência de funções. Uma sequência de funções em um domínio formula_1 é definida com um conjunto formula_2 de funções formula_3 indexadas com um índice formula_4. São exemplos de sequência de funções definidas em toda a reta (formula_5):
+O leitor deve observar que para cada ponto fixo no domínio formula_9, uma sequência de funções define um sequência numérica:
+Uma sequência de funções formula_12 é dita equilimitada num conjunto formula_13 se cada uma das funções está definida em formula_13 e se existe uma constante formula_15 tal que:
+
+
+Análise real/Exercícios 1
+
+
+Análise real/Números racionais
+O conjunto dos inteiros formula_1 e a operação de adição formula_2 formam um grupo e a multiplicação carece de inversas. Se permitirmos que a multiplicação e a adição operem nos formula_3 nós poderemos definir um conjunto onde todo elemento, exceto o zero, tem um inverso multiplicativo. Este é o conjunto de números racionais.
+A próxima extensão padrão adiciona a possibilidade de "quocientes" ou "divisão", e dá-nos os "números racionais"(ou apenas "racionais") formula_4 Que inclui o inverso multiplicativo de formula_5 da forma formula_6 frações como a formula_7 bem como produtos dos dois conjuntos a partir de formula_8 como formula_9 Os racionais nos permitem usar precisão arbitrária, e eles são suficientes para "medição".
+Os números racionais podem ser construídos a partir dos inteiros como classe de equivalência de pares ordenados (a, b) de inteiros, com b ≠ 0, tal que (a, b) e (c, d) são equivalentes quando ad = bc usando a definição de multiplicação de inteiros. Estes pares ordenados são, é claro, comumente escritos formula_10 Pode-se definir adição como (a, b) + (c, d) = (ad + bc, bd) e multiplicação como (a, b) . (c, d) = (ac, bd); todos usando a definição de adição e multiplicação de inteiros.
+Esta construção dos racionais a partir dos inteiros é denominada construção do corpo de frações de um anel; nem todos anéis podem ter um corpo de frações, mas uma classe especial de anéis, os domínios de integridade, podem. Entre os domínios de integridade estão os inteiros e o anel dos polinômios com coeficientes em um corpo ou domínio de integridade.
+

@@ -1,0 +1,16 @@
+Eletrônica Digital/Números binários negativos
+Assim como no sistema de numeração decimal, os números binários também têm sua representação para números negativos.<br>
+Sua representação exige a conversão do número binário puro para o número binário em complemento de 2.
+Para fazer o complemento de 2 de um número binário basta seguir os seguintes passos:
+Portanto o número 1100 é o -4 em complemento de 2.
+O número 1100 pode ser (+12)d se fosse uma representação em binário puro ou (-4)d em representação em complemento de 2. Por isso que deve-se saber qual o tipo de representação do número, para não causar equívoco no momento da conversão.
+Se um número está representando em complemento de 2 e este inicia-se com 0, logo, ele é um número positivo, portanto pode ser convertido como se fosse um binário puro.
+Se um número está representando em complemento de 2 e este inicia-se com 1, logo ele é um número negativo. Para convertê-lo para decimal, deve fazer o complemeto de 2. Veja exemplos, os números abaixo estão em complemento de 2:
+
+
+Eletrônica Digital/Álgebra de Boole
+Álgebra de Boole é uma estrutura algébrica que utilizam as operações lógicas E, OU e NÃO, bem como das operações da teoria de conjuntos soma, produto e complemento.
+Álgebra booleana recebe seu nome do matemático inglês George Boole, que foi o primeiro a defini-las como parte de um sistema de lógica em meados do século XIX. Mais especificamente, a álgebra booleana foi uma tentativa de utilizar técnicas algébricas para lidar com expressões no cálculo proposicional. Hoje, as álgebras booleanas têm muitas aplicações na eletrônica e foram pela primeira vez aplicadas a interruptores por Claude Shannon, no século XX.
+Os operadores da álgebra booleana podem ser representados de várias formas. É frequente serem simplesmente escritos como E, OU ou NÃO (são mais comuns os seus equivalentes em inglês: AND, OR e NOT). Na descrição de circuitos também podem ser utilizados NAND (NOT AND), NOR (NOT OR) e XOR (OR exclusivo). Os matemáticos usam com frequência + para OU e . para E (visto que sob alguns aspectos estas operações são análogas à adição e multiplicação noutras estruturas algébricas) e representam NÃO com uma linha traçada sobre a expressão que está a ser negada.
+Aqui iremos usar outra notação comum, com ∧ (ou ^ para browsers que não suportam esse caracter) para E, ∨ (ou v) para OU, e ¬ (ou ~) para NÃO.
+

@@ -1,0 +1,17 @@
+Se as máquinas funcionarem das 08H00 às 18H00 e as reparações se conseguirem fazer sempre depois das 18H00 a disponibilidade prática será igual a 100%. Trata-se de um conceito mais virado para o desempenho do equipamento no seu verdadeiro contexto produtivo. 2.7 MWT.
+O MWT é o tempo médio de espera antes de iniciar uma reparação. Se exemplificando que do mês 3 ao mês 12 (4 avarias) para um equipamento, viria:
+MWT = (TE2 + TE3 + TE4 + TE5) / 4
+Em que:
+TE2, TE3, etc. são os tempos de espera que antecederam as reparações das avarias ocorridas no período de análise;
+Se se tratar de um conjunto de Ne de equipamentos, virá: 
+Fórmula VIII: (n)
+MWT= STEi horas
+Em que:
+TEi = Tempos de espera de todos os equipamentos do conjunto no período.
+Nav = Número de avarias em todos os equipamentos no período de análise.
+O MWT para um conjunto de equipamentos também é dado pela expressão:
+MWT = S MWT / Ne
+Em que:
+S MWT = somatório dos MWTs de todos os equipamentos incluídos no conjunto, calculados como se indicou acima;
+Ne = Número de equipamentos do conjunto
+A valia deste indicador depende, como sempre, da consistência dos dados. Num cenário em que todos os Pedidos de Trabalho forem devidamente documentados, será um indicador bem expressivo da resposta do Serviço de Manutenção às solicitações. Parece que, na óptica de gestão que, mais do que falar em avarias, faz sentido falar em trabalhos programáveis e em trabalhos não programáveis. Os primeiros não penalizam os indicadores (i.e os tempos das decorrentes intervenções não são considerados como tempos de reparação de avarias), só os segundos penalizam os indicadores. Com base no que atrás apresentamos, concluímos que podemos utilizar e calcular os indicadores na gestão da manutenção. Estes indicadores expressam conceitos cuja aplicação prática exige a sua flexibilização.

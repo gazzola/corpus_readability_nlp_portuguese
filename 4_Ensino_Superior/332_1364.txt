@@ -1,0 +1,11 @@
+ Cálculo (Volume 1)/Limites e Continuidade
+Vejamos o gráfico a seguir:
+Figura 1
+O gráfico representa a função formula_1 definida pela regra:
+Esta função não está definida para formula_3, pois não faz sentido escrever formula_4. No entanto, podemos calcular formula_5 para valores de formula_6 muito próximos de 6. Observe a tabela:
+Se fizermos formula_7
+temos formula_8; se agora fizermos formula_9 teremos formula_10; depois fazendo formula_11 teremos formula_12; 
+portanto quando nós aproximamos formula_6 de 6, vemos que também aproximamos formula_14 de 1. Intuitivamente faremos o mesmo usando valores maiores que 6: se tivermos formula_15 teremos formula_16; e para formula_17 
+teremos formula_18; finalmente, se formula_19 teremos formula_20 e vemos que o mesmo acontece. O que isto quer dizer? Acontece que, quando "aproximamos" formula_6 de 6, formula_14 "se aproxima" de 1, o que indica uma "tendência" de se igualar a 1. Perceba que quando formula_6 "se aproxima" de 6, de forma a alcançar o limite entre ele e o número mais próximo a ele, inevitavelmente faz com que formula_14 também alcance um número ainda mais próximo de 1. Então dizemos que: se formula_25 então, o limite de formula_5 quando formula_6 tende a 6 é igual a 1. Como veremos mais adiante, isto é representado pela seguinte notação:
+Como pode ver, acabamos de caracterizar o conceito de limite a partir da noção intuitiva de "aproximar um número de outro". Mas como podemos dizer "se aproximar" em termos matemáticos? Se levarmos em consideração que ao aproximar duas coisas, a distância entre elas diminui, fica fácil perceber que será necessário medir a distância entre os números. Sendo assim, vale a pena recordar que a distância entre dois números reais é dada pela fórmula formula_29. Assim, usando essa fórmula podemos dizer que, por exemplo:
+Com isso em mente, vamos retomar o nosso exemplo. A dependência entre a variação de formula_6 e a variação dos valores assumidos pela função formula_5 pode agora ser expressa de uma forma bem simples. Como é mostrado na tabela, é possível fazer formula_5 ficar extremamente próximo de 1, bastando escolher valores de formula_6 suficientemente próximos de 6.

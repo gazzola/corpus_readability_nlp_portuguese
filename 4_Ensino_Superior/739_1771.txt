@@ -1,0 +1,20 @@
+ void prepare()This funcion is called before any tuple is transmited to a certain bolt. int execute(Tuple tuple, BasicOutputCollector collector)
+This funcion is called when a new tuple gets to the bolt. It should call other funcions important to processing. And it is done call collector.emit(Values) to send another tuple to the next bolt
+void fail(Object id);
+void ack(Object id);
+Bolts may also add ack to be sure that a tuple was delivered to the next bolt. void declareOutputFields(OutputFieldsDeclarer declarer)
+Declare the Output Filed on the outgoing tuple. Map<String, Object> getComponentConfiguration()
+Get the configuration of the bolt set by the conf class. void open()
+Execute before the first tuple is sent. It can be used, for instance, to establish connections to Twitters sample API
+void nextTuple() 
+Iterates over each tuple generated. Emiting it using emit function. void close() 
+It is called when nextTuple() returns. Used for finishing connections
+Map<String, Object> getComponentConfiguration()
+Get the configuration of the spout set by the conf class. void fail(Object id) 
+void ack(Object id)
+Dealing with communication fails. void declareOutputFields(OutputFieldsDeclarer declarer) 
+Declare the Output Filed on the outgoing tuple. Here is the example of the topology builder:
+Communication process is completely abstracted from the developer. We only need to minimize the consuption of network bandwith since Storm does not manage it well. We have python libraries that implements Storms protocol. It is quite easy to use such libraries. I am showing the code used of the language cleaner bolt. In that code, tup is the incoming tuple. and emit sends the outgoing tuple. import storm
+class StreamFilterBolt(storm.BasicBolt):
+StreamFilterBolt().run()
+Considering the requirements of this project which focus scalability and fault tolerance over latency. I evaluated the Storm capabilities of distributing process and making a massive stream scalable to be processed. The main results of this project is to build the foundation to many bolts and spouts designed specially to the Web Observatory project. It also helps the software development processes because each bolt is a black box that may be implemented by many different people in different languages. For simple Twitter jobs, Storm managed to distribute jobs in a fair way. None worker node recived more jobs than another. This is a good result that shows that our system scales well enough for a huge twitter load. Now I am showing the final output of the proposed topology. It process raw tweet to return trigrams without hashtags, char repetition, links, trigrams generations and other details. In this project, it is shown that it is possible to create a complex distributed system for processing massive tweet streams. This system is scalable and very flexible. Topologies can be modified for several different purposes making it ideal to the Web Observatory and Data Science research projects. Even though, speedup gains may be not aplicable (since we should be able to serially process big data in a single computer), there is an enourmous gain in scalability. The main contribution here is to check the viability and add knowledge to Web Observatory of Storm framework. This framework helps not only software development but make it possible to deal with massive streams. The gain for this project is imensurable in many terms.

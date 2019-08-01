@@ -1,0 +1,29 @@
+Mecânica dos fluidos/Vórtices
+Considere-se um fluxo com movimento puramente tangencial, ou seja, cujas linhas de corrente sejam circulares. Em coordenadas cilíndricas, podemos escrever: v = v = 0 e v = f(r,θ,z,t). Podemos calcular a rotação ω através da fórmula
+formula_1
+formula_2
+formula_3
+formula_4
+Para que o fluxo seja um fluxo irrotacional, é preciso que
+formula_5
+formula_6
+Mas como v não pode depender de z, rv também não pode. Assim, rv = g(θ,t) e 
+formula_7
+Neste caso, a circulação Γ em torno do eixo Z será dada por
+formula_8
+onde C é o contorno escolhido. O teorema de Stokes não pode ser aplicado, uma vez que a origem (r = 0) é um ponto de singularidade da função velocidade. É preciso calcular a integral de linha. Para isso, escolhemos um contorno circular com r = r:
+formula_9
+e pode-se concluir que a circulação independe de r e, portanto, do contorno escolhido, contanto que ele não passe pela origem.
+Os fluxos irrotacionais são também chamados fluxos potenciais porque sempre é possível definir uma função potencial escalar Ψ, que depende apenas da posição e do tempo, e com a propriedade 
+formula_10
+Como Ψ é uma função escalar,
+formula_11
+Consideremos agora o caso especial v = ωr. Esse caso é chamado de rotação de corpo rígido, pois as partículas do fluido não apresentam movimento relativo entre si. A rotação é dada por
+formula_12
+formula_13
+A circulação Γ em torno do eixo Z, neste caso, será dada por
+formula_14
+onde A é a área cercada pelo contorno C escolhido. Aqui, o teorema de Stokes pôde ser usado, uma vez que a origem não é um ponto de singularidade. Vemos que, neste caso, a circulação depende do contorno escolhido.
+Em um fluxo irrotacional, a rotação é nula e a circulação é constante para qualquer distância a partir da origem, que é um ponto de singularidade da velocidade, e por isso chamada um vórtice livre. A velocidade tangencial diminui com a distância ao vórtice; as linhas de corrente se afastam à medida que aumenta essa distância. Esse tipo de fluxo ocorre, por exemplo, em regiões distantes do olho de um ciclone. Nessas regiões, que são muito extensas, os efeitos da viscosidade do fluido são sempre desprezíveis, e tensões de cisalhamento não podem aparecer. Um objeto mergulhado em um vórtice livre não sofre ação de nenhum torque, movendo-se apenas em movimento circular em torno da origem.
+Em ums rotação de corpo rígido, ao contrário, a rotação é constante e a circulação aumenta com a distância a partir da origem, que não é um ponto de singularidade da velocidade, e por isso chamada um vórtice forçado. A velocidade tangencial aumenta com a distância ao vórtice; as linhas de corrente se aproximam à medida que aumenta essa distância. Esse tipo de fluxo ocorre, por exemplo, em regiões próximas ao olho de um ciclone. Um objeto mergulhado em um vórtice forçado sofre ação de um torque ao mesmo tempo que gira em torno da origem. Nas proximidades desta, no entanto, a ação do fluxo sobre um objeto ali colocado é muito branda.
+

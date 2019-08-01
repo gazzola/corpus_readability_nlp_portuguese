@@ -1,0 +1,54 @@
+Curso de termodinâmica/Exercícios de termodinâmica/A2
+Qual é a altura da coluna de ar necessária para provocar uma leitura de 76 cm de mercúrio no barômetro? Supomos que a massa específica do mercúrio vale 13,6 g/cm e que a massa específica do ar da atmosfera é uniforme e vale 0,0012 g/cm.
+Há duas pressões iguais: a pressão do ar e a pressão devida ao peso do Hg.
+
+
+Curso de termodinâmica/Exercícios de termodinâmica/A8
+Um tanque de aço contém dióxido de carbono a 27ºC e está numa pressão de 12 atm. Determinar a pressão interna quando o tanque é aquecido a 100ºC.
+A lei de Gay-Lussac diz:
+A volume constante, a pressão de uma quantidade constante de gás aumente proporcionalmente com a temperatura.
+Temperatura inicial = 273 + 27 = 300 K
+Temperatura final = 273 + 100 = 373 K
+formula_1
+
+
+Curso de termodinâmica/Tabelas: densidade do ar
+<noinclude>
+<noinclude>
+obs:
+Ref. Engineering Toolbox
+<noinclude>
+obs:
+Ref. Engineering Toolbox
+
+
+Curso de termodinâmica/Energia livre e trabalho máximo
+<br><br><br>
+A primeira lei da termodinâmica escreve-se: formula_1onde formula_2 representa todas as formas de trabalho que pode exercer o sistema.
+Por outro lado, a segunda lei escreve-se: formula_3
+Essas equações dão: formula_4
+ou ainda: formula_5
+Por meio da definição da energia livre de Helmholtz: formula_6,
+obtemos: formula_7
+Temos então: formula_8
+o que é simplificado a temperatura constante:
+formula_9 ou formula_10
+O trabalho exercido pelo experimentador (então pelo sistema) é igual a -W. A equação anterior se escreve também:
+formula_11
+onde a igualdade estrita é verificada para um processo reversível.
+Por conseqüência, formula_12 representa o trabalho máximo de qualquer natureza que podemos obter de um sistema a temperatura constante.
+Se considerarmos todas as formas de trabalho, a primeira lei da termodinâmica escreve-se: formula_13 
+Por outro lado, a segunda lei escreve-se:formula_14
+Dessas duas equações resulta: formula_15formula_16
+como: formula_17
+temos: formula_18
+o que pode ser escrito: formula_19
+Por meio da definição de G: formula_20
+obtemos: formula_21
+ou ainda: formula_22
+Assim: formula_23
+que simplificamos a temperatura e pressão constantes: formula_24 ou formula_25
+O trabalho ganho pelo experimentador é igual a -W. A equação anterior pode ser escrita:
+formula_26
+onde a igualdade estrita é verificada para um processo reversível. Por conseqüência, formula_27 representa o trabalho não-mecânico máximo que podemos obter de um sistema a temperatura e pressão constantes. Este resultado é interessante quando examinamos o trabalho elétrico que podemos obter de um sistema químico (pilhas eletroquímicas)
+

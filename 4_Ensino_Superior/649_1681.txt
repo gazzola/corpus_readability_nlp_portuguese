@@ -1,0 +1,13 @@
+ Mecânica dos fluidos/Geradores de pressão diferencial
+Encontram-se neste grupo os medidores que contam, como elementos primários, com o tubo de Venturi, o bocal de vazão e a placa de orifício. Esses dispositivos caracterizam-se por medir a vazão volumétrica através da medida da diferença de pressão entre dois pontos ao longo do fluxo. A grande vantagem desses instrumentos é dispensar a aferição dinâmica, ou seja, comparar as medidas realizadas por eles em uma situação real com aquelas realizadas por um medidor de referência. Isso torna seu uso mais simples e, em consequência, são o tipo de medidor de vazão mais vendido na atualidade (cerca de 50% do total, em 2010). Os geradores de pressão diferencial precisam apenas de aferição estática, ou seja, basta verificar se os parâmetros importantes de cada um estão de acordo com as especificações das normas técnicas pertinentes. Os medidores de vazão geradores de pressão diferencial podem ser usados tanto com líquidos quanto com gases. Outra vantagem é que podem ser usados em tubulações de ampla variedade de diâmetros. A base teórica em todos os casos é a mesma: a equação de Bernoulli. formula_1
+Ela permite expressar a velocidade do fluido em função da diferença de pressão medida em dois pontos ao longo do fluxo, contanto que os demais parâmetros (densidade, altura, etc.) sejam conhecidos. Esse tipo de instrumento é normalmente colocado numa tubulação horizontal de área transversal conhecida (A), e possui uma forma tal que provoque um estreitamento, de forma que a área transversal se altera para A < A. Considerando a equação de continuidade e um fluido incompressível (ρ = ρ), a velocidade v pode então ser expressa como
+formula_2
+Assim, como h = h, podemos expressar a velocidade v como
+formula_3
+formula_4
+formula_5
+onde formula_6 é uma substituição usual na literatura. Assim:
+formula_7
+e a vazão volumétrica será
+formula_8
+onde formula_9 é outra substituição usual. A introdução de um obstáculo provoca uma certa perda de carga, que é relativamente grande para as placas de orifício, e bem menor para os demais tipos.

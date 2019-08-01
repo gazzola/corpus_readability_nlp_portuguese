@@ -1,0 +1,15 @@
+Eletrônica Digital/Códigos
+O homem através dos tempos sentiu a necessidade da utilização de sistemas numéricos. Existem vários sistemas numéricos, dentre os quais se destacam: o decimal, o binário, o octal e o hexadecimal. O sistema decimal é utilizado por nós no dia-a-dia e é, sem dúvida, o mais importante dos sistemas numéricos. 
+O sistema numérico de maior importância utilizado pelos sistemas digitais é o binário, embora existam alguns outros também importantes. Em determinadas situações, os valores decimais têm de ser convertidos em valores binários antes de serem utilizados em sistemas digitais. Por exemplo, quando teclamos um número decimal em nossa calculadora, ou em nosso computador, um circuito interno destas máquinas converte o valor decimal digitado para seu correspondente em binário.
+
+
+Eletrônica Digital/Circuitos Digitais
+Circuitos digitais são circuitos eletrônicos que baseiam o seu funcionamento na lógica binária, em que toda a informação é guardada e processada sob a forma de zeros (0) e uns (1). Esta representação é conseguida usando dois níveis discretos de Tensão elétrica.
+Estes níveis são frequentemente representados por L e H (do inglês "low" - baixo - e "high" - alto -, respectivamente).
+Os computadores, telemóveis, Leitores de DVD, são alguns exemplos de aparelhos que baseiam a totalidade, ou parte, do seu funcionamento em circuitos digitais.
+A palavra digital deriva de dígito, que por sua vez procede do latim "digitus", significando dedo.
+Desde que a humanidade desenvolveu o processo de contagem, os dedos foram os instrumentos mais simples e eficientes para contar pequenos valores. O sistema de numeração indo-arábico, o mais usado atualmente, é um sistema de base dez, pois são dez os dedos das duas mãos dos seres humanos. Muitos outros sistemas de numeração usam a base decimal, pois serviam para simbolizar a contagem com os dedos.
+Normalmente com os dedos só é possível contar valores inteiros. Por causa dessa característica, a palavra "digital" também é usada para se referir a qualquer objeto que trabalha com valores discretos. Ou seja, entre dois valores considerados aceitáveis existe uma quantidade "finita" de valores aceitáveis.
+Digital não é sinônimo de eletrônico: por exemplo, o computador eletrônico pode ser chamado de digital porque trabalha com o sistema binário, que é simbolizado por uma sequência finita de zeros e uns, qualquer que seja o tipo de dados.
+Hoje em dia, porém, não se consegue desvincular a palavra "digital" do sistema informático e de tecnologias ligadas à computação, como, por exemplo, "transmissão digital".
+

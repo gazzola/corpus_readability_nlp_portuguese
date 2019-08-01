@@ -1,0 +1,10 @@
+Logística/Gestão de armazéns/Picking/Organização da actividade de picking
+A actividade de separação e preparação de pedidos é de grande intensidade em termos de movimentação de materiais. Dependendo do tipo de armazém, cerca de 30% a 40% do custo total desse armazém está directamente associado a essa mesma actividade.
+Tal situação verifica-se pois o tempo associado a essa actividade e o número de trabalhadores são maiores que nas outras actividades de armazenagem. Através de estudos de sistemas de separação de pedidos mais usuais, onde temos uma grande utilização de operações de deslocamento, recolha de produtos e documentos em papel, obtemos informações de como o tempo do Operador nessa actividade é gasto(Medeiros, 1999).
+Um objectivo fundamental para uma boa produtividade em um sistema de separação de pedidos é a minimização dos tempos de deslocamento ou movimentação.
+Ao observamos a utilização do tempo por parte de um Operador na actividade de "picking", verifica-se que a grande parte do tempo gasto pelos operadores se encontra na movimentação para a recolha e colocação de produtos na linha de "picking".
+A maneira como organizamos a estratégia de "picking" está directamente associada com o tempo de deslocamento. Por estratégia de "picking" entendemos a maneira como organizamos o processo de separação de pedidos, planeando a quantidade de operadores por pedido, o número de vários produtos utilizados em cada recolha e os períodos para agrupar ou organizar pedidos.
+Existem diversas soluções tecnológicas de armazenagem, combinações de equipamentos e sistemas de controlo que deslocam, armazenam e recolhem produtos com alta precisão e velocidade, dependendo do grau de automação, podendo-se destacar alguns tais como (Medeiros, 1999): 
+Estes sistemas diminuem o tempo de deslocamento do Operador, pois tem como objectivo trazer os produtos específicos no momento da separação, além da diminuição do tempo de contagem. 
+Equipamentos como leitores ópticos e código de barras, reduzem o tempo de procura e documentação.
+

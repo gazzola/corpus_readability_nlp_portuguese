@@ -1,0 +1,11 @@
+ Matemática elementar/Análise combinatória
+Análise combinatória é a parte da matemática que estuda os métodos de contagem. A função fatorial é uma função que admite apenas um único argumento. Para esse argumento, chamemos-lhe formula_1, a função fatorial procura todos os números formula_2 menores ou iguais a formula_1 e maiores que formula_4 e multiplica-os entre si. Adicionalmente, é preciso dizer que tanto formula_1 como formula_2 pertencem ao conjunto dos números naturais formula_7(com uma pequena diferença, formula_1 inclui o número zero, formula_2 não) e que a função fatorial é representada pelo símbolo/operador formula_10 (ponto de exclamação). Definindo tudo isto formalmente:
+Mas esta função ainda não nos diz muito acerca do que é de o fatorial de um número, diz-nos apenas como a representar e qual o seu domínio. Assim, não nos é possível saber para um dado valor formula_1 qual o valor de formula_13. A definição correta de fatorial é dada pelo operador produtório da seguinte forma:
+Note-se que aqui o valor formula_4 já não é incluído como um possível valor de formula_1. Isto significa precisamente aquilo que já foi dito antes. Neste caso, a função produtório começa por atribuir a formula_17 o valor de formula_18; de seguida, vai multiplicar esse mesmo valor pelo próximo valor de formula_2, ou seja, formula_20; esta operação repete-se até que o valor de formula_2 seja igual ao valor de formula_1. Dito isto, uma forma mais simples de definir a função fatorial seria:
+Embora a definição mais utilizada seja:
+Estas duas definições são exatamente iguais, apenas muda a ordem pela qual as parcelas aparecem. Acontece que, embora esta função não esteja definida para formula_28, foi estipulado que o fatorial do número zero é um. Portanto:
+O que equivale a dizer "0 fatorial está definido como sendo 1". Se reparar nos exemplos anteriores, formula_30 não é mais do que formula_31, o que já nos indica uma operação relativa a fatoriais: a fatorização. Ainda outra maneira de definir a função fatorial, é utilizar uma função recursiva:
+ou, por outro lado:
+Se um determinado acontecimento ocorre em n etapas diferentes, e se a primeira etapa pode ocorrer de p1 maneiras diferentes, a segunda de p2 maneiras, a terceira de p3 maneiras, até pn, o número total de maneiras de ocorrer o acontecimento é : 
+T = p1 × p2 × p3 × ...× pn × 
+Ex.

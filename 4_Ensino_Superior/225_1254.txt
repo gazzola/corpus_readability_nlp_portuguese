@@ -1,0 +1,27 @@
+Logística/Sistemas de distribuição/Escala de veículos/Heurística de duas fases
+
+
+Logística/Gestão de desperdícios e rejeitados/Resíduos sólidos urbanos/Armazenamento domiciliário
+A separação na origem é o princípio de uma boa recolha selectiva, facilitando ainda a triagem, valorização e reciclagem dos resíduos sólidos urbanos (RSU) e tornando todo o sistema mais eficiente, económico e possível (Rosas, 2003, p. 1).
+Nos domicílios, os resíduos podem ser acondicionados e armazenados das seguintes formas:
+O sistema individual consiste no simples caixote do lixo existente em todas as residências.
+O sistema colectivo com tubo de queda consiste na existência de uma conduta para onde os resíduos são directamente despejados, podendo a entrada desta localizar-se na habitação ou na escada do edifício. Neste sistema, os resíduos, depois de passarem pelo sistema individual são introduzidos em sacos que, ao serem colocados nesta conduta, são conduzidos a um contentor que se situa habitualmente na garagem do edifício.
+O sistema colectivo sem tubo de queda consiste na existência, nos edifícios, de contentores que podem ou não estar localizados num compartimento próprio e que normalmente estão localizados na garagem do edifício, tendo os moradores que se deslocar até eles para colocar os seus resíduos.
+Em ambos os casos, depois de armazenados nestes contentores, os resíduos são colocados no exterior do prédio para depois serem removidos por um dos sistemas apresentados no capítulo de remoção. Estes sistemas podem ser utilizados tanto para a deposição de resíduos indiferenciados como para a deposição de resíduos diferenciados destinados à reciclagem, ainda que actualmente estejam implementados quase exclusivamente para o depósito de resíduos indiferenciados. (Levy, 2006)
+
+
+Logística/Gestão do aprovisionamento
+
+
+Logística/Planeamento e projecto de instalações/Computerized Relationship Layout Planning (CORELAP)/Método de atribuição
+O problema de atribuição é, na realidade, um caso especial de programação linear geral, na qual é necessário atribuir "n" empregos para "n" actividades. A eficácia de cada actividade para cada emprego é estabelecida e o objectivo é [[w:Otimização|optimizar] esse valor designando um, e só um, trabalho. O problema de atribuição pode ser expresso de forma [[w:Matemática|matemática]] com a [[w:Função|função]] optimização da eficácia.
+Sujeita às seguintes restrições:
+formula_1
+formula_2 formula_3
+formula_4 formula_3
+Uma vez que a técnica de optimização da programação linear necessita da maximização ou [[w:Pontos extremos de uma função|minimização]] da medida de eficácia escolhida. O utilizador tem controlo sobre as atribuições "x", mas os coeficientes de effusividade "e", não estão directamente sobre o seu controlo.
+Embora o problema de atribuição pode ser resolvido pelo método [[w:Algoritmo simplex|"simplex"]], provavelmente o modo mais eficaz é o proposto por Kuhn, conhecido como o algoritmo Húngaro. Para tal é necessário passar o problema para a forma de uma [[w:Matriz (matemática)|matriz]] quadrada. Contudo, problemas que originam matrizes de outra forma, que não a quadrada, ou com tarefas de [[w:Proibição|proibição]], são frequentemente encontradas e podem ser [[w:Conversão|convertidas]] para a forma quadrada.
+Por exemplo: Três [[w:Máquina|máquinas]], A, B e C, vão ser instaladas no "layout" já existente e o seu tamanho é tal que um [[w:Empilhadeira|empilhador]] só consegue carregar uma de cada vez. Os movimentos do empilhador estão restringidos a corredores e [[w:Direção|direcções]] rectangulares. As máquinas 1, 2, 3, 4 e 5, já existem na fábrica.
+Sabendo o tráfego entre os equipamentos, novos e já existentes. Nem sempre há ligações entre as máquinas novas e anteriores.
+A Tabela 1 mostra a distância rectangular entre máquinas. A [[w:Multiplicação|multiplicação]] [[w:Sistema Internacional de Unidades|métrica]] do tráfego e a distância resulta nas medidas da Tabela 2.
+

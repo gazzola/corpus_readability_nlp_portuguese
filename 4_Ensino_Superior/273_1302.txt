@@ -1,0 +1,23 @@
+Logística/Movimentação de materiais/Equipamento/Equipamento de contentorização e unitivo
+Luís Baptista
+Segundo Tompkins et al. (1996, p. 169), os contentores e unificadores ("unitizers") são equipamentos utilizados em projectos de sistemas de movimentações de materiais. Estes equipamentos unificam o material, em unidades de carga, de modo a facilitar e economizar as movimentações e operações de armazenagem (1996, p. 173). Estes equipamentos servem, também, para proteger e garantir a segurança e qualidade da composição da unidade de carga.
+
+
+Logística/Sistemas de informação/Indicadores de desempenho/Indicadores de utilização de recursos: pessoas/Mão de obra na movimentação de materiais
+O indicador de mão de obra na movimentação de materiais mede a proporção da força de trabalho atribuída a tarefas de movimentação de materiais, podendo basear-se tanto nos custos directos do pessoal envolvido, como no número de pessoas, isto é (White Jr., 1985, p. 323-325):
+"Indicador de mão de obra na movimentação de materiais" = "Pessoal destacado para tarefas de movimentação de materiais" / "Total da mão de obra directa"
+Este indicador, usado como um sinal de monitorização, permite obter gráficos que devem ser actualizados mensalmente, de modo a detectar alterações que possam ocorrer. Caso essas alterações se verifiquem, devem ser investigadas as respectivas causas. É aconselhável considerar este indicador como uma meta para ser usada na avaliação de planos alternativos de produção. 
+Considere-se, por exemplo, que foi efectuada uma análise a uma determinada fábrica. Para o cálculo do indicador de mão de obra directa na movimentação de materiais, os custos anuais envolvidos foram avaliados da seguinte forma:
+Se o custo total da folha de pagamentos anual é 5 857,90€, a mão de obra na movimentação de materiais foi de:
+(668,72 / 5 857,90) × 100 = 11,41%
+
+
+Logística/Gestão de existências/Encomendas únicas/Procura e tempo de aprovisionamento variáveis
+Quando ambos a procura e o tempo de aprovisionamento são variáveis, o problema é mais complexo. Uma vez que não se utiliza nenhum produto durante o tempo de aprovisionamento, o atraso numa entrega pode resultar na perda de procura. A procura pode ser determinada independentemente do tempo de aprovisionamento, como no caso em que a procura é variável mas o tempo de aprovisionamento é constante. O tempo de aprovisionamento pode ser fixado no seu nível máximo ou num nível de serviço aceitável. 
+As peculiaridades do problema das encomendas únicas ditam qual a política a seguir, no que se refere à determinação do tempo de aprovisionamento. As estipulações contratuais podem simplificar o problema do tempo de aprovisionamento, quando é utilizada procura vinda do exterior (Tersine, 1988, p. 314). 
+
+
+Logística/Embalagem/Caixas de cartão/Vantagens e desvantagens
+As caixas de cartão apresentam baixo custo e podem ser facilmente impressas o que para os fabricantes proporciona fácil reconhecimento dos seus produtos. Em casos de mercados altamente concorrenciais, como, por exemplo, o dos cereais, os fabricantes utilizam desenhos sofisticados de forma a tornar a embalagem mais atraente para o consumidor. Este factor faz com que as caixas de cartão sejam as mais utilizadas pelos fabricantes, uma vez que são muito mais atractivas que os sacos de plástico.
+As caixas de cartão também têm, no entanto, algumas desvantagens. Uma delas, é o facto de estas não serem hermeticamente fechadas, sendo necessário recorrer a sacos de plástico para proteger o conteúdo no interior das caixas. A opacidade que estas caixas apresentam é outra desvantagem, uma vez que impossibilitam que o conteúdo seja visto (Paperboard, 2000).
+

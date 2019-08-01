@@ -1,0 +1,11 @@
+Introdução à Química/Amônia
+O amoníaco, gás amoníaco ou amônia é um composto químico cuja molécula é constituida por um átomo de nitrogênio (N) e três átomos de hidrogênio (H) de fórmula NH.
+Atualmente o processo de Haber (cujo desenvolvimento valeu a w:Fritz Haber o w:Prémio Nobel da Química de 1919) é o mais importante método de obtenção da amônia. Neste processos os gases nitrogênio e hidrogênio são combinados diretamente a uma pressão de 20 MPa e temperatura de 500°C, utilizando o ferro como catalisador:
+Para a produção da amônia, o nitrogênio é obtido do ar atmosférico e o hidrogênio a partir do gás natural.
+Muito usado em ciclos de compressão (refrigeração) devido ao seu elevado calor de vaporização e temperatura crítica. Também é utilizado em processos de absorção em combinação com a água.
+O amoníaco e seus derivados ureia, nitrato de amônio e outros são usados na agricultura como fertilizantes. Também é componente de vários produtos de limpeza.
+O amoníaco é facilmente biodegradável. As plantas o absorvem com muita facilidade, sendo um nutriente muito importante como fornecedor de nitrogênio. Em concentrações muito altas na água de consumo pode causar danos graves, já que o amoníaco interfere no transporte do oxigênio pela hemoglobina.
+Nitrato de amônia é utilizado como adubo, e também na fabricação de explosivos, os chamados ANFOS, que possuem grande poder destrutivo.
+Sua fórmula molecular é: (NH)(NO).
+Uma de suas particularidades agronômicas é que detém ao mesmo tempo duas formas de fornecimento de nitrogênio ao solo, a nítrica (NO), e a amoniacal (NH). Como a forma amoniacal tem carga elétrica positiva (+), pode se ligar aos colóides do solo, principalmente nas argilas, pois as mesmas tem cargas elétricas negativas. O mesmo não ocorre com a forma nítrica que tem carga elétrica negativa (-), não sendo portanto absorvida pelas argilas, podendo sofrer o processo de perda chamado lixiviação ou percolação, que é transporte às camadas mais profundas dos solos, escapando assim da ação absorvedora das raízes das plantas.
+

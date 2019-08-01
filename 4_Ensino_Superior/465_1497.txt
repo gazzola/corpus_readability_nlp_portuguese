@@ -1,0 +1,29 @@
+ Por isso, costuma-se tentar identificar os parâmetros que "melhor se aproximam" de uma solução exata, em algum sentido. Uma forma de obter uma solução aproximada (uma "quase-solução") resulta da seguinte observação: o valor de cada função formula_6 em uma solução exata formula_16 deveria ser zero. Se tal exigência é restritiva demais, e com ela não é possível encontrar qualquer solução, uma possibilidade seria exigir um pouco menos. Por exemplo, poderia ser exigido apenas que o valor de formula_6, para formula_18 seja, em geral, pequeno. Uma das formas de capturar essa idéia em termos mais precisos é dizer que se pretende minimizar a soma dos quadrados dos valores de cada formula_6. Em símbolos, o problema passaria a ser:
+Neste caso, para cada índice formula_18, a função formula_6 é afim linear, ou seja:
+onde formula_25 e formula_26 para cada formula_18. Deste modo, pode-se definir uma função formula_28 como
+Motivando a introdução da seguinte notação:
+Assim,
+Logo, buscar uma solução exata é o mesmo que procurar uma solução para o seguinte sistema linear:
+E uma solução aproximada poderia ser buscada a partir do seguinte problema de minimização:
+Analisando a função objetivo do problema de minimização anterior, tem-se:
+Logo, como formula_36 é simétrica e semi-definida positiva, tem-se formula_37 convexa. Isso implica que a condição necessária de primeira ordem é também suficiente. Assim, qualquer ponto formula_38 tal que formula_39 é solução do problema aproximado. Calculando o gradiente da função objetivo tem-se:
+Deste modo, a solução do problema é obtida resolvendo o sistema
+Observe também que isso implica formula_42, ou seja, formula_43. Considere dado um conjunto de pontos do plano formula_44, por exemplo formula_45, representando dados obtidos experimentalmente. Perguntas:
+Conforme se aumenta o grau do polinômio que faz a aproximação dos dados, as colunas de formula_46 têm elementos elevados a potências cada vez maiores, fazendo com que os autovalores de formula_47 sejam cada vez mais dispersos. Com isso, formula_47 torna-se mal condicionada. Para esse tipo de problemas, há dois métodos:
+Ambos são métodos do tipo Newton. Então, para entender cada um deles é preciso entender o Método de Newton. Para entender a essência do método de Newton, primeiro considere que o problema a ser resolvido é
+sendo formula_50, e portanto formula_51 de classe formula_52. A idéia de Newton é usar o desenvolvimento até segunda ordem da série de Taylor da função formula_37 em cada ponto iterado. Isto é, se o iterado é formula_54, então:
+Então a condição de Newton é que em cada iteração a Hessiana formula_56 deve ser definida positiva. Calculando o gradiente da função formula_57, segue:
+Se formula_59 é o (único) minimizador de formula_57, então
+donde
+Sendo formula_56 definida positiva, tal matriz é também inversível. Portanto:
+Assim, pode-se usar a seguinte iteração:
+ Início: Tome formula_66
+Voltando ao problema original, de mínimos quadrados, se tinha:
+Calculando o gradiente desta função, resulta:
+Considera-se formula_29 definida por
+Deste modo, a Jacobiana de formula_28 verifica:
+pois o produto de uma matriz por um vetor tem como resultado um vetor que é a combinação linear das colunas da matriz, com coeficientes que são as coordenadas do vetor. Além disso, tem-se
+Seja
+Sabe-se que uma matriz formula_87 é definida positiva se formula_88 para qualquer formula_89. Fazendo formula_90, tem-se:
+Para que formula_87 seja definida positiva, é necessário que formula_93 ( deve gerar todo o espaço), neste caso, se diz que formula_94 é de posto máximo. Início: Tome formula_66
+A idéia de Levemberg-Marquardt foi perturbar a matriz formula_109, considerando formula_110, para algum formula_111 pequeno.

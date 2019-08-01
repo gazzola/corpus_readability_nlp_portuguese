@@ -1,0 +1,37 @@
+Análise real/Variação total
+Seja formula_1 uma função real. Definimos a oscilação de formula_2 em um intervalo formula_3 contido em formula_4 como:
+Seja formula_1 uma função real. Definimos a variação de formula_2 em um partição formula_12 de um intervalo formula_3 contido em formula_4 como:
+1. Seja P uma partição cujos extremos são formula_16 and formula_17 e seja formula_1 uma função real definida em um domínio formula_19 então:
+Imediato da definição.
+2. Seja P uma partição cujos extremos são formula_16 and formula_17 e seja formula_1 uma função monótona definida em um domínio formula_19 então:
+Considere, sem perda de generalidade, que formula_2 é uma função crescente, da definição de variação temos:
+Como formula_28, temos que formula_29, logo:
+3. Seja P uma partição cujos extremos são formula_16 and formula_17 e sejam formula_1 e formula_34 funções reais definidas em um domínio formula_19 então:
+4. Seja P uma partição cujos extremos são formula_16 and formula_17 e formula_1 uma função real definida em um domínio formula_19 então, se P' é um refinamento de P
+Sem perda de generalidade, considere que P' é um refinamento de P pela inclusão de um único ponto formula_43. Como a seguinte desigualdade é válida:
+o resultado segue.
+Seja formula_1 uma função real. Definimos a variação de formula_2 em um intervalo formula_3 contido em formula_4 como:
+O supremo é tomado em formula_50, o conjunto de todas as possíveis partições de formula_3.
+As seguintes propriedades são de demonstração imediata, aparir da definição de supremo e das propriedades já demonstradas para a variação em uma partição.
+1. Se formula_2 é um função monótona, então:
+2. Se formula_2 uma função real, então:
+3. Se formula_2 e formula_58 são funções reais, vale
+4. Se formula_2 uma função real, então:
+5. Se formula_2 uma função real, então:
+Diz-se que uma função real formula_1 é de variação limitada em um intervalo formula_3 se e somente se:
+Seja formula_1 uma função de classe formula_68, então:
+Primeiro observamos que se formula_70 é uma partição do intervalo formula_3, podemos escrever, usando o teorema do valor médio:
+Da definição de variação total, podemos inferir a existência de uma seqüência de partições formula_73 tal que:
+Como a variação não decresce com o refino da partição, pode supor que comprimento das partições formula_75 está convergindo para zero. Assim:
+Uma função é de variação limitada se e somente se pode ser escrita como a diferença de duas funções não decrescentes.
+a.Seja formula_1 uma função de variação limitada em formula_4. Define-se a função formula_79 da seguinte forma:
+Fixando um formula_81 é uma função não decrescente em formula_82.
+Agora define-se:
+É fácil ver que formula_84. Resta-nos provar que tanto formula_85 como formula_86 são funções não decrescentes. Para tal, seja formula_87 e fazemos a seguinte estimativa:
+Da penúltipla para a última linha usamos formula_89 e depois observamos que formula_90.
+A demontração sendo perfeitamente análoga para a função formula_86, o resultado segue.
+Considere a função:
+Esta função não é de variação limitada no intervalo formula_93. Para provar isso considere o seguintes pontos:
+Assim
+Portanto, formula_96
+

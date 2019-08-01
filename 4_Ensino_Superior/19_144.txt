@@ -1,0 +1,27 @@
+Topologia/Enumerabilidade
+1) Um espaço topológico X diz-se que verifica o 1º Axioma da Contabilidade se a topologia em X tem uma base contável se a topologia em X tem uma sub-base contável.
+2) Um espaço topológico X diz-se que verifica o 2º Axioma da Contabilidade se cada ponto de X tem uma base contável de vizinhanças.
+3) Sendo X um espaço topológico, se x ∈ X tem uma base contável de vizinhanças, então tem uma base (V) de vizinhanças tal que<br>... ⊆ V ⊆ V ⊆ V.
+4) Se X verifica o 1º Axioma da Contabilidade, então também verifica o 2º Axioma da Contabilidade.
+5) Um sub-espaço dum espaço topológico que verifique o 1º Axioma da Contabilidade (resp. 2º Axioma da Contabilidade) também verifica o 1º Axioma da Contabilidade (resp. 2º Axioma da Contabilidade).
+Sendo X espaço topológico, diz-se que uma parte A de X é densa em X sse alguma das condições equivalentes se verifica:
+1) fecho A = X.
+2) ext A é vazio.
+3) Todo o aberto de X intersecta A.
+Sendo X espaço topológico:
+1) A é denso em fecho A.
+2) Se A é denso em B e B é denso em X, então A é denso em X.
+3) Ainda que A seja denso em X, pode ser que B ∩ A não seja denso em B, como se pode ver fazendo X = {1, 2, 3} com a topologia<br>{Ø, X, {1, 2}} sendo A = {2, 3} e B = {1, 3}.
+Sendo X um espaço topológico:
+1) Diz-se que X é separável sse X contiver uma parte densa contável.
+2) Se X verifica o 1º Axioma da Contabilidade, então X é separável.
+Sejam X espaço topológico e (X) sucessão de partes de X cuja união é X. Para cada n, seja D contável denso em X. Então  ∪  D é contável e denso em X. Em particular, se um espaço é a união contável de sub-espaços separáveis, então ele é separável.
+Sendo X espaço topológico, diz-se que X é de Haudsdorff sse, para quaisquer x, y ∈ X diferentes, existem U vizinhança de x e V vizinhança de y que são disjuntas.
+Note-se que a sub-topologia numa parte dum espaço de Hausdorff é ainda de Hausdorff. E note-se também que, se X for de Hausdorff, qualquer que seja x ∈ X, {x} é fechado.
+Note-se que a propriedade de Hausdorff afirma sobre a possibilidade de «separar» dois pontos do espaço. No entanto, atenção, o facto dum espaço topológico ser separável, não significa que seja de Hausdorff. É muito fácil criar um contra-exemplo.
+Sejam X espaço topológico e A parte de X. Então:
+1) Diz-se que A é raro sse int fecho A = Ø.
+2) Diz-se que A é da 1ª Categoria de Baire sse A é a união contável de conjuntos raros.
+3) Diz-se que A é da 2ª Categoria de Baire sse A não é da 1ª Categoria de Baire.
+4) A é aberto e denso em X sse X - A é fechado e raro em X.
+

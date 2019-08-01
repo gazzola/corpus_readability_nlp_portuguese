@@ -1,0 +1,24 @@
+Logística/Movimentação de materiais/Equipamento/Equipamento de movimentação de materiais/Monocarris, guinchos e gruas/Gruas
+Os guindastes, também conhecidos como gruas são hoje um equipamento muito fundamental, estes equipamentos incansáveis são capazes de erguer toneladas e facilitando bastante e acelerado. De notar que o papel fulcral que estes equipamentos têm na indústria.
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Equipamento de armazenagem de pequenas cargas/Equipamento de remoção operator-to-stock/Equipamento de armazenagem automática com operador a bordo
+Equipamento de armazenagem automática com operador a bordo, é um equipamento de arrumo e aquisição com o operador no seu interior comandando-o entre os vários locais de recolha de artigos.
+O arrumo pode ser feito em prateleiras, armários modulares ou estantes de paletes podendo o equipamento ter a movimentação condicionada pelos corredores ou movimentar-se livremente.
+Este equipamento permite a realização/satisfação de mais de uma ordem de aquisição em simultâneo podendo a separação de artigos ser feita no equipamento dependendo do número e volume dos artigos.
+Este equipamento potencia reduções muito significativas do tempo dispendido e um aumento importante do aproveitamento do espaço de armazenagem considerando sistemas mais convencionais.
+O aproveitamento do espaço é conseguido porque a altura de armazenamento deixa de estar limitada ao alcance do operador.
+O armazenamento de materiais passa a estar limitado à carga máxima do armazém, limitações do equipamento ou pé-direito do espaço em questão. Os tempos de "picking" são reduzidos porque as deslocações são automáticas libertando o operador para realizar tarefas produtivas enquanto se desloca entre locais de arrumo e também porque o tempo de procura é reduzido já que o operador é colocado no local de recolha dos artigos automaticamente (Tompkins et al., 2003, p. 270). 
+
+
+Logística/Gestão de armazéns/Operação de um armazém/Oportunidades de melhoria nas operações
+Há muitas oportunidades de melhoria nas operações de armazenagem, que podem tornar mais eficientes as operações de processamento e expedição das encomendas num armazém. Nessas oportunidades estão incluídas actividades, tais como, a separação e preparação de pedidos, "cross-docking", produtividade, utilização do espaço e serviços de valor acrescentado.
+Individualmente ou combinadas, as oportunidades descritas anteriormente, podem ser encontradas na maioria dos armazéns. Alterou-se, assim, a definição antiga de que o armazém é um local apenas para armazenar, reconfigurar e diminuir prazos de entrega. O armazém tornou-se muito mais complexo e totalmente movido pelas novas tecnologias (Tompkins et al., 2003, p. 403-404).
+
+
+Logística/Localização/Localização minimax
+Como ilustração de um problema localização minimax, considere o problema de localização de postos de saúde de proximidade em zonas rurais. Nesta situação, as clínicas podem estar localizadas de modo a que a distância máxima que um paciente tem de viajar para a clínica é minimizada.
+Outro exemplo semelhante é a localização dos armazéns de uma fábrica que minimiza a distância máxima que os trabalhadores têm de viajar para chegarem ao armazém.
+Ainda um outro exemplo diz respeito à colocação de estações de incêndio em uma grande área metropolitana de tal forma que a distância máxima entre qualquer local dentro da cidade e da estação de incêndio é minimizada. Como pode ser observado, existe uma grande variedade de problemas de localização minimax que podem ser desenvolvidos de forma apropriada.
+Em grande parte os problemas minimax são aplicados nos piores cenários, este pretende minimizar os efeitos da pior situação, ou seja, a qualquer custo. Na resolução de um problema de localização minimax, outros custos que o custo máximo, não são consideradas.
+

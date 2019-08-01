@@ -1,0 +1,34 @@
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Armazenagem de unidades de carga/Equipamento para armazenagem de unidades de carga/Operador a pé
+A popularidade deste tipo de equipamento para armazenagem de unidades de carga deve-se à sua simplicidade e ao seu baixo custo (Tompkins et al., 2003, p. 233).
+
+
+Logística/Manutenção de instalações/Estrutura organizacional
+A visão moderna de manutenção combina acções de gestão, técnicas e económicas de modo a optimizar os ciclos de vida dos bens físicos (Cabral, 1998, p. 21). Ou seja, manutenção é um conjunto de "acções destinadas a assegurar o bom funcionamento de máquinas e das instalações, garantindo que estas sejam intervencionadas nas oportunidades e com o alcance certo, por forma a evitar que avariem ou baixem de rendimento e, no caso de tal acontecer, que sejam repostas em boas condições de operacionalidade com a maior brevidade, tudo a um custo global optimizado" (Cabral, 1998, p. 17).
+A manutenção deve ser adaptada a cada instalação, tendo em conta as técnicas existentes, situação geográfica e as condições dos trabalhadores. Para isso, devem ser implementadas regras básicas de organização, que são seguidas de acordo com a estrutura do departamento de engenharia de manutenção. É essencial que esta estrutura não seja uma fonte de burocracia, nem de formação de centros de poder dentro da organização.
+Uma organização com linhas bem definidas de autoridade e responsabilidade, ajustada à realidade, composta por equipas que interagem de forma positiva e cooperativa, é uma organização com maior probabilidade de sucesso. Para atingir o êxito, primeiramente, a organização tem que assegurar a implementação de conceitos básicos de gestão:
+Conceitos básicos para o bom desempenho da manutenção numa instalação:
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Equipamento de armazenagem de pequenas cargas/Equipamento de remoção operator-to-stock/Remoção robótica
+Em alguns casos a utilização de um equipamento robotizado (automático) para recolher artigos torna-se admissível. Cada equipamento robotizado está equipado com um pequeno carrossel que permite separação, acumulação e contenção das ordens de "picking".
+O carrossel viaja para cima e para baixo num mastro que se encontra preso no robô, enquanto este percorre o(s) corredor(es).
+Enquanto uma gaveta é retirada de uma localização para o veículo, o carrossel roda até à posição correcta (Tompkins et al., 1996, p. 256).
+
+
+Logística/Localização/Localização minisoma de múltiplas instalações
+A fórmula geral para este tipo de problemas é (Love et al., 1988, p. 77):
+formula_1
+Onde:
+formula_2 é o número de novas instalações a localizar;
+formula_3 é o número de instalações já existentes;
+formula_4 é a conversão da grandeza distância entre uma nova instalação formula_5 e uma instalação já existente formula_6 em valores de custos, com formula_7;
+formula_8 é a conversão da grandeza distância entre uma nova instalação formula_5 e outra nova instalação formula_10 em valores de custos, com formula_11;
+formula_12 é o vector das localizações das novas instalações;
+formula_13 é a localização da nova instalação formula_5;
+formula_15 é a localização da instalação existente formula_6;
+formula_17 é a distância entre a nova instalação formula_5 e a instalação existente formula_6;
+formula_20 é a distância entre a nova instalação formula_5 e a nova instalação formula_10.
+Os problemas de múltiplas instalações tem duas variantes importantes (Sule, 2001, p. 123):
+"Instalações múltiplas de diferentes tipos": Cada tipo de instalações tem procura independente por parte dos consumidores, incluindo as outras novas instalações. 
+"Instalações múltiplas do mesmo tipo": Todas as instalações servem para o mesmo efeito. Os consumidores dividem-se de tal modo que cada consumidor é servido por apenas uma instalação.
+

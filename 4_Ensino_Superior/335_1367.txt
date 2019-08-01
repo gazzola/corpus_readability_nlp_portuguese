@@ -1,0 +1,29 @@
+ No entanto, talvez por causa de sua simplicidade, podem ser facilmente estendidas para operações entre funções. Considere, por exemplo, o caso da potenciação. O teorema T5, mostra que para se calcular o limite da (função) n-ésima potência de f(x) que tem limite no ponto "a", é suficiente calcular a n-ésima potência do (número dado pelo) limite de f(x) no ponto "a". Demonstração:
+Proponhamos que formula_96 e formula_97, mas formula_98. Logo, pela definição de limite, teremos que admitir que para cada formula_99, existe formula_100 tal que:
+formula_101 para todo formula_6 que satisfaz formula_103
+Além disso, existe formula_104 para o qual vale
+formula_105 sempre que formula_6 verifica a desigualdade formula_107
+Como formula_108 e formula_109 não são iguais, a diferença formula_110 é não nula. Da desigualdade triangular: 
+formula_111
+Se tivermos um formula_112 e formula_113, serão válidas as condições:
+formula_114
+formula_115
+Teremos em consequência que:
+formula_116 para todo formula_6 para o qual formula_113. Como podemos arbitrar formula_119, teremos, ao fazer formula_120, que:
+formula_121
+Mas isto é contraditório, portanto formula_122. Demonstração:
+Faremos a demonstração apenas para o caso da soma de funções, deixando a cargo do leitor verificar que a propriedade análoga para a diferença de funções pode ser provada de forma parecida. Tomando formula_123 e formula_124, devemos, pela definição, provar que:
+Dado qualquer formula_34 positivo, existe algum formula_30 positivo, para o qual formula_127 sempre que formula_128 satisfaz formula_129
+Posto que existem os limites de formula_5 e formula_131 em formula_33, já sabemos que para quaisquer formula_133 e formula_134 positivos, existem formula_135 e formula_136 positivos satisfazendo:
+e pela desigualdade triangular:
+formula_143
+Então, ao arbitrar formula_144, existe formula_145, de modo que se formula_146 vale:
+formula_147, ou seja,
+formula_148
+Ao provar a propriedade para a diferença de funções, a principal mudança é no passo onde é utilizada a desigualdade triangular. Em tal caso, deveriamos observar que:
+formula_149
+Demonstração:
+Consideremos que formula_150 e que formula_151. Queremos verificar se para cada formula_34 positivo, existe algum formula_30 positivo, tal que
+formula_154, para todo formula_155 que verifica formula_156
+Considerando que existem os limites formula_157 e formula_158, é possível encontrar certo formula_159, para o qual
+do que podemos concluir que, para estes valores de formula_6, vale formula_164.

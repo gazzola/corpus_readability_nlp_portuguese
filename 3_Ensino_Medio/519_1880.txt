@@ -1,0 +1,11 @@
+ Curso básico de LibreOffice/Impress
+O Impress é o aplicativo de criação e edição de apresentações da família BrOffice.org que possibilita realizar as seguintes tarefas:
+Ao iniciar o seu ambiente e instalar o BROffice.org você poderá encontrar o ícone do BROffice.org na área de trabalho:
+Caso o ícone não esteja sendo exibido na área de trabalho você poderá encontrá-lo no Botão iniciar -> Todos os programas ->BROffice ->Impress
+Na sequência aparecerá uma tela principal do Assistente do BROffice.org vrs Impress que permitirá que o usuário crie uma apresentação vazia ou com uma formatação pré-existente (a partir de um modelo) ou que o usuário abra uma apresentação já existente. A janela do Assistente de Apresentação será disponibilizada. Você deverá selecionar uma das opções: Apresentação em branco; A partir do modelo ou Abrir uma apresentação existente para iniciar o trabalho. Para criar uma apresentação em branco o usuário pode simplismente selecionar a opção Apresentação em branco e clicar no botão Criar,
+desta forma ele será direcionado para selecionar a opção de layout de slide, ou então utilizar o Assistente através do botaõ Próximo
+para criar uma apresentação mais elaborada. O BROfficce.org irá exibir na tela do usuário o arquivo Sem_TítuloX. Apresentação a partir do modelo: disponibiliza as opções Apresentar um novo Produto ou Recomendar uma estratégia. Através do Assitente o usuário poderá criar a apresentação passo-a-passo e fornecer dados para a confeccção da apresentação
+e com todas as informações montará um layout. Na janela 1 da Tela do Assistente do Impress:
+Na janela 2 da Tela do Assistente do Impress:
+Na janela 3 é possível configurar efeitos para a exibição da apresentação. Na janela 4 o usuário poderá fornecer algumas informações básicas sobre a apresentação. Ao clicar em criar o BROffice.org irá exibir o arquivo na tela Sem_TítuloX, contendo o modelo com as informações 
+fornecidas pelo usuário e as sugestões para desenvolvimento da apresentação. O usuário poderá abrir uma apresentação gravada em arquivo.

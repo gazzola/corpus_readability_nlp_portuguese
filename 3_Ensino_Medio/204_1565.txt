@@ -1,0 +1,10 @@
+ Um número de mais de três algarismos "ABCD..." é divisível por 7 quando o número "B(C+2A)D..." for múltiplo de 7. Isso porque "98 = 100 - 2" é múltiplo de 7, então o que esta operação faz é trocar "100 A" por "2 A". Exemplos: "1645 -> 665 -> 65 + 12 -> 77" (múltiplo de 7); "3192 -> 192 + 60 -> 252 -> 56" (múltiplo de 7); "9876 -> 876 + 180 -> 1056 -> 76" (não é múltiplo de 7). Um número é divisível por 8 quando os três últimos algarismo forem 0 ou formarem um número múltiplo de 8. Exemplo:
+Um número é divisível por 9 quando a soma dos valores absolutos de seus algarismos for divisível por 9. Exemplo:
+Um número é divisível por 10 quando termina em zero. Exemplo:
+Segue uma regra parecida com a da divisibilidade por 7. A título de exemplo considere o número 154. Como 11 é divisível por 11, então 154 também o é.
+Num contra-exemplo, usaremos o número 277. Pelo algoritmo teremos 27 e 7; 27 - 7 = 20, que não é divisível por 11, e portanto 277 também não o é.
+O algoritmo pode ser aplicado várias vezes no caso de números maiores. Uma regra prática para números grandes é somar os algarismos de posição par e os de posição ímpar. Se as somas forem iguais ou os restos das divisões por 11 forem iguais, então o número é múltiplo de 11. Ou seja, em um número da forma ABCDEFG, compara-se A+C+E+G com B+D+F
+Dois exemplos com números grandes:
+Um número é divisível por formula_20 quando seus últimos n algarismos forem 0 ou divisíveis por formula_22
+Um número é divisível por formula_23 quando a soma dos valores absolutos de seus algarismos for divisível por formula_25
+Número primo é um número natural maior que 1 e que tem exatamente dois divisores positivos distintos: 1 e ele mesmo. Se um número natural é maior que 1 e não é primo, diz-se que ele é um número composto.

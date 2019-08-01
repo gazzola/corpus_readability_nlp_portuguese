@@ -1,0 +1,19 @@
+ 5. A fração será, portanto, formula_52. Multiplicam-se os numeradores entre si e os denominadores entre si. Ex. :
+Para multiplicar uma fração por um número inteiro, considera-se que este é uma fração cujo denominador é igual a 1. Ex. :
+É importante notar que, muitas vezes, a multiplicação dos numeradores e denominadores resulta em frações redutíveis. Esta fração deve ser reduzida a uma fração irredutível:
+Costuma ser mais prático simplificar "antes" de efetuar a multiplicação:
+Como visto, a divisão é a operação inversa da multiplicação. É importante ter isso em mente para resolver uma divisão entre frações:
+Primeiramente inverte-se o divisor da segunda fração. Com isto, tem-se a inversão da operação, isto é, passará a haver uma multiplicação:
+Que se resolve como mostrado acima. Caso os denominadores não sejam iguais é preciso, antes de efetuar a adição, encontrar o menor múltiplo comum (MMC) entre os denominadores:
+Encontrado o MMC, este será dividido por cada um dos denominadores, multiplicando-se o resultado desta divisão pelo respectivo numerador. Como o MMC de 3 e 5 é 15, tem-se que:
+Sendo iguais os denominadores, pode-se efetuar a adição entre os numeradores:
+O denominador comum é mantido:
+A subtração é feita seguindo-se os mesmos passos da adição. É indiferente resolver primeiro a exponenciação ou a divisão:
+Efetuando-se primeiramente a divisão obtém-se o mesmo resultado:
+A radiciação de uma fração é feita seguindo-se os mesmos passos da potenciação. Da mesma forma que na divisão entre frações, a ocorrência de expoente fracionário causa a inversão da operação:
+Uma fração pode ser simplificada quando numerador e denominador não são primos entre si. Ex. :
+Para tanto basta dividi-los pelo máximo divisor comum (MDC) entre eles, obtendo-se uma fração que, além de manter a proporção da original, é do tipo irredutível:
+Para estabelecer comparação entre frações, é preciso que elas tenham o mesmo denominador. Isso é obtido através do menor múltiplo comum, como foi visto na adição. O MMC entre 5 e 7 é 35. Uma vez igualados os denomidores,pode-se fazer a comparação entre as frações:
+A comparação entre frações com denominadores diversos vale-se do fato de que há frações que são equivalentes entre si, pois:
+Uma fração do tipo imprópria pode ser convertida para mista e vice-versa. Para tanto, basta dividir o numerador pelo denominador. O quociente será o numerador da fração mista e o resto será o numerador. Como o quociente da divisão 7 ÷ 3 é igual a 2 e o resto é 1, tem-se que a fração acima, escrita como fração mista, terá a seguinte notação:
+Para fazer o caminho inverso, basta multiplicar o denominador pela parte inteira e somar o resultado ao numerador, mantendo-se o denominador. Como o produto 3 × 2 é igual a 6 e a soma 6 + 1 é igual a 7, obtém-se novamente a notação sob a forma de fração imprópria, como visto acima.

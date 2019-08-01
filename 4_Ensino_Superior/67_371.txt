@@ -1,0 +1,13 @@
+Logística/Sistemas de informação/Indicadores de desempenho/Indicadores de utilização de recursos: pessoas/Mão de obra directa na movimentação de materiais
+White Jr. (1985, p. 325) define o indicador de mão de obra directa na movimentação de materiais como a proporção do tempo de mão de obra directa dispendido na movimentação de materiais, ou seja:
+"Tempo despendido na movimentação de materiais pela mão de obra directa" (h) / "Tempo total de mão de obra directa" (h)
+Podendo, também ser calculado da seguinte forma: 
+"Mão de obra directa na movimentação de materiais" (UM) / "Mão de obra directa total" (UM) [proporção]
+Geralmente, é preferível manter um valor baixo para este indicador. As alternativas disponíveis para reduzir este valor consistem no uso de mão de obra indirecta na movimentação de materiais e na eliminação ou redução da quantidade de movimentações de materiais necessárias, recorrendo à mecanização ou automação das actividades de movimentação. 
+É importante, não só o estabelecimento de níveis de referência, como também uma observação mensal que permita avaliar o desempenho, com base numa estimativa de valores obtida por amostragem. 
+Exemplo de aplicação: Na empresa XPTO foram recolhidas amostras em 5 departamentos: I, II, III, IV e V. Das 1 050 observações escolhidas aleatoriamente, verificou-se 190 vezes o envolvimento da mão de obra directa na realização de tarefas de movimentação de materiais. Os resultados estão resumidos na seguinte tabela:
+Nota: 1 050 observações não são suficientes para fazer afirmações categóricas sobre a percentagem de movimentações de materiais de cada departamento. O exemplo serve apenas para demonstrar a aplicação matemática deste indicador:
+Mão de obra directa na movimentação de materiais = (465,05 / 2 570) × 100 = 18,10%
+Para cada departamento, o indicador de mão de obra directa na movimentação de materiais é, portanto, a percentagem de movimentação de materiais dada na coluna 5.
+Baseado nos resultados do estudo, verifica-se que o departamento IV deve ser mais estudado e devem ser aplicadas tentativas para reduzir o custo da movimentação de materiais. 
+

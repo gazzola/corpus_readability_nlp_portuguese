@@ -1,0 +1,22 @@
+ A segunda consulta foi elaborada de forma análoga. Uma consulta sem o operador "$dbDate" também é transformada. Considere a
+consulta abaixo. Por definição, uma cosulta sem o operador "$dbDate" considera apenas os registros do
+estado atual do banco, por isso, a consulta acima é transformada para a seguinte:
+Sempre que uma consulta pesquisa pelo campo "_id" é necessário transformar a
+query para utilizar o campo "_id_pai", já que a cada atualização de um registro
+implica na criação de um novo documento com um novo "_id". O campo "_id_pai"
+recebe o valor do "_id" original para indicar qual é o documento referenciado. Dessa forma, a seguinte consulta:
+é transformada para:
+= Experimentos =
+Por fim, o arcabouço desenvolvido foi testado com grandes dados particionados horizontalmente em várias máquinas e agrupados pelos meta campos de validade dos documentos. Nesta etapa final, a metodologia proposta foi avaliada experimentalmente. A base de dados utilizada é de um software de vendas de uma empresa de
+elevadores. Cada possível venda é representada por um documento da coleção de
+elevadores. Esses documentos sofrem atualizações diárias com dados do local de
+instalação do elevador, o registro de ligações feitas para o cliente, a
+possibilidade de fechamento da venda e vários outros campos que serão omitidos
+no exemplo de documento abaixo em prol da didaticidade. O documento acima é uma representação parcial de uma possível venda de
+elevador. No contexto da empresa de vendas, é necessário fazer consultas no
+estado atual do banco para acompanhar as vendas e também é necessário fazer
+consultas temporais para analisar a evolução da venda com o tempo e fazer
+mineração de dados para obter padrões de evolução de venda que levam ao
+fechamento da venda ou não. A base de dados tem outras coleções além da de elevador, mas nos exemplos
+mostrados neste trabalho vamos focar na coleção de elevador apenas. Esta coleção possui 1.978.201 documentos representando 48.117 possibilidades
+de vendas únicas.

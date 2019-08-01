@@ -1,0 +1,43 @@
+Mecânica dos fluidos/Comportamento de um líquido em um recipiente móvel
+O comportamento de um líquido em um recipiente móvel pode ser analisado segundo os princípios da estática se ele estiver em equilíbrio interno e com esse recipiente, ou seja, se não houver movimento das partículas do líquido entre si e destas com relação ao recipiente. Neste caso, não haverá forças de cisalhamento e a viscosidade pode ser ignorada. Esse tipo de movimento, como já visto, é chamado de movimento de corpo rígido.
+A análise depende, obviamente, da geometria do recipiente. A seguir, são analisados casos simples à guisa de exemplo, com o objetivo de ilustrar os princípios básicos que devem nortear a busca da solução. Os recipientes são escolhidos de forma a ter uma geometria que facilite os cálculos.
+Se o recipiente que contém o líquido se mover linearmente na horizontal com aceleração a, a superfície do líquido sofrerá uma inclinação Θ com relação à horizontal. Uma partícula de volume δV localizada na superfície do líquido, a uma distância r do eixo de rotação estará sujeita a uma única força, F, normal à superfície, pois não haverá tensões de cisalhamento; a componente vertical F cos Θ deverá equilibrar o peso da partícula, e a componente horizontal F sen Θ deverá equilibrar a aceleração a a que ela está sujeita. Assim:
+formula_1 
+Essa inclinação fará com que a pressão do fluido seja diferente nas paredes anterior e posterior do recipiente. Se considerarmos um recipiente retangular, de comprimento L, altura H e largura W, na primeira parede a superfície do líquido subirá de uma altura
+formula_2 
+e na segunda descerá um valor equivalente. A força sobre a parede anterior será, portanto
+formula_3
+onde h é a profundidade do líquido com o recipiente em repouso. A forçca na parede posterior será
+formula_4
+A diferença entre essas forças é
+formula_5
+formula_6
+formula_7
+que é justamente a força necessária para acelerar a massa de fluido m.
+Se o recipiente que contém o líquido se mover linearmente na vertical com aceleração a, a superfície do líquido permanecerá na horizontal. A pressão em cada ponto do líquido, no entanto, será dada pela expressão
+formula_8
+Aqui, a é positiva quando aponta para cima, no sentido contrário de h, conforme as convenções usuais.
+Se o recipiente que contém o líquido girar em torno de um eixo vertical a uma velocidade angular ω, a superfície do líquido também sofrerá uma inclinação Θ. Uma partícula de volume δV localizada na superfície do líquido, a uma distância r do eixo de rotação estará sujeita a uma única força, F, normal à superfície, pois não haverá tensões de cisalhamento; a componente vertical F cos Θ deverá equilibrar o peso da partícula, e a componente horizontal F sen Θ deverá equilibrar a aceleração ωr a que ela está sujeita. Assim
+formula_9 
+Assim, diferentemente do caso da translação linear, Θ varia com r. Mas
+formula_10 
+Integrando 
+formula_11 
+que é a equação de um parabolóide de revolução em coordenadas cilíndricas. A posição da origem do eixo das coordenadas com relação ao eixo Z é arbitrária, mas deve estar sobre o eixo de rotação. Se escolhermos um recipiente cilíndrico de diâmetro D e z = 0 no fundo do recipiente, podemos calcular z em função de h, a profundidade do líquido quando o recipiente estiver em repouso, porque o volume de líquido deve permanecer constante. Assim:
+formula_12
+onde z é a altura do líquido nas paredes do recipiente
+formula_13 
+Para calcular a integral, é preciso expressar r, ou melhor, r, em função de z.
+formula_14 
+Assim,
+formula_15 
+formula_16 
+formula_17 
+Mas 
+formula_18 
+formula_19 
+Assim
+formula_20 
+formula_21 
+formula_22 
+

@@ -1,0 +1,15 @@
+Medida e integração/Medida
+_+</math> satisfazendo a seguinte propriedade:
+</math> é uma sequência cujos termos estão em formula_7 e verificam formula_16 para todo formula_17 então formula_18
+Antes de passar aos exemplos mais interessantes de medidas, pode-se apresentar alguns tipos bem simples, conforme os próximos exemplos mostram. A "medida de Lebesgue" sobre formula_25 possui uma construção mais elaborada, e por isso será introduzida em um capítulo posterior.
+A verificação de que esta função é realmente uma medida fica a cargo do leitor. Sinta-se convidado a melhorar a qualidade deste texto, incluindo-a neste módulo.
+A verificação de que esta função é realmente uma medida fica a cargo do leitor. Sinta-se convidado a melhorar a qualidade deste texto, incluindo-a neste módulo.
+Esta medida também é conhecida popularmente pelo nome de "medida da massa unitária concentrada em formula_28".
+Posteriormente será visto que esta soma é a "integral de formula_35" em relação a medida da contagem sobre formula_36 Agora que foi estabelecida uma notação para este tipo de soma, observe que a função formula_35 determina uma medida positiva sobre a formula_38 da seguinte maneira:
+Com as notações anteriores, tem-se a medida da contagem sobre formula_29 quando formula_35 é a função constante igual a formula_41
+Analogamente, a medida de Dirac em formula_28 é obtida quando existe algum formula_43 tal que
+ A_n\right) = \mu (\emptyset) = 0 < \infty = \lim_{n\rightarrow\infty} \mu(A_n).</math>}}
+Na definição , caracterizou-se um "espaço de medida" como sendo uma terna ordenada formula_6 em que formula_29 é um conjunto, formula_7 é uma e formula_9 é uma medida positiva sobre formula_10 Analogamente, na , é explicitado um par ordenado formula_62 no qual formula_29 é um conjunto e formula_7 é uma A presença de todo este formalismo é geralmente vantajosa, e por vezes necessária, principalmente ao se definir os novos conceitos. No entanto, tal formalismo é de certo modo dispensável: Ao definir um espaço de medida formula_6 é considerada a função formula_66 Como toda função tem um domínio, e no caso de formula_67 o domínio é uma , basta conhecer a medida para saber quem é formula_10 Além disso, sabendo-se quem é formula_2 se deduz qual é o conjunto formula_26 pois ele é simplesmente o maior conjunto que pertence a qualquer 
+Sendo assim, é aceitável usar expressões informais como, por exemplo, "seja formula_9 uma medida". No caso de ser necessário dar alguma ênfase para a ou para o conjunto formula_26 poderia ser dito "seja formula_9 uma medida sobre formula_7" ou "seja formula_9 uma medida sobre X".
+Em síntese, é de uso corrente nos livros da área expressões e notações simples, em vez de suas formulações "logicamente impecáveis", então o leitor não deve se espantar ao se deparar com frases do tipo "seja formula_29 um espaço com medida", já que em tais situações ficará implícito que há alguma medida definida sobre alguma conforme as observações anteriores sugerem.
+

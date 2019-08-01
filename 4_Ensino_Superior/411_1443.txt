@@ -1,0 +1,41 @@
+ Conforme observamos no gráfico, temos dois lados simétricos onde a distância ao foco de cada lado é formula_43, a altura é formula_44 e uma distância entre o foco e o ponto formula_44 que é formula_46, o que nos leva a dizer que formula_47, portanto:
+formula_48
+Sendo a elipse centrada nos eixos, temos os pontos:
+formula_49
+formula_50
+formula_51
+O que nos leva a:
+formula_52
+formula_53
+Elevando os dois termos da equação ao quadrado:
+formula_54
+Fazendo a simplificação algébrica, teremos:
+formula_55
+formula_56
+Elevamos os dois membros ao quadrado novamente:
+formula_57
+Depois das simplificações algébricas teremos:
+formula_58
+Porém, observando o gráfico, podemos concluir que:
+formula_59
+e a equação pode ser:
+formula_60
+O que nos leva a equação da elipse:
+Podemos verificar que quando formula_62 temos: formula_63 e quando formula_64 temos: formula_65, sendo estes valores o menor e o maior raio para a cônica, respectivamente. Quando substituimos as variáveis ou as constantes, uma pela outra, temos uma elípse cujo maior raio sustenta-se no eixo das ordenadas, pois a correlação de valores é intuitivamente perceptível no gráfico. De maneira geral, se formula_66 teremos uma elipse com o raio maior sobre as abscissas e se formula_67 a teremos com o raio maior sobre ordenadas. O centro da elipse serve de referência quando a mesma não está centrada na orígem do sistema de eixos. Para converter valores a forma correta para uma elipse fora da orígem do sistema de eixos, usamos a referência das coordenadas absolutas do ponto onde o centro da elipse se encontra, para encontrar a equação correta para a mesma:
+Encontrar o eixo maior, o eixo menor, os vértices e os focos da elipse representada pela equação: formula_69. Primeiro, reduzimos a equação a forma padrão para analisar os valores das constantes, para isso formamos quadrados perfeitos com as partes de cada variável:
+formula_70
+formula_71
+formula_72
+formula_73
+Portanto, 
+Para calcular as coordenadas dos focos fazemos:
+formula_78
+formula_79
+formula_80
+Encontrar a equação da elipse cujos focos tem como coordenadas: formula_82 e raio menor igual a 2 unidades. Podemos verificar que os focos estão sobre um mesmo valor de abscissa, enquanto que as ordenadas são formula_83 e formula_84, o que nos dá um valor de formula_85, logo temos:
+formula_86
+formula_87
+formula_88
+O centro da elipse está no ponto médio entre os dois focos, ou seja: formula_89
+A equação da elipse é, portanto:
+Encontrar a equação da elipse, cujos focos são expressos por formula_91 e que passa pelo ponto formula_92.

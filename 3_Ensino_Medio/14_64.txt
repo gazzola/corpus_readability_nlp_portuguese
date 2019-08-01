@@ -1,0 +1,25 @@
+Introdução à Química/Hidrocarbonetos
+Hidrocarboneto é um composto químico constituído apenas por átomos de carbono e de hidrogênio.
+Os hidrocarbonetos naturais são compostos químicos constituídos por átomos de carbono (C) e de hidrogênio (H), aos quais se podem juntar átomos de oxigênio (O), nitrogênio (N) e enxofre (S) dando origem aos compostos orgânicos, classificados de acordo com seus grupos funcionais. São conhecidos alguns milhares de hidrocarbonetos. As diferentes características físicas são uma consequência das diferentes composições moleculares. Contudo, todos os hidrocarbonetos apresentam uma propriedade comum: oxidam-se facilmente libertando calor.
+Hidrocarbonetos líquidos geologicamente extraídos são chamados de petróleo (literalmente "óleo de pedra") ou óleo mineral, enquanto hidrocarbonetos geológicos gasosos são chamados de gás natural. Todos são importantes fontes de combustível. Hidrocarbonetos são de grande importância econômica porque constituem a maioria dos combustíveis fósseis (carvão, petróleo,gás natural, etc.); vários outros produtos como biocombustíveis, plásticos, ceras, solventes e óleos são compostos orgânicos cuja estrutura básica é formada por hidrocarbonetos (mas que não são hidrocarbonetos por possuírem outros átomos além do carbono e hidrogênio).
+Os hidrocarbonetos são classificados de acordo com sua saturação, que posteriormente servirá para nomeá-lo. O primeiro passo é verificar a presença de ligações duplas e triplas. Se houver, é necessário numerar os átomos de carbono da cadeia principal. De acordo com a quantidade de insaturações encontradas, o hidrocarboneto receberá uma respectiva classificação. É preciso, ainda, observar a presença de ciclos. A relação entre as ligações, com os respectivos grupos de hidrocarbonetos, está listada abaixo:
+Compostos raros
+Há duas formas de se obter um hidrocarboneto qualquer, pela fórmula estrutural - em que cada estrutura representa um hidrocarboneto -,e pela fórmula molecular (cada fórmula pode identificar diversos hidrocarbonetos).
+Utilizando-se da fórmula estrutural, é fácil identificar o hidrocarboneto. Veja alguns exemplos abaixo:
+Considerando-se a fórmula molecular, encontraremos todas as possibilidade de hidrocarbonetos com tal fórmula. Para isto, utiliza-se a seguinte equação:
+Onde:
+A tabela abaixo exibe a classificação conforme os resultados obtidos:
+Compostos raros
+Existem substâncias híbridas, isto é, possuem características de mais de um grupo de hidrocarbonetos. Apresentam, logo, ligações duplas e triplas (valores para "x" e "y"), como é o caso do vinilacetileno (x = 1; y = 1). Se à esquerda da equação o resulado for negativo, o composto não existe. Além disto, "x" e "y" sempre pertencem ao conjunto dos números naturais.
+Dependendo dos valores encontrados para x, o composto não existirá: 
+Os hidrocarbonetos aromáticos são aqueles que apresentam um anel benzênico, portanto, todos são cíclicos. Os aromáticos normalmente são designados por uma nomenclatura popular, pois a nomenclatura sistemática da IUPAC é um tanto grande para estes. Confira abaixo os principais hidrocarbonetos aromáticos e sua respectiva nomenclatura popular e sistemática:
+Os compostos da química orgânica têm a seguinte nomenclatura:
+O prefixo é indicado pela quantidade de átomos de carbono na cadeia:
+Cada grupo de hidrocarbonetos tem uma raiz própria:
+Em compostos mistos, todas as raizes devem estar presentes no nome. Para os cíclicos, basta acrescentar o morfema ciclo antes do prefixo. Acíclicos que não sejam alcanos (0,0) e cíclicos que não sejam ciclanos (0,0), ciclinos (1,0) e ciclenos (0,1) devem exibir a posição da insaturação na cadeia.
+O sufixo comum a todos hidrocarbonetos é o sufixo o.
+O composto recebe o nome de "oct-n-ino" para "n" a posição da insaturação da cadeia:
+Para (0;2):
+O composto recebe o nome de "octa-m,n-dieno" para "m" e "n" a posição das insaturações da cadeia. Alguns exemplos:
+Veja mais exemplos:
+

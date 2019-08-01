@@ -1,0 +1,14 @@
+Curso de termodinâmica/Trabalho, calor e metabolismo - Aplicação aos seres vivos
+Os seres vivos são sistemas abertos, o que quer dizer que além da energia, eles trocam também matéria com o seu meio ambiente. Eles ficam porém submetidos às mesmas leis físicas que todos os objetos no universo, inclusive as leis da termodinâmica. A termodinâmica permite de explicar numerosos fenômenos biológicos.
+Foi verificado experimentalmente que a primeira lei da termodinâmica aplica-se aos seres vivos colocando o ser vivo num calorímetro durante alguns dias, medindo: 
+Os resultados calculados que seriam obtidos colocando um ser humano num calorímetro, são os seguintes: 
+A conversão: 
+alimentosformula_1produtos de combustãoformula_2fezes
+que chamamos metabolismo, se acompanha de uma perda de energia para o sistema:
+formula_3
+que é igual ao calor gasto pelo organismo, 10029 kJ.dia ( com um erro só de 1.6%) .
+De modo geral, a primeira lei aplicada aos seres vivos escreve-se:
+onde todos os termos são negativos.
+Mesmo na ausência de exercícios físicos(W=0), uma certa velocidade de metabolismo é necessária para manter o corpo na sua temperatura. Durante uma atividade física (W<0), a velocidade de metabolismo aumenta. Como o organismo não pode controlar perfeitamente a conversão de energia, o exercício físico acompanha-se de uma produção maior de energia térmica Q, que o corpo deve eliminar. A uma temperatura ambiente de 23°C, o calor produzido pelo metabolismo é perdido por quatro processos:
+A qualquer temperatura ambiente acima de 31°C, o calor é eliminado a 100% por evaporação. O volume de água perdido pelo corpo pode, nesta condição, atingir 1 litro por hora. A velocidade de evaporação depende da umidade relativa do ar, quer dizer da quantidade de vapor de água presente na atmosfera. Levando em conta o valor elevado da energia de vaporização (44 kJ.mol), a dissipação do calor por evaporação pode ser muito eficiente. Assim, no ar perfeitamente seco, um ser humano pode sobreviver a uma temperatura ambiente de 127°C, do lado de um bife fritando.
+

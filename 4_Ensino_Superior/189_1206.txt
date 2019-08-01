@@ -1,0 +1,43 @@
+Álgebra linear/Índice remissivo
+Nesta página estão listados os conceitos abordados neste livro em ordem alfabética.
+O nome de cada conceito possui um "link" para a página onde o mesmo é definido. Outras ocorrências importantes do conceito são indicadas pelos "links" numerados, logo após o "link" principal.
+
+
+Álgebra linear/Imprimir
+
+
+Álgebra linear/Produto interno
+Em Álgebra linear, chamamos de produto interno uma função de dois vetores que satisfaz determinados axiomas. O , comumente usado na , é um caso especial de produto interno.
+Seja V um sobre um K. Em V, pode-se definir a binária formula_1 (denominada produto interno), que satisfaz os seguintes axiomas:
+em que "u", "v" e "w" são vetores de V, e "λ" é um elemento de K.
+A partir desses axiomas, é possível provar as seguintes consequências:
+O sobre o espaço vetorial formula_14 satisfaz os axiomas do produto interno e é definido por:
+Se "f" e "g" são duas funções contínuas em um intervalo fechado, é possível definir o produto interno:
+Diz-se que dois vetores formula_17 são ortogonais se formula_18.
+Consequências (prove!):
+Seja formula_23
+Define-se o complemento ortogonal de "v", formula_24, como:
+Consequências (prove!):
+Seja "V" um espaço vetorial sobre o corpo "K", com produto interno.
+Define-se a norma ou comprimento de um vetor formula_32 como sendo o número formula_33, que indicamos por formula_34.
+Consequências (prove!):
+Define-se essa projeção como sendo o vetor
+formula_41
+Seja formula_42, em que formula_43 é uma base ortogonal de "W".
+formula_44
+Dados formula_45, então formula_46
+formula_47
+Uma base formula_48 de V é dita ortonormal se formula_49, em que 
+A base é ortogonal se os vetores são ortogonais dois a dois.
+v1.v2=0
+Propriedade: "n" vetores não-nulos e ortogonais dois a dois, em um espaço de dimensão "n", são linearmente independentes.
+Dada uma base formula_48 de V, podemos encontrar, a partir desta base,
+uma base ortogonal formula_53 de V.
+formula_54
+Define-se a distância entre dois vetores quaisquer, "u" e "v", como sendo
+formula_55
+Uma função distância tem as seguintes propriedades:
+Tais propriedades podem ser facilmente verificadas pela definição de norma.
+Se formula_60, então u é o vetor de W que dá a aproximação mais adequada de v por um vetor de W.
+Demonstra-se que formula_61
+

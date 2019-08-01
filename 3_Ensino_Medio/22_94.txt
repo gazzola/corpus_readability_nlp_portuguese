@@ -1,0 +1,13 @@
+Matemática elementar/Conjuntos/Números irracionais
+O conjunto dos números irracionais formula_1 é um subconjunto dos números reais. Distingue-se dos números racionais, pois não pode ser representado por formula_2, sendo "a" e "b" números racionais. Todos os números reais são infinitos e não são periódicos. Portanto, é usual os números irracionais serem representados por símbolos. Veja, abaixo, algumas constantes que são números irracionais utilizadas na matemática:
+Também são considerados números irracionais as raízes de números primos:
+Os múltiplos destas raízes também o são:
+Os múltiplos de raízes de números primos resultarão em números racionais formula_3, se, e somente se em
+o quociente entre todos os expoentes ("a, b, c", ...) dos números primos ("x, y, z", ...) e o índice "n" forem números inteiros. Exemplo:
+O quociente entre os expoentes dos números primos e o índice é: 4÷2 = 2; 2÷2 = 1; -2÷2 = -1. Já que todos são inteiros, a raiz de 5,76 é racional, e equivale a 2,4.
+Inconsistente o exemplo logo acima, porque multiplicar dois números irracionais, iguais ou distintos entre si, resulta num número irracional. 
+Não é porque o número irracional está representado por (raiz enésima (a)), ele passa a ser racional. Então, mesmo que eu eleve (raiz enésima (a)) à enésima potência, o resultado não será "a", e sim um número que tende a "a". Se formos pensar sobre essa questão, veremos que, se tivermos b = (raiz enésima (a)), com "b" pertencente ao conjunto dos números irracionais, e "a" e "n" pertencentes ao conjunto dos números racionais, então a extração de (raiz enésima (a)) é impossível.
+Também é inconsistente o exemplo logo acima, pelo mesmo motivo de que falei em "Multiplicação".
+Bem, se os intelectuais que lerem meus comentários duvidarem, então façam assim: extraiam a raiz quadrada de dois, à mão, consoante o Método Exato de Extração de Raízes Quadradas, explanado em Wikipedia, em "Raiz quadrada". Extraiam-na, indo a partir da primeira até, no mínimo, a quintitilionésima casa decimal após a vírgula; depois, elevem cada resultado ao quadrado, também à mão. Se algum dos, no mínimo, cinco milhões, der 2,000000000000000000000000..., eu retifico esse comentário. Caso não der, eu estarei certo.
+Não basta só teorizar. Tem que, provar, na prática.
+

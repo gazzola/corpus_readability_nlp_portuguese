@@ -1,0 +1,82 @@
+Matemática elementar/Trigonometria/Adição, subtração, duplicação e bissecção de arcos
+Nesta página aprenderemos a efetuar operações trigonométricas que envolvam a adição, subtração ou multiplicação de números reais.
+Considere a figura ao lado. Sejam três pontos formula_1 formula_2 e formula_3 pertencentes à circunferência , cujas coordenadas são formula_4 formula_5 e formula_6 
+Os arcos formula_7 e formula_8
+têm medidas iguais, logo as cordas formula_9 e formula_10 também têm a mesma medida. Após aplicarmos a fórmula da distância entre dois pontos da Geometria analítica, temos:
+formula_11
+formula_12
+Ao igualarmos as duas expressões, temos a fórmula:
+Sabemos que formula_14 A partir disto e sendo formula_15 obtemos:
+Utilizando a fórmula do cosseno da diferença de dois arcos nessa última expressão:
+Substituindo formula_18 e formula_19 nesta expressão, então:
+Sabendo que formula_21 e utilizando as fórmulas anteriores para soma de senos e cossenos, podemos facilmente conseguir uma expressão para formula_22 
+formula_24
+Então:
+Vale lembrar que essa fórmula só pode ser usada se formula_26 e formula_27 porque a relação formula_21 só é válida se e somente se formula_29 
+Como formula_30 podemos obter, de maneira semelhante à formula da tangente da soma, uma expressão para formula_31 
+formula_33
+Simplificando, temos:
+Como formula_35 é válida se e somente se formula_36 a identidade que demonstramos acima só pode ser usada se formula_37 e formula_38 
+formula_49 formula_41 formula_51
+formula_52 formula_43 formula_54 
+formula_55 formula_45 formula_57
+formula_58
+Para calcular formula_59 fazemos uso da igualdade formula_60 na fórmula do cosseno da soma, conforme a seguir:
+formula_62
+formula_63
+Então:
+Podemos fazer a mesma substituição da igualdade formula_60 para encontrar as outras relações de diferença de arcos. Para o seno, usaremos a fórmula do seno da soma e a igualdade citada acima, conforme a seguir:
+Logo,
+Usando novamente a igualdade formula_60 e, desta vez, a fórmula da tangente da soma:
+Simplificando, temos:
+Pelos motivos já citados anteriormente, esta fórmula só é válida se formula_26 e formula_72 
+Mais uma vez, usaremos a igualdade formula_60 e, desta vez, a fórmula da cotangente da soma:
+Logo, obtemos a identidade:
+Está fórmula só pode ser aplicada se formula_37 e formula_77 
+formula_39 formula_85
+formula_86
+formula_41 formula_88
+formula_89
+formula_43 formula_91
+formula_92
+formula_96
+formula_97
+É possível deduzir fórmulas para calcular as funções trigonométricas de formula_98 utilizando as fórmulas obtidas para a soma de arcos e fazendo formula_99 conforme será mostrado adiante.
+Usando a fórmula do cosseno da soma, temos:
+Logo, utilizando a Identidade relacional básica, podemos obter duas fórmulas finais:
+formula_104
+formula_105
+Utilizando a Identidade relacional básica e trabalhando algebricamente, temos:
+Expressões para formula_107 são obtidas por processos semelhantes.
+Ultilizando a fórmula do seno da soma:
+Então, temos:
+formula_111
+Utilizando a Identidade relacional básica:
+Logo:
+Expressões para formula_114 são obtidas por processos semelhantes.
+A partir da fórmula da tangente da soma:
+Logo:
+Ao subtituimos a fórmula anterior para formula_118 e simplificarmos, obtemos como fórmula final:
+Expressões para formula_120 são obtidas por processos semelhantes.
+Precisamos encontrar formula_124 para aplicarmos a fórmula. Para tanto, utilizaremos a identidade formula_125 que relaciona as funções cotangente e cossecante. A partir da cossecante obtida, podemos encontrar o valor do seno, uma vez que formula_126 
+Como formula_122 o valor da cossecante é positivo.
+formula_128
+De onde vem formula_129 
+Podemos finalmente calcular:
+formula_130 
+Vamos utilizar as duas fórmulas que encontramos para formula_131 a fim de que, dado o cosseno de uma arco formula_132 qualquer, possamos obter formula_133 ou formula_134 Para isto, consideraremos formula_135 
+A partir de formula_136 
+ formula_138
+A partir de formula_139 temos:
+ formula_141
+Finalmente, sabendo que formula_142 temos:
+ formula_144
+Caso nos seja dado o formula_145 sabendo que formula_146 calculamos formula_147 e usamos as fórmulas dadas logo acima para o cosseno.
+Precisamos agora encontrar fórmulas que permitam calcular formula_145 formula_147 e formula_150 conhecida a formula_151 Para tanto, tomaremos as fórmulas de multiplicação 
+formula_152
+formula_116
+e consideraremos formula_154 de modo que:
+formula_161
+Logo, temos:
+Podemos aplicar diretamente a fórmula, de modo que:
+

@@ -1,0 +1,29 @@
+ Cálculo (Volume 1)/Técnicas de integração
+A integração é um processo que demanda certa habilidade e técnica, ele provê um meio indispensável para análises de cálculos diversos, além disso o meio de integrar certas funções deve ser exercitado até que sejamos capazes de absorver a sua essência. O problema da integração deve ser visto como uma análise que pode conduzir a resultados algébricos diversos, quando tomadas técnicas diversas, que concordam, porém, em resultado numérico. Devido à necessidade de exercício dessas técnicas que apresentaremos, teremos mais exemplos neste capítulo, uma ótima maneira de introduzir o conteúdo enquanto a teoria é exposta. A natureza diversa das formas de integrais nos obriga a fazer este estudo a parte, pois certas funções são peculiarmente difíceis de serem analisadas antes da utilização de algum artifício que permita sua simplificação, este é o objetivo deste capítulo: trazer ao leitor os processos de integração e as diversas possibilidades de simplificação de funções para a aplicação destes processos. A técnica de integração por partes consiste da utilização do conceito de diferencial inversa aplicado à fórmula da regra da diferencial do produto, ou seja:
+formula_1
+Que após a antidiferencial se torna:
+formula_2
+formula_3
+E, portanto:
+A utilização desta fórmula para melhorar o processo de integração implica na necessidade de uma breve explanação, o processo consiste em observar a função a ser integrada como sendo uma integral formula_5, ou seja, devemos separar a função em duas partes: uma, chamamos de "u", que consideraremos função primitiva e outra "dv" que será uma diferencial, desta forma, faremos a integração da parte "dv" para encontrar "v" e depois subtrairemos a integral da mesma com relação a diferncial de "u": "du". Parece um tanto incomun a princípio, porém após o hábito no uso da técnica, esta se torna muito útil. Outro fato deve ser explorado: como o processo demanda a integração da diferencial "dv" nos vem a questão sobre a necessidade de utilização da constante de antidiferenciação "C", portanto façamos a verificação da fórmula utilizando-a:
+Se formula_6,
+formula_7
+formula_8
+formula_9
+formula_10
+formula_4
+Ou seja, a constante é dispensável para o cálculo da integral que resulta em "v". Utilização da integração por partes na resolução da integral do logaritmo natural:
+formula_12
+Separamos a diferencial "dx" e a primitiva formula_13, procedendo as operações inversas:
+formula_14
+depois:
+formula_15
+formula_16
+Aplicando à fórmula de integração por partes:
+formula_17
+formula_18
+formula_19
+Também há os que preferem simplificar mais, desta forma:
+formula_21
+formula_22
+Sendo "C" a constante de antidiferenciação.

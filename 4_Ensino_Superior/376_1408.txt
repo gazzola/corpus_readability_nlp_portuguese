@@ -1,0 +1,35 @@
+ Adotemos as sequintes nomenclaturas para as definições que se seguem:
+Então, da definição de Física, a pressão em um líquido contido num recipiente de volume formula_139 é:
+formula_142 
+Ou seja, se o volume do corpo for unitário, a força que atua sobre ele é igual a presão volumétrica, porém se quisermos saber a pressão exercida pelo líquido sobre uma superfície fazemos:
+formula_143 
+formula_144 
+Porém, imaginemos que o corpo é uma lâmina mergulhada verticalmente e desejamos obter a força total exercída pelo líquido sobre o mesmo... Inevitavelmente veremos que a força aumenta com a altura e sua somatória não será algo convencional se a área da superfície do objeto for curva. Consideremos que a largura do objeto ao longo da linha vertical que define a altura seja formula_2 e a altura seja formula_1, se tomarmos uma partição formula_81 onde tivervos diversos formula_148 dentro de um intervalo formula_39. Ainda temos que, pelo princípio de Pascal, a pressão é a mesma em todas as direções em algum ponto do líquido, o que nos leva a concluir que:
+formula_150
+logo:
+formula_151
+É uma boa aproximação do valor da força, porém se fizermos com que n seja cada vez maior até valores que tendam a infinito, podemos fazer:
+formula_152
+formula_153
+O que nos leva a:
+Esta é mais uma interessante aplicação das integrais, com elas podemos calcular o comprimento de curvas utilizando uma generalização da regra do cálculo da distância entre dois pontos, a qual já conhecemos da matemática de nível médio. Sabemos que a distância entre dois pontos é:
+formula_155
+Se existe uma curva entre os pontos formula_156 e formula_157 podemos subdividir o intervalo entre os dois pontos de forma que tenhamos:
+formula_158
+formula_159
+Propomos um índice para que tenhamos:
+formula_160
+formula_161
+Para cada subintervalo dentro de 
+formula_162 e 
+formula_163
+Se defirmos o ponto médio para cada subintervalo, como sendo:
+formula_164
+A distância entre dois pontos dentro desse subintervalo é:
+formula_165
+Uma boa aproximação do comprimento da curva pode ser encontrada fazendo-se:
+formula_166
+formula_167
+Definindo uma norma para a partição formula_81 no intervalo, teremos:
+formula_169
+logo:

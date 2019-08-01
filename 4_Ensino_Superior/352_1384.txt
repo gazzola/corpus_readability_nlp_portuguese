@@ -1,0 +1,52 @@
+ formula_122
+Comprovação:
+Sendo a integral:
+formula_123
+logo:
+formula_124
+O que comprova o teorema. Sendo "c" constante e formula_125
+Comprovação:
+formula_98
+Tomando o intervalo entre "a" e "c" e fazendo a relação:
+formula_127
+formula_128
+O formula_86 é um valor que pode ser atribuído às duas relações, portanto podemos fazer:
+formula_130
+Que é semelhante a propriedade da soma das áreas de dois objetos que formam um corpo maior, que costumamos usar na geometria e que prova o teorema. Seja a seção formula_131 no domínio da função formula_26, dizemos que "M" é o valor médio da função neste intervalo, sendo seu valor definido como segue:
+formula_133
+Comprovação
+O valor médio de uma função é expresso pela função abaixo:
+formula_134
+Onde formula_135 representa um valor em particular. Sendo formula_136 o valor da função para cada retângulo, podemos fazer a sua média da seguinte forma:
+formula_137
+Por outro lado, podemos fazer com que o "n" seja:
+formula_138
+logo:
+formula_139
+Uma vez que o formula_115 é um valor muito grosseiro, podemos encontrar o limite quando a norma da partição tende a ser nula, desta forma:
+formula_141
+O que comprova o teorema. Seja a função formula_142 contínua no intervalo formula_85, a sua integral definida entre "a" e "b" é obtida pela operação que segue:
+formula_144
+Onde:
+formula_145
+Chegamos ao ponto culminante deste estudo inicial sobre as integrais, este teorema, chamado de Teorema fundamental do cálculo, é a base de nossas análises mais específicas nos próximos capítulos, ele afirma que a integral definida pode ser obtida através da antidifererncial da função, para tal, adotamos a seguinte notação :
+formula_146
+Comprovação:
+Devemos demonstrar que a derivada de formula_147 é igual a formula_26. Como podemos observar, quando calculamos o valor da integral definida, variamos o limite superior gradativamente de "a" até "b", isto nos indica que podemos criar uma nova função, como escrito abaixo:
+formula_149
+Observe que "x" é dita independente de "u", pois a última constroi a curva da função, enquanto que a outra nos dá a integral de qualquer ponto com relação a distância da contante "a", portanto, calculando sua derivada temos:
+formula_150
+formula_151
+formula_152
+Conforme o teorema T34, a parte da equação operada pelo limite é um valor médio. Observe que formula_153, ou seja, é o limite do valor médio quando o intervalo tende a ser nulo, o que resulta em formula_154, pois é equivalente a fazer uma média com apenas um elemento, o próprio valor de formula_154. Observemos ainda que o valor médio, aqui expresso, não é constante, visto que depende de "x", o que quer dizer que temos um valor médio para cada seção da curva. O valor médio dos valores entre formula_142 e formula_157 no mínimo é feito com os dois extremos apresentados, da seguinte forma:
+formula_158
+formula_159
+no limite:
+formula_160
+resulta:
+formula_161. Portanto formula_162 é antidiferencial de formula_154. Por outro lado ao fazer:
+formula_164
+formula_165
+então: formula_166 que é a antidiferencial de formula_26, logo:
+formula_145
+O que comprova o teorema.

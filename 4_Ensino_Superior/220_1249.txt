@@ -1,0 +1,18 @@
+Logística/Gestão de armazéns/Configuração de áreas de armazenagem contínuas/Múltiplos produtos
+
+
+Logística/Manutenção de instalações/Plano de melhorias técnicas
+A manutenção produtiva total, "total productive maintenance" (TPM), é um conceito moderno introduzido no Japão em inícios da década de 70, no contexto do sistema de produção da "Toyota", "Toyota production system" (TPS). É um sistema fundamental de melhoria de gestão da manutenção nas empresas industriais que visa a eliminação de falhas, defeitos e outras formas de desperdícios, visando a redução de custos globais e a maximização global da eficiência numa organização industrial (Cabral, 1998, p. 239-241).
+Para atingir esse objectivo, a organização suporta uma estrutura de manutenção produtiva total, onde impõe a participação de todos os escalões, desde os da alta direcção até os postos operacionais de todos os departamentos da empresa. Ou seja, numa fábrica, por norma, toda a manutenção é feita pelo departamento de manutenção que assume um conjunto global de tarefas de manutenção. Porém, muitas tarefas de manutenção podem ser realizadas pelos operadores das máquinas, que através da habilidade e conhecimento do próprio equipamento podem aumentar a eficiência do mesmo, através de procedimentos básicos de electrónica, limpeza, lubrificação e calibração.
+Desta forma, as tarefas a curto prazo, que anteriormente eram realizadas pelo departamento de manutenção, são assumidas pelos operadores dos equipamentos. Mesmo que a carga de trabalho dos operadores permaneça inalterado, há uma redução no custo global da manutenção, na medida em que a força de trabalho que pertence directamente ao departamento de manutenção será menor. (Antunes Jr., 1998, p. 3 e 4).
+
+
+Logística/Embalagem
+
+
+Logística/Sistemas de informação/Custo logístico/Factores que afectam o custo logístico/Localização
+Os factores relacionados com a localização de pontos fixos no sistema logístico, em relação ao mercado e a localização dos fornecedores, são extremamente importantes (Coyle et al., 2003, p. 68-69). 
+As localizações influenciam os custos logísticos, nomeadamente os custos de armazenagem e de transporte, sendo que estes tendem a aumentar com o aumento da distância entre os pontos do sistema logístico. 
+Figura 1: Exemplo referente ao factor Localização. Fonte: Adaptado de Coyle et al. (2003, p. 69).
+No exemplo apresentado na Figura 1, a empresa B tem 1,50€ de vantagem no custo de produção (CP), em relação à empresa A. A empresa B produz a 7,00€ por unidade e a empresa A a 8,50€ por unidade. A empresa B, contudo, tem um custo de 1,35€ com o transporte de matéria-prima (0,60€ + 0,75€) e um custo de 3,50€ com o transporte do produto para o mercado M, tendo um custo total unitário de transporte de 4,85€. A empresa A tem um custo de 0,90€ com o transporte de matéria-prima e um custo de 1,15€ com o transporte do produto para o mercado, tendo um custo total unitário de transporte de 2,05€. A vantagem de 2,80€ no custo de transporte da empresa A compensa a desvantagem de 1,50€ no custo de produção. A empresa B poderá desejar procurar estratégias alternativas para o seu sistema logístico, de forma a competir mais eficazmente em M. Por exemplo, a empresa B pode ter o custo unitário de 3,50€ em resultado do transporte como carga fraccionada (transporte de baixo volume do produto para o mercado). A empresa pode considerar a hipótese de utilizar um armazém em M e efectuar o transporte por via férrea de vagões inteiros, a custo de transporte mais baixo.
+

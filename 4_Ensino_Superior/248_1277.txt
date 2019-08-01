@@ -1,0 +1,21 @@
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Equipamento de armazenagem de pequenas cargas/Equipamento de remoção operator-to-stock
+Segundo (Tompkins et al., 2003, p. 269), o operador tem a possibilidade de caminhar ou conduzir um veículo até à localização que pretende, de forma a deslocar-se até às existências. 
+As quatro opções de "picking" incluem:
+
+
+Logística/Gestão de armazéns/Picking/Importância do picking
+Para se compreender melhor a importância da actividade de picking é importante apresentar-se a sua relação com as principais actividades de armazenagem. Todos os tipos de armazéns possuem as seguintes funções (Medeiros, 1999):
+A actividade de picking dentro de um armazém, é considerada como uma das mais cruciais. Dependendo do tipo de armazém, 30% a 40% do custo de mão-de-obra está directamente associado à actividade de "picking". Associado ao custo, o tempo desta actividade contribui substancialmente para o tempo de ciclo da encomenda, que é o intervalo de tempo entre a recepção de uma encomenda e a entrega, ao cliente, dos produtos referentes à encomenda.
+Com o crescente aumento da competitividade e das exigências e necessidades dos consumidores, surgiram diversos novos requisitos para a actividade de armazenagem. Estas consequências podem ser referidas em certas disposições gerais, que são contempladas nos mais diversos sectores (Medeiros, 1999):
+Para lá destas disposições, a qualidade do produto torna-se um pré-requisito e serviços como o comércio pela Internet e entrega ao domicílio fizeram crescer o nível de exigência e produtividade das funções de armazenagem e transporte.
+Deste modo, para assegurar uma operação que satisfaça as necessidades do cliente, a actividade de "picking" deve ser flexível, servindo-se de sistemas de controlo e monitorização que assegurem os níveis de serviço e qualidade adequados.
+
+
+Logística/Técnicas de previsão/Previsão quantitativa/Métodos Causais
+A procura de um item ou conjunto de itens é relacionada a uma ou mais variáveis internas ou externas à empresa. Essas variáveis são chamadas de causais. A população, o PNB (Produto Nacional Bruto), o número de alvarás expedidos para construção, o consumo de certos produtos, são alguns exemplos de variáveis causais. Na verdade, o que determina a escolha de uma variável causal particular para a previsão de procura é a sua ligação lógica com esta última.Em geral este método é utilizado para problemas de médio prazo, como seleccionar um lugar para operações de retalho. Este método tenta identificar, por exemplo, se a produção pode ser afectada pela publicidade, pela concorrência ou pela qualidade. Também se utilizam métodos estatísticos como a análise de regressão, modelos econométricos ou indicadores.(Tubino,1997)
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Armazenagem de unidades de carga/Equipamento para armazenagem de unidades de carga/Operador a pé/Empilhadora
+Uma empilhadora fornece maior capacidade de elevação que o porta paletes permitindo assim o empilhamento ou armazenamento de unidades de carga em estantes. Existem dois tipos de empilhadores: "straddle" e "reach" . O "straddle" envolve as cargas entre os seus "outriggers", enquanto o "reach" utiliza um pantógrafo ou uma espécie de tesoura para segurar a carga permitindo assim armazenar ou descarregar as cargas das estantes. 
+Uma empilhadora permite a elevação, empilhamento e transporte, a curtas distâncias, das respectivas paletes. O operador está colocado na parte traseira da empilhadora de modo a conduzi-la a pé. A utilização desta empilhadora é apropriada quando existe uma capacidade de produção baixa, distâncias curtas, altura de armazenagem baixa e quando é procurada uma solução de baixo custo (Tompkins et al., 2003, p. 234).
+

@@ -1,0 +1,87 @@
+Mecânica dos fluidos/Exercícios resolvidos/E12
+Considerando a tubulação do exercício anterior, calcular o maior comprimento admissível para o tubo sem que a vazão de água diminua, se a profundidade do reservatório for mantida no mínimo em 5 m.
+A perda total será dada por
+formula_1
+que deve corresponder à altura mínima
+formula_2
+Assim
+formula_3
+formula_4
+formula_5
+
+
+Mecânica dos fluidos/Tubos de Pitot
+Os tubos de Pitot, já estudados anteriormente, também podem ser usados para medir a vazão através do mesmo princípio básico. Neste caso, são necessários alguns tubos em uma mesma seção de tubulação, de forma a obter-se o valor da velocidade do fluido em diversos pontos, a partir da pressão dinâmica medida. O tubo de Pitot de média (ou annubar) é uma variação do tubo de Pitot que mede simultaneamente a velocidade do fluido em 4, 6 ou 8 pontos e calcula a média entre eles.
+Os tubos de Pitot têm, como grande vantagem em relação aos geradores de pressão diferencial, o fato de interferir muito menos no fluxo. Com isso provocam uma perda de carga pequena e podem ser inseridos na tubulação sem necessidade de parada para manutenção. Uma grande desvantagem, no entanto, é o fato de cada fabricante usar uma tecnologia própria, o que impede a padronização e gera a necessidade de calibração dinâmica no campo.
+As fórmulas para cálculo da vazão com o uso de tubos de Pitot são as seguintes:
+formula_1
+para fluidos incompressíveis, e 
+formula_2
+para fluidos compressíveis, onde v é a velocidade do fluxo, Δp é a diferença de pressões dinâmicas, ρ é a densidade do fluido, p é a pressão estática e k é a constante de compressãoa adiabática (ou seja, a relação entre as capacidades caloríficas específicas C e C).
+
+
+Mecânica dos fluidos/Exercícios resolvidos
+<noinclude>
+<noinclude>
+<noinclude>
+<noinclude>
+<noinclude>
+<noinclude>
+<noinclude>
+
+
+Mecânica dos fluidos/Exercícios resolvidos/D2
+Um espaço amplo encontra-se cheio de líquido ideal. Repentinamente, estoura uma bolha esférica de raio a. Calcular o tempo para que o líquido preencha o buraco formado. Desprezar a ação da gravidade.
+Devido à simetria do problema, uma vez que a gravidade será desprezada, podemos considerar que só existirá movimento na direção radial. Assim
+formula_1
+A equação de Euler ficará então
+formula_2
+formula_3
+Tanto p quanto v são funções de r e t. Não podemos usar a equação de continuidade na forma canônica, pois o escoamento não está em regime permanente. Mas podemos afirmar que a conservação de massa exige que a vazão Φ de fluido fora do buraco seja independente de r, quer dizer, seja função apenas de t. Para integrar a equação de Euler e eliminar r, podemos escrever
+formula_4
+formula_5
+Manipulando a equação de Euler:
+formula_6
+Separando as variáveis e integrando sobre todo o espaço ocupado pelo fluido, temos
+formula_7
+formula_8
+onde R é o raio do buraco, que também é uma função de t. Temos agora uma equação diferencial que só depende do tempo. Mas
+formula_9
+Assim,
+formula_10
+formula_11
+formula_12
+Para integrar novamente e eliminar t, 
+formula_13
+formula_14
+formula_15
+formula_16
+Assim
+formula_17
+formula_18
+Introduzindo a variável u = v(R,t) e integrando, temos
+formula_19
+formula_20
+formula_21
+formula_22
+formula_23
+formula_24
+formula_25
+formula_26
+Podemos agora encontrar o tempo decorrido através de uma integração
+formula_27
+onde o sinal negativo vem do fato de estarmos esperando que a velocidade do fluido esteja no sentido da diminuição do raio. Assim,
+formula_28
+Manipulando a integral
+formula_29
+formula_30
+formula_31
+formula_32
+Examinando a forma da função Beta de Binet
+formula_33
+reconhecemos que as integrais coincidem, se fizermos α = formula_34 e β = formula_35. Assim,
+formula_36
+Neste site pode-se obter o valor de 2,24 para a função Beta com esses argumentos. Assim, pode-se escrever
+formula_37
+Esse problema foi resolvido em 1917, por John William Strutt (Lord Rayleigh). Ele ilustra a complexidade dos problemas que envolvem fluxo em regime transitório.
+

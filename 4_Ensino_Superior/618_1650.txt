@@ -1,0 +1,27 @@
+ Há, portanto, que, caso a caso, definir com precisão o seu conteúdo e forma de computação e reter que o MTBF ou a disponibilidade de uma electrobomba calculados numa fábrica podem não ser comparáveis com o MTBF e a disponibilidade da mesma electrobomba calculados num gabinete de estudos. Assim, podemos constatar que o significado de um indicador depende, acima de tudo, da pergunta que se faz: para um equipamento que tem, em média, 3 avarias por ano, por exemplo, não faz qualquer sentido determinar MTBF, MTTR e disponibilidade mensais. Para que tenham alguma utilidade, é necessário, antes do mais, que os indicadores sejam computados para períodos com significado. Cabe aos técnicos e gestores definir, caso a caso, esses períodos. É fundamental a implementação de um sistema de informação adequado, que permita gerar a informação pretendida dos diversos indicadores:
+• MTBF
+• MTTR
+• Disponibilidade
+• Taxa de avarias
+• Tempos de manutenção preventiva / tempo total de manutenção
+• Tempo de trabalhos urgência U1 / tempo total de manutenção
+• Número de avarias / unidade produzida
+• Custos de manutenção correctiva
+• Custos de manutenção preventiva
+• Custos de manutenção correctiva / Custos de manutenção preventiva
+• Custos de trabalhos subcontratados
+• Custos de melhoria
+• Custos de manutenção / unidade produzida
+• Custos de manutenção / valor acrescentado
+• Custos de manutenção / valor do imobilizado técnico
+Por forma a permitir o reporte dos níveis de serviço e a monitorização e análise da informação referente ao desempenho da operação e manutenção sobre os sistemas, instalações e equipamentos, verificando a sua conformidade com os valores previstos na fase de projecto e equacionando as causas dos desvios, de forma a promover os ajustes possíveis e adequados. 3. Rácios de Manutenção
+Entende-se por Rácio a razão entre duas grandezas. São utilizados, muitas vezes, para fazer previsões por analogia. As possibilidades de construção de rácios são ilimitadas. Como exemplo de alguns rácios em manutenção temos:
+- Índice primário da Manutenção;
+- IPM = Custos manutenção/Custos de substituição equipamento;
+- EM = utilização do equipamento/Esforço de manutenção
+- RP = Esforço em manutenção preventiva/Esforço total de manutenção;
+- RSC = Custos dos Serviços / Custo total de manutenção. 4. Avaliação e Desempenho
+Actualmente com a utilização dos diversos sistemas informáticos, disponíveis no mercado, para a gestão da manutenção, pode-se realizar uma infinidade de análises e obter um conjunto de indicadores que podem permitir avaliar o desempenho da manutenção. A diversidade e quantidade de indicadores que podem ser produzidos conduzem problemas de diagnóstico. Assim, é aconselhável eleger os indicadores mais apropriados a gestão da empresa, procurando que esses indicadores sejam expressivos, de calculo fácil, e em número suficiente para avaliar o desempenho da manutenção e serem calculados sempre, de modo a que esta monitorização permite desenvolver mecanismos para efectuar análises mais pormenorizadas na investigação de desvios e variações anómalas. Referências bibliográficas:
+- ASSIS, Rui, “Comparação de Políticas Alternativas de Manutenção na perspectiva dos Custos e da Disponibilidade”, comunicação no 9º Congresso Nacional da Manutenção/ Exponor/ Leça da Palmeira, Novembro 2007
+- ASSIS, Rui, “Gestão da Manutenção ou Gestão de Activos? (Custos ao longo do Ciclo de vida)”, 10º Congresso Nacional da Manutenção/ Figueira da Foz, Novembro 2009
+- CABRAL, José Paulo Saraiva, “Organização e Gestão da Manutenção”, 4ª Edição Revista Aumentada, Março 2004

@@ -1,0 +1,24 @@
+Logística/Movimentação de materiais/Equipamento
+
+
+Logística/Técnicas de previsão/Intervalo de previsão
+No âmbito da previsão pretende-se, geralmente, encontrar não só valores mas também parâmetros associados à incerteza sob a forma de intervalos de previsão. Estes são úteis porque possibilitam ao utilizador da previsão encontrar o pior ou melhor cenário e com uma percepção do quão dependente é a previsão e ainda porque protege-o das críticas que apontem para uma incorrecção da previsão. As previsões não podem ser tidas como valores perfeitos, facto enfatizado por estes intervalos.
+Os intervalos de previsão são normalmente baseados na Estimativa dos Mínimos Quadrados (MSE) porque permite obter um valor estimado para a variância, em previsões de um passo, do erro de previsão. Logo, a raíz quadrada da MSE é uma estimativa do desvio padrão do erro de previsão. A suposição habitual para a construção de intervalos de previsão é que os erros de previsão estão normalmente distribuídos com média igual a zero. Tendo isto em conta, uma aproximação para o intervalo de previsão da próxima observação é (Makridakis et al., 1998, p. 52):
+formula_1
+O valor de formula_2 determina a extensão e a probabilidade do intervalo de previsão.
+Para previsões com passos múltiplos é necessário modificar a MSE, uma abordagem é definir a "h-step" MSE como (Makridakis et al., 1998, p. 54):
+formula_3
+onde formula_4 é o erro associado à previsão "h-step" da observação no instante t. Assim, se assumirmos que o erro da previsão "h-step" é normalmente distribuído com média igual a zero, temos o intervalo de previsão
+formula_5
+Antes do cálculo do intervalo de previsão desta forma, deve-se verificar os erros para assegurar que os pressupostos da distribuição normal e média igual a zero são cumpridos.
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Equipamento de armazenagem de pequenas cargas/Equipamento de remoção operator-to-stock/Carro
+O carro, referido como plataforma elevatória para aquisição de produtos, permite ao operador alcançar zonas elevadas. Ao fazê-lo, a produtividade do operador diminui. A produtividade pode ser melhorada minimizando o percurso vertical através de uma organização de arrumo tendo em conta a rotatividade dos artigos e/ou através de uma rota de "picking" inteligente (Tompkins et al., 2003, p. 270).
+
+
+Logística/Gestão de armazéns/Picking/Procedimentos de organização/Bucket brigade
+Este procedimento é uma variação do "picking" por zona e da metodologia de passe, excepto que as zonas não são definidas no sistema, mas sim pela actividade em cada zona que os operadores percorrem. Em termos simples, o pedido é iniciado pelo Operador 1, o Operador 2 desloca-se até ao Operador 1 quando precisa de trabalho. O lugar onde se encontram é designado por limite temporário de zona. O Operador 2 recolhe, então, o pedido até que o Operador 3 se desloque de volta para reunir-se com eles e assuma a satisfação do pedido. Isto mantém todos os operadores activos e, automaticamente, equilibra o sistema numa base diária (Hudock, 2004).
+Este procedimento exige uma rigorosa coordenação entre os operadores, um estudo prévio de produtividade de cada um dos mesmos e uma preparação dos pedidos de acordo com a configuração física, apesar de parecer um procedimento aparentemente simples. No entanto, é possível comprovar analiticamente que com este procedimento de organização do trabalho, os operadores se mantêm em volta da divisão óptima do trabalho, eliminando a actividade de balanceamento e planeamento (Medeiros, 1999). 
+Deste modo podem-se indicar como principais benefícios da utilização do procedimento de "bucket brigade" (Medeiros, 1999): 
+

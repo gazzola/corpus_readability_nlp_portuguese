@@ -1,0 +1,10 @@
+Logística/Gestão de desperdícios e rejeitados/Resíduos sólidos urbanos/Remoção
+A figura seguinte mostra as várias possibilidades existentes para a remoção dos RSU.
+A remoção porta a porta consiste na recolha por um veiculo especializado que percorre um circuito organizado pela cidade, onde vai esvaziando os contentores colocados à porta das várias residências. Este método apesar de ter uma elevada eficiência e contribuir bastante para a qualidade ambiental, tem grandes desvantagens,nomeadamente, a necessidade de um grande custo de implementação e de um grande esforço por parte das equipas de cantoneiros que percorrem a cidade, provocando um grande desgaste nos trabalhadores e no equipamento.
+A remoção por pontos consiste na recolha por um veiculo especializado que se dirige a pontos estratégicos da cidade onde estão colocados contentores de maior volume.Esta método implica menores custos de implementação e de exploração, mas tem um impacto visual negativo, pois agrega muitos resíduos em torno dos contentores. Esta situação é também menos cómoda para a população que tem de se deslocar até estes pontos.
+A remoção Mista consiste numa utilização simultânea dos dois métodos anteriores e obtendo uma optimização da eficácia de remoção.
+A remoção pode ser efectuada de várias maneiras possíveis.As mais usuais são as seguintes:
+Remoção em recipiente de tara perdida (sacos de plástico).Este método tem como vantagens a redução do tempo de remoção, menor ruído e o menor esforço das equipas de remoção e mais resíduos no tratamento, mas devido a este sistema existem problemas com animais vadios que devido a pouca resistência dos recipientes facilmente os rasgam.
+Remoção Hermética, consiste na recolha por um veiculo especializado com uma adufa que se adapta ao formato do contentor, não existindo poeiras nem derrames de detritos na via publica mas existe um custo elevado na compra do mesmo. 
+Remoção por depressão, é um processo de sucção por turbo-extractores, ou seja redes de condutas instaladas no subsolo onde os resíduos são encaminhados para contentores e posteriormente conduzidos ao destino final. (Levy, 2006)
+

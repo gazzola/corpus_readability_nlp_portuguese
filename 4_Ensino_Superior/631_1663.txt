@@ -1,0 +1,11 @@
+ Mecânica dos fluidos/Tensão superficial Formalização
+Sempre que um líquido entra em contato com outra substância, seja ela um sólido, um gás ou outro líquido, desenvolve-se uma interface entre ele e os demais, causada pelo fenômeno de coesão entre moléculas similares. Na interface ocorre uma mudança abrupta de pressão. Em uma gota de água que cai, por exemplo, a pressão interna é muito superior à pressão atmosférica externa. A tensão superficial faz com que a interface comporte-se como se fosse uma membrana elástica real. Essa membrana recebe o nome genérico de "menisco". Diferentemente das tensões vistas anteriormente, que possuem a dimensão de força por área, a tensão superficial possui a dimensão de força por unidade de comprimento (ou energia por área). Para entender por que, 
+considere uma gota de líquido em repouso sobre uma superfície sólida. A diferença de pressão ΔP entre o interior e o exterior do menisco faz com que a superfície da gota se curve, de forma que a somatória das forças resultantes da tensão superficial possua uma componente normal à superfície (F), e essa componente equilibre a diferença de pressões. Define-se então a tensão superficial formula_1 como a relação entre F e o dobro do raio de curvatura médio da superfície (formula_2). formula_3
+Como 
+formula_4
+onde R e R são os raios de curvatura em cada um dos eixos paralelos à superfície; obviamente
+formula_5
+Portanto
+formula_6
+que é conhecida como a equação de Young–Laplace. A formação do menisco na interface líquido/gás é que permite a flutuação de objetos mais densos que o líquido (por exemplo, uma agulha ou um inseto). Além desse, são três os efeitos importantes da tensão superficial na prática:
+Considere-se uma gota de água pousada sobre uma superfície sólida lisa, tendo o ar como meio circundante. Verifica-se que a gota de água sofre uma deformação, devida ao seu próprio peso, que provoca o seu achatamento. As tensões superficiais, no entanto, impedem que a água se espalhe totalmente sobre a superfície; o menisco que envolve a gota faz com que se forme uma calota esférica no local.

@@ -1,0 +1,29 @@
+Logística/Gestão de armazéns/Modelos de Armazenagem/Armazenagem em profundidade
+Esta forma de armazenagem é bastante parecida com a armazenagem por empilhamento, com a diferença que cada unidade de carga não se apoia em nenhuma outra. Nesta situação não há perdas de espaço vertical. Na armazenagem em profundidade, as filas são independentes umas das outras, tanto na vertical como na horizontal. A área correspondente a uma fila é inversamente proporcional à altura da armazenagem (Tompkins et al., 2003, p. 561-563).
+Poderemos calcular a quantidade média de área necessária no chão, com armazenagem em profundidade e "stock" de segurança do seguinte modo:
+formula_1 (3) 
+em que:
+formula_2 (4) 
+Substituindo (4) em (3), tem-se que:
+formula_3
+A aproximação contínua para a armazenagem em profundidade com "stock" de segurança é obtida calculando:
+formula_4
+formula_5
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Armazenagem de unidades de carga/Estante para armazenagem de unidades de carga/Estante de profundidade dupla
+Uma estante de profundidade dupla, tal como a de profundidade simples, também é uma estrutura de barras metálicas horizontais, verticais e diagonais, mas com duas posições de armazenagem, uma à frente da outra. Uma vantagem desta estante é um melhor aproveitamento do espaço do armazém, dado que são necessários menos corredores. Na maioria dos casos poupa-se até 50% do espaço de armazém em comparação com a estante de profundidade simples. 
+As estantes de profundidade dupla são utilizadas quando é necessário armazenar seis ou mais da mesma SKU e quando o produto é constantemente recebido e retirado em múltiplos de duas unidades de carga. Como as unidades de carga são armazenadas em profundidade dupla são necessárias empilhadoras de garfos com o dobro do alcance para o processo de carregamento/descarregamento (Tompkins et al., 2003, p. 252).
+
+
+Logística/Manutenção de instalações/Manutenção de equipamentos e sistemas eléctricos/Organização de um sistema de protecção
+Para se projectar adequadamente um sistema de protecção, devem ser escolhidos de forma correcta os componentes eléctricos e mecânicos necessários à função. Deve-se também ter em conta uma boa coordenação, de forma a colocar fora de serviço apenas a parte de instalação que apresenta anomalias (Matias et al., 2000, p. 9-10).
+Um sistema de protecção é normalmente constituído por:
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de movimentação de materiais/Monocarris, guinchos e gruas/Monocarril
+Monocarris industriais estão disponíveis em cinco tipos básicos, cada um com as suas características, devem ser consideradas na escolha do sistema monocarril que permita satisfazer as necessidades para o qual vai ser aplicado.
+Meat track – Este sistema acolhe este nome porque é o sistema mais utilizado na industria de embalamento de carne. Consiste numa barra de aço plana nas bordas, onde na qual é acoplado carrinhos com rodas que permite o movimento dos mesmos ao longo da barra.
+Linha tubular – Esta pista é geralmente rectangular na sua forma, formada por uma folha ou chapa de aço, o carrinho de transporte irá circular no interior da barra, como tal é necessário existir uma fenda contínua ao longo da barra com dimensão suficiente para permitir que o gancho existente no carrinho, circule sem sofrer atrito por parte da barra.
+Patended track – Este sistema consiste num grupo de secções monocarris que variam nas suas configurações. Contudo as variações ocorrem nas secções de cruzamento, que partilham de certas características em comum. As dimensões das barras têm de ser idênticas ao longo das varias secções para possibilitar que os carros de transporte possam circular livremente entre elas. 
+

@@ -1,0 +1,11 @@
+Cálculo (Volume 2)/Integrais de linha
+Dado uma curva formula_1 em formula_2 diferenciável e parametrizável no intervalo formula_3 e uma função formula_4 definimos a integral de linha de formula_5 ao longo de formula_1 como formula_7.
+
+
+Cálculo (Volume 2)/Prefácio
+=Prefácio=
+Este livro inicia o estudo do Cálculo para várias variáveis e análises mais complexas, ao contrário do que muitos possam pensar este não é um livro voltado para a disciplina Cálculo II, presente em vários cursos universitários, principalmente porque a base curricular de todos os países lusófonos não é a mesma, na verdade a divisão deste estudo foi feita pensando na acomodação do conteúdo em três livros distintos, de forma a comportar todo o conteúdo da disciplina, embora que mantendo a ordem programática do conteúdo de forma didática.
+O Cálculo de várias variáveis inicia-se por novos conceitos de representação gráfica das funções, o que é imprescindível para que tenhamos meios de analisar funções que desenvolvem seus valores sob formas multidimensionais.
+Em seguida, com um estudo da geometria tridimensional nos aprofundamos no uso da análise de funções no espaço, o que nos possibilita verificar as grandezas no nosso dia a dia com exemplos práticos. Depois teremos um estudo do Cálculo vetorial, uma ferramenta extremamente poderosa e largamente utilizada nos diversos cursos da área de ciências exatas, seguindo temos uma introdução a equações diferenciais, que devido a sua complexidade deverá ser melhor explorada no volume III e finalmente uma introdução a séries, também mais bem explorada no próximo livro.
+A abrangência deste tema nos leva a uma maior aproximação das análises práticas mais complexas dentro do universo, a compreensão destes conceitos faz a distinção dentro dos que dominam técnicas de análise simples e renomados estudiosos de nossos tempos. Por isso, convidamos a todos os apaixonados pela análise matemática a vislumbrar mais este desafiante conteúdo, que nos revela novas possibilidades, como todas as novas ferramentas que aprendemos a usar e com as quais nos fascinamos.
+

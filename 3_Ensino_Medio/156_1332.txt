@@ -1,0 +1,12 @@
+Matemática elementar/Funções/Exercícios
+
+
+Matemática elementar/Prefácio
+Este livro contém tópicos estudados em durante o "ensino médio" (antigo "segundo grau"), no Brasil, e o "ensino secundário" em Portugal. 
+Além de ser um , esse wikilivro pretende permitir que o leitor faça uma viagem, de um tipo que está disponível apenas em livros eletrônicos, pelo fascinante universo da Matemática e seus conceitos essenciais. Mesmo que você já tenha completado o segundo grau, pode utilizar este material para rever tópicos importantes e desvendar o ápice do pensamento humano racional, acumulado por séculos de pesquisa e experiência.
+O conteúdo do livro está organizado em vários capítulos, oferecendo ao leitor maior facilidade no caso de querer estudar alguns assuntos isolados. A presença de ligações internas torna essa opção ainda mais viável, pois ao encontrar dificuldade com um determinado conceito, é possível ir diretamente para a página onde há uma explicação mais detalhada sobre o mesmo. Por outro lado, nada o impede de fazer uma leitura sequencial, capítulo após capítulo, já que a estrutura do livro reflete uma abordagem igualmente adequada para este fim.
+Adicionalmente, após os capítulos principais encontra-se um [[../Glossário/]] que permite uma revisão rápida dos termos e conceitos mais comuns. Ao consultá-lo, lembre-se que a informação está mais detalhada, e melhor exemplificada no decorrer do livro.
+Se tiver dúvidas, pode deixar uma pergunta na página de discussão do capítulo correspondente ao assunto sobre o qual você precisa de ajuda. Você pode também usar essas páginas de discussão para deixar sugestões aos editores do projeto, ajudando a melhorar o trabalho que tem sido desenvolvido por todos.
+Caso encontre erros, não tenha medo de fazer você mesmo a correção. É rápido e fácil: basta clicar no botão editar no topo da página, ou comentar a respeito na página de discussão.
+Faça uma boa leitura, e se gostar do trabalho [[|não esqueça de nos contar]]!
+

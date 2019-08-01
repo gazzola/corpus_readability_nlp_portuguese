@@ -1,0 +1,30 @@
+Logística/Movimentação de materiais/Equipamento/Equipamento de identificação e comunicação automática/Identificação e reconhecimento automático
+Segundo Tompkins et al. (2003, p. 279), a lista de tecnologias de identificação e reconhecimento automático continua a expandir e inclui o seguinte:
+
+
+Logística/Localização/Selecção de locais/Selecção sistemática do local para uma instalação
+O problema de selecção sistemática do local para uma instalação tem em consideração, tanto factores de ordem quantitativa como qualitativa, de ordem subjectiva. Este tipo de problemas é normalmente resolvido em várias fases. Na Fase 1, desenvolvem-se várias alternativas viáveis, enquanto que, na Fase 2, as alternativas são reduzidas às três ou quatro melhores. Por fim, na Fase 3, efectua-se a selecção do local preferido. Os vários estágios envolvidos na selecção do local consistem em determinar, inicialmente, o território em geral para a nova instalação. Posteriormente, selecciona-se o distrito ou a cidade e, finalmente, escolhe-se o local exacto. Assim, pode afirmar-se que é adoptada uma abordagem macroscópica, seguida de uma abordagem microscópica (Tompkins et al., 1984, p. 514-515). 
+Um procedimento desenvolvido por Brown e Gibson (Cit. por Tompkins et al., 1984, p. 515), permite a gestores e analistas de localizações a sua utilização como base para a tomada de decisão sobre a selecção de locais. Este procedimento, constituído por várias etapas, combina as informações relevantes sobre localização, avaliando factores quantitativos e qualitativos, que, convertidos em índices consistentes e adimensionais, fornecem uma medida da localização para um local. 
+O procedimento começa por dividir os vários factores em críticos, objectivos e subjectivos, passando pela avaliação das medidas e pesos desses factores, cálculo das medidas das localizações, análise de sensibilidade e selecção do local.
+
+
+Logística/Serviço ao cliente
+
+
+Logística/Técnicas de previsão/Métodos ARIMA de Box-Jenkins/Estimativa dos coeficientes
+Assim que o modelo de tentativa estiver escolhido, os seus parâmetros têm de ser estimados.
+Os parâmetros em modelos Autoregressivos Integrados de Médias Móveis (ARIMA) são estimados através da minimização do erro quadrático médio ajustado. A obtenção destes valores do erro deve, geralmente, ser feita utilizando um procedimento não linear, ou seja um algoritmo que encontra o valor mínimo da função soma dos erros quadráticos. Assim que este valor e os erros standard são determinados, constrói-se t valores que são interpretados da forma usual. Os parâmetros que são significativamente diferentes de zero são mantidos no modelo ajustado enquanto que, os parâmetros não significativos são retirados.
+Supondo, por exemplo, um ARIMA(1,0,1) ajustado a uma série cronológica com 100 observações, com a seguinte equação (Hanke et al., 2008, p. 409):
+formula_1
+onde os números dentro de parêntese, são o erro standard associado a cada um dos coeficientes estimados.
+Como o rácio t para o coeficiente da componente autorregressiva é t = .25/.17 = 1.47 com um valor-"p" de .14, a hipótese formula_2 não é rejeitada, e este termo pode ser apagado do modelo.
+Um modelo ARIMA(0,0,1), ie um modelo MA(1), pode então ser ajustado aos dados em questão.
+O resíduo do erro quadrático médio, uma estimativa da variância do erro, formula_3, pode então ser computado.
+A equação que define o resíduo é:
+formula_4
+onde 
+formula_5 = ao resíduo no instante t 
+formula_6 = ao número de resíduos
+formula_7 = o número total de parâmetros estimados
+O resíduo do erro quadrático médio é útil para avaliar a adequação do modelo e para comparar diferentes modelos. É igualmente utilizado para calcular os limites dos erros de previsão (Hanke et al., 2008, p. 409-410).
+

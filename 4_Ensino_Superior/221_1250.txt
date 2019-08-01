@@ -1,0 +1,24 @@
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Armazenagem de unidades de carga
+
+
+Logística/Planeamento e projecto de instalações/Necessidades do pessoal
+Ao desenvolver um projecto para uma instalação industrial, há que ter em atenção as necessidades do pessoal, seja em termos de segurança ou necessidades básicas (descanso, alimentação, etc...). O desenvolvimento de facilidades para estes fins é cabe à equipa responsável pelo projeto e do empregador que encomenda o projecto.
+É necessário ter em atenção, durante a elaboração do projecto, o conforto dos operadores para os quais o espaço está a ser desenhado e também a sua segurança. Os postos de trabalho devem ser ergonómicos e devem ser construídos com vista à prevenção de acidentes de trabalho.
+A lei nº 102/2009 de 10 de Setembro (lei «quadro» para a segurança e saude no trabalho) promove a segurança e saúde no trabalho e especifica as normas de segurança, direitos e deveres dos trabalhadores e empregador.
+O Artigo 13 da lei quadro especifica:
+«As máquinas, os aparelhos, as ferramentas e as instalações para utilização profissional só podem ser fornecidos ou colocados em serviço desde que contenham a marcação de segurança, o nome e o endereço do fabricante ou do importador, bem como outras informações que permitam identificar claramente os mesmos e prevenir os riscos na sua utilização.»
+Isto significa que apenas podem ser instaladas máquinas ou equipamentos devidamente identificados e com garantias de segurança.
+São também necessárias soluções em caso de acidentes (explosões, incendios, etc...), devem ser projectadas, saídas de emergência e colocação de extintores ou outros meios de proteção imediata contra acidentes.
+
+
+Logística/Introdução
+Texto da introdução
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de movimentação de materiais/Transportadores/Chute conveyors
+Os “chute conveyors” são os modelos de transporte de materiais mais simples e também menos dispendiosos, não só no que diz respeito ao material que é utilizado para a sua fabricação mas também se demonstram bastante económicos na sua instalação e na sua manutenção.
+São feitos geralmente de tapetes rolantes ou de grades de roletes accionados apenas pela gravidade. São muito utilizados em zonas de carga, pois permitem a acumulação do material a carregar. Utilizados também muito frequentemente em armazéns que demonstrem uma grande movimentação de paletes ou de embalagens, estes são montados como linhas de transporte entre dois pontos distintos e assim verifica-se uma rapidez e eficiência bastante boa no transporte de material.
+Outra vertente deste sistema é que não tem uma forma específica de transporte, ou seja, pode ser montado de forma a transportar na vertical ou na horizontal. 
+No transporte vertical o sistema mais usual é em forma de espira, este é desenhado de forma a transportar continuamente embalagens grandes e pequenas sem que estas se esmaguem entre elas ou se empurrem de forma a caírem fora ou dentro da linha de transporte. Este sistema apresenta uma grande capacidade de direccionar as embalagens ou produtos durante o transporte. Outra grande vantagem é a de não ocupar muito espaço horizontal e pode ser uma escolha possível afim de minimizar espaço para o transporte de materiais.
+Uma das desvantagens deste sistema de transporte é que é necessária a embalagem do material e por vezes estas tendem a rodar e a tomar diversas direcções durante o seu transporte até a zona de carga, ou seja não existe uma forma específica de direccionar o material embalado afim de no seu destino estar na posição correcta para ser carregado.
+

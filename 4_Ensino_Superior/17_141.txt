@@ -1,0 +1,13 @@
+Topologia/Bases
+Seja "X" conjunto e ("τ") família de topologias em "X". Então ∩ "τ" é uma topologia em "X" (∩ "τ" é o conjunto de todas as partes de X que são simultaneamente abertas para todas as topologias "τ"). Sendo "α" conjunto de partes de "X", ∩{"τ" topologia em "X" : "α" ⊆ "τ"} é a menor topologia em "X" para a qual os elementos de "α" são abertos, que se diz gerada por "α" e se denota top "α" (note-se que o conjunto ao qual se aplica a intersecção não é vazio: pelo menos a topologia discreta é elemento dele). Note-se que top "α" é precisamente o conjunto das uniões arbitrárias de intersecções finitas de elementos de "α", ou, doutra forma, o conjunto das intersecções finitas de uniões arbitrárias de elementos de "α".
+Sejam "τ" uma topologia em "X" e "β" conjunto de partes de "X". Então diz-se que "β" é uma base de "τ" sse "τ" for precisamente o conjunto das uniões arbitrárias de elementos de "β". Diz-se que "β" é uma sub-base de "τ" sse o conjunto das intersecções finitas de elementos de "β" for uma base de "τ". Note-se que uma base é uma sub-base.
+Dado "α" conjunto de partes de "X", "α" é uma sub-base de top "α".
+Sejam "X" um espaço topológico, "x" ∈ "X" e "V" parte de "X". Então:
+1) Diz-se que "V" é vizinhança de "x" sse existe um aberto "A" com "x" ∈ "A" ⊆ "V".
+2) Diz-se que "V" é vizinhança pontuada de "x" sse existe "W" vizinhança não singular de "x" com "V" = "W" − {"x"}.
+3) Note-se que, sendo "Y" parte de "X" com "x" ∈ "Y", "V" é uma vizinhança de "x" em "Y" sse existe "U" vizinhança de "x" em "X" com "V" = "Y" ∩ "U".
+Sejam "X" espaço topológico e "x" ∈ "X". Então:
+1) Uma família ("V") de vizinhanças de "x" diz-se uma base de vizinhanças de "x" sse, sendo "V" vizinhança de "x", para algum "i", vem que "V" ⊆ "V".
+2) Uma família ("V") de vizinhanças pontuadas de "x" diz-se uma base de vizinhanças pontuadas de "x" sse, sendo "V" vizinhança de "x", para algum "i", vem que "V" ⊆ "V".
+3) Note-se que a família de todas as vizinhanças de "x" é ela própria uma base de vizinhanças de "x". Assim como o é a família de todos os abertos que contenham "x".
+

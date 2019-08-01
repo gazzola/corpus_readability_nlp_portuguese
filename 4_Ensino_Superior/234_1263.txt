@@ -1,0 +1,45 @@
+Logística/Movimentação de materiais/Princípios de movimentação de materiais
+O Material Handling Institute definiu 10 princípios de movimentação de materiais. Os 10 princípios são fundamentais para o projecto, concepção, análise e operação de sistemas de movimentação de materiais (THE TEN, [2010]).
+
+
+Logística/Gestão de armazéns/Configuração de áreas de armazenagem contínuas/Um produto/Armazém com três portas do mesmo lado
+Considera-se uma região de armazenagem no primeiro e quarto quadrantes com três pontos de entrada/saída. Os pontos têm coordenadas (0,c), (0,0) e (0,-c) como está representado na figura 1. Assumindo que a distância é dividida igualmente entre os três pontos de entrada/saída, as curvas de nível representam-se como mostrado na figura 1. Neste caso, há dois conjuntos de curvas de nível. O primeiro conjunto é adequado para formula_1 e o segundo para formula_2 (Francis et al., 1992, p. 306-308). 
+Para o primeiro conjunto de curvas de nível,
+formula_3 = formula_4 
+Assim formula_5 está relacionado com formula_6 e formula_7 da seguinte forma:
+formula_8 
+A área delimitada pelo primeiro conjunto de curvas de nível, em função de formula_5, para formula_10 é:
+formula_11
+formula_12
+Assim, para formula_1,
+formula_14 
+Para o segundo conjunto de curvas de nível,
+formula_15
+formula_16 
+Assim formula_17 está relacionado com formula_6 e formula_7 da seguinte forma:
+formula_20 
+A área delimitada pelo segundo conjunto de curvas de nível, em função de formula_17 e formula_7, é:
+formula_23
+A área em termos de formula_6 e formula_7, para formula_26, é:
+formula_27
+formula_28 
+Resolvendo a equação anterior em ordem a formula_6, para formula_2, tem-se,
+formula_31
+Portanto, para um determinado formula_32, a distância percorrida esperada para uma região de armazenagem, com área formula_33, é dada por:
+formula_34 = formula_35 = formula_36
+onde
+formula_37
+Para o caso em que formula_38, formula_39 e formula_40, tem-se formula_41.
+
+
+Logística/Manutenção de instalações/Manutenção de equipamentos e sistemas eléctricos/Sistemas de protecção eléctrica/Elemento de protecção/Disjuntor
+Os disjuntores são dispositivos constituídos por um relé, um órgão de disparo e um órgão de corte (interruptor) e dotados de meios de extinção do arco eléctrico. O disjuntor mais vulgar é o disjuntor magnetotérmico, que tem a função de proteger as instalações eléctricas, de sobrecargas e curto-circuitos, em simultâneo.
+Os disjuntores podem ser de dois tipos: monofásicos ou trifásicos, dependendo do tipo de instalação a proteger. Quando se escolhe um disjuntor, deve-se ter em atenção o tipo de carga do circuito e compará-la com a sua curva característica (Matias et al., 2000, p. 33-35).
+
+
+Logística/Gestão de armazéns/Recepção e expedição/Planeamento de operações no cais
+Para haver uma interface entre cais e transportadora é necessário equipamentos apropriados, estes são (Tompkins et al., 2003, p. 422):
+Nivelador de cais, considerando a transportadora como parte integrante da recepção e expedição irá existir um problema. Pois tendo a transportadora uma altura diferente do cais, se a transportadora funcionar como uma área de armazenagem temporária e for usada pela recepção e expedição, então a área de armazenagem terá uma altura diferente da altura do cais. Para solucionar este problema, apresentam-se as seguintes soluções (Tompkins et al., 2003, p. 423-427):
+Os amortecedores de choques têm como objectivo absorver a força de impacto causada pelas transportadoras no cais e costumam ser constituídos essencialmente por borracha. Se não houvesse amortecedores de choques os cais rapidamente se desgastariam com o repetido impacto das transportadoras.
+Os abrigos de cais podem ser fixos ou extensíveis e podem ter muitas outras propriedades diferentes. Estes formam uma zona hermética entre o cais e a transportadora, as suas vantagens são (Tompkins et al., 2003, p. 429):
+

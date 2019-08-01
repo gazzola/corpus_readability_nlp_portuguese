@@ -1,0 +1,79 @@
+ derivando a equação:
+formula_27
+Desta forma teremos pelo menos um ponto formula_28 no intervalo onde a derivada: formula_29 é nula,
+formula_30
+formula_31
+formula_32
+formula_33
+Comentário:Observe que a demonstração acima poderia ter sido feita definindo-se formula_34 como qualquer função da forma formula_35, sendo formula_36 uma constante qualquer, tal constante não iria interferir na derivação e a validade das equações seriam mantidas pois o teorema de Rolle é valido não apenas para extremos onde formula_26, contanto simplesmente que formula_38 (CM)
+Se formula_39
+Temos do Teorema do valor médio de Cauchy:
+formula_33
+Note que podemos fazer formula_41:
+formula_42
+Uma vez que temos formula_43
+formula_44
+sendo formula_45 conforme definimos,
+formula_46
+se reduz a:
+formula_47
+Porém, se
+formula_48
+Então formula_49
+Daí formula_50 pois formula_51 está no intervalo formula_52
+Logo:
+formula_53
+Portanto:
+Se formula_55 quando formula_56,
+Uma vez que desejamos encontrar:
+formula_57
+Podemos promover uma mudança de variável, ou seja, se o limite acima leva as funções a se anularem no infinito, então podemos fazer:
+formula_58
+formula_59,
+Desenvolvendo através da regra da cadeia temos:
+formula_59
+formula_61
+formula_62
+O que torna o limite independente da mudança da variável. Embora não seja apropriado para este estudo de "Cálculo I" a demonstração da regra para casos onde temos as indeterminações do tipo:
+formula_63,
+A mesma regra também é válida, desde que as derivadas do numerador e do denominador não sejam nem nulas nem infinitas. Até agora lidamos com integrais definidas com limites de integração determinados, neste momento introduziremos os casos onde os limites de integração são indefinidos, mais específicamente quando estes limites tendem a infinitos ou valores nulos que geram infinitos na função a ser integrada. Embora grande parte das funções tenham valores indefinidos quando integrados com limites infinitos, uma boa parte fornece valores derinidos nestas situações, agora definimos a Integral imprópria como seque:
+Todos os casos acima são integrais impróprias onde o valor pode se mostrar definido mesmo se os limites de integração não sejam total ou parcialmente definidos...
+Há também a forma imprópria das integrais que fazem a função se tornar indefinida no ponto do limite de integração, ou seja:
+formula_69
+formula_70
+formula_71
+formula_72
+De forma que se os limites existem é possível que a integral possa ser definida. No caso em que os limites de integração se estendem a valores infinitos e que existe o limite da função para estes valores dizemos que a integral formula_73 e que quando a função não apresenta definição para o limite dizemos que esta formula_74, ou seja chamamos as integrais impróprias de formula_75 ou formula_76 de acordo com a possibilidade ou não da definição do limite que permite calcular o referido valor da integral. Para esta abordagem podemos verificar que, se formula_77 é a integral indefinida de formula_78, podemos estabelecer que quando:
+formula_79 ,
+podemos fazer o limite da função, o que nos revela:
+formula_80
+Desta forma podemos adotar o método de eliminação dos coeficientes nulos no infinito, usados para o caso de cálculo de limites no infinito, ou seja: 
+Para os casos onde o cálculo da integral definida em limites de integração nulos conduz a valores indefinidos a regra é semelhante à anterior;
+Seja as integrais definidas: 
+formula_81
+formula_82
+Sendo a integral indefinida:
+formula_83
+Se: formula_84
+Podemos calcular a integral definida fazendo:
+formula_85
+formula_86
+Onde formula_87 é chamado de abscissa do valor médio da derivada formula_88, quando intui-se que quanto maior a ordem da derivada maior a quantidade de parcelas na equação e maior será a precisão da síntese da função formula_78 através do polinômio. Neste caso podemos dizer que o último termo da equação é o resto, dizemos que há convergência, o que torna a síntese possível, quando o resto diminui consecutivamente tendendo a zero, o que nos permite dizer que quanto menor o seu valor mais precisa a síntese da função. Demonstração:
+A função formula_78 pode ser expressa, segundo o teorema fundamental do cálculo como:
+formula_91
+Podemos separar a integral não resolvida da equação fazendo:
+formula_92
+Se calcularmos a integral acima aplicando a integração por partes, teremos:
+formula_93
+formula_94
+formula_95
+logo:
+formula_96
+Fazendo esta substituição sucessivamente obtemos a fórmula de Taylor facilmente, façamos mais um passo para que se evidencie com mais clareza:
+formula_97
+formula_98
+formula_99
+O que nos dá:
+formula_100
+A evolução da equação é notória e por indução de formula_101 integrações temos a referida fórmula. Podemos definir o resto desta forma:
+formula_102

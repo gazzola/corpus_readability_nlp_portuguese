@@ -1,0 +1,12 @@
+ Mecânica dos fluidos/Viscosidade
+Em um sólido, as tensões derivam de deformações elásticas sofridas sob ação de forças externas. Em um fluido, as tensões derivam do fluxo resultante da aplicação dessas forças externas. A propriedade que um fluido tem de apresentar resistência às tensões cisalhantes é chamada de viscosidade. Por isso, diz-se que os sólidos são materiais "elásticos" e os fluidos, materiais "viscosos". Alguns materiais resultantes de misturas sólidos/líquidos apresentam propriedades "viscoelásticas". Considere-se um elemento de fluido, de dimensões formula_1, localizado entre duas placas paralelas ao plano XZ, uma delas movendo-se à velocidade formula_2 em relação à outra, devido à aplicação de uma força externa no sentido do eixo X. Chamemos formula_3 à superfície de contato do elemento com a placa móvel e formula_4 à força exercida pela placa sobre o elemento de fluido. É fácil ver que formula_4 terá a direção do eixo X. No elemento de fluido aparecerá então a tensão formula_6, dada por
+formula_7
+Durante o intervalo de tempo formula_8, o líquido é então deformado, pois a superfície formula_3 se move no sentido do eixo X por uma quantidade que denotaremos por formula_10, enquanto a face oposta permanece no mesmo lugar. As faces do elemento, que eram inicialmente ortogonais ao eixo X, sofrem, por sua vez, uma rotação dada pelo ângulo formula_11. É fácil ver que
+formula_12
+Para formula_13 muito pequenos, podemos escrever
+formula_14
+Então
+formula_15
+Podemos dizer que o elemento de fluido, submetido à tensão de cisalhamento formula_6, sofre uma taxa de deformação (ou taxa de cisalhamento) formula_17. Fluidos onde a taxa de deformação é proporcional à tensão de cisalhamento são chamados "fluidos Newtonianos". Em outras palavras, em um fluido Newtoniano
+formula_18
+onde formula_19 é chamada viscosidade absoluta (ou viscosidade dinâmica) do fluido. A dimensão da viscosidade absoluta é [massa·comprimentotempo]; no SI, a unidade de viscosidade absoluta é, portanto, kg/m·s ou Poiseuille. Também se usa o conceito de viscosidade cinemática, que é a razão entre a viscosidade absoluta e a massa específica; a dimensão da viscosidade cinemática é [comprimento/tempo]; no SI, a unidade de viscosidade cinemática é, portanto, m/s.

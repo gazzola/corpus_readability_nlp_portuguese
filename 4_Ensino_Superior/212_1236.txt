@@ -1,0 +1,33 @@
+Curso de termodinâmica/Relação entre Cp e Cv
+<br><br><br>
+No capítulo sobre a primeira lei da termodinâmica, estabelecemos uma relação entre C (Calor específico a pressão constante) e C (Calor específico a volume constante) :
+formula_1
+um resultado anterior permite explicitar a pressão interna (formula_2)
+formula_3
+o que conduz a:
+formula_4
+
+
+Curso de termodinâmica/Exercícios de termodinâmica/A25
+Uma mistura de gases a 760 mmHg contem 65.0% de nitrogênio, 15% de oxigènio e 20% de dióxido de carbono (percentuais do volume total). Qual é a pressão parcial de cada gás?
+Segunda a lei de Dalton, a pressão parcial dum gás numa mistura é igual à pressão que seria observada se o gás estivesse sozinho na mistura.
+Assim, a pressão parcial de nitrogênio é de 65% da pressão total de 760 mmHg = 494 mmHg.
+P = 760 x 0,15 = 114 mmHg
+P = 760 x 0,20 = 152 mmHg
+
+
+Curso de termodinâmica/Exercícios de termodinâmica/A31
+Uma massa de gás ocupa 825 ml a -30º C e pressão de 0,556 atm. Qual é a pressão num volume de 1000 ml e a 20º C?
+formula_1
+
+
+Curso de termodinâmica/Estados correspondentes
+Todos os gases perfeitos possuem o mesmo fator de compressibilidade (igual a 1). Não é o caso dos gases reais salvo nas condições críticas onde Zc possui um valor quase constante . O que mostra que, no ponto crítico, todos gases estão em um estado equivalente . Podemos então utilizar o estado crítico como estado de referência . Medimos o desvio em relação à referência por meio das variáveis reduzidas : 
+formula_1
+A seguintes figuras mostram que todos gases , quando são a mesma temperatura reduzida e sob a mesma pressão reduzida , possuem o mesmo fator de compressibilidade. Fala-se que os gases são, então, em estados correspondentes.
+Podemos substituir a e b na equação de estado de Van der Waals por suas expressões em relação as variáveis críticas P,T e V. Obtemos , após reordenação :
+formula_2
+ou ainda
+formula_3
+É a equação reduzida de Van der Waals. Nenhum termo depende da natureza química do gás, o que está de acordo com a existência de estados correspondentes para os gases reais .
+

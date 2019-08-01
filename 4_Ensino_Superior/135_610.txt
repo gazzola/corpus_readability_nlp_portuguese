@@ -1,0 +1,71 @@
+Logística/Localização/Localização em redes/Localização em redes cíclicas/Localização mediana
+A mediana consiste em qualquer nó formula_1 de uma rede ter a menor distância total possível deste mesmo nó formula_1 a todos os outros nós, então, uma mediana é qualquer nó formula_1 tal que (Francis, 1992, p. 426-431):
+formula_4
+onde
+formula_5
+A soma das distâncias do nó formula_6 a todos os outros nós é igual a soma dos valores da linha formula_6 da matriz D, sendo que esta matriz é composta pelas distâncias mais curtas entre todos os pares de nós.
+Figura 9.12.2.2.1 Exemplo de rede cíclica
+A considerar a Figura 9.12.2.2.1 como exemplo, a matriz D será a seguinte:
+formula_8
+Dada a matriz D pode-se concluir que:
+formula_9
+formula_10
+formula_11
+formula_12
+Desta forma, formula_13. Podendo-se então concluir que a mediana desta rede é o nó 2.
+Para algum ponto do arco formula_14, existe uma distância mais curta do nó formula_15, onde esta tem o seu valor máximo, esta distância máxima chama-se distância nó-arco e é representada por formula_16.
+Caso o arco formula_14 não tenha direcção existem dois percursos para ir do nó formula_15 ao ponto formula_19 em formula_14, sendo que um deles é seguir pelo nó formula_21 e o outro seguir pelo nó formula_22, devendo-se escolher o percurso com a distância mais curta.
+Existe também a possibilidade do arco formula_14 ser direccionado, então, um ponto no arco formula_14 só pode ser alcançado via nó formula_21.
+Para o primeiro caso, onde o arco formula_14 não é direccionado considera-se que:
+formula_27
+Já para o segundo caso, onde o arco formula_14 é direccionado considera-se que:
+formula_29
+Ao numerar os arcos de uma rede de formula_30 a formula_31 uma matriz, D', formula_32 cujo elemento formula_33 é a distância do nó-arco do nó formula_15 ao arco formula_35 pode ser construída utilizando as duas equações descritas acima.
+Quando considerado qualquer nó formula_1 com a menor distância total a cada arco, onde a distância de um nó a um arco é a distância máxima do nó aos pontos do arco, este nó formula_1 é uma mediana geral, tal que:
+formula_38
+onde
+formula_39
+Uma mediana geral corresponde a qualquer linha de uma matriz D' com menor soma, onde as linhas formula_6 desta matriz são compostas pelas distâncias mais curtas entre todos os pares (nós, arcos).
+Ao utilizar a Figura 9.12.2.1 como exemplo e ordenando os arcos da seguinte forma:
+1. formula_41
+2. formula_42
+3. formula_43
+4. formula_44
+5. formula_45
+6. formula_46
+A matriz D' das distâncias mais curtas entre todos os pares (nós, arcos) é a seguinte:
+formula_47
+Portanto,
+formula_48
+formula_49
+formula_50
+formula_51
+formula_52
+Pode-se então concluir que o nó 1 é a mediana geral desta rede.
+Qualquer ponto com a menor distância total possível a todos os nós é uma mediana absoluta, sendo que esta é qualquer ponto formula_53 tal que:
+formula_54
+formula_55, formula_56 é o conjunto de todos os pares da rede
+onde
+formula_57
+Considerando que formula_58 é uma função côncava de formula_59, então esta é minimizada quando formula_60 ou formula_61
+Sendo assim, quando considerado um arco formula_62 um de seus nós terminais será o mais indicado para ser mediana absoluta.
+Desta forma, só é necessário considerar os nós quando se pretende encontrar uma mediana absoluta.
+Considerando um ponto formula_19 do arco formula_64 a sua distância ponto-arco é representada por:
+formula_65
+Existem quatro casos distintos para determinação da distância ponto-arco, são eles:
+1. Arco formula_14 não direccionado e diferente de formula_67, então:
+formula_68
+2. Arco formula_14 direccionado e diferente de formula_67, então:
+formula_71
+3. Arco formula_14 direccionado e igual a formula_67, então:
+formula_74
+4. Arco formula_14 não direccionado e igual a formula_67, então:
+formula_77
+formula_78
+consequentemente,
+formula_79
+Quando a distância total do ponto a todos os arcos é a menor possível estamos perante uma mediana absoluta geral, sendo que esta é qualquer ponto formula_80 tal que:
+formula_81 com formula_82
+onde
+formula_83
+

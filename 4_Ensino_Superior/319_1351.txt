@@ -1,0 +1,23 @@
+ Curso de termodinâmica/Termoquímica
+É a aplicação da primeira lei às reações químicas isotermas e isóbaras. O fundamento da termoquímica é a equação formula_1, que fornece uma função de estado ligada à energia do sistema e mensurável experimentalmente. É graça às propriedades de função de estado de formula_2 ou H que não é necessário medir os calores de reação de todas reações possíveis. Como H depende só dos estados inicial e final, poderemos calcular formula_3 para qualquer reação, simplesmente montando um caminho do estado inicial e para o estado final composto de etapas elementares para quais a mudança de entalpia é conhecida. Exemplo: procurar a mudança de formula_4 associada à transformação formula_5. É inútil de medir-la se conhecermos já os calores de formula_6. Em efeito, como H é uma função de estado, formula_7 a o mesmo valor que a transformação de A em C seja efetuada diretamente ou passando pelo intermediário B: 
+formula_8
+Em outras palavras, a mudança de entalpia durante um processo cíclico, por exemploformula_9 é nulo, os estados inicias e finais sendo os mesmos: 
+formula_10 
+Para H, como para qualquer função de estado: 
+formula_11 
+Para poder determinar a entalpia de qualquer reação, basta de ter uma coletânea de formula_3 para reações elementares . Foram escolhidas as reações de formação das moléculas. "Entalpia de formação de um composto": É o calor liberado ou absorvido ,formula_13, quando um mol do composto é formado a partir dos elementos a pressão constante. "Estado": é o estado estável sob 1 bar. Anotado pelo expoente º. "Entalpia de formação padrão": É o calor liberado ou absorvido,formula_14, quando há formação de um mol do composto, sob 1 bar e a 298K a partir dos elementos no seus estados padrões. Por conseqüência, a entalpia padrão de formação dos elementos é nula por definição. As seguintes reações são exemplos de reações de formação padrões: 
+formula_15
+formula_16
+formula_17
+Se conhecermos as entalpias padrões de formação de todos corpos que intervem numa reação química, podemos calcular a entalpia desta reação. Por exemplo, para calcular a entalpia formula_18 da reação : 
+formula_19 
+a 25°C sob 1 bar, a partir das entalpias padrões de formação de formula_20 e formula_21 a 25ºC, basta de construir o seguinte ciclo: 
+Como H é uma função de estado: 
+formula_22
+É a formalização da lei de Hess
+Seja uma reação química: 
+formula_23 
+cujo formula_24 é a entalpia a uma temperatura T. Podemos construir o seguinte ciclo: 
+Em conseqüência:
+formula_25
+Poucas reações de formação podem ser diretamente estudadas para medir a suas entalpias.

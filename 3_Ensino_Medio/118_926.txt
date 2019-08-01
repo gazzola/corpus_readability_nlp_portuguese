@@ -1,0 +1,35 @@
+Introdução à física/Gravitação universal/Movimento dos corpos celestes
+O movimento dos corpos celestes ao redor das estrelas é dado pela lei da gravitação universal, em que o campo gravitacional da estrela atrai os demais corpos celestes. O mesmo ocorre com os satélites planetários: o campo gravitacional do sol e do planeta faz o satélite o orbitar.
+Conforme a primeira lei de Kepler, as órbitas dos planetas e dos satélites não são perfeitamente circulares. Elas apresentam excentricidade, e sua trajetória aproxima-se a formatos elípticos. Além disso, as estrelas não se localizam exatamente no centro da órbita. Dá-se o nome de "afélio" ao ponto em que o planeta está mais distante do sol, e "periélio" ao ponto onde o planeta está mais próximo ao sol. As órbitas também podem ter inclinação, o que dá origem a diferentes temperaturas no decorrer do ano planetário, em diferentes hemisférios. Em uma órbita perfeitamente circular, o deslocamento de um corpo celeste durante um ano astral é dado pela seguinte equação:
+formula_1
+Na qual:
+As três equações que representam o movimento dos corpos celestes, são baseadas em uma equação básica. Nesta, considera-se que a órbita dos corpos celestes é circularmente perfeita, e que somente a força da estrela define o movimento.
+Ao mesmo tempo em que a estrela atrai o planeta para perto de si, o planeta faz uma força repulsória. No caso dos satélites, os planetas os atraem. Já em um corpo celeste de órbita perturbada, este somente terá uma órbita imutável quando a força resultante for zero. Assim:
+formula_2
+A velocidade que um corpo celeste segue em sua trajetória ao redor do sol ou de um planeta é variável. A segunda lei de Kepler descreve a velocidade. A velocidade média de um corpo celeste, que tenha sua órbita perfeitamente circular, é dada pela resultante das forças:
+formula_2
+Então:
+formula_4
+Eliminado-se as mesmas variáveis:
+formula_5
+Logo,
+formula_6
+Em que:
+Observe que, em planetas de um mesmo sistema, o que define a velocidade é o raio entre o planeta e a estrela.
+A energia cinética pode ser descoberta:
+Como
+formula_7
+Então
+formula_8
+Assim,
+formula_9
+Em um corpo celeste qualquer, o período sinódico (ou de revolução) é igual a um ano astral. Um ano equivale a uma volta completa de um planeta ao redor da estrela, ou de um satélite ao redor do planeta. O período orbital é descrito na terceira lei de Kepler. Em um corpo celeste que tenha sua órbita perfeitamente circular, o tempo de um ano é dado por:
+formula_10
+Substituindo-se:
+formula_11
+Logo,
+formula_12
+Então:
+formula_13
+Onde:
+

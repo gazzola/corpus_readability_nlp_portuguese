@@ -1,0 +1,15 @@
+Topologia/Conceitos básicos da teoria de conjuntos
+Dados dois conjuntos "A" e "B", dizemos que "A" "está contido em", "é subconjunto de" ou ainda "é parte de" "B" quando todo elemento de "A" é elemento de "B" ou, simbolicamente, "x" ∈ "A" ⇒ "x" ∈ "B". Neste caso, escrevemos "A" ⊂ "B". Esta relação entre os conjuntos "A" e "B" é chamada "relação de inclusão". Se trabalhamos com conjuntos dentro de algum universo, esta passa a ser uma relação de ordem. Isto quer dizer que, para quaisquer conjuntos "A", "B" e "C" dentro deste universo, valem as três propriedades a seguir:
+Reflexiva: formula_1
+Antissimétrica: formula_2
+Transitiva: formula_3
+Chamamos de "conjunto das partes de A" o conjunto formula_4 cujos elementos são os subconjuntos de "A". Ele nunca é vazio, já que formula_5 e formula_6.
+A "união" de dois conjuntos "A" e "B" é o conjunto "A" ∪ "B" cujos elementos pertencem a pelo menos um dos conjuntos "A" ou "B". A "interseção" de "A" e "B" é o conjunto "A" ∩ "B" cujos elementos pertencem a ambos os conjuntos "A" e "B". Dado um conjunto "A" num conjunto universo "U" definimos o "complemento" de "A" como sendo o conjunto formula_7 formado pelos elementos de "U" que não pertencem a "A". Mais geralmente, a "diferença" dos conjuntos "A" e "B" é o conjunto formula_8 formado pelos elementos de "A" que não pertencem a "B". Se "A" e "B" se encontram no mesmo conjunto universo, temos formula_9.
+Com estas definições, temos algumas propriedades importantes:
+Dados conjuntos "X" e "Y", uma "família" em "Y" com índices em "X" é uma função "f": "X" → "Y". Apesar de definida por uma função, a ideia de família se guarda no conjunto-imagem desta função, não na função em si. Costuma-se denotar, para cada "x" ∈ "X", formula_24 por um subscrito. Se denotamos formula_25, a família é denotada por ("a"). Quando subentendido o conjunto "X" de índices, podemos omití-lo na notação, escrevendo simplesmente formula_26. Se os elementos de "Y" são conjuntos, temos uma "família de conjuntos".
+Sendo ("A") uma família de conjuntos, definimos a união formula_27 como sendo o conjunto dos "y" tais que "y" ∈ "A" para algum "x". 
+Analogamente, quando "X" não for o conjunto vazio, definimos a interseção formula_28 como o conjunto dos "y" tais que, para todo "x" ∈ "X", "y" ∈ "A". 
+Vale também para famílias de conjuntos as leis de DeMorgan, desde que a interseção esteja definida:
+formula_29 e formula_30.
+O problema com formula_31 é que "qualquer coisa" seria um elemento deste conjunto, o que é incompatível com a teoria dos conjuntos, já que o "conjunto de todos os conjuntos" não existe. Este problema desaparece quando subentendido um conjunto universo "U" no qual estão contidos os "A". Neste caso, podemos considerar a interseção como sendo o próprio "U".
+

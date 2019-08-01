@@ -1,0 +1,41 @@
+Análise real/Cortes de Dedekind
+Seja formula_1; A é um corte se, e somente se
+Seja formula_4; Se formula_5 temos que formula_6 e formula_7, então formula_8
+A,B são cortes racionais; A=B, se e somente se, possuem os mesmos elementos. Como formula_9, formula_10 tenos que formula_11. Se não fosse assim, teríamos elementos de um que não está em outro.
+formula_12
+
+
+Análise real/Indução
+O conjunto formula_1 é usado para contagens. De tão natural, formula_2 é chamado de conjunto dos números naturais, o primeiro conjunto numérico que aparece na história de qualquer civilização ou em qualquer tratado sobre os fundamentos da Matemática. Admitiremos conhecidos os conjunto formula_3 (dos números inteiros) bem como suas propriedades algébricas de soma e multiplicação e sua relação de ordem .
+A função sucessão é dada por formula_5
+Vamos demonstrar, por indução, a conhecida fórmula formula_16.
+Teorema: formula_20
+ Teorema: formula_31
+ Mostrar que, para todo formula_39 por indução sobre n.
+Prova:
+ Mostre que formula_45
+ Mostre que formula_51
+ Teorema: Torre de Hanói (Para mover n discos para outra posição são necessário no mínimo formula_57 movimentos.
+Prova (por indução):
+
+
+Análise real/Inclusão
+formula_1
+formula_2
+formula_4
+Um conjunto é igual ao outro se um conjunto é subconjunto do outro. Não podendo ser subconjunto próprio. formula_6.
+Dois conjuntos são disjuntos quando a intersecção dos conjuntos é o conjunto vazio, ou seja, quando seus elementos são distintos.
+Exemplos:
+
+
+Análise real/PA
+Vamos definir PA de forma diferente para ter o que precisamos:
+Uma sequência estacionária é uma sequência numérica onde todos os seus termos são iguais.
+Essa sequência ao ser estudada no ensino médio, ela é vista como progressão aritmética de razão zero. Vamos defini-la como sequência estacionária.
+ Vamos definir PA de ordem 1 como uma sequência não-estacionária, tal que a diferença dos seus termos seja uma sequência estacionária.
+Vamos perceber que se a diferença for positiva, os termos são crescentes e se a diferença for negativa, os termos serão decrescentes.
+Como a diferença será constante, chamaremos a esse valor constante de razão.
+Vamos definir o operador diferença formula_3 e a sequência diferença formula_4.
+O somatório dos termos de uma PA formula_39 de ordem 1, do primeiro ao enésimo-termo é dada por: formula_40
+Uma sequência formula_9 é uma PA de ordem p se, e somente se, formula_6 é um polinômio de grau p.
+

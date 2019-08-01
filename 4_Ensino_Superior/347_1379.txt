@@ -1,0 +1,34 @@
+ Ao operar a inversa da derivada, podemos fazer a análise com as diferenciais, ou seja, cosidere a função formula_12, então temos: formula_13, o que nos leva a algo muito interessante:
+O que nos lembra:
+formula_15
+Temos ainda que formula_12, fazendo-nos deduzir que precisamos operar:
+formula_17
+Para encontrar "y". Esta operação é chamada de antidiferencial e é simbolizada por:
+Onde ("f") é a função e (d) é a diferencial da variável independente. De forma mais completa a antidiferencial da função formula_4 é:
+formula_20
+onde "C" é a constante que define a função primitiva. A antidiferenciação é uma operação que tende a ser complicada na maioria das funções, ao longo do nosso estudo veremos métodos para simplificar o processo, porém existem formas de funções que não podem ser operadas nesse processo. Algumas das regras básicas para operação de antidiferenciais serão abordadas nas seções subseqüentes, outras regras serão abordadas nos próximos capítulos. Devido a complexidade que envolvem o processo, muitos dos métodos necessitam de alguma regra que ainda não estudamos; para não colocar questões que não possam ser esclarecidas neste capítulo teremos que deixá-las para o momento oportuno, quando todos os elementos necessários para a abordagem do assunto estejam bem claros. Com "C" constante. Comprovação:
+De fato se formula_21:
+formula_22
+formula_23
+Comprovação:
+Se fizermos: formula_24, teremos:
+formula_25 
+Conforme o teorema T13 - fator. Comprovação:
+Se formula_26 é o resultado da soma de duas antidiferenciais, logo:
+Portanto, pela análise da reversibilidade, é possível constatar que a adição de duas antidiferenciais pode ser operada distributivamente, o que atesta a regra que expomos. Onde "C" é constante. Comprovação:
+formula_36
+formula_37
+formula_38
+formula_39
+formula_40
+Onde "C" é a constante que define a primitiva. Comprovação:
+Uma vez que:
+formula_41 , temos:
+formula_42
+O que nos possibilita operar, por substituição:
+formula_43, obtendo:
+formula_44
+formula_45
+para definir a antiderivada, usamos a constante "C":
+formula_46
+O que comprova a regra. Considerando a questão da indefinição criada pela diferenciação, o processo de antidiferenciação traz uma conseqüência indesejável para o processo de equacionamento de diferenciais.

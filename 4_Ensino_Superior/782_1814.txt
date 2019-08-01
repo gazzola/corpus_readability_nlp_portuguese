@@ -1,0 +1,12 @@
+ Esta base
+contém centenas de milhões de registros, e a análise estatística destes não é
+viável utilizando uma abordagem não distribuída. A fim de avaliar também a escalabilidade da API para bases de dados de tamanhos
+variados, a base de dados original foi subdividida em várias bases menores. Essa
+subdivisão permite avaliar o padrão de complexidade das funcionalidades
+disponibilizadas pela API. A análise da API foi realizada através de múltiplas execuções de cada
+uma de suas funcionalidades sobre as bases de dados de diversos tamanhos. Para
+cada uma das execuções foi analisado o tempo de execução, quantidade de dados
+lidos e a quantidade de maps e reducers executados. As funcionalidades testadas estão listadas a seguir, contudo é importante
+destacar que somente algumas das funcionalidades de agregação foram testadas,
+pois a maioria possui complexidade semelhante. Cada uma das funcionalidades foi testada através de sua execução sobre bases de
+dados de diversos tamanhos. Os resultados foram obtidos com variação apenas do tamanho da entrada. Outra condição interessante de ser observada é a variação do número de nós de processamento, o que deveria ser feito em trabalhos futuros. Em todos os casos, é interessante observar o comportamento linear com tendência assintótica dos algoritmos a partir de um determinado volume de registros (4000000, no caso da média). Ademais, o número de mapeadores é sempre significativamente maior que o número de redutores. O comportamento linear assintótico nas funções de agregação sugere que o cluster tende a trabalhar próximo ao seu limite de processamento ao se aumentar o tamanho da entrada. A adição de mais nós, no caso de aumento de dados, deverá subir o limite assintótico, melhorando o desempenho. O Hadoop assume que as reduções deverão agregar dados, consumindo muito e produzindo pouco. Por esta razão, o número de redutores é significativamente menor que o de mapeadores. Isso é válido para grande parte das funções, mas não é uma assumpção válida para as funções de geração de quantis e particionamento. É possível que o desempenho seja melhorada nesses casos com um melhor balanceamento das tarefas. O código fonte pode ser encontrado aqui, podendo ser usado e distribuído livremente.

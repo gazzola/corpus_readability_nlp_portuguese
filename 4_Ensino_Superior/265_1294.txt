@@ -1,0 +1,24 @@
+Logística/Sistemas de informação/Indicadores de desempenho/Indicadores de utilização de recursos: pessoas/Perda de mão de obra directa em movimentações
+Para tornar o conceito de perda de mão de obra directa na movimentação de materiais mais prático, foi desenvolvido o indicador de perda de mão de obra directa em movimentações, com base no seguinte quociente (Apple, 1977, p. 432):
+"Tempo de movimentação de material perdido pela mão de obra directa" (h) / "Tempo total de mão de obra directa" (h)
+
+
+Logística/Gestão de armazéns/Introdução
+A armazenagem com a finalidade de obter lucro, é pelo menos tão antiga quanto a história. Nos primeiros escritos, o homem foi descrito como tendo excesso de alimentos armazenados e mantendo os animais como excedente para situações de emergência. À medida que a civilização se foi desenvolvendo, os armazéns locais foram introduzidos (Tompkins, 1998).
+As mercadorias encontravam-se armazenadas em ligação com os transportes, comércio e actividades de produção. Quando o transporte se ramificou para algo muito mais abrangente, os armazéns tornaram-se mais do que simples armazéns locais. 
+Quando os principais pontos comerciais se desenvolveram durante a Idade Média, a armazenagem foi estabelecida para lidar com o armazenamento de itens enviados. O primeiro grande entreposto comercial foi construído em Veneza, um importante centro de rotas comerciais. Os armazéns nessa área eram explorados com fins lucrativos por uma fraternidade de comerciantes conhecidos como Guildas. 
+À medida que a actividade de comércio se expandiu para além da área do Mediterrâneo, cada cidade portuária desenvolveu o seu próprio armazém terminal. A armazenagem nos portos das cidades vieram reduzir a quantidade de tempo que um navio ficava detido no porto, e melhorava consideravelmente o transporte no exterior (Tompkins, 1998).
+
+
+Logística/Manutenção de instalações/Preparação para emergências
+Tipicamente uma emergência pode ser classificada como: 
+A lista de causas de emergência pode tornar-se muito extensa no entanto o mais importante a reter é o facto que uma emergência pode ocorrer muito rapidamente e sem aviso.Acidentes podem causar interrupções temporárias ou permanentes em parte das instalações ou até mesmo em toda a sua totalidade, deste modo, é importante que a preparação para emergências de uma empresa inclua um plano dinâmico, eficaz e sobretudo eficiente.
+A preparação para emergências é um processo que requer a compreensão do meio envolvente, uma pesquisa intensiva e contínua e sobretudo treino na área da emergência, esta preparação envolve planeamento e preparação de esforços colectivos por parte de toda a empresa e indivíduos que nela trabalham todos os dias ou pelos a frequentam parcialmente.(Lewis, Bernard T. et al.)
+
+
+Logística/Gestão de existências/Introdução/Tipos de existências
+Segundo Tersine (1988, p. 4), as existências podem ser de:
+Os materiais de consumo corrente são consumidos durante o funcionamento normal de uma organização, embora não fazendo parte do produto final. Dos consumíveis típicos destacam-se lápis, papéis, lâmpadas, tinteiros para impressoras e artigos para a manutenção das instalações. Os materiais de consumo corrente nas fábricas são denominados "MRO", de manutenção, reparação e operação. 
+De acordo com SENAC.DN (1998, p. 10), as matérias-primas são materiais necessários para a fabricação dos produtos onde são incorporados. 
+Produtos em vias de fabrico são materiais que ainda se encontram na fase de produção, enquanto que produtos acabados são aqueles que já adquiriram a sua forma final, mas ainda não foram vendidos. Os tipos de materiais a serem mantidos em "stock" são muito diferentes, pois cada actividade produtiva tem necessidades específicas.
+

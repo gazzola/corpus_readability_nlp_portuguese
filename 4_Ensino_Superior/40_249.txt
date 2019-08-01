@@ -1,0 +1,23 @@
+Medida e integração/Integração de funções positivas
+Ao longo deste capítulo estará fixado um formula_1
+Pelo , toda função formula_2 pode ser aproximada por uma sequência não-decrescente de funções simples. Isto motiva a próxima definição, na qual é apresentada a noção de integral para um certo tipo de funções que não são simples.
+_+</math> é uma , define-se para cada formula_3 a integral de Lebesgue de formula_4 sobre formula_5 em relação à medida formula_6 como sendo o elemento de formula_7 dado por:
+onde formula_8 é função simples, sobre formula_9 e tal que formula_10
+No caso em que formula_11 se diz que formula_4 é integrável em formula_13. Se formula_14 então se diz simplesmente que formula_4 é integrável.
+_+</math> uma . A integral definida anteriormente verifica as seguintes propriedades:
+_+</math> tais que formula_34 tem-se formula_22
+A essência do segundo item deste corolário é que a integral também serve para "medir conjuntos". Na verdade, isto continua válido mesmo que a função que está sendo integrada não seja formula_37 Conforme a , a integração de uma função simples sobre conjuntos que pertencem a uma formula_38-álgebra define uma medida.
+_+</math> é a função que em cada formula_3 vale
+então formula_40 é uma medida sobre formula_41
+Outra propriedade que se poderia esperar da integração de funções simples é a somatividade:
+_+</math> é uma função mensurável e formula_42 é uma função simples mensurável, então a função formula_43 é mensurável.
+O próximo resultado é conhecido como Teorema da Convergência Monótona de Lebesgue e, além de ser um resultado importante sobre convergência, é um dos teoremas centrais de toda a teoria de Lebesgue.
+_+</math> uma . Se a sequência formula_44 é não decrescente e, para cada formula_45 existe o limite formula_46 então:
+Um resultado análogo sobre a integração de séries é apresentado no teorema seguir.
+_+</math> uma . Então:
+O resultado técnico apresentado a seguir, conhecido como Lema de Fatou, se mostrará extremamente importante e útil.
+_+</math> uma . Então:
+O próximo resultado é uma generalização da .
+_+</math> uma sobre formula_53 Se formula_54 é a função que em cada formula_3 vale
+então:
+

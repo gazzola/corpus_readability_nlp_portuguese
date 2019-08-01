@@ -1,0 +1,36 @@
+Introdução à física/Conceitos introdutórios
+A metrologia é a ciência que estuda as medidas. Suas teorias são constantemente utilizadas pela física. Uma medida nunca está totalmente certa, pode ocorrer erros de medidas e variações de valor. As medidas são mais eficientes quando a precisão é maior.
+Toda unidade de medida tem uma definição. As primeiras unidades criadas, eram definidas como o tamanho do pé do governante, o volume dos jarros, a posição solar, entre outros. Essas unidades constantemente provocavam confusão, pois cada povo tinha suas próprias unidades. No século XX, o mundo começou a ter suas unidades padronizadas. Além disso, cada unidade teria uma ou mais letras designatórias. Em 1960, foi criado o sistema métrico, que fazia com que cada unidade padrão, tivesse unidades derivadas para cada grandeza. Hoje, em exceção a poucos países como os Estados Unidos, todos os demais países possuem as mesmas unidades de medida.
+As unidades-padrão, são as do sistema internacional de unidades (SI). Existem outras unidades mundialmente conhecidas, mas que para se realizar um cálculo com determinada grandeza, é necessário convertê-las. Abaixo, veja algumas unidades de medida convencionais:
+Uma unidade de grandezas derivadas, é aquela que é formada, geralmente pela divisão ou multiplicação de unidades de outras grandezas. Na leitura dessas undades, não se lê o sinal de multiplicação, enquanto que o de divisão é lido "por". Exemplo:
+Veja na tabela abaixo, alguns exemplos destas grandezas. Obs.: a letra grega delta (formula_1) representa a diferença de dados finais e iniciais.
+Pode-se criar novas unidades de medida anexando-se um prefixo antes da palavra. Estes são:
+O instrumento de medida é todo e qualquer objeto que possa ser utilizado para medir alguma medida.
+Ex.: o velocímetro é um instrumento de medida que mede a velocidade; o termômetro é um instrumento de medida que mede a temperatura; a balança é um instrumento de medida que mede a massa dos corpos; o dinamômetro é um instrumento de medida que mede o peso dos corpos; etc.
+Uma constante é um valor representado por uma letra. Algumas delas se alteram de acordo com o caso. A constante elástica, por exemplo, é dada pelo material que um componente elástico é feito.
+Existem constantes que nunca se alteram, e estas geralmente não são números inteiros. Veja abaixo, alguns exemplos de constantes utilizadas na física:
+Como existem muitas constantes que não são representadas por números inteiros, o resultado obtido num cálculo com uma delas nunca será exatamente correto.
+Neste módulo você poderá testar os seus conhecimentos sobre , respondendo alguns exercícios.
+- 5 x 10
++ 5 x 10
+- 0,5 x 10
+- 0,5 x 10
++5,8 x 10
+-58 x 10
+-5,8 x 10
+-58 x 10
+- 15 x 10
+- 1,5 x 10
++ 1,5 x 10
+- 0,15 x 10
+- 3 x 10
++ 3 x 10
+- 0,3 x 10
+- 300 x 10
++ 8,4 x 10
+- 84 x 10
+- 0,84 x 10
+- 8 x 10
+Algarismos significativos
+Média, desvio padrão, erro absoluto e erro relativo.
+

@@ -1,0 +1,13 @@
+ Mas para qualquer formula_165, com formula_166 e formula_167, também existem valores positivos formula_136 e formula_169, de modo que
+É imediato, pela propriedade da subtração de limites, que, como formula_171, temos que existe formula_172 tal que formula_173. Agora basta tomar formula_174, e observar o resultado desejado. Demonstração:
+De fato, para cada número natural formula_175 temos:
+formula_176
+O que, pelo teorema do produto, é igual ao produto dos limites:
+formula_177
+E portanto, estabelece o que pretendíamos demonstrar. Demonstração:
+Conseqüentes para funções algébricas:
+Estas propriedades são verificadas rapidamente a partir da definição. Além disso, as regras a seguir são conseqüências diretas dos teoremas relacionados acima:
+Consideremos a função: formula_184. Podemos notar que nenhum valor de formula_6 menor que 2 está no domínio da função, ou seja, ela não está definida no intervalo formula_186. Esta indefinição também se 
+refletirá nos limites dos valores da função neste intervalo, pois não faz sentido falar de "limites" em valores nos quais a função não esteja definida (neste exemplo, uma certa faixa de números reais). O que poderíamos fazer para analisar os valores válidos da função? Como o seu domínio é apenas formula_187, devemos restringir o cálculo de limites a este intervalo; quando um conjunto (no caso, um intervalo) de números precisa ser excluído do domínio da função, ou quando já se sabe que a função não está definida em tal conjuto, podemos também, excluir certa faixa de valores durante o cálculo de limites; Por exemplo, ao analisar o comportamento de formula_188 nas proximidades do ponto formula_189, se quisermos adotar apenas números maiores que formula_189 na análise, podemos simbolizar isto desta forma: formula_191, da mesma forma poderemos adotar apenas números menores que formula_33, 
+representando a restrição da seguinte forma: formula_193. No primeiro caso dizemos que o limite lateral pela direita da função é o valor para o qual a função tende quando formula_194 
+se aproxima de formula_189 pela direita. No segundo caso dizemos que o limite lateral pela esquerda da função é o valor para o qual a função tende quando formula_194 se aproxima de formula_189 pela esquerda.

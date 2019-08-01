@@ -1,0 +1,33 @@
+Curso de termodinâmica/Primeira lei
+As observações experimentais sobre a energia foram resumidas em três leis ou princípios, cuja aplicação permite definir o estado de equilíbrio de uma e de explicar a tendência a evoluir espontaneamente para seu estado de equilíbrio.
+A energia é a capacidade de executar um trabalho ou de produzir calor. Assim, um sistema que possui uma energia elevada pode executar uma grande quantidade de trabalho sobre seu redor ou lhe dar uma grande quantidade de calor. O trabalho é a energia gasta durante o deslocamento de uma força. Por exemplo, deslocar um objeto num campo de gravidade necessita energia. Precisa fornecer trabalho para levantar uma valise. O trabalho é trocado da pessoa que levante a valise para a valise.
+O calor é a energia que verte dos objetos quentes para os objetos frios. Por exemplo, uma bebida à temperatura ambiente e, depois, deixada numa geladeira, esfria dando calor a seu ambiente. A energia da bebida então diminuiu.
+Pode-se dizer também que o trabalho resulta de ou vai provocar um "movimento organizado", enquanto o calor resulta de, ou vai provocar, um "movimento caótico".
+Para caracterizar mudanças e trocas de energia, há estas definições:
+Diz-se que um processo é reversível quando o sistema está, a qualquer momento, em equilíbrio durante o andamento do mesmo.
+No decorrer de múltiplas experiências científicas, uma observação sobre a energia sempre foi verificada. Trate-se de uma lei (do mesmo valor que a lei de gravitação universal). É a primeira lei da termodinâmica que pode ser expressa de diversas maneiras, por exemplo:
+ou ainda
+Como: 
+Universo = sistema + meio externo, a primeira lei pode ser escrita:
+formula_1
+o que podemos expressar por:
+formula_2
+Em conseqüência, qualquer mudança de energia de um sistema é acompanhada por uma variação de um mesmo valor absoluto, mas de sinal oposto, na energia do meio externo.
+formula_3 
+Qualquer mudança de energia do sistema formula_4, que designaremos por formula_5 a partir de agora é o resultado de trocas de energia com meio externo ( o que é dado para um foi dado pelo outro). Poderemos calcular formula_5 adicionando todos as trocas entre o sistema e o meio externo: 
+formula_7
+Por causa da primeira lei, a energia do sistema é uma função de estado quer dizer uma função
+Em efeito, vamos supor o contrário. Se formula_9 dependesse do caminho utilizado, poderíamos construir um caminho cíclico, quer dizer uma successão de transformações que levaria finalmente ao estado inicial para aqueles a mudança de energia não seria nula. Poderíamos criar energia o que todas as observações feitas ate hoje indicam como impossível.
+Cuidado
+O calor e o trabalho não são funções de estado, visto que a primeira lei se aplica à energia (soma de todas trocas de energia). Se um sistema se transforma do estado inicial 1 para o sistema final 2 por dois caminhos diferentes A e B, temos
+formula_10
+Por conseqüência, temos também:
+formula_11
+Porém, mesmo se a soma das trocas é a mesma qualquer seja o caminho utilizado, podemos muito bem ter:
+formula_12
+Exemplos de funções de estado:
+Exemplos de grandezas que não são funções de estado:
+A função abaixo calcula a variação da energia interna de um sistema:
+formula_13
+Q é a quantidade de calor recebido pelo sistema e W o trabalho realizado pelo sistema. O Q negativo significa que o sistema perdeu calor e o W negativo significa que foi realizado um trabalho sobre o sistema.
+

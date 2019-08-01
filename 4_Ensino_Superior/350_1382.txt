@@ -1,0 +1,23 @@
+ Antes de detalhar o processo para encontrar a referida área faz-se necessário a observação de conceitos que serão úteis para seu desenvolvimento, o próximo tópico abordará a somatória, um procedimento que facilitará o estudo das somas sucessivas que propomos analisar. Considere a operação: formula_68, chamamos esta operação de somatória, ela é simbolizada pela letra grega sigma (formula_69), utilizando a notação escrita como segue:
+formula_70
+O significado deste símbolo é facilmente compreendido: A variável i é chamada de índice, o número n é a quantidade de parcelas, ocorre que, ao substituir estes valores na expressão formula_71, fazemos de forma seqüencial, somando um valor ao anterior, como descrito na operação acima, o que resultará no valor final de "U", pretendido na referida operação. Propriedades
+formula_72
+com c constante. Comprovação:
+formula_73 n vezes. formula_74
+com c constante. Comprovação:
+formula_75
+formula_76
+formula_77
+Comprovação:
+formula_78
+formula_79
+formula_80
+Comprovação
+formula_81
+formula_82
+O conceito de integral está ligado à necessidade de encontrar a área de curvas, as abordagens tomadas para solucionar o problema do cálculo de áreas curvas encontram sempre o mesmo resultado. Para não nos extendermos muito, faremos uma explanação do processo chamado: Integral de Riemann, o qual é um dos mais conhecidos. Vejamos o gráfico abaixo:
+"Integral de Riemann"
+Figura 4
+O gráfico mostra uma função sinuosa, se fizermos seções retangulares para imitar o contorno das curvas teremos uma maneira grosseira de calcular a área delimitada pela curva e o eixo "x", uma vez que temos a possibilidade de aumentar a quantidade de retângulos, podemos aumentar a precisão dos nossos cálculos... Se fizermos com que o número de retângulos aumente numa tendência ao infinito, teremos o valor da área. Consideremos a função do gráfico: formula_83, a sua integral entre os valores de x: "a" e "b" é:
+formula_84
+Chamamos o intervalo formula_85 de partição e simbolizamos como: formula_86. Ao dividirmos o intervalo formula_85 em "n" "pedaços"(seções) temos a possibilidade de definir o tamanho de cada um, porém a regra de Riemann é mais flexível e estabelece que podemos ter pedaços de tamanhos diferentes, de forma que tenhamos apenas que estabelecer os valores de "x" tal que: formula_88.

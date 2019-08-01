@@ -1,0 +1,18 @@
+ Além disso as novas rotinas são responsáveis por preencher meta campos nos documentos para indicar o período de validade de cada dado. Os "meta campos" têm como objetivo principalmente de viabilizar o uso do conceito de temporalidade no banco de dados. Para isso, são definidos os campos:
+Junto à adição "meta campos", a modificação de rotinas possibilita o funcionamento proxy do banco de dados junto às abstrações da temporalidade em questão. A rotina do "UPDATE", por exemplo, foi substituida por:
+No exemplo de um sistema de banco de dados de um empresa, teríamos então o seguinte cenário: um funcionário, João Silva, cujo salário inicial era de "1.000", teve o valor aumentado para "2000" no dia 13/12/2012. No banco de dados, o documento que armazena os dados do salário do funcionário João Silva passa por um operação de "UPDATE", que segue toda lógica explicada anteriormente. Desta forma, o estado do banco passa de:
+Para:
+Foi definida uma linguagem de consulta temporal para o banco de dados e o
+"Proxy" do MongoDB foi especializou o método de consulta para fazer o
+"parser" desta nova linguagem e convertê-la para uma consulta nativa que
+utiliza os meta campos de validade dos dados. Foi definido um novo operador "$dbDate" que aceita as seguintes sintaxes:
+Considere os seguintes exemplos:
+A consulta 1 seleciona todos os empregados com o salário maior do que
+"1.000,00" no dia 01/01/2012. Já a conulta 2 seleciona todos os empregados que
+tiveram o salário maior do que "1.000,00" em algum momento do ano de 2012. O "Proxy" do método de consulta irá interpretar essas consultas e transformá-las
+respectivamente nas seguintes consultas:
+O operador "$dbDate" foi transformado em operadores de nativos do MongoDB e
+as consultas passaram a usar os meta campos temporais de forma trasparente
+para o usuário. Na primeira consulta, a data de início deve ser menor ou igual a
+data do estado do banco desejada. A data de fim deve ser maior do que a data
+desejada ou igual a nulo.

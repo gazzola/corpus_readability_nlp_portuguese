@@ -1,0 +1,94 @@
+ A hipérbole é uma das funções cônicas exploradas em geometria analítica e tem como característica uma íntima relação com as exponenciais formula_160 e formula_161, as funções desta seção são obtidas segundo o mesmo princípio das funções trigonométricas utilizando-se da hipérbole como função geratriz, ou seja, para cada ponto cartesiano de um gráfico da hipérbole podemos adotar a análise feita no ciclo trigonométrico, desta análise resultam as funções discutidas nesta seção. As funções hiperbólicas são essencialmente exponenciais, portanto o seu estudo é simplificado nesta seção, visto que suas conseqüências são imediatamente dedutíveis pelos princípios já vistos na seção que trata de funções exponenciais. A função seno hiperbólico é obtida a partir da hipérbole da mesma forma que o seno no ciclo trigonométrico, sua definição pode ser obtida por análise geométrica do gráfico da hipérbole formula_162, onde encontramos:
+A função cosseno hiperbólico, que referenciamos ao cosseno no ciclo trigonométrico pode ser encontrado pela seguinte expressão:
+Sendo obtida de forma similar a anterior. O fato destas funções serem resultantes da soma e subtração de uma exponencial crescente formula_160 e uma exponencial decrescente formula_161 lhes conferem propriedades únicas, do mesmo modo temos a possibilidade de fazer analogias para uma fácil assimilação dos seus conceitos. Estas funções também são largamente úteis devido ao fato de serem comuns em problemas reais na física, na química e nas engenharias. Considere a operação: formula_167,
+Da definição temos:
+formula_168
+formula_169
+formula_170
+formula_171
+logo:
+Seja a função seno hiperbólico formula_173, podemos dizer que:
+formula_174
+sendo:
+formula_175
+formula_176
+Portanto:
+Seja a função cosseno hiperbólico formula_178, podemos dizer que:
+formula_179
+sendo:
+formula_180
+formula_181
+Portanto:
+A integral do seno hiperbólico também é facilmente obtida pela definição:
+formula_183
+formula_184
+formula_185
+formula_186
+Concluimos que:
+A integral do cosseno hiperbólico também é facilmente obtida pela definição:
+formula_188
+formula_189
+formula_190
+formula_191
+Concluimos que:
+Da mesma forma que no caso trigonométrico a tangente e as outras funções hiperbólicas são definidas através do seno e do cosseno, ou seja, a tangente é definida como:
+A secante hiperbólica é definida como:
+Vamos desenvolver a expressão abaixo:
+formula_197
+formula_198
+formula_199
+formula_200
+formula_201
+formula_202
+Portanto:
+Seja a função formula_204, temos:
+formula_205
+formula_206
+formula_207
+formula_208
+Portanto:
+Seja a função formula_210, temos:
+formula_211
+formula_212
+formula_213
+e finalmente:
+Seja a função formula_215, temos:
+formula_216
+Se fizermos:
+formula_217
+formula_218
+verificamos:
+formula_86
+formula_220
+e finalmente:
+Para integração da função secante hiperbólica, veja o capítulo de técnicas de integração, para uma completa abordagem do tema. A cotangente hiperbólica é definida como:
+A cosecante hiperbólica é definida como:
+Vamos desenvolver a expressão abaixo:
+formula_226
+formula_227
+formula_228
+formula_229
+formula_230
+formula_231
+Portanto:
+Seja a função formula_233, temos:
+formula_234
+formula_235
+formula_236
+formula_237
+Portanto:
+Seja a função formula_239, temos:
+formula_240
+formula_241
+formula_242
+e finalmente:
+Seja a função formula_244, temos:
+formula_245
+Se fizermos:
+formula_246
+formula_247
+verificamos:
+formula_86
+formula_220
+e finalmente:
+Para integração da função cossecante hiperbólica, veja o capítulo de técnicas de integração, para uma completa abordagem do tema.

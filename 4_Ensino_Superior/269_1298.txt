@@ -1,0 +1,23 @@
+Logística/Localização/Localização minisoma de uma única instalação/Localização minisoma de uma única instalação com distâncias euclideanas ao quadrado
+A minimização da soma de distâncias euclidianas ao quadrado pode ser representada por (Drezner et al., 2001, p. 13):
+formula_1
+formula_2 é separável no somatório de dois componentes, um contendo formula_3 e outro contendo formula_4. Pode ser demonstrado por cálculo que o ponto óptimo formula_5 é dado por:
+formula_6
+
+
+Logística/Sistemas de distribuição/Escala de veículos/Heurística
+Vários grupos de heurísticas têm sido propostos para o PEV (Figura 4), podem ser divididos em duas grandes classes, heurística clássica desenvolvida entre os anos 60 e 90 e meta-heurística grosso modo estudada nas últimas décadas. Muita da construção standard e processos de melhoramentos em uso nos dias de hoje são devidos à heurística clássica. Este métodos realizam uma exploração relativamente limitada do espaço de procura e tipicamente produzem soluções de qualidade, em tempos de computação modestos. 
+Ambos os métodos têm diversas aplicações como em contabilidade, pela diversidade de restrições presentes no contexto real. A meta-heurística tem um maior ênfase na exploração profunda das regiões mais promissoras do espaço de soluções.
+Estes métodos normalmente combinam regras sofisticadas de pesquisa de "vizinho", estruturas de memória,
+e recombinação das soluções. A qualidade das soluções produzidas por estes métodos é muito maior do que a obtida pela heurística clássica, todavia gerou um aumento do tempo de computação. Além disso, os procedimentos são geralmente dependentes do contexto e requerem parâmetros ajustados, o que pode tornar a sua extensão a outras situações difícil. 
+Em certo sentido, meta-heurísticas não são mais do que melhoramentos sofisticados de procedimentos, que podem simplesmente ser vistos como acessórios naturais de heurística clássica (Toth et al., 2002e, p. 109).
+
+
+Logística/Serviço ao cliente/Tempo de ciclo da encomenda/Ajustes no tempo de ciclo da encomenda/Normalização das condições da encomenda
+O tempo de ciclo das encomendas pode alterar-se significativamente se os produtos encomendados forem entregues, ao cliente, danificados ou inutilizados. Nem as empresas, nem os clientes, no entanto, se sujeitam aos altos custos de implementação de medidas que eliminem totalmente a probabilidade de danificação das encomendas. Por essa razão, as empresas aumentam a qualidade das embalagens, estabelecem procedimentos de devolução e substituição de produtos enviados erradamente ou danificados e normalizam a monitorização da qualidade das encomendas. Estas medidas implicam um aumento médio do tempo de ciclo da encomenda (Ballou, 2006, p. 100-101).
+
+
+Logística/Gestão de existências/Sistemas de procura independente: modelos determinísticos
+Uma das razões que primordiais que levam as empresas a estabelecer stock é a possibilidade de, nesse caso, as empresas poderem adquirir ou produzir artigos em lotes de quantidade económica.
+Cada empresa que utiliza lotes de quantidade económica tenta manter assim um número em stock de artigos regular, pois esses próprios artigos têm uma procura constante e independente. Estes modelos determinísticos são quem estabelece os lotes de quantidade económica para artigos que tenham procura independente, quer sejam eles produzidos pela própria empresa ou adquiridos. No que respeita à melhor política de gestão de stocks, para adoptá-la é necessária informação referente a previsões da procura, custos associados à gestão de stocks e tempo de aprovisionamento. Nestes modelos, todos os parâmetros e variáveis são conhecidos, ou, senão o forem, podem ser calculados. A taxa de procura e os custos são também eles conhecidos e assume-se que o tempo de reaprovisionamento seja constante constante e independente da procura (Tersine, 1988, p. 90).
+

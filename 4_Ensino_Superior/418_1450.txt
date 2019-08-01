@@ -1,0 +1,40 @@
+ É comum termos que referenciar um ponto da curva e verificar a tendência de evolução da curva a partir daquele ponto com base na evolução dos valores do parâmetro. Para isto podemos utilizar o versor tangente ao ponto, sendo formula_32:
+formula_33
+Ou, mais resumidamente, se:
+formula_34, podemos fazer:
+formula_35
+Calcular a reta tangente e o seu versor para a curva formula_36 no ponto formula_37:
+Para tal devemos definir o valor do parâmetro para este ponto, que é formula_38, depois devemos encontrar a derivada da função vetorial:
+formula_39
+Que nos revela o vetor tangente:
+formula_40
+como vetor diretor da reta. E, finalmente, basta substituir os valores na equação paramétrica da reta, visto que temos o ponto e o vetor diretor:
+formula_41
+Admitamos formula_42 como sugere o teorema, para este caso temos:
+formula_43
+Por outro lado,
+formula_44
+formula_45
+formula_46
+formula_47
+O que comprova o teorema. Obviamente, observadas as semelhanças entre funções vetoriais e reais quanto a forma de calcular a derivada, não será difícil deduzir a forma de operarmos a integral das mesmas. Uma vez que a derivada da função vetorial é um vetor cujos componentes são as derivadas das funções que definem as variáveis parametricamente, a integral obedece a mesma regra de tratamento individual das funções componentes, substituindo a operação pela inversa da diferenciação. Para uma função vetorial tal que:
+formula_48
+A integral definida de uma curva, para o intervalo do parâmetro formula_49 é:
+Consideremos que a função vetorial formula_51 seja subdividida em subintervalos em relação ao parâmetro, então podemos dizer que, por analogia a funções reais mais simples, podemos fazer o cálculo da integral somando todos as partes formula_52, sendo formula_53 um contador de índice. Poderemos fazer o cálculo aproximado da integral desta forma:
+formula_54
+Quando formula_55 aumenta e a precisão de formula_56 aumenta temos uma convergência dos valores para o valor da integral, o que nos permite dizer que a integral é convergente. Desta forma podemos fazer o cálculo da convergência, segundo o critério que já conhecemos:
+formula_57
+Agora, podemos invocar a conversão de valores da relação entre largura e número de fatias:
+formula_58
+formula_59
+formula_60
+e teremos a equação coforme a definimos anteriormente. Sob o mesmo raciocínio, não é difícil chegar a conclusão de como calculamos a integral indefinida, certamente a mesma é a antidiferencial de cada função componente, como fazemos para uma função real. Para a mesma função que definimos anteriormente, a sua integral indefinida será:
+Vale lembrar que o processo de simples antidiferenciação não nos fornece a constante formula_62 para cada função membro, o que nos obrigará a fazer o estudo das condições iniciais dos eventos que deram orígem à equação para que tenhamos condições de avaliar o seu valor. Finalmente, podemos utilizaro o T35 - Teorema fundamental do cálculo para cada função componente e calcular a integral definida da função vetorial a partir de suas antidiferenciais. Seja formula_63 e sua antidiferencial formula_64, podemos aplicar o teorema fundamental de forma a encontrar a integral definida no intervalo formula_49 do parâmetro, tal que:
+formula_66
+Esta forma expande-se facilmente para as funções componentes, o que resulta em:
+Calcular a integral definida da curva formula_69 no intervalo do parâmetro: formula_70
+Apenas aplicação direta do teorema fundamental:
+formula_71
+Substituimos os valores:
+formula_72
+E temos o resultado:

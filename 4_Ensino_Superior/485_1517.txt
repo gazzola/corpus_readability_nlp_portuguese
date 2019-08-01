@@ -1,0 +1,16 @@
+ Teoria dos conjuntos/Axioma da potência
+Axioma da potência
+Dado um conjunto do tipo "{x, y}", podemos construir (usando os axiomas anteriores) o conjunto "{0, {x}, {y}, {x,y}}" - ou seja, um conjunto cujos elementos são os subconjuntos do conjunto anterior. O axioma da potência diz que este tipo de conjunto existe sempre, ou seja:
+Combinando este axioma com o axioma da extensão, constrói-se o único conjunto "P(x)" (chamado de conjunto das partes de x ou conjunto potência de x) definido por:
+Segue imediatamente da definição que:
+As propriedades abaixo são imediatas (além de outras parecidas); a demonstração delas fica como exercício:
+Dados dois conjuntos "A" e "B", já vimos o que é o gráfico de uma relação de "A" para "B": é qualquer conjunto cujos elementos são pares ordenados da forma "(a, b)" com formula_7. Porém, exceto em casos muito simples, não fomos capazes de mostrar que o conjunto de "todos" estes pares existem. O axioma da potência é necessário para construir este conjunto: como um par ordenado foi definido como "(a, b) = ", temos que este é um conjunto cujos elementos são subconjuntos de "A" e de formula_8:
+portanto, temos que:
+ou seja:
+e, finalmente,
+Com isso, definimos o produto cartesiano "A x B" como o conjunto:
+O raciocínio acima descrito (para mostrar que formula_13 mostra que o produto cartesiano satisfaz à seguinte propriedade:
+Estas propriedades (e outras parecidas) são fáceis de provar:
+Na conceituação das funções vistas em um capítulo anterior, foi possível definir o que são funções injetivas, sobrejetivas e bijetivas - mas não foi possível conceituar o que é a função composta. Isto porque era preciso construir o produto cartesiano. Temos, portanto:
+Sejam formula_20 e formula_21 funções. Considere-se então a relação "g o f" de "A" para "C" cujo gráfico é o subconjunto de formula_22 definido por:
+Lema: formula_24 é uma função. Prova: exercício.

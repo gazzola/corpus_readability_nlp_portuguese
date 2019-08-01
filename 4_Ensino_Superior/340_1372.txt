@@ -1,0 +1,14 @@
+ Uma vez que temos um ponto inicial formula_2 e um final formula_3, além de um instante inicial formula_4e um final formula_5, também podemos calcular a velocidade média desenvolvida pelo veículo neste trajeto, que é:
+formula_6
+formula_7
+Agora imagine que tenhamos que medir tempos e distâncias cada vez menores, o que nos levaria a medir quase que instantaneamente os valores, então teríamos uma medida instantânea da velocidade, isto é equivalente a fazer com que o valor de formula_8 se aproxime de zero:
+formula_9
+Isto não nos lembra algo conhecido? Exatamente, uma derivada; a velocidade medida a cada instante é uma taxa tomada quando os tempos de medição se aproximam do limite entre um e outro, então teremos o valor da velocidade para cada instante, tal qual teríamos se estivéssemos observando o velocímetro do carro...
+A constatação acima nos fornece um meio de calcular, a partir de valores sugeridos, o valor da velocidade instantânea, precisamos apenas da função ""s"" em função do tempo, depois podemos obter a derivada de ""s"" com relação a ""t"" e teremos:
+Que é a velocidade instantânea de qualquer corpo que tenha seu deslocamento expresso pela função formula_11, todos os movimentos que um corpo físico pode desenvolver podem ser expressos sob este método de cálculo, uma vez que qualquer curva de deslocamento pode ser lançada na fórmula da derivada, podendo ser calculada em seguida. Podemos ainda fazer o cálculo da aceleração do mesmo corpo: 
+formula_12
+O que nos dá a aceleração instantãnea:
+formula_13
+formula_14
+Note que ao derivarmos a função formula_15 duas vezes estamos criando uma derivação dupla, que podemos simbolizar desta forma:
+Esta expressão também é conhecida como "derivada segunda da função", o termo "segunda" designa o que chamamos de ordem da derivada, que indica quantas vezes a primeira função foi derivada, portanto temos o termo ordinal sempre indicando quantas vezes foi calculada a derivada. Note que a derivação consecutiva de funções puramente algébricas sempre leva a zero, isto ocorre porque o grau do polinômio decresce até que reste apenas uma constante, a qual resulta em zero no último cálculo diferencial subseqüente.

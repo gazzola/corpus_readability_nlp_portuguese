@@ -1,0 +1,12 @@
+ Ao conjunto formula_7 denomina-se domínio da função, sendo seus elementos denominados abscissas, e ao conjunto formula_8 denomina-se contra-domínio, sendo seus elementos denominados ordenadas ou imagens, quando estas se correlacionarem a um elemento de formula_7. Ou seja:
+Dados dois conjuntos formula_7 e formula_8 não vazios, dizemos que a relação "f" de formula_7 em formula_8 será função se, e somente se,
+Existem várias maneiras de se representar funções. Abaixo você pode ver as três mais comumente utilizadas, sendo a primeira a predominante. As representações abaixo são de uma função em relação a seu domínio e contra-domínio. formula_19
+formula_20
+formula_21
+Há também as representações por sua fórmula algébrica em relação a sua imagem, como a seguir:
+formula_22
+formula_23
+As condições básicas de existência são:
+Com isso, cada função deverá ter suas restrições particulares, mas sempre obedecendo as gerais acima. Algumas regras não são aplicáveis a funções com contradomínio Complexo. Abaixo você confere o que significa cada nome utilizado ao se falar sobre funções:
+São três conjuntos especiais associados à função. O domínio é o conjunto "A" do exemplo dado no início deste capítulo: contém todos os elementos "x" para os quais a função deve ser definida. Já o conjunto "B" do exemplo é o contradomínio: o conjunto que contém os elementos que podem ser relacionados a elementos do domínio. Também define-se o conjunto imagem como o conjunto de valores que efetivamente "f(x)" assume. O conjunto imagem é, pois, sempre um subconjunto do contradomínio. Por exemplo, suponha a função que associa um elemento do domínio "D" = { 1,2,3,4,5 } a uma vogal ordenada no alfabeto. Uma função é dita contínua sobre um intervalo dado, formula_33, se possui um valor definido para todos os números contidos nesse intervalo. Por exemplo, a função:
+Uma função é dita crescente, sobre um intervalo "[A,B]", se para cada valor de "x + ε" (ε sendo qualquer valor positivo), formula_37. Uma função é dita decrescente, sobre um intervalo "[A,B]", se para cada valor de "x + ε" (ε sendo qualquer valor positivo), formula_38.

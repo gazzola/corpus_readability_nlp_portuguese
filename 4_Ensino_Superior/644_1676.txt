@@ -1,0 +1,44 @@
+ É a variação da velocidade ao longo do eixo Z que está relacionada com a variação da pressão ao longo do eixo X.
+Uma vez obtidas as velocidades, podemos calcular as tensões a partir das relações
+formula_19
+formula_20
+formula_21
+formula_22
+formula_23
+formula_24
+As equações acima mostram que só estão presentes tensões no sentido do eixo X, devidas à pressão exercida no eixo Z. A tensão é nula no centro do fluxo, onde formula_25. Nesse ponto, a velocidade é máxima
+formula_26
+A velocidade é positiva, porque formula_27 é negativa (a pressão vai diminuindo no sentido do fluxo). A vazão é dada por
+formula_28
+onde W é a largura das placas. Assim,
+formula_29
+formula_30
+A vazão é positiva, porque formula_27 é negativa. A velocidade média será
+formula_32
+que também é positiva. Verifica-se, assim, que a velocidade máxima é 50% superior à velocidade média. De acordo com resultados experimentais, nesse tipo de problema, o escoamento se mantém laminar somente até valores muito limitados do número de Reynolds (tipicamente, 1400). O valor constante de formula_27 pode ser obtido facilmente medindo-se a perda de carga ao longo de um trecho de comprimento L e fazendo formula_34
+A expressão "fluxo livre" significa que a única ação externa a que o fluido está sujeito é aquela devida ao seu próprio peso. A melhor escolha do eixo X é na direção do fluxo, ou seja, paralelo ao plano, com o eixo Z perpendicular a este e apontando para baixo. O eixo Y, em consequência, ficará também paralelo ao plano. Considerando-se um plano de inclinação Θ, esse peso terá componentes no eixo X e no eixo Z, mas não no eixo Y; chamemos g e g essas componentes. A hipótese de fluxo laminar implica, obviamente, em v = v = 0. Finalmente, devido à simetria, para uma propriedade η qualquer, 
+formula_35
+Neste caso, a equação de continuidade nos dá
+formula_6
+A equação de Navier-Stokes referente ao eixo X, neste caso, simplifica-se para
+formula_7
+formula_38
+A variação da pressão ao longo do eixo X é nula, porque o líquido tem uma superfície livre e, portanto, à pressão atmosférica. Em outras palavras, p(x,y,0) = constante para todos os valores de x e de y.
+Similarmente, para o eixo Y
+formula_17
+formula_18
+E, para o eixo Z
+formula_14
+formula_42
+Integrando a primeira equação, teremos
+formula_43
+Mas não pode haver fluxo em z = 0 (adjacente ao plano), nem tensões em z = - h (superfície do fluido), portanto
+formula_44
+formula_45
+Portanto
+formula_46
+A equação que descreve o campo de tensões é, então, a seguinte
+formula_47
+A tensão nos pontos ajdacentes ao plano inclinado será
+formula_48
+o valor negativo indicando que ela aponta na direção negativa do eixo X, ou seja, é contrária ao fluxo.

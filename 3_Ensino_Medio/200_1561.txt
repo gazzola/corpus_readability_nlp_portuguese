@@ -1,0 +1,17 @@
+ : Se tivermos um dado de 4 faces e um de 6 faces, logicamente, o primeiro pode apresentar 4 resultados diferentes, e o segundo, 6. Os dois juntos podem apresentar, então, 6*4=24 resultados diferentes. Permutações são os agrupamentos de um determinado número de elementos variando apenas a sua ordem. Ex. : 
+XYZ, XZY, YXZ, YZX,ZXY, ZYX. O número de agrupamentos de uma permutação simples de n elementos é dado por n!. Ex. : De quantas formas podemos agrupar as sete cores do arco-íris? R: 7! = 5040 
+Se formos fazer permutações com "n" elementos, mas existe um elemento repetido a vezes, outro b vezes, outro c vezes, etc, o número de possibilidades de permutações é: 
+Pn(a,b,c) = n! / (a! b! c!) Determine o número de anagramas (combinações de letras formando palavras com ou sem sentido) que podemos formar com PATA. E com MACACA. P1= 4!/2! = 12 
+P2= 6!/(3!*2!) = 60 
+Obs. : Exemplos de anagramas com PATA: 
+AAPT, AATP, APTA, ATPA, PTAA, TPAA, PATA, TAPA, APAT, ATAP, PAAT, TAAP. Imagine que temos um conjunto de n elementos. O arranjo simples de taxa K é todo agrupamento de K elementos distintos, podendo variar a ordem em que aparecem. Ex. : A={X,Y,Z} 
+arranjo de taxa 1: X,Y,Z. arranjo de taxa 2: XY, YX, XZ, ZX, YZ, ZY. arranjo de taxa 3: XYZ, XZY, YXZ, YZX, ZXY, ZYX. O número total de arranjos de n elementos, taxa K é: 
+Quantos anagramas de três letras podemos formar pelo nosso alfabeto (com 26 letras)? Resposta:
+As combinações são parecidas com os arranjos, mas apenas há a preocupação com a existência do elemento (não com a ordem). Ex. : 
+Combinações de taxa 1 do conjunto A={A,B,C,D} 
+A, B, C, D. 
+Combinações de taxa 2 do conjunto A={A,B,C,D} 
+AB, AC, AD, BC, BD, CD. Combinações de taxa 3 do conjunto A={A,B,C,D} 
+ABC, ABD, ACD, BCD. Combinações de taxa 4 do conjunto A={A,B,C,D} 
+ABCD. A fórmula é: 
+Ex. : Um jogo possui um cartão com 60 números. Deve-se marcar 6 deles. De quantas forma pode-se fazer isso? Resposta:

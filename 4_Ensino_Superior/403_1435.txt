@@ -1,0 +1,39 @@
+ Para determinar a normal precisamos de dois vetores no espaço, uma vez que precisamos de no mínimo três pontos para determinar dois vetores no espaço, precisamos de três pontos para determinar um plano. Agora imaginemos que temos mais de três pontos, como saberemos se todos pertencem ao mesmo plano? Simplesmente agrupamos três e calculamos o plano, e depois usamos a equação do plano para verificar se os demais petencem ao mesmo plano. Tomemos os pontos formula_35 como base do plano, o que nos faz definir os vetores:
+O que define um vetor normal:
+formula_38
+Uma vez que o ponto formula_39 está em outro segmento de reta, diferente dos demais pontos no diagrama, precisamos determinar se o mesmo pertence ao plano formado pelos vetores que definimos anteriormente, para isto encontremos o vetor para o segmento de reta onde o mesmo está localizado:
+formula_40
+E depois, poderemos substituir os vetores na equação do plano:
+formula_41
+Donde podemos verificar se é verdadeira para os valores correntes dos vetores em qualquer situação... O método, em geral, faz o cálculo do produto misto, visando encontar vetores que o anulam. Sejam os pontos formula_42, determinemos o plano determinado pelos pontos...
+Escolhemos um ponto como orígem, encontrando os vetores relacionados aos outros dois pontos:
+Suponha formula_43 como orígem, temos os vetores:
+Com os vetores encontramos a normal do plano através do produto vetorial dos mesmos:
+formula_46
+formula_47
+formula_48
+O plano é definido pela equação:
+formula_49
+A parte que depende do ponto origem formula_43, é:
+formula_51
+formula_52
+que resulta em:
+Sejam os planos:
+formula_54 e 
+formula_55, 
+Onde definimos os vetores posição: 
+formula_56 
+e os vetores normais: 
+formula_57
+Analisando a simetria, podemos concluir que o resultado da interseção entre dois planos é uma reta, sendo a mesma, perpendicular aos vetores normais dos dois planos simultaneamente. Considerando a característica de perpendicularidade do produto vetorial, podemos fazer:
+formula_58
+Donde obtemos: 
+formula_59
+Devemos encontrar um ponto da reta, para que possamos definir a mesma em termos paramétricos e simétricos, usualmente podemos definir a variável formula_60 e encontrar o ponto:
+Se formula_61, teremos:
+formula_62 e 
+formula_63, 
+Observe que usamos variáveis sem índice, visto que os pontos são os mesmos, quando se define a reta. O que nos fornece:
+formula_64, 
+formula_65
+o que nos dá um plano em formula_66.

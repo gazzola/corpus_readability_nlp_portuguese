@@ -1,0 +1,33 @@
+ Isto é:
+Como cada formula_229 é não vazio é possível construir a sequência formula_233 tal que:
+Do fato de os conjuntos formula_229 são limitados, passando a uma subsequência se necessário, pode-se supor formula_236 é uma sequência convergente para algum real formula_237 
+De formula_238 se formula_239 temos que formula_240 e como cada um destes conjuntos é fechados, formula_241 para todo k. Daí temos que o limite formula_242 e o resultado segue. A distância de um conjunto até um ponto é um importante conceito na análise e permite uma nova caracterização para os pontos do fecho de um conjunto: um ponto formula_243 pertence ao fecho formula_244 de um conjunto formula_245 se e somente se a distância se formula_245 ate formula_247 é nula. Definimos a distância entre um conjunto formula_248 e um ponto formula_249 como o ínfimo da distância entre os pontos de S e o ponto x. 1. Se formula_254 todo ponto formula_255 tem a propriedade que:
+e o resultado segue. 2. Do fato que formula_257 e da definição de ínfimo, temos:
+Para provar a desiguldade inversa, fixe um ponto formula_249 e defina
+Da definição de ínfimo, podemos construir a sequência formula_261 tal que
+Como formula_263 da definição de fecho de um conjunto, temos a existência de pontos formula_264 tais que:
+Da desigualdade triangular, temos:
+Agora, basta estimar:
+E o resultado segue. 3. Resta-nos demonstrar que se formula_268 é um conjunto fechado então
+formula_269
+Da definição de ínfimo, podemos construir a sequência formula_261 tal que
+Da definição de limite, temos que:
+Como formula_268 é um conjunto fechado, o limite formula_247 da sequência formula_261 deve pertencer a formula_276 Assim, o resultado segue. Um conjunto é dito compacto se toda sequência contida em X possui uma sub-sequência que converge para algum ponto de X.
+a.Suponha que X não seja um conjunto fechado, então, por definição, existe uma sequência formula_99 que converge para um número real formula_278. Como formula_236 é convergente, todas as suas sub-sequências convergem para o mesmo limite x, portanto, nenhuma subsequência de formula_280 converge para um ponto de X, logo X não pode ser compacto. b.Suponha que X não seja um conjunto limitado. Então por definição, é possível construir uma sequência formula_99 tal que formula_282 Esta sequência não possui nenhuma sub-sequência convergente, logo X não pode ser compacto. Suponha que X é fechado e limitado e seja formula_236 uma sequência contida em X. A sequência formula_236 é limitado, portanto, possui um sub-sequência convergente para um limite formula_285 como X é fechado, formula_286 o que completa a demonstração. Seja formula_13 um conjunto na reta e formula_53 um coleção de conjuntos abertos formula_289 indexados por um índice formula_290 Dizemos que formula_53 é uma cobertura de formula_13 se:
+Seja formula_305 uma cobertura de formula_13 e formula_307 Dizemos que formula_308 é uma subcobertura de formula_305 se formula_308 é também uma cobertura de X.
+Um conjunto é compacto se e somente se possui a propriedade de Heine-Borel:
+Começamos demonstrando o seguinte lema:
+Se um conjunto K possui a propriedade de Heine-Borel e formula_311 então formula_312 Demonstração
+Define-se:
+É claro que formula_314 para todo ponto formula_315 em formula_316 
+Agora constróem-se os abertos:
+Eles formam uma cobertura para formula_319 
+Usando a propriedade de Heine-Borel, estabelecemos a existência de um conjunto finito de pontos formula_321 tais que:
+Da simples definição de formula_323 sabemos que eles são disjuntos das bolas centradas em formula_324 de raio formula_325 
+Define-se:
+temos:
+Tomando a união, temos:
+O que completa a demonstração. Seja K um conjunto com a propriedade de Heine-Borel e seja formula_311 pelo lema anterior formula_331 e, portanto, formula_332 isso significa que:
+e portanto K é fechado. Seja K um conjunto com a propriedade de Heine-Borel. Considere a seguinte cobertura de K:
+Da propriedade de Heine-Borel, podemos extrair uma subcobertura finita tal que:
+Logo K é limitado.

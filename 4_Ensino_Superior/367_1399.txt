@@ -1,0 +1,43 @@
+ Quando não temos como encontrar as raízes de certos denominadores quadráticos podemos mantê-los e utilizar a seguinte substituição:
+formula_191
+O teorema que estabelece esta relação faz parte da álgebra avançada, portanto não entraremos em detalhe neste livro, porém faremos uso de suas consequências como forma de simplificação, como fizemos com a decomposição de denominadores em fatores lineares vista na seção anterior. A melhor maneira de definir a parte formula_192 é substituir a variável "x" nesta fazendo-a igual a derivada do denominador, ou seja:
+formula_193
+formula_194
+No lado esquerdo da equação acima, se houver variáveis de expoente maior que o maior expoente do lado direito devemos proceder uma simplificação efetuando a divisão dos polinômios, caso contrário teríamos:
+formula_195
+formula_196
+Separamos cada fator de acordo com o grau da variável, obtendo:
+Para formula_197
+Para formula_198
+logo:
+formula_199 e formula_200
+Porém em funções racionais mais comuns temos que lidar com funções com partes lineares e quadráticas, onde o processo de encontrar os valores para formula_157 depende das outras partes envolvidas, para verificar o processo, vejamos o próximo exemplo...
+Utilizando a decomposição de funções racionais com denominadores quadráticos para simplificar o cálculo da integral. Seja a função:
+formula_202
+Calculemos a sua integral indefinida:
+formula_203
+Antes de tudo façamos a simplificação dos polinômios, primeiro faremos a divisão simples do numerador pelo denominador:
+formula_202
+formula_205
+Da divisão separamos a parte do resto:
+formula_206
+Procedendo a decomposição dos fatores:
+formula_207
+Que nos permite fazer:
+formula_208
+formula_209
+formula_210
+Quando separamos os fatores para cada variável de expoente correspondente em ambos os lados da equação, temos:
+formula_211
+Resolvendo o sistema linear temos: 
+formula_212
+Podemos escrever a função como:
+formula_213
+Agora podemos integrá-la:
+formula_214
+Numa conclusão imediata podemos dizer que:
+formula_215
+Porém em estudos onde se exige um tratamento mais algébrico com exponenciais e logaritmos, podemos adotar um formato como este:
+formula_216
+Portanto:
+Com "C" constante. Se podemos fazer substituições trigonométricas em funções algébricas e existem funções hiperbólicas, por que não utilizar o mesmo método de substituição com funções hiperbólicas?

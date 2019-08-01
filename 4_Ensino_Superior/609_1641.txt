@@ -1,0 +1,10 @@
+ Logística/Manutenção de instalações/Estrutura organizacional/Medição do desempenho
+1. INTRODUÇÃO
+A manutenção é uma das áreas que em muito contribui para a produtividade, por ser determinante no custo de ciclo de vida dos equipamentos e por ter impacto determinante em todas as operações produtivas. A sua influência nos processos produtivos é essencial e decisiva, sendo muitas vezes por esta vertente que os processos perdem competitividade ou se tornam obsoletos. O impacto da manutenção, ou da sua falta, manifesta-se de forma indirecta e lenta, facto que leva a que, a manutenção em particular e a gestão da activos em geral, sejam muitas vezes encaradas como áreas menores, e consequentemente lhes seja atribuída uma importância menor que a que lhes é devida. Falar sobre a medição e o desempenho da manutenção leva-nos a definir um indicador de manutenção, que é uma grandeza que dá uma indicação sobre a manutenção sem exprimir nenhuma verdade absoluta. Diz-se que o interesse em utilizar determinado indicador na gestão da manutenção depende de saber se ele é adequado para:
+• Ajudar a tomar decisões de gestão;
+• Fazer comparações da actividade em anos diferentes;
+• Avaliar os benefícios de uma política de manutenção;
+• Preparar o orçamento de manutenção;
+• Ajudar a identificar problemas;
+E, como factor decisivo do seu interesse prático em termos da gestão da manutenção o de ter um sistema implementado que permita ser fácil de calcular a partir da informação gerada no dia a dia. Com esta “ferramenta” bem implementada nos casos onde por imperativos de gestão e por vezes de sobrevivência é necessário às empresas, atingir níveis de produtividade competitivos com os outros intervenientes no mercado, mesmo que o desenvolvimento da actividade tenha de ser feito com factores produtivos pontualmente mais desfavoráveis, e este acréscimo só é possível pelo contributo da
+Manutenção e para tal a gestão desta área assume uma vital responsabilidade. A manutenção ou os requisitos de manutenção são em geral e predominantemente decididos na fase de projecto, quer seja na óptica de um produto quer seja na óptica de uma instalação.

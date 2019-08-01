@@ -1,0 +1,22 @@
+Logística/Localização/Localização num plano
+Quando se resolve um problema de localização num plano, o espaço de soluções é infinito. A localização das instalações pode ser em qualquer ponto num plano e as distâncias são calculadas de acordo com um sistema métrico específico, por exemplo, euclideano ou rectilíneo. Para resolução deste problemas podem ser usados métodos numéricos ou analíticos (Galvão, 1981, p. 5-6).
+O problema de localização de mais de uma instalação com espaço de soluções infinito é também conhecido por problema de Weber de centros múltiplos. 
+O problema de Weber de uma única instalação, também chamado de problema delocalização minisoma de uma única instalação converge para um óptimo global, mas quando se trata de múltiplas instalações a convergência é para um de vários mínimos locais.
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Armazenagem de unidades de carga/Equipamento para armazenagem de unidades de carga/Condutor a bordo/Corredores estreitos/Empilhadora straddle reach
+A empilhadora "straddle reach" foi desenvolvida a partir da tradicional empilhadora "straddle" encurtando os "outriggers" para aumentar o alcance dos garfos na estante. Ao contrário do anterior, nesta empilhadora já não é necessário colocar os "outriggers" debaixo da carga do primeiro nível para se poder aceder às cargas.
+Existem dois tipos básicos de empilhadoras "straddle reach": mastro e garfo. O "design" mastro-"reach" consiste num mastro que se move para frente ou para trás ao longo dos "outriggers" . O "design" garfo-"reach" consiste num pantógrafo montado no mastro que se estende para alcançar a carga.
+A empilhadora "reach" duplo é uma variação do "design" garfo-"reach" e permite aos garfos um alcance horizontal duplo. Daí que esta empilhadora permita a armazenagem das cargas com profundidade dupla (Tompkins et al., 2003, p. 257).
+
+
+Logística/Gestão de armazéns/Necessidades de espaço/Armazenagem aleatória
+A armazenagem aleatória é utilizada quando uma "SKU", pode ser armazenada em qualquer local de armazenagem disponível.
+A definição mais comum de funcionamento da armazenagem aleatória, é quando uma carga de entrada chega para armazenagem o local mais próximo disponível é designado como local de armazenagem. Em que a política de reaquisição é realizada com base no método "FIFO", que fornece uma rotação uniforme de "stock", e a longo prazo é equivalente à reaquisição aleatória normal. (Tompkins et al., 1996, p. 420).
+Ao nível dos requisitos de espaço para a armazenagem aleatória, os produtos podem ser armazenados em qualquer posição de armazenagem disponível. Os requisitos de espaço de armazenagem serão iguais ao máximo necessário da armazenagem agregada para os produtos (Francis et al., 1992, p. 276).
+
+
+Logística/Movimentação de materiais/Equipamento/Equipamento de armazenagem/Armazenagem de unidades de carga/Estante para armazenagem de unidades de carga/Estante drive-in
+Uma estante "drive-in" (Figura 1) permite reduzir ainda mais a largura dos corredores de maneira a aproveitar melhor o espaço de armazém. As filas nestas estantes têm uma profundidade de 5 a 10 unidades de carga e permitem o acesso das empilhadoras às várias posições da estante para que estas possam carregar ou descarregar as unidades de carga. A estante é constituída por colunas verticais e por suportes horizontais, que permitem à empilhadora carregar ou descarregar cargas a qualquer nível. Esta estante tem normalmente 2-3 níveis de armazenagem e os níveis têm suportes independentes uns dos outros.
+A desvantagem de uma estante "drive-in" é a necessidade de redução da velocidade das empilhadoras dentro das filas de armazenagem, o que torna o processo de carga/descarga mais lento (Tompkins et al., 2003, p. 252).
+

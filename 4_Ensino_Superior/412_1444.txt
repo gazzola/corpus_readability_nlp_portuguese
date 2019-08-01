@@ -1,0 +1,41 @@
+ Em primeiro lugar:
+formula_93
+formula_94
+formula_95
+Que nos dá o sistema:
+formula_96
+Podemos resolvê-lo por substituição, da segunda equação temos:
+formula_97
+Que substituimos na primeira equação:
+formula_98
+formula_99
+formula_100
+Considerando que formula_101 deve ser positivo, a raiz possível da equação é:
+formula_102
+Então, substituimo-la em:
+formula_97
+formula_104
+formula_105
+Portanto, a equação da elipse é:
+O uso desta cônica no estudo das teorias de geometrias não euclidianas é fundamental, a hipérbole é especialmente explorada nas novas teorias da Física devido as características das superfícies hiperbólicas presentes nos modelos do universo. A hipérbole é definida como o conjunto de pontos em um gráfico, cuja diferença das distâncias entre qualquer destes pontos e os seus dois focos é igual a uma constante. Não acidentalmente, o modelo de relação de simetria presente na hipérbole é muito parecido com o da elipse, na verdade, podemos fazer a mesma análise da distância entre pontos e focos, que fizemos com a elipse, para encontrar a equação da hipérbole. Considerando a relação de simetria dos pontos em relação aos dois pontos, podemos verificar que:
+formula_107
+Note que, ao definirmos as ditâncias como referência, devemos assegurar que oa seus valores sejam absolutos e depois estabelecer o sinal correto para a constante em cada caso. Quando estabelecemos os valores das constantes podemos fazer com que:
+formula_108
+Esta relação pode ser facilmente visualizada observando-se o gráfico abaixo:
+Adaptando a equação anterior, como no caso da elipse, teremos:
+formula_109
+formula_110
+formula_111
+Elevamos os dois lados da equação ao quadrado e simplificamos:
+formula_112
+formula_113
+formula_114
+Elevamos novamente ao quadrado os dois lados da equação:
+formula_115
+formula_116
+formula_117
+Como formula_118, podemos fazer:
+formula_119
+formula_120
+O que nos revela a equação da hipérbole:
+De forma análoga ao caso da elipse, podemos verificar que quando formula_64 temos formula_123, porém para o caso em que formula_62 o valor está indefinido, visto que a função não existe no intervalo entre os dois vértices. Note que o sinal das partes variáveis determina a direção do gráfico, no caso acima, onde a expressão mostra a subtração da parte formula_125 pela parte formula_126, temos uma hipérbole com focos na horizontal, no caso contrário temos uma hipérbole com focos na vertical.

@@ -1,0 +1,30 @@
+Logística/Sistemas de informação/Indicadores de desempenho/Indicadores AECOC
+A Associação Espanhola de Codificação Comercial (AECOC) é uma das maiores associações empresariais espanholas, com mais de 24 mil associados, em que fabricantes e distribuidores trabalham conjuntamente com o intuito de proporcionar mais valor aos .
+Criada para impulsionar a introdução do código de barras em Espanha, esta associação também tem uma importante contribuição nos sistemas de logística e transporte, prestando serviços de consultoria, formação e investigação, não só nessas áreas, mas também no marketing, comércio electrónico - transferência electrónica de dados (EDI), codificação-identificação e segurança alimentar e nutricional. Com o objectivo de identificar o desempenho nestas áreas, a AECOC associa várias empresas que contribuem com cerca de 20% para o PIB espanhol. Esta interacção tornou-se uma multi-parceria nos sectores mais diversos, tais como alimentar, têxteis, ferramentas e bricolage, produtos farmacêuticos, desportos e saúde. Em cada um destes sectores a AECOC procura detectar oportunidades de melhoria e impulsionar práticas de eficiência (AECOC, [2009]). É neste sentido que as recomendações AECOC para a Logística (RAL) apresentam indicadores para o nível de serviço e eficiência, medidos periodicamente (AECOC, 2003).
+"KPI 1 - Aplicação da Ficha Logística RAL"
+O "indicador de eficiência" tem como objectivo medir o nível de aplicação da ficha RAL como medida de eficiência entre distribuidores e fornecedores. A fórmula geral utilizada é a seguinte:
+"Aplicação da Ficha Logística RAL" (%) = ("Facturação com a ficha RAL" / "Total da facturação") × 100
+Com a facturação em valor do preço de venda e periodicidade semestral.
+Existem ainda outras fórmulas de cálculo, consoante a avaliação seja realizada pelo distribuidor ou pelo fornecedor. 
+Avaliação realizada pelo distribuidor:
+"Aplicação da Ficha Logística RAL" (%) = ("Número de fornecedores com a ficha RAL" / "Número total de fornecedores") × 100
+Sempre que a avaliação é realizada pelo fornecedor:
+"Aplicação da Ficha Logística RAL" (%) = ("Número de clientes com a ficha RAL" / "Número total de clientes") × 100
+Os "indicadores de serviço" dividem-se em: "Entregas a Tempo", "Entregas Completas", "Qualidade da Entrega/Recepção" e "Tempo de Descarga".
+"KPI 2 - Entregas a Tempo"
+O indicador "Entregas a Tempo" mede o nível de cumprimento mensal da data e hora de entrega acordada entre o fornecedor e distribuidor, com uma margem de ± 15 minutos:
+"Entregas a Tempo" (%) = ("Número de encomendas entregues a tempo" / "Número total de encomendas entregues") × 100
+"KPI 3 - Entregas Completas"
+As "Entregas Completas" permitem conhecer o nível de cumprimento mensal da entrega das quantidades encomendadas pelo distribuidor ao fornecedor, tanto a nível das unidade como a nível das linhas da encomenda:
+"Entregas Completas" (%) ("unidades") = ("Número de unidades recebidas" / "Número total de unidades encomendadas") × 100
+"Entregas Completas" (%) ("linhas da encomenda") = ("Número de linhas da encomenda recebidas" / "Número total de linhas da encomenda") × 100
+"KPI 4 - Qualidade da Entrega/Recepção"
+A qualidade da entrega/recepção permite conhecer o nível de ocorrências no acto de entrega/recepção, podendo ser medida tanto pelo distribuidor, como pelo fornecedor. 
+Qualidade medida pelo distribuidor:
+"Encomendas com ocorrências" (%) = ("Número de linhas da encomenda com ocorrências" / "Número total de linhas da encomenda") × 100
+Quando a qualidade é medida pelo fornecedor:
+"Encomendas com ocorrências" (%) = ("Número de encomendas devolvidas total ou parcialmente" / "Número total de encomendas") × 100
+"KPI 5 - Tempo de Descarga"
+O indicador "Tempo de Descarga" (tempo que decorre entre a entrega da documentação à chegada, até à saída do cliente com a documentação já assinada) tem como objectivo determinar o nível de cumprimento mensal de duas horas ou menos de tempo de descarga:
+"Encomendas Descarregadas a Tempo" (%) = ("Número de encomendas descarregadas em duas horas ou menos" / "Número total de encomendas entregues") × 100 
+

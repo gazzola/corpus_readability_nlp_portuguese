@@ -1,0 +1,40 @@
+Cálculo (Volume 3)/Capa
+
+
+Cálculo (Volume 3)/Séries de potências
+Uma série de potências é uma série do tipo formula_1 (série de potências de formula_2), em que "a" e "a" são constantes.
+Observação: Note que não se trata de uma série numérica. Uma série desse tipo pode convergir para alguns valores de "x" e divergir para outros valores. Assim, faz sentido falar em _domínio de convergência_, formula_3, que é o conjunto dos valores de x que tornam a série convergente.
+Teorema: Seja a série formula_4 com raio de convergência formula_5, isto é, a série 
+converge no intervalo aberto formula_6. Então, chamando formula_4 de formula_8, temos:
+Dica: Para determinar a soma de séries de potências, é comum partir de uma das seguintes séries:
+formula_15 < formula_16
+formula_17
+Através de processos como substituição de variáveis, multiplicação, integração e diferenciação, efetuados em ambos os membros da igualdade, é possível chegar à série cuja soma queremos determinar.
+
+
+Cálculo (Volume 3)/Imprimir
+
+
+Cálculo (Volume 3)/Séries numéricas infinitas
+Quando temos que representar um número de forma literal, por meio de equação infinita, podemos lançar mão de um recurso interessante, a série. Ela consiste de uma soma de parcelas literais significativas onde cada valor de parcela é um valor sequencial. Podemos dizer que a série é a somatória de uma sequência numérica simples, a qual se torna uma nova sequência.
+Definição: Seja formula_1 uma seqüência numérica. Chamamos de série numérica a soma descrita da seguinte forma:
+formula_2
+Observemos que formula_3, como termo livre, pode assumir o valor que arbitremos, o que fornece um valor da série para cada valor inteiro que arbitremos. Assim, se tivermos um valor de série para cada formula_3, temos uma nova seqUência gerada pela série.
+Seja formula_5 uma série. Chamamos de seqüência das somas parciais a seqüência formula_6, onde
+Definição: Seja formula_5 uma série e formula_6 a sua seqüência de somas parciais.
+Note que esta constatação não é tão clara para muitas das séries. Para estas, temos que recorrer a diversos recursos de análise matemática, dentre os mais conhecidos temos a indução.
+Se formula_5 é uma série convergente, então
+formula_18
+Se formula_19, então
+a série formula_5 diverge.
+São séries do tipo formula_21.
+A série geométrica:
+A prova é feita por indução. Façamos um ensaio parcial da série, definindo as parcelas algebricamente:
+formula_29
+Se multiplicarmos a equação por formula_30:
+formula_31
+Subtraímos as duas equações acima e obtemos:
+formula_32
+Finalmente, temos formula_33 se formula_34 e formula_35. O que nos revela que a série converge para:
+formula_36
+

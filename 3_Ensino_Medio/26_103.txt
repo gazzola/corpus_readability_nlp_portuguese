@@ -1,0 +1,26 @@
+Matemática elementar/Função módulo
+A função módulo, também conhecida como função do "valor absoluto", é aquela que associa a cada número real, a sua distância até a origem. Desta forma, a imagem dessa função normalmente é composta por valores positivos, pois uma distância jamais pode ser negativa. Veja os seguintes problemas em que é aplicada esta função:
+O símbolo do módulo é | |. Quando um número apresenta-se entre estas riscas, dizemos que o seu módulo é o valor do número, sempre com sinal positivo. Assim:
+Podem aparecer coeficientes na equação modular, o que pode fazer, em alguns casos, o resultado da equação ser negativo:
+Pode-se trocar o sinal de todos os coeficientes do módulo:
+Também, é indiferente resolver o módulo, multiplicação positiva ou divisão positiva primeiro:
+Consideremos a função f(x) = |x|. Determinaremos o contradomínio:
+formula_1
+Podemos observar que "f(x)= f(-x)", assim temos que a função módulo é uma função par, pois a imagem repete à medida que os valores absolutos de "x" repetem.
+Consideraremos como expressão geral da função modular de primeiro grau:
+Determinaremos como ponto P aquele onde a reta inverte o sentido. As coordenadas deste não são somente determinadas pelos coeficientes lineares "b" e "d", mas também pelos angulares "a" e "c":
+Quanto aos coeficientes angulares "a" e "c", podemos dizer que:
+Sendo α e β os ângulos que cada segmento a partir do ponto P forma com o eixo das abcissas (α, o segmento à esquerda de P e β à direita). Quanto aos valores de α temos as seguintes conclusões:
+Quanto a β:
+Podemos, também, analisar separadamente cada segmento. Para isso, deve-se utilizar -α.
+Ainda pode ocorrer de haver sinal negativo anterior ao módulo. Neste caso, ocorre a reflexão da função no gráfico.
+Quando ocorre a soma de duas funções modulares, é possível haver mais de dois segmentos no gráfico. Nestes casos, teremos como expressão geral
+Tenha como exemplo a função g(x) = |x + 1| - |x|:
+formula_6
+Note que esta apresenta três segmentos de reta:
+Você viu no início desta página dois problemas que envolvem a função módulo. A resolução destes problemas pode ser visualizada abaixo:
+O primeiro problema é uma questão de ótica em que deve ser aplicada a Lei de Snell, que nos diz:
+Onde "n" são os coeficientes de refração, e "sin" corresponde ao seno entre a trajetória do raio luminoso e a reta normal.
+A equação |x| - 3x - 2y = 0, primeiramente, deve ser convertida para "f(x) = |ax + b| + cx + d". Ela fica da seguinte forma:
+Que simplificada:
+

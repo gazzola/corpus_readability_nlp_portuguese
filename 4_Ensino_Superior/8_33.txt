@@ -1,0 +1,32 @@
+Curso de termodinâmica/Equação de Clapeyron
+No intuito de prever quantitativamente o efeito simultâneo de uma variação de P sobre a temperatura de transição ou de T sobre a pressão de equilíbrio, precisamos estabelecer as equações das curvas de equilíbrio entre fases. 
+Seja um corpo puro em duas fases I e II em equilíbrio. O corpo se encontra então num estado (P,T) definido por um ponto sobre uma das curvas P(T) do diagrama de fase. Neste ponto temos (P,T):
+formula_1
+onde GI e GII representam a energia livre de uma certa quantidade de corpo puro na fase I ou na fase II. A uma temperatura T+dT, as duas fases são no equilíbrio sob uma pressão P+dP. As energias livres de cada fase variaram mas são ainda iguais:
+formula_2
+Em conseqüência:
+formula_3
+seja:
+formula_4
+ou ainda:
+formula_5
+dP representa a variação da pressão de equilíbrio da transição que acompanha uma variação da temperatura de equilíbrio dT. dP/dT é então a inclinação das curvas de equilíbrio P(T) do diagrama de fase.formula_6 e formula_7 são as variações de entropia e de volume que ocorram quando uma certa quantidade do corpo puro faz a transição de fase. No equilíbrio, a temperatura constante, formula_8, podemos então escrever também:
+formula_9
+Mais simplificações podem ser feitas na equação de Clapeyron no caso dos equilíbrios entre um gás e uma fase condensada (quer dizer, um sólido ou líquido): V = V pois V » V
+Se supusermos que a fase vapor é um gás perfeito:
+formula_10
+e a equação de Clapeyron fica:
+formula_11
+Esta equação pode ser integrada facilmente entre duas temperaturas T1 e T2 se supusermos que a entalpia da transição (fase condensada → gás) é independente de T entre estes limites. Obtemos então, para o equilíbrio de vaporização, por exemplo:
+formula_12
+formula_13
+formula_14
+Uma equação parecida pode ser demonstrada para o equilíbrio sólido → gás:
+formula_15
+A equação de Clapeyron para os equilíbrios sólido → gás e líquido → gás tem, portanto, a seguinte forma:
+formula_16
+Assim:
+formula_17
+Para gases reais, existe na literatura uma compilação dos dados experimentais sobre pressões de vapor, por meio de uma equação empírica, a equação de Antoine:
+formula_18
+

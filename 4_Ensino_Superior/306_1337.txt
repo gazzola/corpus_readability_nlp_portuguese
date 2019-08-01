@@ -1,0 +1,23 @@
+Processamento de Dados Massivos/Conclusão
+= Conclusão =
+A área de processamento de dados massivos já se consolidou como uma das novas fronteiras do processamento de alto desempenho. Neste texto apresentamos um apanhado da área, com ênfase sobre o modelo de programação MapReduce e o ambiente de execução Hadoop, que oferece uma implementação de código aberto do modelo. O material aqui apresentado deve servir como uma introdução à programação com Hadoop, mas certamente mais informações são necessárias para o domínio do tema. As referências apresentadas devem ser suficientes nesse sentido.
+Apesar de sua popularidade, certamente Hadoop não é a solução para todos os problemas de processamento de dados massivos. Algumas das áreas em que outras soluções são ainda necessárias foram identificadas, bem como as principais inciativas em cada área. A bibliografia apresentada pode servir como ponto de partida para aqueles que desejem se aprofundar em qualquer desses tópicos.
+
+
+Processamento de Dados Massivos/Conclusão
+= Conclusão =
+A área de processamento de dados massivos já se consolidou como uma das novas fronteiras do processamento de alto desempenho. Neste texto apresentamos um apanhado da área, com ênfase sobre o modelo de programação MapReduce e o ambiente de execução Hadoop, que oferece uma implementação de código aberto do modelo. O material aqui apresentado deve servir como uma introdução à programação com Hadoop, mas certamente mais informações são necessárias para o domínio do tema. As referências apresentadas devem ser suficientes nesse sentido.
+Apesar de sua popularidade, certamente Hadoop não é a solução para todos os problemas de processamento de dados massivos. Algumas das áreas em que outras soluções são ainda necessárias foram identificadas, bem como as principais inciativas em cada área. A bibliografia apresentada pode servir como ponto de partida para aqueles que desejem se aprofundar em qualquer desses tópicos.
+
+
+Processamento de Dados Massivos/Conclusão
+= Conclusão =
+A área de processamento de dados massivos já se consolidou como uma das novas fronteiras do processamento de alto desempenho. Neste texto apresentamos um apanhado da área, com ênfase sobre o modelo de programação MapReduce e o ambiente de execução Hadoop, que oferece uma implementação de código aberto do modelo. O material aqui apresentado deve servir como uma introdução à programação com Hadoop, mas certamente mais informações são necessárias para o domínio do tema. As referências apresentadas devem ser suficientes nesse sentido.
+Apesar de sua popularidade, certamente Hadoop não é a solução para todos os problemas de processamento de dados massivos. Algumas das áreas em que outras soluções são ainda necessárias foram identificadas, bem como as principais inciativas em cada área. A bibliografia apresentada pode servir como ponto de partida para aqueles que desejem se aprofundar em qualquer desses tópicos.
+
+
+Processamento de Dados Massivos/Conclusão
+= Conclusão =
+A área de processamento de dados massivos já se consolidou como uma das novas fronteiras do processamento de alto desempenho. Neste texto apresentamos um apanhado da área, com ênfase sobre o modelo de programação MapReduce e o ambiente de execução Hadoop, que oferece uma implementação de código aberto do modelo. O material aqui apresentado deve servir como uma introdução à programação com Hadoop, mas certamente mais informações são necessárias para o domínio do tema. As referências apresentadas devem ser suficientes nesse sentido.
+Apesar de sua popularidade, certamente Hadoop não é a solução para todos os problemas de processamento de dados massivos. Algumas das áreas em que outras soluções são ainda necessárias foram identificadas, bem como as principais inciativas em cada área. A bibliografia apresentada pode servir como ponto de partida para aqueles que desejem se aprofundar em qualquer desses tópicos.
+

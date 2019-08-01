@@ -1,0 +1,18 @@
+ Para isto devemos estabelecer o que é necessário para que um plano seja perfeitamente definido. Se imaginarmos uma reta no espaço podemos perceber que diversos planos passam pela mesma, na verdade, todas as direções perpendiculares à da reta fornecem um plano possível, nos resta escolher uma destas direções para estabelecer o plano. Pensando em um vetor direção que nos forneça as características necessárias para representar a reta, temos que ter em mente um segundo vetor que defina qual dos planos que passam pela reta será escolhido. A equação do plano deve refletir a seguinte verdade:
+Dados dois vetores formula_15 em formula_16, sendo os dois perpendiculares entre sí, então:
+formula_17
+O que nos leva a definir um dos vetores como a diferença entre dois vetores posição, originados no sistema de eixos:
+formula_18
+logo,
+formula_19
+Sendo:
+temos,
+formula_22
+formula_23
+formula_24
+Consideremos formula_25 vetor referência, visto que é o vetor do ponto de origem do vetor que projetamos no plano, da mesma forma que formula_26 é referência visto que define a direção do plano, ambos podem ser constantes, logo teremos:
+formula_27
+Onde podemos definir:
+formula_28
+Portanto a equação algébrica de um plano no espaço pode ser definida como:
+Onde o vetor formula_2 é o vetor variável, correspondente a posição do ponto sobre o plano, enquanto que formula_26 e formula_32 são constantes que definem o plano. Para esta notação chamamos formula_26 de normal do plano, pois representa um segmento de reta perpendicular a direção do plano, enquanto que formula_32 chamamos de escalar de referência, uma vez que o mesmo determina o referencial para o plano no sistema dos eixos ordenados. Suponhamos que temos um conjunto de pontos no espaço e desejemos encontrar o plano ao qual estes pertencem, que critérios teremos que usar para determinar uma regra de inclusão dos mesmos em um plano? A resposta está no critério de coplanaridade, para determinar este devemos saber qual o número mínimo de pontos para definir um plano no espaço.

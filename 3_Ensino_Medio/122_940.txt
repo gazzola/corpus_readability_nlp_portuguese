@@ -1,0 +1,35 @@
+Introdução à física/Mecânica dos fluidos/Densidade
+Densidade é um conceito que determina a massa de um corpo relacionando-a com seu volume. Fisicamente:
+Em que:
+Existem grandezas relacionadas à densidade. São elas:
+Para:
+A densidade de um gás, pode ser dada, também, pela seguinte fórmula:
+Onde:
+Pelo valor da densidade, pode-se concluir que:
+Entretanto, podem existir substâncias na fase sólida, por exemplo, que apresentam massa específica menores que outras substâncias na fase líquida. Deste modo, em condições normais de temperatura e pressão (CNTP), temos:
+Além disso, quando temos vários fluidos em um recipiente, sempre o de maior densidade é o que permanecerá no fundo do recipiente, e o de menor, no topo. Os fluidos intermediários seguem a sequência, do de menor densidade para o de maior, do topo ao fundo. Corpos sólidos também seguem esta regra quando estão juntos à fluidos, em que é imposta a força de empuxo.
+para:
+substituindo:
+A pressão de vapor da água pode ser calculada pela pressão de saturação do vapor e a umidade relativa, sendo obtida por:
+para:
+substituindo:
+A pressão de saturação de vapor d'água em qualquer temperatura é a pressão de vapor quando a umidade relativa é de 100%.
+Uma equação usada para obter a pressão de saturação do vapor é: 
+onde formula_14 é em graus C.
+para:
+substituindo:
+A pressão parcial do ar seco formula_49 é obtida considerando a pressão parcial, resultando em:
+Onde formula_51 simplesmente denota o valor observado da pressão absoluta.
+para:
+substituindo:
+Para calcular a densidade do ar em função da altitude, são necessários os parâmetros listados abaixo, juntamente com os seus valores de acordo com a Atmosfera padrão internacional, utilizando no cálculo a constante de gás universal no lugar da constante específica do ar:
+A densidade pode ser calculada de acordo com a equação molar da lei do gás ideal:
+para:
+substituindo:
+A temperatura na altitude formula_75 em metros acima do nível do mar é aproximada pela seguinte fórmula (somente válida dentro da troposfera)
+para:
+substituindo:
+A pressão a uma altitude formula_75 em metros é obtida por:
+para:
+substituindo:
+

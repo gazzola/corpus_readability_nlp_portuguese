@@ -1,0 +1,20 @@
+Logística/Sistemas de distribuição/Escala de veículos/Abordagem exacta
+
+
+Logística/Gestão de armazéns/Operação de um armazém/Funções de um armazém
+Os armazéns são espaços idealizados para armazenar produtos em quantidade, onde habitualmente esse armazenamento não é feito de uma forma aleatória, isto porque estes mesmos armazéns servem como plataformas de escoamento. Assim, pretende-se que os mesmos tenham uma estrutura coerente e organizada permitindo com isso recepcionar, manobrar e expedir os mais diversificados tipos de produtos com um controle moderado das condições ambientais e de segurança (Magee, 1977, p. 148).
+Evoca-se e bem, que a principal função de um armazém é todo o processo inerente à sua capacidade de organização interna, geri-la permite falar-se de processamento e gestão de stocks. Essa boa gestão permite o encaminhar dos diferentes produtos para os diferentes clientes, estabelecendo um circuito devidamente identificado que se inicia na recepção de um produto até ao seu escoamento.
+Considerando este percurso, podem-se definir várias funções de desempenho dentro de um armazém (Magee, 1977, p. 148-149):
+Os armazéns têm formas e especificidades diferentes, têm a ver basicamente com o tipo de produto, daí se afirmar que podem ser utilizados como um depósito de um determinado produto, sendo parte integrante do processo produtivo do mesmo; dando como exemplo deste tipo de processamento físico, as caves de vinhos, são meramente pontos de processamento onde o envelhecimento de um produto, neste caso, o vinho ocorre.
+Pode afirmar-se que os armazéns têm uma função de proteção, para além da função de gestão de "stocks" e de controlo e manutenção dos produtos (Magee, 1977, p. 149).
+
+
+Logística/Técnicas de previsão
+
+
+Logística/Sistemas de informação/Processamento de encomendas/Atendimento da encomenda
+Antes de se poder aviar uma encomenda, há várias tarefas que têm de ser realizadas: verificar a exactidão das informações na encomenda, tais como, a descrição, quantidade e preço dos artigos; conferir se há disponibilidade dos itens encomendados em armazém; tratar dos documentos correspondentes a encomendas pendentes ou canceladas, conforme o caso; verificar a situação de crédito do cliente; transcrever as informações da encomenda de acordo com o necessário; e facturar a encomenda. Estas tarefas são indispensáveis e podem ainda surgir outras tarefas de preparação adicionais, antes da encomenda estar em condições de ser aviada. Já existem sistemas automatizados para realizar estas tarefas.
+Os avanços tecnológicos assumem grande importância no atendimento das encomendas. Os códigos de barras, leitores ópticos e computadores trouxeram enormes benefícios para estas actividades. Estima-se que estas tecnologias permitiram reduzir, substancialmente, o total de gastos das empresas, nas suas cadeias logísticas. O sector da saúde é um bom exemplo, pois o uso de códigos de barras nos seus produtos reduziu, de forma drástica, os custos logísticos. 
+O atendimento das encomendas também sofreu uma grande mudança com a utilização dos computadores, que substituíram as contagens de existências e acções de transcrição manuais. Desta forma, os templos de ciclo das encomendas foram muito reduzidos.
+A distribuição de tarefas no atendimento de encomendas, o seu agrupamento, os limites de quantidade e o momento de entrada das encomendas afectam o tempo de ciclo, ou seja, se uma equipa de vendas se organizar e realizar várias tarefas simultaneamente, pode conseguir reduzir o tempo de ciclo da encomenda. A imposição de uma quantidade mínima de encomenda pode reduzir os custos de transporte. Juntando várias encomendas da mesma região, pode ser criada uma rota de transporte eficiente (Ballou, 2006, p. 123-125).
+

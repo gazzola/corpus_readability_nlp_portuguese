@@ -1,0 +1,43 @@
+ Podemos deduzir a fórmula de definição da função cotangente fazendo uma análise de semelhança de triângulos, notamos no ciclo que:
+formula_61
+O que nos revela:
+Da mesma forma podemos verificar uma relação de semelhança de triângulos para determinar a cossecante, vemos que existe a seguinte relação:
+formula_63
+formula_64
+Que define a cossecante como:
+Algumas identidades são conseqüentes das definições, apresentamos as mais usuais que poderão ser úteis nos demais capítulos deste livro, as identidades, de modo geral, são altamente intercambiáveis devido a natureza cíclica das funções trigonométricas, no nosso estudo abordamos as mais utilizadas. Conseqüentes das definições:
+Seja a função formula_69, considerando que:
+formula_70
+Novamente usamos a regra da derivada da razão:
+formula_71
+formula_72
+formula_73
+Portanto:
+Seja a função formula_75, considerando que:
+formula_76
+Novamente usamos a regra da derivada da razão:
+formula_77
+formula_78
+Portanto:
+Seja a função formula_69, considerando que:
+formula_70
+Sua integral é:
+formula_82
+formula_83
+Sendo formula_84:
+formula_85
+Logo:
+formula_86
+E, por substituição:
+Seja a função formula_75,
+Sua integral é:
+formula_89
+Sendo formula_90:
+formula_91
+Podemos então multiplicar e dividir "u" na equação da integral anterior:
+formula_92
+Logo:
+formula_86
+E, por substituição:
+O conjunto de equações até o momento abordadas nos trazem uma nova questão: Quais as funções que nos permitem encontrar o ângulo a partir do resultado de uma função trigonométrica? A resposta está nas inversas das funções trigonométricas, também chamamos de arc-funções. Uma arc-função é uma função na qual podemos inserir o valor da função e encontrar o arco que originou este resultado, por isto dizemos que a formula_95 é aquela que retorna o valor do arco cuja função resulta em "x". Conforme o anteriormente exposto, temos que encontrar as funções que nos dão o valor do arco que forma um seno "x" e o arco que forma um cosseno "x", para isto cabe uma observação:
+O exposto nos obriga a limitar o intervalo do seno e do cosseno dentro de uma faixa que possibilite encontrar apenas um arco para cada valor, é necessário que escolhamos um intervalo onde as funções sejam monótonas. Considerando a função seno dentro da faixa: formula_97, podemos dizer que a condição de inversibilidade é satisfeita, da mesma forma a função cosseno dentro da faixa: formula_98 também apresenta valores únicos para cada arco tomado.

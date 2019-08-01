@@ -1,0 +1,85 @@
+Mecânica dos fluidos/Exercícios resolvidos/E16
+A partir da expressão para o valor do coeficiente de energia cinética para um escoamento turbulento obtida no exercício anterior, calcule o valor correspondente a um Número de Reynolds de 100000.
+Para N maior que 20000, podemos usar a fórmula empírica
+formula_1
+Assim
+formula_2
+
+
+Mecânica dos fluidos/Equações básicas para um sistema
+Como visto na Introdução, as equações básicas em uso na mecânica dos fluidos são:
+A formulação dessas leis para um sistema (ou seja, uma região do espaço através da qual não há fluxo de massa) é a seguinte:
+formula_1
+formula_2
+onde t é o tempo, m é a massa do sistema, V o seu volume e ρ, a sua densidade.
+formula_3
+formula_4
+onde F é a força aplicada ao sistema, M é o momento linear do sistema e v, a sua velocidade. A aplicação do princípio de conservação do momento linear resultaria nessas mesmas equações.
+formula_5
+formula_6
+onde Ω é o torque aplicado ao sistema, H é o momento angular do sistema, h o momento angular de um elemento e r, o braço do momento.
+formula_7
+formula_8
+onde E é a energia do sistema, Q é a quantidade de calor que entra no sistema, e é a energia de um elemento e W, o trabalho realizado sobre o sistema.
+formula_9
+formula_10
+onde S é a entropia do sistema, s é a entropia de um elemento e T, a temperatura do sistema.
+Além das equações de estado dos gases, são relações auxiliares frequentemente usadas:
+onde U é a energia potencial (de qualquer tipo). Essa fórmula vale tanto para sistemas quanto para elementos.
+onde r é o braço do momento.
+onde H é a entalpia, T é a temperatura e C e C são as capacidades caloríficas a pressão constante e a volume constante, respectivamente.
+
+
+Mecânica dos fluidos/Exercícios resolvidos/F6
+Uma bomba centrífuga, cuja eficiência é de 80%, possui rotor de diâmetro 20 cm e bombeia água a 1170 rpm e a uma vazão de 1500 litros por minuto. A velocidade específica da bomba é igual a 4.5.
+<noinclude>
+Dados adicionais:
+Eficiência da bomba (η) = 80 %
+Diâmetro do rotor (D) = 20 cm
+Densidade da água (ρ) = 1000 kg/m
+Velocidade específica (ω) = 4.5
+Pelas leis de bombas
+formula_1
+formula_2
+Da definição de velocidade específica
+formula_3
+formula_4
+formula_5
+A elevação de carga também poderia ter sido calculada por meio das leis de bombas
+formula_6
+formula_7
+A potência mecânica entregue pela bomba é dada por
+formula_8
+onde Φ é a vazão mássica do fluido. Assim
+formula_9
+formula_10
+Novamente pelas leis de bombas
+formula_11
+formula_12
+formula_13
+A potência também poderia ter sido calculada pela expressão alternativa
+formula_14
+formula_15
+
+
+Mecânica dos fluidos/Estática aplicada a um elemento de volume diferencial
+Considerando o volume δV como um cubo em um sistema de coordenadas cartesianas, situado originalmente no ponto P(x,y,z), podemos escrever que a força atuando no sentido do eixo X é a soma das forças nesse sentido atuando em cada uma das faces
+formula_1
+onde F indica a força atuando no sentido do eixo X na face que repousa sobre o plano X+, e assim por diante.
+Mas, de acordo com a definição de tensões,
+formula_2
+formula_3
+formula_4
+formula_5
+e assim por diante, de acordo com a convenção de que uma tensão positiva está direcionada para fora do elemento de volume. Dessa forma
+formula_6
+formula_7
+formula_8
+formula_9
+Podemos escrever equações similares para δF e δF.
+formula_10
+formula_11
+As forças do corpo podem ter diversas origens, e em cada caso uma expressão específica precisa ser derivada. A força do corpo mais importante é, obviamente, o peso do fluido. Essa força geralmente aparece apenas na direção do eixo Z e pode ser expressa por
+formula_12
+o sinal negativo devendo-se ao fato de apontar para o sentido negativo do eixo Z.
+

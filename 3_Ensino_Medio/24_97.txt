@@ -1,0 +1,57 @@
+Matemática elementar/Equações algébricas
+Uma equação é uma igualdade de expressões matemáticas, que pode ser utilizada no estudo das funções, nomeadamente das suas raízes. Pelo menos uma da expressão contém uma ou várias incógnitas (variáveis), cujo valor é denominado de solução ou soluções da equação.
+Cada uma das expressões pode ser considerada como função matemática (p.e. f(x) e g(x)), e partilhar as suas propriedades, em que cada operação efetuada sobre uma das expressões, terá que ser replicada na outra
+Se as equações forem polinomiais, i.e., compostas por polinômios, o grau "n" da equação é o mesmo que o maior expoente encontrado de ambos polinômios, e a sua solução admite no máximo "n" raízes. A raiz de uma equação é o valor com o qual a incógnita anula a equação.
+Relações entre coeficientes e raízes, Equações algébricas com coeficientes reais - pesquisa de raízes racionais, raízes complexas conjugadas.
+Um exemplo de como completar quadrado:
+Temos a seguinte equação: formula_1 
+Agora imagine a equação:
+formula_2
+Vamos tentar transformá-la em um quadrado da soma.
+formula_3
+Perceba que formula_4
+formula_5
+formula_6
+Esse menos 16 é para subtrair do 16 que se forma no produto notável de 
+formula_7,
+é só isso, o método de completar quadrados é simplesmente você transformar os números em um quadrado da soma.
+A soma das idades de André e Carlos é 22 anos. Descubra as idades de cada um deles, sabendo-se que André é 4 anos mais novo do que Carlos.
+Solução: Primeiro passamos o problema para a linguagem matemática. Vamos tomar a letra c para a idade de Carlos e a letra a para a idade de André, logo formula_8. Assim:
+formula_9
+formula_10
+formula_11
+formula_12
+formula_13
+formula_14
+Resposta: Carlos tem 13 anos e André tem 13-4=9 anos.
+Aqui mostraremos como se pode deduzir a famosa fórmula para a resolução de equações do segundo grau, também conhecida como fórmula de Bhaskara.
+formula_15, donde
+formula_30
+Exercícios de aplicação da Fórmula de Bhaskara.
+Exemplo 2 
+(2+X)(X+1)=2x+2+x.x+x
+Aplicando na fórmula teremos:
+Delta=b.b-4.a.c
+Substituindo os valores na fórmula teremos:
+Delta=3×3-4×1×2
+Delta =9-8
+Delta=1
+X1=-b+√delta/2.a
+Substuindo history para x1.:
+X1=-3+√1/2×1
+X1=-3+1/2
+X1=-2/2
+X1=-1
+X2=-b-√delta/2×a
+X2=-3-√1/2×1
+X2=-3-1/2
+X2=-4/2
+X2=-2
+Equação frigate agradesso quem a very beijinho de Cristiamo
+Num jantar de confraternização, seria distribuído, em partes iguais, um prêmio de R$ 24.000,00 entre os convidados. Como faltaram 5 pessoas, cada um dos presentes recebeu um acréscimo de R$ 400,00 no seu prêmio. Quantos foram convidados a este jantar?
+ x = número de convidados
+Uma equação biquadrada é um equação do quarto grau que não possuem termos de grau ímpar:
+A técnica para resolver esta equação consiste em reescrever a equação como uma expressão em y de forma que:
+Assim a equação biquadrada transforma-se numa equação do segundo grau em y:
+Ver Matemática elementar/Expressões algébricas/Equação biquadrada/Exercícios
+

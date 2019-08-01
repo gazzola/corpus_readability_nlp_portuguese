@@ -1,0 +1,10 @@
+ Uma boa forma começar o desenvolvimento de aplicações usando implementações baseadas em MapReduce++ (alternativa àquela apresentada no paragrafo anterior) é baseando nos exemplos disponíveis no projeto. Visto que os dados da aplicação aqui discutida podem não caber em uma só máquina, a implementação MaPI é a mais indicada para o nosso propósito. A seguir, é apresentado um passo-a-passo desde o download até a execução de um programa MaPI. Baixe a versão mais atual do MapReduce++ no SourceForge
+http://sourceforge.net/projects/mapreducepp/
+Para desenvolver e executar programas MaPI, é necessário ter compilador g++ e suporte para desenvolvimento e execução de programas baseados em MPI. Instale o g++ com o seguinte comando no terminal:
+Para suporte a MPI, pode-se usar a implementação OpenMPI (recomendada):
+ou MPICH2, se preferir:
+A seguir apresentamos um exemplo de aplicação, onde o MapReduce é descrito pela herança de duas classes abstratas. Especificamente, são implementadas as funções map de MaPI_Mapper e reduce de MaPI_Reducer. Neste exemplo, um vetor contendo três elementos (chave,valor) de tipo (int,char) é mapeado por uma função que apenas transmite a entrada para a saída (isto é, não faz nada) e reduzido por uma função que agrupa elementos de mesma chave. O código é apresentado abaixo (nota: algumas partes são omitidas, o código completo está disponível no SourceForge). O usuário deve especificar os seguintes cinco tipos:
+Para compilar e executar o programa o usuário deve usar a seguinte linha de comando, onde "-np 3" significa que mpirun usará três processos:
+Ao executar o comando acima, a aplicação de exemplo produzirá a seguinte saída, onde a última linha é o resultado produzido pelo MapReduce. Até então, os testes foram executados em uma máquina apenas. Para usar um cluster, é necessária a instalação do ssh client e server. Como iniciar e parar um servidor ssh:
+= Avaliação =
+Nesta seção são apresentados os experimentos computacionais e uma discussão analítica acerca dos resultados. Para a execução dos experimentos computacionais, foram utilizadas bases de dados de diversos tamanhos.
