@@ -1,5 +1,8 @@
 # Corpus de Complexidade Textual para Estágios Escolares do Sistema Educacional Brasileiro
-Esse é um corpus para o Português de livros didáticos com diversos níveis escolares para avaliar a complexidade textual (_readability_).
+Esse é um corpus para o Português de Livros didáticos com diversos níveis escolares para avaliar a complexidade textual (_readability_). A seguir é detalhado a lista completa.
+
+# Lista completa dos Livros Didáticos e suas fontes originais
+![image](https://user-images.githubusercontent.com/821242/62334509-56774400-b49e-11e9-8c00-7d3fc6c49f63.png)
 
 Além disso, esse corpus faz parte do meu _PhD Computer Science_ na área de _Natural Language Processing_ no Núcleo Interistitucional de Linguística Computacional da USP de São Carlos. Esse trabalho foi orientado pela Profa. Ph.D. Sandra Maria Aluísio.
 
@@ -18,5 +21,4 @@ http://nilc.icmc.usp.br
   year={2019}
 }
 ````
-# Lista completa dos Livros Didáticos e suas fontes originais
-![image](https://user-images.githubusercontent.com/821242/62334509-56774400-b49e-11e9-8c00-7d3fc6c49f63.png)
+
