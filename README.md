@@ -1,4 +1,4 @@
-# Corpus Readability NLP Portuguese
+# Corpus de Complexidade Textual para Estágios Escolares do Sistema Educacional Brasileiro
 Esse é um corpus para o Português de livros didáticos com diversos níveis escolares para avaliar a complexidade textual (_readability_).
 
 Além disso, esse corpus faz parte do meu _PhD Computer Science_ na área de _Natural Language Processing_ no Núcleo Interistitucional de Linguística Computacional da USP de São Carlos. Esse trabalho foi orientado pela Profa. Ph.D. Sandra Maria Aluísio.
