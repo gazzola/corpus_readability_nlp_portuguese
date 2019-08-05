@@ -1,10 +1,10 @@
 # Corpus de Complexidade Textual para Estágios Escolares do Sistema Educacional Brasileiro
-Esse é um corpus para o Português de Livros didáticos com diversos níveis escolares para avaliar a complexidade textual (_readability_). A seguir é detalhado a lista completa.
+Esse é um corpus de trechos de Livros didáticos em português com diversos níveis escolares para avaliar a tarefa de complexidade textual (readability). A seguir é  apresentada a lista completa.
 
 # Lista completa dos Livros Didáticos e suas fontes originais
 ![image](https://user-images.githubusercontent.com/821242/62334509-56774400-b49e-11e9-8c00-7d3fc6c49f63.png)
 
-Além disso, esse corpus faz parte do meu _PhD Computer Science_ na área de _Natural Language Processing_ no Núcleo Interistitucional de Linguística Computacional da USP de São Carlos. Esse trabalho foi orientado pela Profa. Ph.D. Sandra Maria Aluísio.
+Esse corpus faz parte dos recursos de meu doutorado na área de Natural Language Processing, sendo realizado no Núcleo Interinstitucional de Linguística Computacional da USP de São Carlos. Esse trabalho foi orientado pela Profa. Sandra Maria Aluísio.
 
 http://nilc.icmc.usp.br
 
@@ -12,7 +12,7 @@ http://nilc.icmc.usp.br
 [Disponível Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 # Citar a Fonte
-`É importante que a utilização total ou parcial do corpus é necessário citar a fonte`
+`É importante citar a fonte se fizer utilização total ou parcial do corpus.`
 ````
 @inproceedings{mgazzola19,
   title={Predição da Complexidade Textual de Recursos Educacionais Abertos em Português},
