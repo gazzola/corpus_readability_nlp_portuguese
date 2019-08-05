@@ -1,4 +1,4 @@
-# Corpus de Complexidade Textual para Estágios Escolares do Sistema Educacional Brasileiro
+# Córpus de Complexidade Textual para Estágios Escolares do Sistema Educacional Brasileiro
 O córpus inclui trechos de: livros-textos cuja lista completa é apresentada abaixo, notícias da Seção  Para Seu Filho Ler (PSFL) do jornal Zero Hora que apresenta algumas notícias sobre o mesmo córpus do jornal do Zero Hora, mas escritas para crianças de 8 a 11 anos de idade , Exames do SAEB , Livros Digitais do Wikilivros em Português, Exames do Enem dos anos 2015, 2016 e 2017. Todo o material em português foi disponibilizado para avaliar a tarefa de complexidade textual (_readability_).
 
 
